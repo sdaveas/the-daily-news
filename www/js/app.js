@@ -111,7 +111,7 @@
       var row=document.createElement('div');
       row.className='sec-row';
       var feedRows = sec.feeds.map(function(f, fi){
-        return '<div class="feed-row"><input type="text" class="feed-url" value="'+esc(f.url)+'" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-url" placeholder="RSS URL"><input type="text" class="feed-src" value="'+esc(f.source||'')+'" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-src" placeholder="Name"><button class="btn-del" data-i="'+i+'" data-fi="'+fi+'" data-k="del-feed">&minus;</button></div>';
+        return '<div class="feed-row"><input type="text" class="feed-url" value="'+esc(f.url)+'" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-url" placeholder="RSS URL or site URL"><input type="text" class="feed-src" value="'+esc(f.source||'')+'" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-src" placeholder="Name"><button class="btn-test" data-i="'+i+'" data-fi="'+fi+'" data-k="test-feed">Test</button><button class="btn-del" data-i="'+i+'" data-fi="'+fi+'" data-k="del-feed">&minus;</button></div><div class="feed-result" id="feed-result-'+i+'-'+fi+'"></div>';
       }).join('');
       row.innerHTML='<div class="sec-name"><input type="checkbox" '+(sec.enabled!==false?'checked':'')+' data-i="'+i+'" data-k="enabled"> '
         + '<input type="text" class="sec-title" value="'+esc(sec.title)+'" data-i="'+i+'" data-k="title">'
@@ -215,8 +215,44 @@
   document.getElementById('settingsRows').addEventListener('click',function(e){
     var btn=e.target;
     if(!btn.dataset.k) return;
-    var sections=collectSettingsFromPanel();
     var i=parseInt(btn.dataset.i);
+    if(btn.dataset.k==='test-feed'){
+      var fi=parseInt(btn.dataset.fi);
+      var urlInput=btn.parentElement.querySelector('.feed-url');
+      var url=urlInput.value.trim();
+      if(!url){return}
+      btn.disabled=true;btn.textContent='...';
+      var resultDiv=document.getElementById('feed-result-'+i+'-'+fi);
+      fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
+        .then(function(r){return r.json()})
+        .then(function(res){
+          btn.disabled=false;btn.textContent='Test';
+          resultDiv.className='feed-result '+(res.ok?'ok':'err');
+          if(res.ok){
+            var html=esc(res.msg||'OK');
+            if(res.discovered && res.url && res.url!==url){
+              html+=' &mdash; <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(res.url)+'</a>';
+            }
+            resultDiv.innerHTML=html;
+          }else{
+            resultDiv.textContent=res.error||'Failed';
+          }
+        })
+        .catch(function(){
+          btn.disabled=false;btn.textContent='Test';
+          resultDiv.className='feed-result err';
+          resultDiv.textContent='Check failed.';
+        });
+      return;
+    }
+    if(btn.dataset.k==='use-url'){
+      var fi2=parseInt(btn.dataset.fi);
+      var row=btn.closest('.feed-result').previousElementSibling;
+      row.querySelector('.feed-url').value=btn.textContent.replace('use ','');
+      btn.closest('.feed-result').className='feed-result';
+      return;
+    }
+    var sections=collectSettingsFromPanel();
     if(btn.dataset.k==='add-feed'){
       sections[i].feeds.push({url:'',source:''});
     }else if(btn.dataset.k==='del-feed'){
