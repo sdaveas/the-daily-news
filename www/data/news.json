@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T15:00:36.421474+00:00",
+  "updated": "2026-07-05T15:05:33.189468+00:00",
   "sections": [
     {
       "id": "greek",
@@ -144,6 +144,12 @@
           "source": "BBC World"
         },
         {
+          "title": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
+          "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
+          "source": "BBC World"
+        },
+        {
           "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
           "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
           "snippet": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
@@ -156,27 +162,9 @@
           "source": "BBC World"
         },
         {
-          "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-          "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-          "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-          "source": "BBC World"
-        },
-        {
           "title": "Pope urges Europe to do more for migrants as he visits gateway island",
           "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
           "snippet": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
-          "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
-          "snippet": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
           "source": "BBC World"
         },
         {
@@ -186,9 +174,21 @@
           "source": "BBC World"
         },
         {
-          "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
+          "title": "How Iran's new regime is very different to what came before",
+          "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
+          "source": "BBC World"
+        },
+        {
+          "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
+          "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
+          "source": "BBC World"
+        },
+        {
+          "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
+          "snippet": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
           "source": "BBC World"
         }
       ]
@@ -389,12 +389,18 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
-        "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
-        "snippet": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+        "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+        "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+        "snippet": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+          "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+          "snippet": "Financial institutions are racing to become the secure gateways for stablecoins as digital asset volume is projected to explode by 2030.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Collateral, not yield, will decide which stablecoins win",
           "url": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
@@ -471,12 +477,6 @@
           "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
           "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
           "snippet": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin’s next parabolic run may need $1 trillion in fresh capital",
-          "url": "https://www.coindesk.com/markets/2026/07/04/bitcoin-s-next-parabolic-run-may-need-usd1-trillion-in-fresh-capital",
-          "snippet": "This cycle, about $697 billion in new money has generated a roughly 689% gain, compared with earlier cycles where far less capital drove returns of upto 50,000%.",
           "source": "CoinDesk"
         }
       ]
