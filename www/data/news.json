@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T14:56:41.178718+00:00",
+  "updated": "2026-07-05T15:00:36.421474+00:00",
   "sections": [
     {
       "id": "greek",
@@ -485,12 +485,18 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Crimson Desert's latest update makes it worth it to play as Damiane and Oongka",
-        "url": "https://www.polygon.com/crimson-desert-damiane-oongka-update/",
-        "snippet": "Damiane and Oongka can now access the Abyss and equip more outfits following Pearl Abyss' latest update for Crimson Desert",
+        "title": "Doctor Who's best companion pairing wasn't a love story like fans think",
+        "url": "https://www.polygon.com/doctor-who-best-doctor-companion-clara-twelve/",
+        "snippet": "The Doctor has had many great companions throughout the years, but this particular pairing stands head and shoulders above the rest.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Crimson Desert's latest update makes it worth it to play as Damiane and Oongka",
+          "url": "https://www.polygon.com/crimson-desert-damiane-oongka-update/",
+          "snippet": "Damiane and Oongka can now access the Abyss and equip more outfits following Pearl Abyss' latest update for Crimson Desert",
+          "source": "Polygon"
+        },
         {
           "title": "Halo remake will be on physical disc 'so that you have tangible items to add to your collection'",
           "url": "https://www.polygon.com/halo-campaign-evolved-physical-disc-confirmation/",
@@ -537,12 +543,6 @@
           "title": "The Ghost in the Shell is a true love letter to cyberpunk anime fans",
           "url": "https://www.polygon.com/ghost-in-the-shell-new-anime-vision-anime-expo/",
           "snippet": "The franchise’s latest reboot debuted its first episode at Anime Expo, offering a fresh take on one of anime’s most influential cyberpunk worlds.",
-          "source": "Polygon"
-        },
-        {
-          "title": "How and when did Helaena Targaryen die in House of the Dragon?",
-          "url": "https://www.polygon.com/how-does-helaena-die-in-house-of-the-dragon-fire-and-blood/",
-          "snippet": "Phia Saban has won hearts with her portrayal of Helaena Targaryen, but with House of the Dragon being a Fire & Blood adaptation, danger lies ahead.",
           "source": "Polygon"
         },
         {
