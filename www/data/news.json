@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-05T15:09:03.859859+00:00",
+  "updated": "2026-07-05T16:58:03.075914+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΠαΣοΚ: «Ο πρωθυπουργός αντί να περιμένει να χτυπήσει το τηλέφωνο, ας πράξει τα δέοντα»",
-        "url": "https://www.tovima.gr/2026/07/05/politics/pasok-o-prothypourgos-anti-na-perimenei-na-xtypisei-to-tilefono-as-praksei-ta-deonta/",
-        "snippet": "Νέα ανακοίνωση για την υπόθεση του γενικού γραμματέα Εθνικής Ασφάλειας, Θάνου Ντόκου, εξέδωσε το ΠαΣοΚ, κάνοντας λόγο για «τρίτο 24ωρο διασυρμού της χώρας», καλώντας τον πρωθυπουργό να προχωρήσει στις απαραίτητες ενέργειες",
+        "title": "Υπόθεση Ντόκου: Τι λένε οι Ρώσοι φαρσέρ – Τα αναπάντητα ερωτήματα που προκύπτουν μετά τη συνέντευξη",
+        "url": "https://www.tovima.gr/2026/07/05/politics/ypothesi-ntokou-ti-lene-oi-rosoi-farser-ta-anapantita-erotimata-pou-prokyptoun-meta-ti-synenteyksi/",
+        "snippet": "Για τη συνομιλία με τον Σύμβουλο Εθνικής Ασφάλειας του πρωθυπουργού, Θάνο Ντόκο, μίλησαν οι Ρώσοι φαρσέρ Βόβαν και Λέξους, υποστηρίζοντας ότι η επαφή προέκυψε μέσω απλού email και ότι δεν υπήρξε στοχευμένη επιλογή του συγκεκριμένου προσώπου",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Επίδομα αδείας: Πότε καταβάλλεται – Τι πρέπει να γνωρίζουν οι εργαζόμενοι",
+          "url": "https://www.tovima.gr/2026/07/05/society/epidoma-adeias-pote-katavalletai-ti-prepei-na-gnorizoun-oi-ergazomenoi/",
+          "snippet": "Αυξημένο επίδομα αδείας θα λάβουν φέτος εργαζόμενοι του ιδιωτικού τομέα, καθώς η αύξηση του κατώτατου μισθού από την 1η Απριλίου 2026 στα 920 ευρώ μεικτά επηρεάζει άμεσα το ύψος των αποδοχών τους και των σχετικών επιδομάτων",
+          "source": "To Vima"
+        },
+        {
+          "title": "Αττική: Συλλήψεις 4 ατόμων για εκτέλεση θερμών εργασιών σε ημέρα με πολύ υψηλό κίνδυνο πυρκαγιάς",
+          "url": "https://www.tovima.gr/2026/07/05/society/attiki-syllipseis-4-atomon-gia-ektelesi-thermon-ergasion-se-imera-me-poly-ypsilo-kindyno-pyrkagias/",
+          "snippet": "Τέσσερα άτομα συνελήφθησαν στην Αττική για εκτέλεση θερμών εργασιών σε υπαίθριους χώρους, παρά την ισχύ πολύ υψηλού κινδύνου εκδήλωσης πυρκαγιάς (κατηγορία 4), στο πλαίσιο εντατικών ελέγχων του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών",
+          "source": "To Vima"
+        },
+        {
+          "title": "Τσουκαλάς: «Δεν αποδίδει η οικονομία, η ακρίβεια υπεραποδίδει κύριε Μητσοτάκη»",
+          "url": "https://www.tovima.gr/2026/07/05/politics/tsoukalas-den-apodidei-i-oikonomia-i-akriveia-yperapodidei-kyrie-mitsotaki/",
+          "snippet": "Κριτική στην κυβέρνηση με αφορμή την κυριακάτικη ανάρτηση του πρωθυπουργού, Κυριάκου Μητσοτάκη, άσκησε ο εκπρόσωπος Τύπου του ΠαΣοΚ, Κώστας Τσουκαλάς",
+          "source": "To Vima"
+        },
+        {
+          "title": "ΠαΣοΚ: «Ο πρωθυπουργός αντί να περιμένει να χτυπήσει το τηλέφωνο, ας πράξει τα δέοντα»",
+          "url": "https://www.tovima.gr/2026/07/05/politics/pasok-o-prothypourgos-anti-na-perimenei-na-xtypisei-to-tilefono-as-praksei-ta-deonta/",
+          "snippet": "Νέα ανακοίνωση για την υπόθεση του γενικού γραμματέα Εθνικής Ασφάλειας, Θάνου Ντόκου, εξέδωσε το ΠαΣοΚ, κάνοντας λόγο για «τρίτο 24ωρο διασυρμού της χώρας», καλώντας τον πρωθυπουργό να προχωρήσει στις απαραίτητες ενέργειες",
+          "source": "To Vima"
+        },
         {
           "title": "Πύρινος κλοιός στη νότια Ευρώπη: Μεγάλες φωτιές σε Γαλλία, Ισπανία και Πορτογαλία εν μέσω καύσωνα",
           "url": "https://www.tovima.gr/2026/07/05/world/pyrinos-kloios-sti-notia-eyropi-megales-foties-se-gallia-ispania-kai-portogalia-en-meso-kaysona/",
@@ -70,30 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/05/society/ti-mporei-na-symvei-sti-thalassa-mesa-se-20-deyterolepta-oi-8-systaseis-tou-eody/",
           "snippet": "Η ενημέρωση, η πρόληψη και η τήρηση βασικών κανόνων ασφάλειας στη θάλασσα αποτελούν προϋποθέσεις για να απολαμβάνουμε με ασφάλεια τα οφέλη της κολύμβησης",
           "source": "To Vima"
-        },
-        {
-          "title": "Μουντιάλ 2026: Πέντε μαγαζιά για να δούμε τα ματς των 16 με μπίρα και φαγητό",
-          "url": "https://www.tovima.gr/2026/07/05/elliniki-kouzina/mountial-5-magazia-gia-na-doume-ta-mats-ton-16-me-mpira-kai-fagito/",
-          "snippet": "Τα πράγματα σοβαρεύουν, το Μουντιάλ μπαίνει σιγά-σιγά στην τελική ευθεία και εμείς επιλέγουμε να δούμε τους αγώνες που έρχονται έξω, σε παμπ και καφέ που σερβίρουν μπίρα, μπέργκερ και ποικιλίες σε γηπεδική ατμόσφαιρα.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Συνέδριο AfD: O Βιβάλντι, ο Πόλεμος των Άστρων και η «φαιά» δυσοσμία των ακροδεξιών – Αξιώνουν να κυβερνήσουν στη Γερμανία",
-          "url": "https://www.tovima.gr/2026/07/05/world/synedrio-afd-o-vivalnti-o-polemos-ton-astron-kai-i-faia-dysosmia-ton-akrodeksion-aksionoun-na-kyvernisoun-sti-germania/",
-          "snippet": "Το ακροδεξιό AfD ολοκλήρωσε το συνέδριό του στην Ερφούρτη, επανεκλέγοντας τους Άλις Βάιντελ και Τίνο Χρουπάλα στην ηγεσία και διακηρύσσοντας ανοιχτά τη φιλοδοξία του να κυβερνήσει τη Γερμανία",
-          "source": "To Vima"
-        },
-        {
-          "title": "Σαμαράς: Η Ντόρα και η ήττα που δεν ξεπέρασε, οι δημοσκοπήσεις και ο Εδεσσαϊκός",
-          "url": "https://www.tovima.gr/2026/07/05/politics/samaras-i-ntora-kai-i-itta-pou-den-kseperase-oi-dimoskopiseis-kai-o-edessaikos/",
-          "snippet": "Ο Αντώνης Σαμαράς αποδομεί την κυβερνητική γραμμή περί δημοσκοπήσεων και απαντά στις επιθέσεις της Ντόρας Μπακογιάννη, καλώντας την να τα «βρει πρώτα με τον αδερφό της»",
-          "source": "To Vima"
-        },
-        {
-          "title": "Hart to Hart: Μπορεί μια σειρά του 1979 να είναι επίκαιρη σήμερα;",
-          "url": "https://www.tovima.gr/2026/07/05/vimagazino/hart-to-hart-mporei-mia-seira-tou-1979-na-einai-epikairi-simera/",
-          "snippet": "Σε μια εποχή γεμάτη αντιήρωες το Hart to Hart από τα μακρινά 70s μοιάζει με ένα ασφαλές τηλεοπτικό καταφύγιο. Το παρασκήνιο της σειράς, η αισθητική της εποχής και οι λόγοι που το πρωταγωνιστικό δίδυμο παραμένει αξεπέραστο δεκαετίες αργότερα.",
-          "source": "To Vima"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "lead": {
         "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
         "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
+        "snippet": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
         "source": "BBC World"
       },
       "items": [
@@ -111,6 +111,12 @@
           "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
           "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
           "snippet": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+          "source": "BBC World"
+        },
+        {
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
           "source": "BBC World"
         },
         {
@@ -126,12 +132,6 @@
           "source": "BBC World"
         },
         {
-          "title": "Chinese underground church figure Jin Mingri freed from prison",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-          "source": "BBC World"
-        },
-        {
           "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
           "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
           "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
@@ -144,9 +144,15 @@
           "source": "BBC World"
         },
         {
-          "title": "Thousand welcome home Cape Verde footballers after stunning World Cup run",
+          "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
           "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
           "snippet": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Chinese underground church figure Jin Mingri freed from prison",
+          "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
           "source": "BBC World"
         },
         {
@@ -159,12 +165,6 @@
           "title": "Former chess champion Kramnik banned over cheating remarks",
           "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
           "snippet": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Pope urges Europe to do more for migrants as he visits gateway island",
-          "url": "https://www.bbc.co.uk/news/articles/c5yz83n7q5no?at_medium=RSS&at_campaign=rss",
-          "snippet": "The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.",
           "source": "BBC World"
         },
         {
@@ -485,12 +485,30 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Doctor Who's best companion pairing wasn't a love story like fans think",
-        "url": "https://www.polygon.com/doctor-who-best-doctor-companion-clara-twelve/",
-        "snippet": "The Doctor has had many great companions throughout the years, but this particular pairing stands head and shoulders above the rest.",
+        "title": "Ocarina of Time's most underrated character deserves more appreciation",
+        "url": "https://www.polygon.com/zelda-ocarina-of-time-navi-underrated/",
+        "snippet": "We should be praising Ocarina of Time's helpful fairy instead of turning her into memes.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Cyberpunk: Edgerunners studio teases more Delicious in Dungeon, new project from Promare's creators",
+          "url": "https://www.polygon.com/delicious-in-dungeon-season-2-trigger-new-projects/",
+          "snippet": "A second season of Delicious in Dungeon and a new project from Kill la Kill and Promare creators Hiroyuki Imaishi and Kazuki Nakashima are on the way",
+          "source": "Polygon"
+        },
+        {
+          "title": "Telltale's Game of Thrones is the only game to match HBO's intensity",
+          "url": "https://www.polygon.com/telltale-game-of-thrones-recommendation/",
+          "snippet": "House of the Dragon viewers wanting more Game of Thrones in their life should look to Telltale's choice-based, episodic adventure from 2014.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Doctor Who's best companion pairing wasn't a love story like fans think",
+          "url": "https://www.polygon.com/doctor-who-best-doctor-companion-clara-twelve/",
+          "snippet": "The Doctor has had many great companions throughout the years, but this particular pairing stands head and shoulders above the rest.",
+          "source": "Polygon"
+        },
         {
           "title": "Crimson Desert's latest update makes it worth it to play as Damiane and Oongka",
           "url": "https://www.polygon.com/crimson-desert-damiane-oongka-update/",
@@ -528,22 +546,16 @@
           "source": "Polygon"
         },
         {
-          "title": "Netflix is losing the entire Saw franchise later this month — so it's time to start bingeing",
-          "url": "https://www.polygon.com/saw-horror-franchise-leaving-netflix/",
-          "snippet": "Seven out of the 10 films that make up the franchise will be leaving the platform very soon.",
-          "source": "Polygon"
+          "title": "Meccha Chameleon tops another milestone, selling 15 million copies in less than 30 days",
+          "url": "https://www.eurogamer.net/meccha-chameleon-15-million-sales",
+          "snippet": "Meccha Chameleon &ndash; the viral hide-and-seek game that sold 10 million copies in just 16 days &ndash; has smashed another milestone, topping a staggering 15 million sales in less than a month. Read more",
+          "source": "Eurogamer"
         },
         {
-          "title": "Frieren season 3 gets first real update in months at Anime Expo",
-          "url": "https://www.polygon.com/frieren-season-3-anime-expo-panel-announcement-release/",
-          "snippet": "Frieren season 3 creators discuss where the journey is headed next at Anime Expo, highlighting Macht and the Golden Land as major next steps.",
-          "source": "Polygon"
-        },
-        {
-          "title": "The Ghost in the Shell is a true love letter to cyberpunk anime fans",
-          "url": "https://www.polygon.com/ghost-in-the-shell-new-anime-vision-anime-expo/",
-          "snippet": "The franchise’s latest reboot debuted its first episode at Anime Expo, offering a fresh take on one of anime’s most influential cyberpunk worlds.",
-          "source": "Polygon"
+          "title": "Crimson Desert Update 1.13.00 is live – here's what's new",
+          "url": "https://www.eurogamer.net/crimson-desert-update-11300",
+          "snippet": "Crimson Desert's 1.13.00 update is here across all platforms, adding new outfits and expanding dyeable equipment options, addressing various bug fixes and stability improvements, and allowing Oongka and Damiane to enter the Abyss. Read more",
+          "source": "Eurogamer"
         },
         {
           "title": "Epic Games settles a court case against former contractor accused of leaking Fortnite collaborations",
@@ -561,18 +573,6 @@
           "title": "Danganronpa 2x2 delayed to 2027",
           "url": "https://www.eurogamer.net/danganronpa-2x2-delayed-2027",
           "snippet": "Danganronpa 2x2 has been delayed to 2027. Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Marvel Tōkon: Fighting Souls is blocked in 132 countries due to Sony's controversial PSN linking requirement – but its Steam page is still visible to blocked players",
-          "url": "https://www.eurogamer.net/marvel-tokon-fighting-souls-blocked-132-countries",
-          "snippet": "Marvel T&omacr;kon: Fighting Souls is blocked in 132 countries, once again due to Sony's controversial PSN linking requirement. Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Bibidi Bibidi! is a wizardly card battler with real magic in its veins",
-          "url": "https://www.eurogamer.net/bibidi-bibidi-is-a-wizardly-card-battler",
-          "snippet": "Alongside its intriguing name and its excellent lineage, Bibidi Bibidi has a wonderful central conceit. Read more",
           "source": "Eurogamer"
         }
       ]
