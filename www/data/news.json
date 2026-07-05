@@ -1,16 +1,46 @@
 {
-  "updated": "2026-07-05T16:58:03.075914+00:00",
+  "updated": "2026-07-05T20:49:11.626252+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Υπόθεση Ντόκου: Τι λένε οι Ρώσοι φαρσέρ – Τα αναπάντητα ερωτήματα που προκύπτουν μετά τη συνέντευξη",
-        "url": "https://www.tovima.gr/2026/07/05/politics/ypothesi-ntokou-ti-lene-oi-rosoi-farser-ta-anapantita-erotimata-pou-prokyptoun-meta-ti-synenteyksi/",
-        "snippet": "Για τη συνομιλία με τον Σύμβουλο Εθνικής Ασφάλειας του πρωθυπουργού, Θάνο Ντόκο, μίλησαν οι Ρώσοι φαρσέρ Βόβαν και Λέξους, υποστηρίζοντας ότι η επαφή προέκυψε μέσω απλού email και ότι δεν υπήρξε στοχευμένη επιλογή του συγκεκριμένου προσώπου",
+        "title": "Εντατικοί έλεγχοι για τις φωτιές – 20 συλλήψεις τις πρώτες πέντε ημέρες του Ιουλίου",
+        "url": "https://www.tovima.gr/2026/07/05/society/entatikoi-elegxoi-gia-tis-pyrkagies-20-syllipseis-tis-protes-pente-imeres-tou-iouliou/",
+        "snippet": "Εντατικοποιήθηκαν οι έλεγχοι του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών τις πρώτες ημέρες του Ιουλίου, με τις αρχές να προχωρούν σε δεκάδες συλλήψεις και την εφαρμογή της αυτόφωρης διαδικασίας σε περιπτώσεις πρόκλησης φωτιάς από αμέλεια",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Π. Μαρινάκης: «Χρέος της κυβέρνησης είναι να εφαρμόζει μια πολιτική για το παρόν και το μέλλον»",
+          "url": "https://www.tovima.gr/2026/07/05/politics/p-marinakis-xreos-tis-kyvernisis-einai-na-efarmozei-mia-politiki-gia-to-paron-kai-to-mellon/",
+          "snippet": "Απαντήσεις για την κριτική του Αντώνη Σαμαρά, την υπόθεση του Θάνου Ντόκου και τις τελευταίες πολιτικές εξελίξεις έδωσε ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης, ο οποίος αναφέρθηκε επίσης στα μέτρα που εξετάζονται ενόψει της ΔΕΘ και στις εξελίξεις στα ελληνοτουρκικά",
+          "source": "To Vima"
+        },
+        {
+          "title": "ΝΑΤΟ: Οριστικοποιήθηκε το πρόγραμμα της συνόδου κορυφής – Στις 8 Ιουλίου η συνεδρίαση των ηγετών",
+          "url": "https://www.tovima.gr/2026/07/05/world/nato-oristikopoiithike-to-programma-tis-synodou-koryfis-stis-8-iouliou-i-synedriasi-ton-igeton/",
+          "snippet": "Με συνέντευξη Τύπου του γενικού γραμματέα του ΝΑΤΟ, Μαρκ Ρούτε, ξεκινούν τη Δευτέρα οι εργασίες της 36ης Συνόδου Κορυφής του ΝΑΤΟ στην Άγκυρα, με τη συνεδρίαση των αρχηγών κρατών και κυβερνήσεων να αποτελεί το κεντρικό γεγονός της διοργάνωσης στις 8 Ιουλίου",
+          "source": "To Vima"
+        },
+        {
+          "title": "Άνδρας βρέθηκε νεκρός σε διαμέρισμα στο Παγκράτι – Προσήχθη συγγενικό του πρόσωπο",
+          "url": "https://www.tovima.gr/2026/07/05/society/andras-vrethike-nekros-se-diamerisma-sto-pagkrati-prosixthi-enoikos/",
+          "snippet": "Σορός άνδρα σε προχωρημένη σήψη εντοπίστηκε το απόγευμα μέσα σε διαμέρισμα στην περιοχή του Παγκρατίου, έπειτα από ειδοποίηση για έντονη δυσοσμία σε οικία επί της οδού Αστυδάμαντος",
+          "source": "To Vima"
+        },
+        {
+          "title": "Βελτιωμένη η εικόνα της φωτιάς στην Οινόη Μάνδρας – Ισχυρές δυνάμεις συνεχίζουν την επιχείρηση",
+          "url": "https://www.tovima.gr/2026/07/05/society/veltiomeni-i-eikona-tis-fotias-stin-oinoi-mandras-isxyres-dynameis-synexizoun-tin-epixeirisi/",
+          "snippet": "Βελτιωμένη εμφανίζεται η εικόνα της πυρκαγιάς που ξέσπασε σε αγροτοδασική έκταση κοντά στην Οινόη του Δήμου Μάνδρας-Ειδυλλίας, με τις πυροσβεστικές δυνάμεις να συνεχίζουν να επιχειρούν για την αντιμετώπιση διάσπαρτων εστιών εντός της περιμέτρου της δασικής περιοχής.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Υπόθεση Ντόκου: Τι λένε οι Ρώσοι φαρσέρ – Τα αναπάντητα ερωτήματα που προκύπτουν μετά τη συνέντευξη",
+          "url": "https://www.tovima.gr/2026/07/05/politics/ypothesi-ntokou-ti-lene-oi-rosoi-farser-ta-anapantita-erotimata-pou-prokyptoun-meta-ti-synenteyksi/",
+          "snippet": "Για τη συνομιλία με τον Σύμβουλο Εθνικής Ασφάλειας του πρωθυπουργού, Θάνο Ντόκο, μίλησαν οι Ρώσοι φαρσέρ Βόβαν και Λέξους, υποστηρίζοντας ότι η επαφή προέκυψε μέσω απλού email και ότι δεν υπήρξε στοχευμένη επιλογή του συγκεκριμένου προσώπου",
+          "source": "To Vima"
+        },
         {
           "title": "Επίδομα αδείας: Πότε καταβάλλεται – Τι πρέπει να γνωρίζουν οι εργαζόμενοι",
           "url": "https://www.tovima.gr/2026/07/05/society/epidoma-adeias-pote-katavalletai-ti-prepei-na-gnorizoun-oi-ergazomenoi/",
@@ -64,36 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/05/politics/ta-adieksoda-tis-statherotitas/",
           "snippet": "Πώς η απομόνωση του Κυριάκου Μητσοτάκη εξελίσσεται σε παράγοντα αστάθειας",
           "source": "To Vima"
-        },
-        {
-          "title": "Πάμε μια Βόλτα: Η Νίκη Λυμπεράκη συναντά Δήμητρα Γαλάνη",
-          "url": "https://www.tovima.gr/2026/07/05/media/pame-mia-volta-i-niki-lymperaki-synanta-dimitra-galani/",
-          "snippet": "Ελληνορώσων, Κολωνάκι και συζητήσεις με αγαπημένους συνεργάτες και φίλους - «Πάμε μια βόλτα;» σήμερα στις 17:20 με τη Δήμητρα Γαλάνη",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ο Σι Τζινπίνγκ προωθεί με νόμο την εθνοτική ενότητα της Κίνας",
-          "url": "https://www.tovima.gr/2026/07/05/world/o-si-tzinpingk-proothei-me-nomo-tin-ethnotiki-enotita-tis-kinas/",
-          "snippet": "Φόβοι για αναγκαστική αφομοίωση των εθνοτικών ομάδων και απειλές για διώξεις Κινέζων αντιφρονούντων και στο εξωτερικό",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τι γυρεύει μια αναδρομική έκθεση του Αλέκου Φασιανού σε ένα μοναστήρι της Άνδρου;",
-          "url": "https://www.tovima.gr/2026/07/05/culture/ti-gyreyei-mia-anadromiki-ekthesi-tou-alekou-fasianou-se-ena-monastiri-tis-androu/",
-          "snippet": "Η μεγάλη αναδρομική έκθεση στη Μονή Παναχράντου φωτίζει τις πνευματικές και εικαστικές καταβολές του Αλέκου Φασιανού. Ο επιμελητής και ζωγράφος Χρήστος Κεχαγιόγλου μιλά στο ΒΗΜΑ.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Φωτιά Ωραιοκάστρο: Στάχτες και καταστροφές παντού – Ανησυχία για το τοξικό νέφος",
-          "url": "https://www.tovima.gr/2026/07/05/society/fotia-oraiokastro-staxtes-kai-katastrofes-pantou-anisyxia-gia-to-toksiko-nefos/",
-          "snippet": "Στο επιχειρησιακό μέτωπο η εικόνα παρουσιάζεται βελτιωμένη, καθώς τα περισσότερα μέτωπα έχουν τεθεί υπό έλεγχο, ωστόσο η μάχη συνεχίζεται στα δύο εργοστάσια της βιομηχανικής ζώνης.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τι μπορεί να συμβεί στη θάλασσα μέσα σε 20 δευτερόλεπτα – Οι 8 συστάσεις του ΕΟΔΥ",
-          "url": "https://www.tovima.gr/2026/07/05/society/ti-mporei-na-symvei-sti-thalassa-mesa-se-20-deyterolepta-oi-8-systaseis-tou-eody/",
-          "snippet": "Η ενημέρωση, η πρόληψη και η τήρηση βασικών κανόνων ασφάλειας στη θάλασσα αποτελούν προϋποθέσεις για να απολαμβάνουμε με ασφάλεια τα οφέλη της κολύμβησης",
-          "source": "To Vima"
         }
       ]
     },
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-          "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-          "snippet": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
+          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+          "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+          "snippet": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
           "source": "BBC World"
         },
         {
@@ -120,9 +120,9 @@
           "source": "BBC World"
         },
         {
-          "title": "Evacuations in Guam as super typhoon Bavi approaches",
-          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+          "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
           "source": "BBC World"
         },
         {
@@ -132,15 +132,15 @@
           "source": "BBC World"
         },
         {
-          "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+          "title": "Evacuations in Guam as super typhoon Bavi approaches",
+          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
           "source": "BBC World"
         },
         {
-          "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-          "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+          "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
           "source": "BBC World"
         },
         {
@@ -156,21 +156,21 @@
           "source": "BBC World"
         },
         {
-          "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-          "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-          "snippet": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+          "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+          "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
           "source": "BBC World"
         },
         {
-          "title": "Former chess champion Kramnik banned over cheating remarks",
-          "url": "https://www.bbc.co.uk/news/articles/cd6epx607dqo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The former Russian world chess champion had accused other players, including the late Daniel Naroditsky, of cheating.",
+          "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
+          "url": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
           "source": "BBC World"
         },
         {
-          "title": "Row after Indian state drops eggs from school lunch menu",
-          "url": "https://www.bbc.co.uk/news/articles/c33yldyd62po?at_medium=RSS&at_campaign=rss",
-          "snippet": "West Bengal's move to replace eggs in some school meals has sparked a wider debate over nutrition and choice.",
+          "title": "Trump thanks Fifa for spending USA striker's ban",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
           "source": "BBC World"
         },
         {
@@ -293,12 +293,54 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ντε Φράι: «Ήρθα στον Παναθηναικό για να έχω σημαντικό ρόλο»",
-        "url": "https://www.skai.gr/news/sports/nte-frai-irtha-ston-panathinaiko-gia-na-exo-simantiko-rolo",
-        "snippet": "Ο Στέφαν Ντε Φράι σε μεγάλη συνέντευξη που παραχώρησε αποκάλυψε και το πως ήρθε στον Παναθηναϊκό αλλά και το γιατί επέλεξε το τριφύλλι",
+        "title": "Φωτιά στα Ανατολικά Πυρηναία: Xωρίς θεατές το 3ο στάδιο του ποδηλατικού Γύρου Γαλλίας",
+        "url": "https://www.skai.gr/news/sports/fotia-sta-anatolika-pyrinaia-xoris-theates-to-3o-tou-podilatikou-gyrou-gallias",
+        "snippet": "Το τρίτο ετάπ (στάδιο) του ποδηλατικού Γύρου Γαλλίας θα πραγματοποιηθεί τη Δευτέρα με κάποιες προσαρμογές, αλλά χωρίς τροποποίηση της διαδρομής",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Πάλεψε με την ψυχή του ο Μανόλο, αλλά έμεινε στην 3η θέση",
+          "url": "https://www.skai.gr/news/sports/palepse-me-psyxi-o-manolo-alla-emeine-stin-3i-thesi",
+          "snippet": "Σε σκληρή μονομαχία εξελίχθηκε το Fly Athens με τον Εμμανουήλ Καραλή να πραγματοποιεί μία χαμηλή πτήση για τα δεδομένα του και να κατακτά την 3η θέση",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Παπανικολάου: Ίσως μια πάρα πολύ χρήσιμη σφαλιάρα για να δούμε τι κάνουμε",
+          "url": "https://www.skai.gr/news/sports/papanikolaou-isos-mia-para-poly-xrisimi-sfaliara-gia-na-doume-ti-kanoume",
+          "snippet": "Απογοητευμένος και με διάθεση αυτοκριτικής, εμφανίστηκε στις δηλώσεις του μετά την σοκαριστική εντός έδρας ήττα της Εθνικής από την Πορτογαλία ο Κώστας Παπανικολάου",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Έξαλλος ο Σπανούλης: Να σκεφτούμε σε ποια ομάδα παίζουμε, σαν να ήρθαμε από διακοπές",
+          "url": "https://www.skai.gr/news/sports/eksallos-o-spanoulis-na-skeftoume-se-poia-omada-paizoume-san-na-irthame-apo-diakopes",
+          "snippet": "Ξέσπασε ο Βασίλης Σπανούλης μετά την ήττα της Εθνικής από την Πορτογαλία με 71-56 στα Άνω Λιόσια",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Μουντομπάσκετ 2027: Ιστορικό κάζο για την Εθνική από την Πορτογαλία και... έμπλεξε για τα καλά",
+          "url": "https://www.skai.gr/news/sports/prokrimatika-mountompasket-2027-odyniri-itta-me-56-71-apo-tin-portogalia",
+          "snippet": "Πραγματοποιώντας μια από τις πιο άσχημες εμφανίσεις των τελευταίων ετών, η Εθνική υπέστη ήττα-σοκ στη SUNEL Arena με 71-56 από την Πορτογαλία και πλέον μπλέκει ενόψει της β' φάσης των προκριματικών",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Έβαλε τις φωνές στους παίκτες ο Σπανούλης: «Σαν χεσμ@@@@ παίζουμε» - Δείτε βίντεο",
+          "url": "https://www.skai.gr/news/sports/evale-tis-fones-stous-paiktes-o-spanoulis-san-xesm%40%40%40%40-paizoume-deite-vinteo",
+          "snippet": "Ο Βασίλης Σπανούλης ήταν έξαλλος με τη συμπεριφορά και την αγωνιστική εικόνα των παικτών της Εθνικής μας στον «τελικό» με την Πορτογαλία στη Sunel Arena",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Ουναΐ: Γιατί πανηγύρισε έντονα τα γκολ του στο Μουντιάλ",
+          "url": "https://www.skai.gr/news/sports/ounai-giati-panigyrise-entona-ta-gkol-sto-mountial",
+          "snippet": "Το Μαρόκο προκρίθηκε για τα προημιτελικά και είναι ο λόγος που ο Ουναΐ πανηγύρισε έντονα τα δύο του γκολ στο Μουντιάλ κόντρα στον Καναδά",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Ντε Φράι: «Ήρθα στον Παναθηναικό για να έχω σημαντικό ρόλο»",
+          "url": "https://www.skai.gr/news/sports/nte-frai-irtha-ston-panathinaiko-gia-na-exo-simantiko-rolo",
+          "snippet": "Ο Στέφαν Ντε Φράι σε μεγάλη συνέντευξη που παραχώρησε αποκάλυψε και το πως ήρθε στον Παναθηναϊκό αλλά και το γιατί επέλεξε το τριφύλλι",
+          "source": "Skai Sports"
+        },
         {
           "title": "Παναθηναϊκός: Τι θα προσφέρει ο Άιζακ Μπόνγκα",
           "url": "https://www.skai.gr/news/sports/panathinaikos-ti-tha-prosferei-o-mpongka",
@@ -340,48 +382,6 @@
           "url": "https://www.skai.gr/news/sports/ypoklithike-stin-anoterotita-tis-paolini-kai-apokleistike-apo-ti-synexeia-tou-wimbledon-i",
           "snippet": "Αν και το πάλεψε, η Μαρία Σάκκαρη υποκλίθηκε στην ανωτερότητα της Τζασμίν Παολίνι, χάνοντας καθαρά 2-0 στα σετ και αποκλείστηκε από τη συνέχεια του Wimbledon.",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Δείτε ζωντανά στον ΣΚΑΪ το φιλικό παιχνίδι του Παναθηναϊκού με τον Άγιαξ",
-          "url": "https://www.skai.gr/news/sports/deite-zontana-ston-skai-to-filiko-paixnidi-tou-panathinaikou-me-ton-agiaks",
-          "snippet": "Δείτε μέσα από την τηλεόραση του ΣΚΑΪ το δεύτερο φιλικό παιχνίδι προετοιμασίας του Παναθηναϊκού από την Ολλανδία, απέναντι στον Άγιαξ",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Έκανε... χαλάστρα στον Χάμιλτον και κατέκτησε το Sprint Race του Σίλβερστοουν ο Αντονέλι",
-          "url": "https://www.skai.gr/news/sports/ekane-xalastra-ston-xamilton-kai-katektise-to-sprint-race-tou-silverstooun-o-antoneli",
-          "snippet": "Ο Κίμι Αντονέλι ήταν ο μεγάλος νικητής του Sprint Race στο Σίλβερστοουν, με τον Ιταλό πιλότο της Mercedes να επικρατεί του Λιούις Χάμλιτον στον μίνι-αγώνα των 17 γύρων",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Βόμβα Μπόνγκα: «Ενεργοποιεί τη ρήτρα του και πάει σε άλλη ομάδα της Ευρωλίγκας»",
-          "url": "https://www.skai.gr/news/sports/partizan-o-mpongka-energopoiei-ti-ritra-tou-kai-paei-se-alli-omada-tis-eyroligkas",
-          "snippet": "Η Παρτίζαν με ανακοίνωσή της γνωστοποίησε πως ο Άιζακ Μπόνγκα αποχωρεί και θα συνεχίσει την καριέρα του σε άλλη ομάδα της Ευρωλίγκας",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Euro 2004: Σαν σήμερα το… πειρατικό της Εθνικής τρέλανε την Ευρώπη - Το μήνυμα Γκαγκάτση για το έπος",
-          "url": "https://www.skai.gr/news/sports/euro-2004-san-simera-to-peiratiko-tis-ethnikis-trelane-tin-eyropi-to-minyma-gkagkatsi",
-          "snippet": "Πέρασαν 22 χρόνια από τη στιγμή που η Εθνική ομάδα σήκωσε μέσα στην Πορτογαλία το Euro 2004, γράφοντας μια λαμπρή στιγμή στην ιστορία της",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Ηρακλής: Προχωρημένες επαφές με τον Σεοάνε για την ενίσχυση της μεσαίας γραμμής",
-          "url": "https://www.skai.gr/news/sports/iraklis-proxorimenes-epafes-me-ton-seoane-gia-tin-enisxysi-tis-mesaias-grammis",
-          "snippet": "Ο Ηρακλής βρίσκεται σε προχωρημένες επαφές με τον Χάιμε Σεοάνε, με τον Ισπανό χαφ να αποτελεί βασικό στόχο για την ενίσχυση της μεσαίας γραμμής",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "ΠΑΟΚ: Σχέδιο αναβάθμισης σε όλα τα επίπεδα – Οι κινήσεις σε προπονητή και μεταγραφές",
-          "url": "https://www.skai.gr/news/sports/paok-sxedio-anavathmisis-se-ola-ta-epipeda-oi-kiniseis-se-proponiti-kai-metagrafes",
-          "snippet": "Ο ΠΑΟΚ προχωρά σε συνολική αναβάθμιση, με αλλαγές σε τεχνική ηγεσία, ρόστερ και οργάνωση, ενώ συνεχίζονται οι επαφές για τις επόμενες μεταγραφικές κινήσεις",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Ιστορικό κάζο για την Κύπρο που ηττήθηκε με 73 πόντους από την Κροατία στη Λεμεσό",
-          "url": "https://www.skai.gr/news/sports/istoriko-kazo-gia-tin-kypro-pou-ittithike-me-73-pontous-apo-tin-kroatia-sti-lemeso",
-          "snippet": "Υπέστη μια από τις μεγαλύτερες ήττες της ιστορίας της, χάνοντας στη Λεμεσό με το απίθανο 123-50 από την Κροατία για τα προκριματικά του Μουντομπάσκετ 2027",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,18 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
-        "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
-        "snippet": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list.",
+        "title": "Clarity and Congress's summer break: State of Crypto",
+        "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+        "snippet": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+          "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+          "snippet": "U.S.-linked wallets traded $571 million in political contracts over the past year, more than any other country, even though the platform legally cannot serve them. The money leans toward the foreign-conflict markets U.S. venues do not list.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
           "url": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
@@ -472,12 +478,6 @@
           "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
           "snippet": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
           "source": "CoinDesk"
-        },
-        {
-          "title": "XRP climbs 8% as record holder losses signal better risk-reward for buyers",
-          "url": "https://www.coindesk.com/markets/2026/07/04/xrp-climbs-8-as-one-onchain-gauge-signal-shows-favorable-risk-reward-for-buyers",
-          "snippet": "The token's 30-day and 365-day MVRV, a measure of how far holders are underwater, sit near -45% and -47%, lows Santiment says XRP has never reached before. Some traders read stretched losses as a contrarian signal.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,12 +485,48 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Ocarina of Time's most underrated character deserves more appreciation",
-        "url": "https://www.polygon.com/zelda-ocarina-of-time-navi-underrated/",
-        "snippet": "We should be praising Ocarina of Time's helpful fairy instead of turning her into memes.",
+        "title": "King of the Hill season 15 officially begins in 3 weeks — what to know",
+        "url": "https://www.polygon.com/king-of-the-hill-season-15-release-date/",
+        "snippet": "'Yep.'",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Minions and Supergirl's rough weekend shows audiences are feeling franchise fatigue",
+          "url": "https://www.polygon.com/minions-and-monsters-supergirl-fourth-of-july-box-office/",
+          "snippet": "Both Illumination's Minions & Monsters and DC Studios' Supergirl did not due well at the box office over this holiday weekend",
+          "source": "Polygon"
+        },
+        {
+          "title": "Lord Of The Rings taught Hollywood the wrong lessons for 25 years",
+          "url": "https://www.polygon.com/lord-of-the-rings-25-years-fantasy/",
+          "snippet": "The Lord of the Rings changed fantasy forever, but Hollywood misunderstood what made the trilogy truly great.",
+          "source": "Polygon"
+        },
+        {
+          "title": "No RPG needs to be longer than 40 hours",
+          "url": "https://www.polygon.com/rpg-game-length-spicy-take/",
+          "snippet": "Ultra-long RPGs like Final Fantasy 7 Rebirth are a great value, but I yearn for more compact games I can actually finish.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Top 5 anime villains more dangerous than Jujutsu Kaisen's Sukuna",
+          "url": "https://www.polygon.com/strongest-anime-villains-more-dangerous-than-sukuna/",
+          "snippet": "Some wield universe-ending powers, while others embrace absolute evil.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Magic: The Gathering's Universes Beyond isn't ruining the game — it's saving it",
+          "url": "https://www.polygon.com/magic-the-gathering-universes-beyond-defense/",
+          "snippet": "Wizards of the Coast's controversial approach to crossover Magic sets gets a lot of flak, but I shamelessly love it.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Ocarina of Time's most underrated character deserves more appreciation",
+          "url": "https://www.polygon.com/zelda-ocarina-of-time-navi-underrated/",
+          "snippet": "We should be praising Ocarina of Time's helpful fairy instead of turning her into memes.",
+          "source": "Polygon"
+        },
         {
           "title": "Cyberpunk: Edgerunners studio teases more Delicious in Dungeon, new project from Promare's creators",
           "url": "https://www.polygon.com/delicious-in-dungeon-season-2-trigger-new-projects/",
@@ -507,42 +543,6 @@
           "title": "Doctor Who's best companion pairing wasn't a love story like fans think",
           "url": "https://www.polygon.com/doctor-who-best-doctor-companion-clara-twelve/",
           "snippet": "The Doctor has had many great companions throughout the years, but this particular pairing stands head and shoulders above the rest.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Crimson Desert's latest update makes it worth it to play as Damiane and Oongka",
-          "url": "https://www.polygon.com/crimson-desert-damiane-oongka-update/",
-          "snippet": "Damiane and Oongka can now access the Abyss and equip more outfits following Pearl Abyss' latest update for Crimson Desert",
-          "source": "Polygon"
-        },
-        {
-          "title": "Halo remake will be on physical disc 'so that you have tangible items to add to your collection'",
-          "url": "https://www.polygon.com/halo-campaign-evolved-physical-disc-confirmation/",
-          "snippet": "Halo Studios defied PlayStation and Grand Theft Auto 6 with its latest reveal for Halo: Campaign Evolved",
-          "source": "Polygon"
-        },
-        {
-          "title": "Expedition 33 and the Last of Us 2 have one thing in common most games lack",
-          "url": "https://www.polygon.com/we-need-more-games-like-the-last-of-us-2/",
-          "snippet": "The best video game stories have a clear vision and purpose, like The Last of Us 2, instead of trying to be something for everybody",
-          "source": "Polygon"
-        },
-        {
-          "title": "GTA 6 reviews plan could throw GOTY race into chaos at The Game Awards",
-          "url": "https://www.polygon.com/goty-watch-gta-6-reviews-the-game-awards/",
-          "snippet": "If Rockstar doesn't distribute review code for Grand Theft Auto 6, few if any jury members will play it in time for The Game Awards nominations",
-          "source": "Polygon"
-        },
-        {
-          "title": "Superhero fatigue isn't a real thing, Marvel just makes bad movies now",
-          "url": "https://www.polygon.com/superhero-fatigue-real-or-fake-marvel-dc/",
-          "snippet": "Superhero fatigue has been used to explain the downturn in superhero movies since the pandemic, but there's no such thing as superhero fatigue",
-          "source": "Polygon"
-        },
-        {
-          "title": "I won't mourn PlayStation discs",
-          "url": "https://www.polygon.com/patch-notes-playstation-discs/",
-          "snippet": "Sony announced that it will cease production of physical PlayStation games this week. That's sad, but the end of optical discs for games isn't",
           "source": "Polygon"
         },
         {
