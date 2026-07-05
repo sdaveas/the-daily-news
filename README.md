@@ -2,6 +2,8 @@
 
 A newspaper-style RSS aggregator running on a Raspberry Pi. Fetches headlines from configurable RSS feeds across thematic sections and renders them in a broadsheet layout.
 
+**Live site:** https://sdaveas.github.io/the-daily-news/
+
 ## Architecture
 
 - **`server.py`** — Python HTTP server (stdlib only, no deps). Serves static files from `www/`, exposes `/config` (GET/POST) and `/refresh` (POST) endpoints.
