@@ -1,0 +1,116 @@
+{
+  "sections": [
+    {
+      "id": "greek",
+      "title": "Greek News",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://www.tovima.gr/feed/",
+          "source": "To Vima"
+        },
+        {
+          "url": "https://www.skai.gr/rss/news",
+          "source": "Skai News"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "source": "BBC World"
+        },
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "source": "NYT World"
+        },
+        {
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "source": "Al Jazeera"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech & AI",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://feeds.arstechnica.com/arstechnica/index",
+          "source": "Ars Technica"
+        },
+        {
+          "url": "https://www.theverge.com/rss/index.xml",
+          "source": "The Verge"
+        },
+        {
+          "url": "https://techcrunch.com/feed/",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://www.skai.gr/rss/sports",
+          "source": "Skai Sports"
+        },
+        {
+          "url": "https://www.espn.com/espn/rss/soccer/news",
+          "source": "ESPN Soccer"
+        },
+        {
+          "url": "https://www.espn.com/espn/rss/nba/news",
+          "source": "ESPN NBA"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Markets",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+          "source": "CoinDesk"
+        },
+        {
+          "url": "https://cointelegraph.com/rss",
+          "source": "Cointelegraph"
+        },
+        {
+          "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
+          "source": "MarketWatch"
+        }
+      ]
+    },
+    {
+      "id": "gaming",
+      "title": "D&D / Gaming",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://www.polygon.com/rss/index.xml",
+          "source": "Polygon"
+        },
+        {
+          "url": "https://www.eurogamer.net/feed",
+          "source": "Eurogamer"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+name: Fetch news and deploy
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+
+jobs:
+  fetch-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch headlines
+        run: python3 fetch-news.py
+
+      - name: Commit news.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add www/data/news.json
+          git diff --staged --quiet || git commit -m "Auto: refresh headlines"
+          git push
+
+      - name: Copy feeds.json to www for static mode
+        run: cp feeds.json www/feeds.json
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: www
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

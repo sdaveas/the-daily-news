@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Daily News</title>
+  <!-- Layout adapted from Robot Dreams by Panos Daveas: https://github.com/panosdaveas/robot-dreams-website -->
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&family=Playfair+Display+SC:wght@900&family=Playfair+Display:ital,wght@0,800;1,800&family=Manrope:wght@800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/glitch.css">
+  <style>
+    /* top bar with refresh + gear */
+    .top-bar{display:flex;justify-content:flex-end;align-items:center;margin-bottom:1rem}
+    .icon-btn{width:38px;height:38px;border-radius:50%;border:1px solid var(--black);background:none;cursor:pointer;color:var(--black);font-size:16px;display:flex;align-items:center;justify-content:center;transition:.15s}
+    .icon-btn:hover{background:var(--black);color:#eee}
+    .icon-btn:disabled{opacity:.5;cursor:default}
+    .icon-btn.gear{width:56px;height:56px;font-size:28px}
+
+    .section-window{border:1px solid var(--black);padding:1rem;margin:0;background:#fbfaf6;max-height:520px;overflow-y:auto}
+    .section-window h3{font:italic 20px var(--font-title);margin-bottom:.6rem;border-bottom:1px solid var(--black);padding-bottom:.4rem;text-transform:uppercase;letter-spacing:1px}
+    .section-window .lead-head{font:800 22px/1.2 var(--font-title);margin-bottom:.4rem}
+    .section-window .lead-head a{color:var(--black)}
+    .section-window .lead-snippet{font-size:.95rem;color:#444;margin-bottom:.6rem}
+    .section-window .lead-src{font:11px var(--font-sans-serif);color:#888;text-transform:uppercase;letter-spacing:1px;margin-bottom:.6rem}
+    .section-window ul.subs{list-style:none;border-top:1px dotted #ccc;padding-top:.5rem}
+    .section-window ul.subs li{padding:.4rem 0;border-bottom:1px dotted #ccc}
+    .section-window ul.subs li:last-child{border-bottom:none}
+    .section-window ul.subs a{font-weight:700;font-size:.95rem;color:var(--black)}
+    .section-window ul.subs a:hover{text-decoration:underline}
+    .section-window ul.subs .sub-src{font:10px var(--font-sans-serif);color:#888;text-transform:uppercase}
+    .section-window .empty{font-style:italic;color:#999;text-align:center;padding:1.5rem 0}
+    .grid-sections{display:grid;grid-template-columns:repeat(3,1fr);gap:1.2rem;margin:1.5rem 0}
+    @media(max-width:1024px){.grid-sections{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:700px){.grid-sections{grid-template-columns:1fr}}
+    #content{grid-column:1/-1}
+    .updated-stamp{font:11px var(--font-sans-serif);color:#888;text-align:center;margin-top:.5rem}
+    .status-msg{text-align:center;font-style:italic;color:#888;padding:3rem 1rem}
+
+    /* Settings gear + panel */
+    .settings-overlay{position:fixed;inset:0;background:rgba(0,0,0,.4);z-index:100;display:none}
+    .settings-overlay.open{display:block}
+    .settings-panel{position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:#fbfaf6;border:2px solid var(--black);padding:24px 28px;max-width:520px;width:90%;max-height:80vh;overflow-y:auto;z-index:101;font-family:var(--font-sans-serif)}
+    .settings-panel h2{font:italic 24px var(--font-title);margin-bottom:16px;border-bottom:1px solid var(--black);padding-bottom:8px}
+    .settings-panel .sec-row{display:block;padding:12px 0;border-bottom:1px dotted #ccc}
+    .settings-panel .sec-row .sec-name{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+    .settings-panel .sec-title{font-size:14px;font-weight:700;border:1px solid #999;padding:4px 8px;flex:1;width:auto}
+    .settings-panel .lead-chk{font-size:12px;color:#666;white-space:nowrap;display:flex;align-items:center;gap:4px}
+    .settings-panel .feeds{margin-left:24px;margin-bottom:8px}
+    .settings-panel .feed-row{display:flex;gap:6px;margin-bottom:4px;align-items:center}
+    .settings-panel .feed-url{flex:1;font-size:12px;border:1px solid #ccc;padding:3px 6px}
+    .settings-panel .feed-src{width:90px;font-size:12px;border:1px solid #ccc;padding:3px 6px}
+    .settings-panel .btn-del{background:none;border:1px solid #999;color:#c00;cursor:pointer;padding:2px 8px;font-size:14px;line-height:1;border-radius:3px}
+    .settings-panel .btn-del:hover{background:#c00;color:#fff}
+    .settings-panel .btn-add{background:none;border:1px dashed #999;cursor:pointer;padding:3px 10px;font-size:12px;color:#666;margin-left:24px}
+    .settings-panel .btn-add:hover{background:#eee}
+    .settings-panel .sec-del{background:none;border:1px solid #999;color:#c00;cursor:pointer;padding:3px 10px;font-size:11px;text-transform:uppercase;letter-spacing:1px;margin-left:8px}
+    .settings-panel .sec-del:hover{background:#c00;color:#fff}
+    .settings-panel .actions{display:flex;gap:10px;margin-top:16px}
+    .settings-panel .btn-left{margin-right:auto}
+    .settings-panel .btn{font-size:12px;text-transform:uppercase;letter-spacing:1px;background:none;border:1px solid var(--black);padding:6px 18px;cursor:pointer;color:var(--black);transition:.15s}
+    .settings-panel .btn:hover{background:var(--black);color:#eee}
+    .settings-panel .btn-primary{background:var(--black);color:#eee}
+    .settings-panel .btn-primary:hover{background:transparent;color:var(--black)}
+  </style>
+</head>
+<body translate="no">
+  <div class="main__wrapper">
+    <div class="top-bar">
+      <button class="icon-btn gear" id="gearBtn" title="Settings">&#9881;</button>
+    </div>
+    <main>
+      <h1><span class="glitch__title" data-text="The Daily News">The Daily News</span></h1>
+      <aside>
+        <div>
+          <div>
+            <div class="date" id="date">Loading&hellip;</div>
+          </div>
+        </div>
+      </aside>
+
+      <div id="content">
+        <div class="status-msg">Fetching the morning edition&hellip;</div>
+      </div>
+
+      <div class="updated-stamp" id="updated"></div>
+    </main>
+  </div>
+
+  <div class="settings-overlay" id="settingsOverlay"></div>
+  <div class="settings-panel" id="settingsPanel" style="display:none">
+    <h2>Settings</h2>
+    <div id="settingsRows"></div>
+    <button class="btn-add" id="settingsAddSec" style="margin-top:12px">+ Add section</button>
+    <div class="actions">
+      <button class="btn btn-left" id="settingsRefresh">&#8635; Refresh</button>
+      <button class="btn" id="settingsReset">Reset</button>
+      <button class="btn btn-primary" id="settingsSave">Save</button>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
