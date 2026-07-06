@@ -1,20 +1,86 @@
 {
-  "updated": "2026-07-06T15:14:31.450834+00:00",
+  "updated": "2026-07-06T18:05:29.702392+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Μπάσκετ: Αφαίρεση βαθμών σε Παναθηναϊκό και Ολυμπιακό – 7 αγωνιστικές σε Τζόουνς, 2 σε Ναν",
-        "url": "https://www.tovima.gr/2026/07/06/sports/mpasket-afairesi-vathmon-se-panathinaiko-kai-olympiako-7-agonistikes-se-tzoouns-2-se-nan/",
-        "snippet": "«Καμπάνες» μεγατόνων από τον Αθλητικό Δικαστή του ΕΣΑΚΕ για τα όσα εκτυλίχθηκαν στο Game 5 των τελικών του Final Four - Ποιες είναι οι ποινές για τις δύο ΚΑΕ και τους πρωταγωνιστές των επεισοδίων",
+        "title": "«Εξελίξεις τώρα» με την Αναστασία Γιάμαλη: Στην πρώτη θέση της τηλεθέασης το Σαββατοκύριακο 4 και 5 Ιουλίου",
+        "url": "https://www.tovima.gr/2026/07/06/media/ekselikseis-tora-me-tin-anastasia-giamali-stin-proti-thesi-tis-tiletheasis-to-savvatokyriako-4-kai-5-iouliou/",
+        "snippet": "Με έμφαση στην έγκυρη ενημέρωση και την ανάδειξη σημαντικών θεμάτων της επικαιρότητας, οι «Εξελίξεις τώρα» πρωταγωνιστούν στην ενημέρωση του Σαββατοκύριακου",
         "source": "To Vima"
       },
       "items": [
         {
+          "title": "Σφοδρή επίθεση ΠαΣοΚ σε Σαμαρά – Μαξίμου: «Ανταποκρίθηκε με καθυστέρηση στο αυτονόητο – Ομολογία ενοχής για το Predator»",
+          "url": "https://www.tovima.gr/2026/07/06/politics/sfodri-epithesi-pasok-se-samara-maksimou-antapokrithike-me-kathysterisi-sto-aytonoito-omologia-enoxis-gia-to-predator/",
+          "snippet": "Μέτωπο σε δύο κατευθύνσεις ανοίγει η Χαριλάου Τρικούπη με αφορμή την προσφυγή του Αντώνη Σαμαρά στον Άρειο Πάγο για τις υποκλοπές",
+          "source": "To Vima"
+        },
+        {
+          "title": "Ανεπιθύμητος ο πρίγκιπας Χάρι στο Μπάκιγχαμ – Ανατροπή στο παρά πέντε",
+          "url": "https://www.tovima.gr/2026/07/06/celebrities/anepithymitos-o-prigkipas-xari-sto-mpakigxam-anatropi-sto-para-pente/",
+          "snippet": "Αντικρουόμενες εκδοχές από τα ανάκτορα και την πλευρά του πρίγκιπα Χάρι για την πρόσκληση φιλοξενίας, λίγες ημέρες πριν από την επίσκεψή του στο Λονδίνο.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Πανελλήνιες 2026: Ανοίγει αύριο η πλατφόρμα για το Μηχανογραφικό – Οι οδηγίες, η προθεσμία",
+          "url": "https://www.tovima.gr/2026/07/06/society/anoigei-ayrio-i-platforma-gia-to-mixanografiko-2026-oles-oi-prothesmies-kai-oi-odigies/",
+          "snippet": "Από την Τρίτη 7 Ιουλίου έως και την Πέμπτη 16 Ιουλίου θα μπορούν οι υποψήφιοι των Πανελλαδικών Εξετάσεων 2026 να υποβάλουν ηλεκτρονικά το Μηχανογραφικό και το Παράλληλο Μηχανογραφικό Δελτίο, όπως ανακοίνωσε το Υπουργείο Παιδείας",
+          "source": "To Vima"
+        },
+        {
+          "title": "12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ»: Στο Σίδνεϊ χτυπά φέτος η καρδιά της ελληνικής γλώσσας και της ομογένειας",
+          "url": "https://www.tovima.gr/2026/07/06/culture/12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme-sto-sidnei-xtypa-fetos-i-kardia-tis-ellinikis-glossas-kai-tis-omogeneias/",
+          "snippet": "Από τις 6 έως τις 11 Σεπτεμβρίου, το Σίδνεϊ φιλοξενεί το 12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ», μια διεθνή συνάντηση πανεπιστημιακών, εκπαιδευτικών, δημοσιογράφων και φορέων της διασποράς με επίκεντρο το μέλλον της ελληνικής γλώσσας και του πολιτισ",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μουντιάλ: Η παρέμβαση Τραμπ, η «κόκκινη γραμμή» της UEFA και η ποδοσφαιρική εξέγερση",
+          "url": "https://www.tovima.gr/2026/07/06/world/mountial-i-paremvasi-tramp-i-kokkini-grammi-tis-uefa-kai-i-podosfairiki-eksegersi/",
+          "snippet": "Οργισμένες αντιδράσεις από UEFA, Κλοπ και Τούχελ για την «προκλητική» απόφαση της FIFA να σβήσει την ποινή του αμερικανού σταρ Φολαρίν Μπάλογκαν μετά από παρέμβαση του Λευκού Οίκου, όπως παραδέχθηκε ο ίδιος ο Τραμπ",
+          "source": "To Vima"
+        },
+        {
+          "title": "Αυτή την Κυριακή με ΤΟ ΒΗΜΑ: «35 Συνταγές για το Καλοκαίρι – Σαλάτες & Ελαφριά Γεύματα» της Αργυρώς Μπαρμπαρίγου",
+          "url": "https://www.tovima.gr/2026/07/06/media/ayti-tin-kyriaki-me-to-vima-35-syntages-gia-to-kalokairi-salates-elafria-geymata-tis-argyros-mparmparigou/",
+          "snippet": "Στις σελίδες του βιβλίου θα βρείτε 35 συνταγές για σαλάτες και ελαφριά πιάτα που αξιοποιούν ό,τι καλύτερο προσφέρει το ελληνικό καλοκαίρι",
+          "source": "To Vima"
+        },
+        {
+          "title": "Ηράκλειο: Πώς μια καταγγελία για κλοπή κινητού αποκάλυψε υπόθεση άγριας κακοποίησης",
+          "url": "https://www.tovima.gr/2026/07/06/society/irakleio-pos-mia-kataggelia-gia-klopi-kinitou-apokalypse-ypothesi-agrias-kakopoiisis-55xronis/",
+          "snippet": "Μια τυχαία έρευνα της ΕΛ.ΑΣ. για την κλοπή τηλεφωνικής συσκευής οδήγησε στον εντοπισμό 11 σοκαριστικών βίντεο και στην εξάρθρωση υπόθεσης παράνομης κατακράτησης και βίας στην Κρήτη - Το θύμα κατάφερε να διαφύγει - Σε συλλήψεις προχώρησαν οι Αρχές",
+          "source": "To Vima"
+        },
+        {
+          "title": "Αυτή την Κυριακή με το ΒΗΜΑ: Η «Πριγκιπέσα Ιζαμπώ» του Άγγελου Τερζάκη",
+          "url": "https://www.tovima.gr/2026/07/06/media/ayti-tin-kyriaki-me-to-vima-i-prigkipesa-izampo-tou-aggelou-terzaki/",
+          "snippet": "Κυκλοφορεί αυτή την Κυριακή 12 Ιουλίου με το ΒΗΜΑ της Κυριακής",
+          "source": "To Vima"
+        },
+        {
+          "title": "«Οδύσσεια» του Νόλαν: Πόλεμος για το καστ και ρεκόρ αρνητικών αντιδράσεων στο YouTube πριν από την πρεμιέρα",
+          "url": "https://www.tovima.gr/2026/07/06/culture/odysseia-tou-nolan-polemos-gia-to-kast-kai-rekor-arnitikon-antidraseon-sto-youtube-prin-apo-tin-premiera/",
+          "snippet": "Στο παρά 5΄ της πρεμιέρας της στο Λονδίνο, η «Οδύσσεια» του Κρίστοφερ Νόλαν βρίσκεται στο επίκεντρο σφοδρής διαδικτυακής διαμάχης. Τι φταίει και γιατί το τρέιλερ καταγράφει ρεκόρ αρνητικών αξιολογήσεων;",
+          "source": "To Vima"
+        },
+        {
+          "title": "ΠαΣοΚ: Παράθυρο συνεργασίας με ΝΔ ανοίγει ο Σγουρός – «Θα με κρεμάσουν»",
+          "url": "https://www.tovima.gr/2026/07/06/politics/foties-sto-pasok-apo-sgouro-anoigei-parathyro-synergasias-me-nd-tha-me-kremasoun/",
+          "snippet": "Ο υποψήφιος βουλευτής της Χαριλάου Τρικούπη Σγουρός άφησε ανοιχτό το ενδεχόμενο μετεκλογικής συνεργασίας με την «Πειραιώς», σε περίπτωση που το επιβάλλουν οικονομικές ή εθνικές συνθήκες, «αδειάζοντας» τις μέχρι τώρα κατηγορηματικές αρνήσεις του Νίκου Ανδρουλάκη",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μπάσκετ: Αφαίρεση βαθμών σε Παναθηναϊκό και Ολυμπιακό – 7 αγωνιστικές σε Τζόουνς, 2 σε Ναν",
+          "url": "https://www.tovima.gr/2026/07/06/sports/mpasket-afairesi-vathmon-se-panathinaiko-kai-olympiako-7-agonistikes-se-tzoouns-2-se-nan/",
+          "snippet": "«Καμπάνες» μεγατόνων από τον Αθλητικό Δικαστή του ΕΣΑΚΕ για τα όσα εκτυλίχθηκαν στο Game 5 των τελικών του Final Four - Ποιες είναι οι ποινές για τις δύο ΚΑΕ και τους πρωταγωνιστές των επεισοδίων",
+          "source": "To Vima"
+        },
+        {
           "title": "Φωτιά στην Αγία Ελένη Τροιζηνίας: «Απομακρυνθείτε προς Άνω Φανάρι»",
           "url": "https://www.tovima.gr/2026/07/06/society/fotia-stin-agia-eleni-troizinias-apomakryntheite-pros-ano-fanari/",
-          "snippet": "Για την κατάσβεσή της άμεσα κινητοποιήθηκαν επίγειες και εναέριες δυνάμεις του Πυροσβεστικού Σώματος και συγκεκριμένα 59 πυροσβέστες με 2 ομάδες πεζοπόρων τμημάτων της 9ης ΕΜΟΔΕ, και 16 οχήματα, ενώ από αέρος κινητοποιήθηκαν 4 αεροσκάφη και 2 ελικόπτερα.",
+          "snippet": "Για την κατάσβεσή της άμεσα κινητοποιήθηκαν επίγειες και εναέριες δυνάμεις του Πυροσβεστικού Σώματος και συγκεκριμένα 110 πυροσβέστες με 5 ομάδες πεζοπόρων τμημάτων της 9ης ΕΜΟΔΕ, και 23 οχήματα, ενώ από αέρος κινητοποιήθηκαν 10 αεροσκάφη και 6 ελικόπτερα.",
           "source": "To Vima"
         },
         {
@@ -27,72 +93,6 @@
           "title": "Υπήρχε ζωή πριν από το air conditioner;",
           "url": "https://www.tovima.gr/2026/07/06/vimagazino/ypirxe-zoi-prin-apo-to-air-conditioner/",
           "snippet": "Πώς το air conditioner μετατράπηκε από μια βιομηχανική πατέντα του 1902 στην πιο αμφιλεγόμενη συσκευή του 21ου αιώνα; Η ιστορία της τεχνητής δροσιάς που άλλαξε τις πόλεις, η σθεναρή αντίσταση της Ευρώπης στον κλιματισμό και το φαινόμενο της κλιματικής ένδειας.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ο Νετανιάχου προτρέπει τις ΗΠΑ να μην πουλήσουν F-35 στην Τουρκία",
-          "url": "https://www.tovima.gr/2026/07/06/world/o-netaniaxou-protrepei-tis-ipa-na-min-poulisoun-f-35-stin-tourkia-tha-diataraxthei-i-isorropia-dynameon/",
-          "snippet": "Να μην προχωρήσουν στην πώληση μαχητικών αεροσκαφών F-35 ή κινητήρων για τουρκικά μαχητικά κάλεσε τις ΗΠΑ ο Ισραηλινός πρωθυπουργός Μπενιαμίν Νετανιάχου, υποστηρίζοντας ότι μια τέτοια εξέλιξη θα ανέτρεπε την ισορροπία δυνάμεων στη Μέση Ανατολή",
-          "source": "To Vima"
-        },
-        {
-          "title": "Μουντιάλ: «Πόλεμος» Βελγίου – FIFA μετά την παρέμβαση Τραμπ για μια κόκκινη κάρτα",
-          "url": "https://www.tovima.gr/2026/07/06/sports/mountial-polemos-velgiou-fifa-meta-tin-paremvasi-tramp-gia-mia-kokkini-karta/",
-          "snippet": "Η βελγική ομοσπονδία ζητά εξηγήσεις για την «πρωτοφανή» άρση της τιμωρίας του αμερικανού σταρ, Φολαρίν Μπάλογκαν, λίγες ώρες πριν από τη μεταξύ τους μάχη για τους «8»",
-          "source": "To Vima"
-        },
-        {
-          "title": "Επίδομα αδείας: Αυξήσεις για χιλιάδες εργαζόμενους – Ποιοι ωφελούνται, πώς υπολογίζεται",
-          "url": "https://www.tovima.gr/2026/07/06/society/epidoma-adeias-2026-ayksiseis-gia-xiliades-ergazomenous-poioi-ofelountai/",
-          "snippet": "Αυξημένο θα είναι φέτος το επίδομα αδείας για χιλιάδες εργαζομένους του ιδιωτικού τομέα - Παραμένουν σε ισχύ οι διατάξεις για τη χορήγηση της ετήσιας άδειας και τα δικαιώματα των εργαζομένων ανάλογα με την προϋπηρεσία τους",
-          "source": "To Vima"
-        },
-        {
-          "title": "Κωτσόβολος: Επενδύει στην επιχειρηματική ενδυνάμωση με νέο B2B portal και ολοκληρωμένες λύσεις για επιχειρήσεις",
-          "url": "https://www.tovima.gr/2026/07/06/market/kotsovolos-ependyei-stin-epixeirimatiki-endynamosi-me-neo-b2b-portal-kai-olokliromenes-lyseis-gia-epixeiriseis/",
-          "snippet": "Στόχος δεν είναι απλώς η διάθεση προϊόντων, αλλά η δημιουργία ενός πλαισίου που βοηθά επαγγελματίες και επιχειρήσεις να αναπτύσσονται με μεγαλύτερη ευελιξία.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Η ROLEX επίσημο ρολόι του ιστιοπλοϊκού αγώνα AEGEAN 600",
-          "url": "https://www.tovima.gr/2026/07/06/market/i-rolex-episimo-roloi-tou-istioploikou-agona-aegean-600/",
-          "snippet": "Η Rolex συμμετέχει, για τρίτη συνεχόμενη χρονιά, στον διεθνούς φήμης ιστιοπλοϊκό αγώνα",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ο Ολυμπιακός ανακοίνωσε τον Ζινεντίν Σμαΐλοβιτς",
-          "url": "https://www.tovima.gr/2026/07/06/sports/o-olympiakos-anakoinose-ton-zinentin-smailovits/",
-          "snippet": "Ο Ζινεντίν Σμαΐλοβιτς είναι και επίσημα ποδοσφαιριστής του Ολυμπιακού, με τους «ερυθρόλευκους» να ανακοινώνουν την απόκτησή του μέσω των social media, παρουσιάζοντάς τον με το μήνυμα «Proud to present: Zinedin Smajlović».",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τραγωδία στη Λητή: Στους 3 οι νεκροί από την πυρκαγιά – Μέχρι Αττική το τοξικό νέφος",
-          "url": "https://www.tovima.gr/2026/07/06/society/tragodia-sti-liti-stous-3-oi-nekroi-apo-tin-pyrkagia-mexri-attiki-to-toksiko-nefos/",
-          "snippet": "Κατέληξε και η γυναίκα που είχε υποστεί ανακοπή - Τον κώδωνα του κινδύνου κρούουν οι ειδικοί για τα επικίνδυνα μικροσωματίδια PM2.5, που ταξίδεψαν εκατοντάδες χιλιόμετρα, επηρεάζοντας την ποιότητα του αέρα ακόμη και στην Αθήνα",
-          "source": "To Vima"
-        },
-        {
-          "title": "Εγκαίνια του νέου διακλαδικού κέντρου εκπαίδευσης πιλότων Drone στην Τρίπολη",
-          "url": "https://www.tovima.gr/2026/07/06/society/egkainia-tou-neou-diakladikou-kentrou-ekpaideysis-piloton-drone-stin-tripoli/",
-          "snippet": "Μετά τα εγκαίνια του εργοστασίου στην Μαλακάσα, το οποίο θα μπορεί να κατασκευάζει τα drones κατηγορίας II και III, ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας εγκαινίασε στην Τρίπολη και την σχολή των μελλοντικών χειριστών τους.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ρίμα Χασάν: «Με στοχοποιούν για να φιμώσουν όσους μιλάνε για γενοκτονία» – Τι λέει η γαλλίδα ευρωβουλευτής στο «Βήμα»",
-          "url": "https://www.tovima.gr/2026/07/06/world/rima-xasan-me-stoxopoioun-gia-na-fimosoun-osous-milane-gia-genoktonia-ti-leei-i-gallida-eyrovouleytis-sto-vima/",
-          "snippet": "Η ευρωβουλευτής, η υπόθεση της οποίας δοκιμάζει τα όρια της γαλλικής Δικαιοσύνης, μιλάει για όλους και για όλα - Τι απαντάει στις κατηγορίες για αντισημιτισμό και πως σχολιάζει τη στάση της ΕΕ σε Γάζα και Ιράν",
-          "source": "To Vima"
-        },
-        {
-          "title": "Βενεζουέλα: «Έτρωγα κέτσαπ με τυρί» – Διασώθηκε 12χρονη μετά από 32 ώρες στα ερείπια",
-          "url": "https://www.tovima.gr/2026/07/06/world/venezouela-etroga-ketsap-me-tyri-diasothike-12xroni-meta-apo-32-ores-sta-ereipia/",
-          "snippet": "«Είμαι ένας άνθρωπος με πολύ άγχος και κλειστοφοβία. Αλλά δεν ξέρω γιατί, με κυρίευσε μια παράξενη ηρεμία. Ίσως το μυαλό μου ήταν σε κατάσταση σοκ», είπε το κορίτσι - Στους 3.342 οι νεκροί",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ιράν: Το φέρετρο του Χαμενεΐ στους δρόμους της Τεχεράνης",
-          "url": "https://www.tovima.gr/2026/07/06/world/iran-to-feretro-tou-xamenei-stous-dromous-tis-texeranis/",
-          "snippet": "Σε κλίμα ακραίας έντασης και με τη συμμετοχή εκατοντάδων χιλιάδων ανθρώπων πραγματοποιείται στην Τεχεράνη η κηδεία του Αγιατολάχ Αλί Χαμενεΐ - Το απέραντο πλήθος που έχει κατακλύσει τους δρόμους της ιρανικής πρωτεύουσας ζητά εκδίκηση.",
           "source": "To Vima"
         }
       ]
@@ -108,9 +108,21 @@
       },
       "items": [
         {
-          "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
+          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
           "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
           "snippet": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+          "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Tyler Robinson, 23, is accused of murdering Kirk, a key Trump ally and founder of youth organisation Turning Point USA.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
+          "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
           "source": "BBC World"
         },
         {
@@ -123,6 +135,12 @@
           "title": "Wildfire in southern France forces evacuation of 10,000 people",
           "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
           "snippet": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+          "source": "BBC World"
+        },
+        {
+          "title": "More than 1,000 arrested as part of global human trafficking crackdown",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss",
+          "snippet": "Interpol says the vast majority of the 2,070 victims or potential victims identified were women being trafficked for sex.",
           "source": "BBC World"
         },
         {
@@ -150,9 +168,9 @@
           "source": "BBC World"
         },
         {
-          "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "title": "Super Typhoon Bavi strikes US Pacific islands with pummeling winds",
           "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+          "snippet": "The storm lashed the Mariana Islands, hitting Rota and prompting emergency warnings on Guam.",
           "source": "BBC World"
         },
         {
@@ -168,24 +186,6 @@
           "source": "BBC World"
         },
         {
-          "title": "Bangladesh courts China even as ties with India improve",
-          "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
-          "source": "BBC World"
-        },
-        {
-          "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
-          "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-          "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-          "source": "BBC World"
-        },
-        {
           "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
           "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
           "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
@@ -197,12 +197,48 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Bentley teases its first EV, the Torcal",
-        "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-        "snippet": "The new model will be officially unveiled in late September.",
+        "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+        "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+        "snippet": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
+          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+          "snippet": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
+          "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+          "snippet": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "F1 in Britain: Automated software to blame for crushing expectations",
+          "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+          "snippet": "Sometimes races finish behind a safety car, but it's not always satisfying.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "There were not one, but two asteroid encounters this weekend",
+          "url": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
+          "snippet": "The Torifune asteroid turns out to be shaped like a peanut.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+          "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+          "snippet": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Bentley teases its first EV, the Torcal",
+          "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
+          "snippet": "The new model will be officially unveiled in late September.",
+          "source": "Ars Technica"
+        },
         {
           "title": "The Czinger 21C might be the wildest car we drive all year",
           "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
@@ -250,42 +286,6 @@
           "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
           "snippet": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
           "source": "Ars Technica"
-        },
-        {
-          "title": "Despite the darkness, I still see signs of hope in America",
-          "url": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
-          "snippet": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Visiting the stars (and planets, and telescopes) in VR",
-          "url": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
-          "snippet": "Walkthrough experience includes visits to stars, exoplanets, and observatories.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Wing Commander IV and the FMV future that never quite was",
-          "url": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-          "snippet": "C:\\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Newly discovered PamStealer isn't your typical macOS malware",
-          "url": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-          "snippet": "The discovery underscores the increased effort being poured into Mac infostealers.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-          "url": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-          "snippet": "New US rules would legalize quiet supersonic flights without the sonic boom.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
-          "url": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
-          "snippet": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
-          "source": "Ars Technica"
         }
       ]
     },
@@ -293,12 +293,48 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Βαρύτατες ποινές σε Ναν και Τζόουνς - Τιμωρήθηκαν με αφαίρεση βαθμών Παναθηναϊκός και Ολυμπιακός",
-        "url": "https://www.skai.gr/news/sports/varytates-poines-se-nan-kai-tzoouns-afairesi-vathmon-gia-panathinaiko-kai-olympiako",
-        "snippet": "Ο Αθλητικός Δικαστής αντιμετώπισε με τη δέουσα αυστηρότητα την υπόθεση του άγριου διαπληκτισμού των Ναν και Τζόουνς στους φετινούς τελικούς της Stoiximan GBL",
+        "title": "Οι Miami Heat καλωσόρισαν τον Γιάννη Αντετοκούνμπο στη Φλόριντα",
+        "url": "https://www.skai.gr/news/sports/oi-miami-heat-kalosorisan-ton-gianni-antetokounmpo-sti-florinta",
+        "snippet": "Λίγα λεπτά μετά την ανάρτηση του κορυφαίου Έλληνα καλαθοσφαιριστή και το αντίο του στους Bucks, η καινούρια του ομάδα ανακοίνωσε την ιστορική ανταλλαγή",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Το «αντίο» του Γιάννη Αντετοκούνμπο στους Μπακς μέσω ενός συγκινητικού βίντεο",
+          "url": "https://www.skai.gr/news/sports/to-antio-tou-gianni-antetokounmpo-stous-mpaks-meso-enos-sygkinitikou-vinteo",
+          "snippet": "Ο Γ. Αντετοκούνμπο δημοσίευσε ένα συγκινητικό βίντεο με τις καλύτερες στιγμές του με τους Μπακς, αποχαιρετώντας το Μιλγουόκι μετά από 13 χρόνια παρουσίας στα «ελάφια»",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Με πρωτοβουλία Αλαφούζου κυκλοφορούν νέα, οικονομικά διαρκείας στο ΟΑΚΑ με... φόντο τον Βοτανικό",
+          "url": "https://www.skai.gr/news/sports/oaka-nea-oikonomika-diarkeias-me-protovoulia-alafouzou",
+          "snippet": "Απαραίτητη προϋπόθεση για τη διατήρηση του δικαιώματος προτεραιότητας, η ιδιότητα μέλους του Ερασιτέχνη Παναθηναϊκού για όσους είναι άνω των 18 ετών",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "ΚΑΕ ΑΕΚ: Ο Μάκης Αγγελόπουλος πούλησε το 1/4 της ομάδας σε επιχειρηματικούς κολοσσούς",
+          "url": "https://www.skai.gr/news/sports/kae-aek-o-makis-aggelopoulos-poulise-to-14-tis-omadas-se-epixeirimatikous-kolossous",
+          "snippet": "Ποσοστό των μετοχών πωλήθηκε στην De Agostini και στην Kojima Ltd - Τεράστια «ένεση» για την ΚΑΕ την ώρα που ξεκινά έργα ανάπλασης στα Άνω Λιόσια",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Και ο Παναθηναϊκός προσφεύγει στο ΑΣΕΑΔ για τις ποινές μετά το Game 5 στο ΣΕΦ",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-kai-aytos-sto-asead-gia-tis-poines-meta-to-game-5-sto-sef",
+          "snippet": "Η ΚΑΕ Παναθηναϊκός ξεκαθαρίζει ότι θα προσφύγει κι εκείνη στο ΑΣΕΑΔ για τις αποφάσεις και τις ποινές της αθλητικού δικαστή του ΕΣΑΚΕ έπειτα από το Game 5",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Προσφεύγει στο ΑΣΕΑΔ ο Ολυμπιακός για το -2 - Παράπονα και για την τιμωρία του Τζόουνς",
+          "url": "https://www.skai.gr/news/sports/olympiakos-prosfygi-sto-asead-gia-to-2-parapona-kai-gia-tin-timoria-tou-tzoouns",
+          "snippet": "Η ΚΑΕ Ολυμπιακός αποφάσισε να προσφύγει στο ΑΣΕΑΔ για την ποινή του αθλητικού δικαστή αναφορικά με την αφαίρεση βαθμών, αλλά και για την τιμωρία του Τζόουνς",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Βαρύτατες ποινές σε Ναν και Τζόουνς - Τιμωρήθηκαν με αφαίρεση βαθμών Παναθηναϊκός και Ολυμπιακός",
+          "url": "https://www.skai.gr/news/sports/varytates-poines-se-nan-kai-tzoouns-afairesi-vathmon-gia-panathinaiko-kai-olympiako",
+          "snippet": "Ο Αθλητικός Δικαστής αντιμετώπισε με τη δέουσα αυστηρότητα την υπόθεση του άγριου διαπληκτισμού των Ναν και Τζόουνς στους φετινούς τελικούς της Stoiximan GBL",
+          "source": "Skai Sports"
+        },
         {
           "title": "Ολυμπιακός: Ανακοίνωσε την απόκτηση του Σμαΐλοβιτς",
           "url": "https://www.skai.gr/news/sports/olympiakos-anakoinose-kai-episima-ton-smailovits",
@@ -346,42 +382,6 @@
           "url": "https://www.skai.gr/news/sports/fotia-sta-anatolika-pyrinaia-xoris-theates-to-3o-tou-podilatikou-gyrou-gallias",
           "snippet": "Το τρίτο ετάπ (στάδιο) του ποδηλατικού Γύρου Γαλλίας θα πραγματοποιηθεί τη Δευτέρα με κάποιες προσαρμογές, αλλά χωρίς τροποποίηση της διαδρομής",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Πάλεψε με την ψυχή του ο Μανόλο, αλλά έμεινε στην 3η θέση",
-          "url": "https://www.skai.gr/news/sports/palepse-me-psyxi-o-manolo-alla-emeine-stin-3i-thesi",
-          "snippet": "Σε σκληρή μονομαχία εξελίχθηκε το Fly Athens με τον Εμμανουήλ Καραλή να πραγματοποιεί μία χαμηλή πτήση για τα δεδομένα του και να κατακτά την 3η θέση",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Παπανικολάου: Ίσως μια πάρα πολύ χρήσιμη σφαλιάρα για να δούμε τι κάνουμε",
-          "url": "https://www.skai.gr/news/sports/papanikolaou-isos-mia-para-poly-xrisimi-sfaliara-gia-na-doume-ti-kanoume",
-          "snippet": "Απογοητευμένος και με διάθεση αυτοκριτικής, εμφανίστηκε στις δηλώσεις του μετά την σοκαριστική εντός έδρας ήττα της Εθνικής από την Πορτογαλία ο Κώστας Παπανικολάου",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Έξαλλος ο Σπανούλης: Να σκεφτούμε σε ποια ομάδα παίζουμε, σαν να ήρθαμε από διακοπές",
-          "url": "https://www.skai.gr/news/sports/eksallos-o-spanoulis-na-skeftoume-se-poia-omada-paizoume-san-na-irthame-apo-diakopes",
-          "snippet": "Ξέσπασε ο Βασίλης Σπανούλης μετά την ήττα της Εθνικής από την Πορτογαλία με 71-56 στα Άνω Λιόσια",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Μουντομπάσκετ 2027: Ιστορικό κάζο για την Εθνική από την Πορτογαλία και... έμπλεξε για τα καλά",
-          "url": "https://www.skai.gr/news/sports/prokrimatika-mountompasket-2027-odyniri-itta-me-56-71-apo-tin-portogalia",
-          "snippet": "Πραγματοποιώντας μια από τις πιο άσχημες εμφανίσεις των τελευταίων ετών, η Εθνική υπέστη ήττα-σοκ στη SUNEL Arena με 71-56 από την Πορτογαλία και πλέον μπλέκει ενόψει της β' φάσης των προκριματικών",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Έβαλε τις φωνές στους παίκτες ο Σπανούλης: «Σαν χεσμ@@@@ παίζουμε» - Δείτε βίντεο",
-          "url": "https://www.skai.gr/news/sports/evale-tis-fones-stous-paiktes-o-spanoulis-san-xesm%40%40%40%40-paizoume-deite-vinteo",
-          "snippet": "Ο Βασίλης Σπανούλης ήταν έξαλλος με τη συμπεριφορά και την αγωνιστική εικόνα των παικτών της Εθνικής μας στον «τελικό» με την Πορτογαλία στη Sunel Arena",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Ουναΐ: Γιατί πανηγύρισε έντονα τα γκολ του στο Μουντιάλ",
-          "url": "https://www.skai.gr/news/sports/ounai-giati-panigyrise-entona-ta-gkol-sto-mountial",
-          "snippet": "Το Μαρόκο προκρίθηκε για τα προημιτελικά και είναι ο λόγος που ο Ουναΐ πανηγύρισε έντονα τα δύο του γκολ στο Μουντιάλ κόντρα στον Καναδά",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,30 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
-        "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
-        "snippet": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
+        "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
+        "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
+        "snippet": "As Wall Street banks adopt digital currencies for faster settlements, overall trading volume spiked 63% in just a single month.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Strategy selling hundreds of millions worth of bitcoin raises question about its capital-allocation playbook",
+          "url": "https://www.coindesk.com/markets/2026/07/06/one-month-that-shook-the-market-saylor-s-struggles-over-bitcoin-strategy-yields-big-loss",
+          "snippet": "First, it was a tiny amount of bitcoin sales; then, the purchase of several thousand BTC; and finally, today, the unloading of thousands of BTC. What's happening at Strategy?",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum developers embrace Vitalik Buterin's long-term vision but urge quicker execution",
+          "url": "https://www.coindesk.com/tech/2026/07/06/ethereum-developers-embrace-vitalik-buterin-s-long-term-vision-but-urge-quicker-execution",
+          "snippet": "The \"Lean Ethereum\" strawmap, updated earlier this week, has gained support from many of the network's researchers, though several say the biggest challenge won't be deciding what to build, but how quickly it can happen.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
+          "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
+          "snippet": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
+          "source": "CoinDesk"
+        },
         {
           "title": "DeFi protocol Summer.fi halts Lazy Summer vaults after $6 million exploit",
           "url": "https://www.coindesk.com/web3/2026/07/06/defi-protocol-summer-fi-halts-lazy-summer-vaults-after-usd6-million-exploit",
@@ -460,24 +478,6 @@
           "url": "https://www.coindesk.com/business/2026/07/06/coinbase-ai-draws-backlash-after-pushing-world-cup-result-before-kickoff",
           "snippet": "CEO Brian Armstrong investigated, and the firm said it made updates to prevent future AI-generated inaccuracies.",
           "source": "CoinDesk"
-        },
-        {
-          "title": "FOMC minutes, SpaceX joins Nasdaq 100: Crypto Week Ahead",
-          "url": "https://www.coindesk.com/markets/2026/07/06/fomc-minutes-spacex-joins-nasdaq-100-crypto-week-ahead",
-          "snippet": "Your look at what's coming in the week starting July 6.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
-          "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
-          "snippet": "A revised roadmap details how the multi-year overhaul would replace nearly every major part of Ethereum's protocol, with quantum resistance and privacy moving up the priority list. It lands as ether rallies more than 12% in the past seven days.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Live markets: Bitcoin drops under $62,000 after Strategy sells 3,588 BTC",
-          "url": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
-          "snippet": "Strategy raised $216 milliion with the sale of 3,588 bitcoin last week.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,65 +485,83 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Dark Souls controls have ruined action games beyond Soulslikes",
-        "url": "https://www.polygon.com/dark-souls-control-scheme-bad/",
-        "snippet": "Dark Souls popularized a control scheme where the light attack button is on R1/RB. Action games have copied it for years, and I'm sick of it.",
+        "title": "All Xbox studios remaining following mass layoffs and restructure",
+        "url": "https://www.polygon.com/xbox-studio-status-2026/",
+        "snippet": "Here's what we know about every studio remaining at Xbox following the company's mass layoff announcement.",
         "source": "Polygon"
       },
       "items": [
         {
-          "title": "Halo multiplayer game, Project Ekur, reportedly canceled",
-          "url": "https://www.polygon.com/halo-multiplayer-game-project-ekur-cancelled-report/",
-          "snippet": "Project Ekur, a standalone Halo multiplayer game, has reportedly been canceled, according to a Halo leaker with a track record.",
+          "title": "Marvel Tokon unplayable in 132 countries, including Evo host Morocco",
+          "url": "https://www.polygon.com/marvel-tokon-fighting-game-unplayable-on-pc-which-countries/",
+          "snippet": "Sony is instituting a stubborn ban that will keep millions of players without PSN from playing Marvel Tokon: Fighting Souls",
           "source": "Polygon"
         },
         {
-          "title": "New Suikoden anime trailer showcases a slick look for this classic RPG adaptation",
-          "url": "https://www.polygon.com/suikoden-anime-second-trailer-watch/",
-          "snippet": "Konami's adaptation of it's classic role-playing game release later this year in japan",
+          "title": "AI 'actor' Tilly Norwood to star in a feature film after SAG-AFTRA backlash",
+          "url": "https://www.polygon.com/tilly-norwood-ai-actor-misaligned-announced-particle6/",
+          "snippet": "The AI-generated \"actor\" Tilly Norwood will debut in the feature film Misaligned about an AI's existensial crisis.",
           "source": "Polygon"
         },
         {
-          "title": "Attack on Titan studio's new anime awards are not a reaction to the Crunchyroll Awards",
-          "url": "https://www.polygon.com/wit-studio-tokyo-anime-next-japanese-awards/",
-          "snippet": "The announcement of the Tokyo Anime Next awards has been painted as a reaction to the Crunchyroll Anime Awards, but the truth is more complex",
+          "title": "Pokémon Go 'Road to Legends' event guide, raid schedule",
+          "url": "https://www.polygon.com/pokemon-go-road-to-legends-event-legendary-raid-schedule-go-pass/",
+          "snippet": "Here's everything you need to know about Pokémon Go's big \"Road to Legends\" event, including the Go Pass and raid schedule.",
           "source": "Polygon"
         },
         {
-          "title": "Xbox upheaval news: Rumors, changes, and cancelled games in 2026",
-          "url": "https://www.polygon.com/xbox-layoffs-cancellations-studio-closures/",
-          "snippet": "Xbox CEO Asha Sharma has implemented many changes over the past month. Here's every rumor, change, and game cancellation in our running news roundup.",
+          "title": "Dishonored co-creator asks Xbox CEO 'how much' to buy Arkane",
+          "url": "https://www.polygon.com/arkane-studios-founder-raphael-colantonio-xbox-buy-joke/",
+          "snippet": "Arkane, the studio behind Dishonored and more, has its future in question as Xbox cuts 4 other studios and lays off 3,200.",
           "source": "Polygon"
         },
         {
-          "title": "Microsoft announces Xbox Game Studios cuts, affecting 4 studios",
-          "url": "https://www.polygon.com/xbox-game-studios-cuts-closures-double-fine-ninja-theory-arkane/",
-          "snippet": "Xbox CEO Asha Sharma confirms 4 studios are leaving Microsoft, with a fifth, Arkane Studios, fate uncertain amid mass layoffs.",
+          "title": "Disney's Hexed directors explain why the film became a mother-daughter story",
+          "url": "https://www.polygon.com/hexed-director-interview-annecy/",
+          "snippet": "Hexed follows a rebellious teen discovering a magical world and her family's secrets.",
           "source": "Polygon"
         },
         {
-          "title": "Xbox to lay off over 3,200 employees",
-          "url": "https://www.polygon.com/xbox-july-2026-layoffs-compulsion-games-ninja-theory-undead-labs/",
-          "snippet": "Recent reports signaled Xbox would be laying off a significant number of employees in July. Today, it began those layoffs with more expected.",
+          "title": "The Nintendo Switch will no longer be produced from 2027 onward",
+          "url": "https://www.polygon.com/nintendo-switch-ceasing-production-replaceable-batteries-components/",
+          "snippet": "Nintendo is ceasing production of the original Switch in Europe from February 2027 onward, and the Switch 2 is getting a little heavier.",
           "source": "Polygon"
         },
         {
-          "title": "Pokémon has partnered with the Japanese soccer league to give every club a Pokémon mascot",
-          "url": "https://www.polygon.com/pokemon-japanese-league-mascots/",
-          "snippet": "The J. League has partnered with Pokémon to ensure all 60 clubs in the top three divisions have a mascot Pokémon that fits their team.",
+          "title": "Undead Labs spent eight years as an Xbox studio and still didn't make State of Decay 3",
+          "url": "https://www.polygon.com/undead-labs-state-of-decay-3-xbox-acquisition-no-games/",
+          "snippet": "As Xbox cuts ties with Ninja Theory, Compulsion, and Double Fine, Undead Labs' case is the worst but not the only case of mismanagement",
           "source": "Polygon"
         },
         {
-          "title": "Hot Dogs, Horseshoes & Hand Grenades finally leaves early access after 10 years",
-          "url": "https://www.polygon.com/hot-dogs-horseshoes-and-hand-grenades-release-10-years-early-access/",
-          "snippet": "The popular VR shooter, Hot Dogs, Horseshoes & Hand Grenades has finally left Steam Early Access after more than 10 years.",
+          "title": "GameStop raises its wild Pokémon 30th anniversary prices again and that's not even the worst part",
+          "url": "https://www.polygon.com/gamestop-pokemon-30th-anniversary-price-increase-upc-market-preorder/",
+          "snippet": "Pre-order market prices are out of control for the September TCG set, and likely to get worse the release date gets closer.",
           "source": "Polygon"
         },
         {
-          "title": "The Talos Principle 3 creators reveal new details about its hopeful grand finale",
-          "url": "https://www.polygon.com/the-talos-principle-3-interview/",
-          "snippet": "Despite the recent AI craze mutating their message, the developers behind The Talos Principle 3 are remaining hopeful in their big finale.",
+          "title": "Sony goes radio silent after announcing end of PlayStation physical discs",
+          "url": "https://www.polygon.com/sony-killing-physical-disc-releases-backlash-radio-silent/",
+          "snippet": "After announcing that it's killing physical disc releases on its platform, Sony's X account hasn't posted anything.",
           "source": "Polygon"
+        },
+        {
+          "title": "Independent again: Double Fine and Compulsion react to leaving Xbox and taking all their games with them",
+          "url": "https://www.eurogamer.net/double-fine-compulsion-games-statement-xbox-restructuring",
+          "snippet": "Psychonauts and Keeper developer Double Fine Productions, and South of Midnight and We Happy Few developer Compulsion Games, have reacted to their new futures as it's confirmed they will become independent developers again. Read more",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "As ZeniMax also faces cuts, Xbox seeks a \"significant overhaul\" to focus on Fallout, The Elder Scrolls, Quake, and other big franchises",
+          "url": "https://www.eurogamer.net/zenimax-bethesda-new-plans-include-more-fallout-elder-scrolls-quake",
+          "snippet": "Following weeks of rumours and speculation, Microsoft and Xbox have announced today around 3200 jobs are being cut before financial year 2027 ends, with a number of studios being let go to find new owners or go independent. As more details pour out, we've also learned ZeniMax Med",
+          "source": "Eurogamer"
+        },
+        {
+          "title": "Xbox CEO Asha Sharma wants the company to \"entertain more than a billion people\" every day: here's why that's a deeply unrealistic thing to say",
+          "url": "https://www.eurogamer.net/xbox-ceo-asha-sharma-one-billion",
+          "snippet": "Xbox CEO Asha Sharma has expressed hopes that Xbox can be a company that \"entertains more than a billion people each day\" amidst drastic change at the company. Read more",
+          "source": "Eurogamer"
         },
         {
           "title": "Nintendo has detailed rollout plans for Switch 2 product revisions in Europe with replaceable batteries, and Switch 1 consoles are being discontinued",
@@ -555,24 +573,6 @@
           "title": "Microsoft announces 3200 layoffs and four studio departures in \"most significant\" Xbox restructuring in history",
           "url": "https://www.eurogamer.net/microsoft-xbox-layoffs-2026-double-fine-compulsion-ninja-theory",
           "snippet": "The news is finally out. Microsoft is laying off thousands of people from its Xbox division and losing four game studios from its roster. Those studios are Double Fine, Compulsion Games, Ninja Theory and Undead Labs, with Arkane Lyon in talks for being removed. Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Palworld developer confirms when the version 1.0 update will go live",
-          "url": "https://www.eurogamer.net/palworld-1-0-update-launch-times-save-wipes",
-          "snippet": "July may be a quiet month when it comes to new game releases, but one of the biggest games of 2024 is graduating out of Early Access during the month. Palworld, the survival and creature-collecting hybrid whose characters look similar to Pokemon - but are legally distinct, will r",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "You can sort-of play Mario Kart on YouTube as an \"interactive video\" that could lead to more complex experiments",
-          "url": "https://www.eurogamer.net/mario-kart-youtube-interactive-video",
-          "snippet": "There's a whole world of shockingly creative YouTube channels out there, but it's not often we come across something as surprising as Atlas Arcade's playable Mario Kart video. Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "\"If anyone encounters the same error, don't panic like I did\" - Steam Machine suffering \"red line of death\" comes back to life",
-          "url": "https://www.eurogamer.net/steam-machine-red-line-of-death-working-again",
-          "snippet": "The Steam Machine that suffered a \"red line of death\" last week that was thought to indicate a serious graphics card issue has miraculously sprung back to life. Read more",
           "source": "Eurogamer"
         }
       ]
