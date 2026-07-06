@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-05T20:49:11.626252+00:00",
+  "updated": "2026-07-06T02:24:53.336227+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Εντατικοί έλεγχοι για τις φωτιές – 20 συλλήψεις τις πρώτες πέντε ημέρες του Ιουλίου",
-        "url": "https://www.tovima.gr/2026/07/05/society/entatikoi-elegxoi-gia-tis-pyrkagies-20-syllipseis-tis-protes-pente-imeres-tou-iouliou/",
-        "snippet": "Εντατικοποιήθηκαν οι έλεγχοι του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών τις πρώτες ημέρες του Ιουλίου, με τις αρχές να προχωρούν σε δεκάδες συλλήψεις και την εφαρμογή της αυτόφωρης διαδικασίας σε περιπτώσεις πρόκλησης φωτιάς από αμέλεια",
+        "title": "5 το πρωί: Συναγερμός για τις φωτιές – Πολιτικός «πόλεμος» στην επέτειο των ΗΠΑ – Το φιάσκο με τους Ρώσους φαρσέρ",
+        "url": "https://www.tovima.gr/2026/07/06/5-to-proi/5-to-proi-synagermos-gia-tis-foties-politikos-polemos-stin-epeteio-ton-ipa-to-fiasko-me-tous-rosous-farser/",
+        "snippet": "Σε κατάσταση διαρκούς επιφυλακής βρίσκεται ο κρατικός μηχανισμός μετά τις 96 πυρκαγιές που ξέσπασαν το τελευταίο διήμερο στη χώρα, με την προσοχή να στρέφεται πλέον στα νησιά, για τα οποία προειδοποιεί η Πολιτική Προστασία",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Γιατί εξαφανίζονται τα ελληνικά diners στη Νέα Υόρκη",
+          "url": "https://www.tovima.gr/2026/07/05/world/giati-eksafanizontai-ta-ellinika-diners-sti-nea-yorki/",
+          "snippet": "Για δεκαετίες υπήρξαν αναπόσπαστο κομμάτι της καθημερινής ζωής στη Νέα Υόρκη και σύμβολο της επιτυχίας της ελληνικής ομογένειας. Σήμερα, τα ιστορικά ελληνικά diners κλείνουν το ένα μετά το άλλο, αφήνοντας πίσω τους μια σημαντική σελίδα της μεταναστευτικής ιστορίας των ΗΠΑ",
+          "source": "To Vima"
+        },
+        {
+          "title": "Εντατικοί έλεγχοι για τις φωτιές – 20 συλλήψεις τις πρώτες πέντε ημέρες του Ιουλίου",
+          "url": "https://www.tovima.gr/2026/07/05/society/entatikoi-elegxoi-gia-tis-pyrkagies-20-syllipseis-tis-protes-pente-imeres-tou-iouliou/",
+          "snippet": "Εντατικοποιήθηκαν οι έλεγχοι του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών τις πρώτες ημέρες του Ιουλίου, με τις αρχές να προχωρούν σε δεκάδες συλλήψεις και την εφαρμογή της αυτόφωρης διαδικασίας σε περιπτώσεις πρόκλησης φωτιάς από αμέλεια",
+          "source": "To Vima"
+        },
         {
           "title": "Π. Μαρινάκης: «Χρέος της κυβέρνησης είναι να εφαρμόζει μια πολιτική για το παρόν και το μέλλον»",
           "url": "https://www.tovima.gr/2026/07/05/politics/p-marinakis-xreos-tis-kyvernisis-einai-na-efarmozei-mia-politiki-gia-to-paron-kai-to-mellon/",
@@ -82,18 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/05/society/dimografiko-i-ellada-gerna-i-perifereia-adeiazei-ti-syzitithike-se-imerida-sti-xio/",
           "snippet": "Το πρόβλημα δεν είναι μόνο ότι γεννιούνται λιγότερα παιδιά, αλλά ότι κάθε χρόνο μειώνεται και ο αριθμός των ανθρώπων που βρίσκονται σε ηλικία να αποκτήσουν παιδιά.",
           "source": "To Vima"
-        },
-        {
-          "title": "Παράγοντας αστάθειας",
-          "url": "https://www.tovima.gr/2026/07/05/opinions/paragontas-astatheias/",
-          "snippet": "Ο Πρωθυπουργός όχι μόνο δεν μοιάζει διατεθειμένος να αποχωρήσει από το πολιτικό προσκήνιο, αλλά έχει πει στους υπουργούς ότι το μόνο που τον ενδιαφέρει πραγματικά είναι η τρίτη θητεία.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τα αδιέξοδα της «σταθερότητας»",
-          "url": "https://www.tovima.gr/2026/07/05/politics/ta-adieksoda-tis-statherotitas/",
-          "snippet": "Πώς η απομόνωση του Κυριάκου Μητσοτάκη εξελίσσεται σε παράγοντα αστάθειας",
-          "source": "To Vima"
         }
       ]
     },
@@ -114,15 +114,33 @@
           "source": "BBC World"
         },
         {
+          "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+          "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+          "source": "BBC World"
+        },
+        {
+          "title": "A global hub for fake luxury goods, Vietnam cracks down on its black market",
+          "url": "https://www.bbc.co.uk/news/articles/cdx7zzywz7wo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The Trump administration wants Vietnam to stamp out its booming counterfeit industry. Locals are divided.",
+          "source": "BBC World"
+        },
+        {
           "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
           "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
           "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
           "source": "BBC World"
         },
         {
-          "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+          "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
+          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+          "snippet": "Albanese has apologised 'unequivocally' after his remarks were met with a wave of backlash.",
           "source": "BBC World"
         },
         {
@@ -132,15 +150,21 @@
           "source": "BBC World"
         },
         {
-          "title": "Evacuations in Guam as super typhoon Bavi approaches",
-          "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-          "source": "BBC World"
-        },
-        {
           "title": "'Definitely felt a big bang': Delta plane hit by firework while landing in Chicago",
           "url": "https://www.bbc.co.uk/news/articles/cj4gg89r9gdo?at_medium=RSS&at_campaign=rss",
           "snippet": "The plane had 52 passengers and six crew onboard. No injuries were reported.",
+          "source": "BBC World"
+        },
+        {
+          "title": "The African fishermen who blame Chinese trawlers for their woes",
+          "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Bangladesh courts China even as ties with India improve",
+          "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
           "source": "BBC World"
         },
         {
@@ -150,27 +174,9 @@
           "source": "BBC World"
         },
         {
-          "title": "Chinese underground church figure Jin Mingri freed from prison",
-          "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-          "source": "BBC World"
-        },
-        {
           "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
           "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
           "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-          "source": "BBC World"
-        },
-        {
-          "title": "Eight rescued from seaplane that made 'hard landing' in Manhattan river",
-          "url": "https://www.bbc.co.uk/news/articles/c20yy4r4g64o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Eight people were removed from the Kodiak 100 seaplane by fire department units and two had minor injures.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Trump thanks Fifa for spending USA striker's ban",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cewqq5q8v41o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Folarin Balogun is available to play for the United States in their World Cup last-16 tie against Belgium after his one-game ban is suspended by Fifa.",
           "source": "BBC World"
         },
         {
@@ -183,12 +189,6 @@
           "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
           "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
           "snippet": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
-          "source": "BBC World"
-        },
-        {
-          "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-          "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-          "snippet": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
           "source": "BBC World"
         }
       ]
@@ -485,12 +485,24 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "King of the Hill season 15 officially begins in 3 weeks — what to know",
-        "url": "https://www.polygon.com/king-of-the-hill-season-15-release-date/",
-        "snippet": "'Yep.'",
+        "title": "House of the Dragon stars explain why their season 3 reunion is so nerve-wracking to watch",
+        "url": "https://www.polygon.com/house-of-the-dragons-season-3-episode-3-interview/",
+        "snippet": "As a prisoner in the Red Keep, Alicent Hightower has to find a new way to work with her old best friend.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Rick and Morty spinoff President Curtis premieres in 3 weeks — what you need to know",
+          "url": "https://www.polygon.com/rick-and-morty-president-curtis-premiere-release-date-story/",
+          "snippet": "Here's everything we know about the show where the President of the United States faces occult and alien threats.",
+          "source": "Polygon"
+        },
+        {
+          "title": "King of the Hill season 15 officially begins in 3 weeks — what to know",
+          "url": "https://www.polygon.com/king-of-the-hill-season-15-release-date/",
+          "snippet": "'Yep.'",
+          "source": "Polygon"
+        },
         {
           "title": "Minions and Supergirl's rough weekend shows audiences are feeling franchise fatigue",
           "url": "https://www.polygon.com/minions-and-monsters-supergirl-fourth-of-july-box-office/",
@@ -531,18 +543,6 @@
           "title": "Cyberpunk: Edgerunners studio teases more Delicious in Dungeon, new project from Promare's creators",
           "url": "https://www.polygon.com/delicious-in-dungeon-season-2-trigger-new-projects/",
           "snippet": "A second season of Delicious in Dungeon and a new project from Kill la Kill and Promare creators Hiroyuki Imaishi and Kazuki Nakashima are on the way",
-          "source": "Polygon"
-        },
-        {
-          "title": "Telltale's Game of Thrones is the only game to match HBO's intensity",
-          "url": "https://www.polygon.com/telltale-game-of-thrones-recommendation/",
-          "snippet": "House of the Dragon viewers wanting more Game of Thrones in their life should look to Telltale's choice-based, episodic adventure from 2014.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Doctor Who's best companion pairing wasn't a love story like fans think",
-          "url": "https://www.polygon.com/doctor-who-best-doctor-companion-clara-twelve/",
-          "snippet": "The Doctor has had many great companions throughout the years, but this particular pairing stands head and shoulders above the rest.",
           "source": "Polygon"
         },
         {
