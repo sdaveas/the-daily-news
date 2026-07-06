@@ -1,16 +1,64 @@
 {
-  "updated": "2026-07-06T18:05:29.702392+00:00",
+  "updated": "2026-07-06T21:22:29.411470+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "«Εξελίξεις τώρα» με την Αναστασία Γιάμαλη: Στην πρώτη θέση της τηλεθέασης το Σαββατοκύριακο 4 και 5 Ιουλίου",
-        "url": "https://www.tovima.gr/2026/07/06/media/ekselikseis-tora-me-tin-anastasia-giamali-stin-proti-thesi-tis-tiletheasis-to-savvatokyriako-4-kai-5-iouliou/",
-        "snippet": "Με έμφαση στην έγκυρη ενημέρωση και την ανάδειξη σημαντικών θεμάτων της επικαιρότητας, οι «Εξελίξεις τώρα» πρωταγωνιστούν στην ενημέρωση του Σαββατοκύριακου",
+        "title": "Μουντιάλ 2026: Η Ισπανία λύγισε την Πορτογαλία στις καθυστερήσεις και πέρασε στους «8»",
+        "url": "https://www.tovima.gr/2026/07/07/sports/mountial-2026-i-ispania-lygise-tin-portogalia-stis-kathysteriseis-kai-perase-stous-8/",
+        "snippet": "Ένα «χρυσό» γκολ του Μερίνο στο πρώτο λεπτό των καθυστερήσεων χάρισε στην Ισπανία τη νίκη με 1-0 επί της Πορτογαλίας στο Ντάλας, στέλνοντας τη «Ρόχα» στους προημιτελικούς του Μουντιάλ 2026 για πρώτη φορά μετά το 2010",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "«Εκρηκτική» τραπεζική κρίση στη Ρωσία λόγω του κόστους του πολέμου – Τι αποκαλύπτει απόρρητη έκθεση",
+          "url": "https://www.tovima.gr/2026/07/06/world/ekriktiki-trapeziki-krisi-sti-rosia-logo-tou-kostous-tou-polemou-ti-apokalyptei-aporriti-ekthesi/",
+          "snippet": "Στις πιέσεις που δέχεται ο χρηματοπιστωτικός τομέας της Ρωσίας λόγω της παρατεταμένης χρηματοδότησης των αμυντικών και κρατικών προγραμμάτων εστιάζει έγγραφο ευρωπαϊκών αρχών ασφαλείας",
+          "source": "To Vima"
+        },
+        {
+          "title": "Σύνοδος ΝΑΤΟ στην Άγκυρα: Ο Τραμπ επιστρέφει για το «πρώτο report card» – Πιέσεις για το 5%, το παρασκήνιο με Ρούτε, Μελόνι, Συρία",
+          "url": "https://www.tovima.gr/2026/07/06/world/synodos-nato-stin-agkyra-o-tramp-epistrefei-gia-to-proto-report-card-pieseis-gia-to-5-to-paraskinio-me-route-meloni-syria/",
+          "snippet": "Με φόντο τις νέες αμυντικές δαπάνες μαμούθ, ο αμερικανός πρόεδρος φτάνει στην Τουρκία έτοιμος να επιβάλει τη θέλησή του, την ώρα που ο Μαρκ Ρούτε προαναγγέλλει συμβόλαια δεκάδων δισεκατομμυρίων",
+          "source": "To Vima"
+        },
+        {
+          "title": "Microsoft: Απολύει χιλιάδες εργαζομένους – Τι συμβαίνει με Xbox και Τεχνητή Νοημοσύνη",
+          "url": "https://www.tovima.gr/2026/07/06/world/microsoft-apolyei-xiliades-ergazomenous-ti-symvainei-me-xbox-kai-texniti-noimosyni/",
+          "snippet": "Μπαράζ απολύσεων στον αμερικανικό κολοσσό - Ανακοίνωσε άμεσο «ψαλίδι» σε 4.800 θέσεις εργασίας παγκοσμίως, με το βαρύ τίμημα να πέφτει στο τμήμα των βιντεοπαιχνιδιών - Ποια είναι η επίσημη θέση της εταιρείας για τον ρόλο του AI και ποιοι ακολουθούν μέχρι το 2027",
+          "source": "To Vima"
+        },
+        {
+          "title": "Τραγωδία στη Σπάρτη: Δύο νεκροί σε μετωπική σύγκρουση ΙΧ με πυροσβεστικό όχημα",
+          "url": "https://www.tovima.gr/2026/07/06/society/tragodia-sti-sparti-dyo-nekroi-se-metopiki-sygkrousi-ix-me-pyrosvestiko-oxima/",
+          "snippet": "Δύο άνθρωποι έχασαν τη ζωή τους το απόγευμα της Δευτέρας σε σφοδρή μετωπική σύγκρουση επιβατικού αυτοκινήτου με πυροσβεστικό όχημα στην Εθνική Οδό Σπάρτης – Τρίπολης, στο ύψος της Σελλασίας",
+          "source": "To Vima"
+        },
+        {
+          "title": "Θλίψη στην Κρήτη: Το τελευταίο «αντίο» στη δημοσιογράφο Μαρία Αντωνογιαννάκη",
+          "url": "https://www.tovima.gr/2026/07/06/society/thlipsi-stin-kriti-to-teleytaio-antio-sti-dimosiografo-maria-antonogiannaki/",
+          "snippet": "Σε κλίμα βαθιάς οδύνης, συγγενείς, φίλοι και συνάδελφοι αποχαιρέτησαν την 46χρονη δημοσιογράφο που έφυγε ξαφνικά από τη ζωή - Η ιατροδικαστική εξέταση έδειξε εγκεφαλικό επεισόδιο",
+          "source": "To Vima"
+        },
+        {
+          "title": "Θεσσαλονίκη: 3η μέρα του εφιάλτη στο Ωραιόκαστρο – 5 εκατ. ευρώ για τις πρώτες «πληγές»",
+          "url": "https://www.tovima.gr/2026/07/06/society/thessaloniki-3i-mera-tou-efialti-sto-oraiokastro-5-ekat-eyro-gia-tis-protes-pliges/",
+          "snippet": "Καθώς Πυροσβεστική και σκαπτικά μηχανήματα δίνουν μάχη με τις κρυφές εστίες, κάτω από τόνους αποκαΐδια, οι επιστήμονες εκπέμπουν σήμα κινδύνου για την ποιότητα του αέρα - Κατάσταση έκτακτης ανάγκης στις πληγείσες περιοχές - Πρώτα μέτρα στήριξης",
+          "source": "To Vima"
+        },
+        {
+          "title": "Και επίσημα στους Μαϊάμι Χιτ ο Γιάννης Αντετοκούνμπο",
+          "url": "https://www.tovima.gr/2026/07/06/sports/kai-episima-stous-maiami-xit-o-giannis-antetokounmpo/",
+          "snippet": "Ο Αντετοκούνμπο αποχωρεί από τους Μπακς ως ο κορυφαίος παίκτης στην ιστορία του συλλόγου, έχοντας καταρρίψει σχεδόν όλα τα σημαντικά ρεκόρ της ομάδας.",
+          "source": "To Vima"
+        },
+        {
+          "title": "«Εξελίξεις τώρα» με την Αναστασία Γιάμαλη: Στην πρώτη θέση της τηλεθέασης το Σαββατοκύριακο 4 και 5 Ιουλίου",
+          "url": "https://www.tovima.gr/2026/07/06/media/ekselikseis-tora-me-tin-anastasia-giamali-stin-proti-thesi-tis-tiletheasis-to-savvatokyriako-4-kai-5-iouliou/",
+          "snippet": "Με έμφαση στην έγκυρη ενημέρωση και την ανάδειξη σημαντικών θεμάτων της επικαιρότητας, οι «Εξελίξεις τώρα» πρωταγωνιστούν στην ενημέρωση του Σαββατοκύριακου",
+          "source": "To Vima"
+        },
         {
           "title": "Σφοδρή επίθεση ΠαΣοΚ σε Σαμαρά – Μαξίμου: «Ανταποκρίθηκε με καθυστέρηση στο αυτονόητο – Ομολογία ενοχής για το Predator»",
           "url": "https://www.tovima.gr/2026/07/06/politics/sfodri-epithesi-pasok-se-samara-maksimou-antapokrithike-me-kathysterisi-sto-aytonoito-omologia-enoxis-gia-to-predator/",
@@ -45,54 +93,6 @@
           "title": "Αυτή την Κυριακή με ΤΟ ΒΗΜΑ: «35 Συνταγές για το Καλοκαίρι – Σαλάτες & Ελαφριά Γεύματα» της Αργυρώς Μπαρμπαρίγου",
           "url": "https://www.tovima.gr/2026/07/06/media/ayti-tin-kyriaki-me-to-vima-35-syntages-gia-to-kalokairi-salates-elafria-geymata-tis-argyros-mparmparigou/",
           "snippet": "Στις σελίδες του βιβλίου θα βρείτε 35 συνταγές για σαλάτες και ελαφριά πιάτα που αξιοποιούν ό,τι καλύτερο προσφέρει το ελληνικό καλοκαίρι",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ηράκλειο: Πώς μια καταγγελία για κλοπή κινητού αποκάλυψε υπόθεση άγριας κακοποίησης",
-          "url": "https://www.tovima.gr/2026/07/06/society/irakleio-pos-mia-kataggelia-gia-klopi-kinitou-apokalypse-ypothesi-agrias-kakopoiisis-55xronis/",
-          "snippet": "Μια τυχαία έρευνα της ΕΛ.ΑΣ. για την κλοπή τηλεφωνικής συσκευής οδήγησε στον εντοπισμό 11 σοκαριστικών βίντεο και στην εξάρθρωση υπόθεσης παράνομης κατακράτησης και βίας στην Κρήτη - Το θύμα κατάφερε να διαφύγει - Σε συλλήψεις προχώρησαν οι Αρχές",
-          "source": "To Vima"
-        },
-        {
-          "title": "Αυτή την Κυριακή με το ΒΗΜΑ: Η «Πριγκιπέσα Ιζαμπώ» του Άγγελου Τερζάκη",
-          "url": "https://www.tovima.gr/2026/07/06/media/ayti-tin-kyriaki-me-to-vima-i-prigkipesa-izampo-tou-aggelou-terzaki/",
-          "snippet": "Κυκλοφορεί αυτή την Κυριακή 12 Ιουλίου με το ΒΗΜΑ της Κυριακής",
-          "source": "To Vima"
-        },
-        {
-          "title": "«Οδύσσεια» του Νόλαν: Πόλεμος για το καστ και ρεκόρ αρνητικών αντιδράσεων στο YouTube πριν από την πρεμιέρα",
-          "url": "https://www.tovima.gr/2026/07/06/culture/odysseia-tou-nolan-polemos-gia-to-kast-kai-rekor-arnitikon-antidraseon-sto-youtube-prin-apo-tin-premiera/",
-          "snippet": "Στο παρά 5΄ της πρεμιέρας της στο Λονδίνο, η «Οδύσσεια» του Κρίστοφερ Νόλαν βρίσκεται στο επίκεντρο σφοδρής διαδικτυακής διαμάχης. Τι φταίει και γιατί το τρέιλερ καταγράφει ρεκόρ αρνητικών αξιολογήσεων;",
-          "source": "To Vima"
-        },
-        {
-          "title": "ΠαΣοΚ: Παράθυρο συνεργασίας με ΝΔ ανοίγει ο Σγουρός – «Θα με κρεμάσουν»",
-          "url": "https://www.tovima.gr/2026/07/06/politics/foties-sto-pasok-apo-sgouro-anoigei-parathyro-synergasias-me-nd-tha-me-kremasoun/",
-          "snippet": "Ο υποψήφιος βουλευτής της Χαριλάου Τρικούπη Σγουρός άφησε ανοιχτό το ενδεχόμενο μετεκλογικής συνεργασίας με την «Πειραιώς», σε περίπτωση που το επιβάλλουν οικονομικές ή εθνικές συνθήκες, «αδειάζοντας» τις μέχρι τώρα κατηγορηματικές αρνήσεις του Νίκου Ανδρουλάκη",
-          "source": "To Vima"
-        },
-        {
-          "title": "Μπάσκετ: Αφαίρεση βαθμών σε Παναθηναϊκό και Ολυμπιακό – 7 αγωνιστικές σε Τζόουνς, 2 σε Ναν",
-          "url": "https://www.tovima.gr/2026/07/06/sports/mpasket-afairesi-vathmon-se-panathinaiko-kai-olympiako-7-agonistikes-se-tzoouns-2-se-nan/",
-          "snippet": "«Καμπάνες» μεγατόνων από τον Αθλητικό Δικαστή του ΕΣΑΚΕ για τα όσα εκτυλίχθηκαν στο Game 5 των τελικών του Final Four - Ποιες είναι οι ποινές για τις δύο ΚΑΕ και τους πρωταγωνιστές των επεισοδίων",
-          "source": "To Vima"
-        },
-        {
-          "title": "Φωτιά στην Αγία Ελένη Τροιζηνίας: «Απομακρυνθείτε προς Άνω Φανάρι»",
-          "url": "https://www.tovima.gr/2026/07/06/society/fotia-stin-agia-eleni-troizinias-apomakryntheite-pros-ano-fanari/",
-          "snippet": "Για την κατάσβεσή της άμεσα κινητοποιήθηκαν επίγειες και εναέριες δυνάμεις του Πυροσβεστικού Σώματος και συγκεκριμένα 110 πυροσβέστες με 5 ομάδες πεζοπόρων τμημάτων της 9ης ΕΜΟΔΕ, και 23 οχήματα, ενώ από αέρος κινητοποιήθηκαν 10 αεροσκάφη και 6 ελικόπτερα.",
-          "source": "To Vima"
-        },
-        {
-          "title": "ΝΑΤΟ: Την Τρίτη στις 15.00 η συνάντηση Ερντογάν-Τραμπ – Το πρόγραμμα του Αμερικανού πρόεδρου",
-          "url": "https://www.tovima.gr/2026/07/06/world/nato-tin-triti-stis-15-00-i-synantisi-erntogan-tramp-to-programma-tou-amerikanou-proedrou/",
-          "snippet": "Ο Λευκός Οίκος έδωσε στη δημοσιότητα το αναλυτικό πρόγραμμα της επίσκεψης του Αμερικανού προέδρου Ντόναλντ Τραμπ στην Άγκυρα για τη Σύνοδο Κορυφής του ΝΑΤΟ",
-          "source": "To Vima"
-        },
-        {
-          "title": "Υπήρχε ζωή πριν από το air conditioner;",
-          "url": "https://www.tovima.gr/2026/07/06/vimagazino/ypirxe-zoi-prin-apo-to-air-conditioner/",
-          "snippet": "Πώς το air conditioner μετατράπηκε από μια βιομηχανική πατέντα του 1902 στην πιο αμφιλεγόμενη συσκευή του 21ου αιώνα; Η ιστορία της τεχνητής δροσιάς που άλλαξε τις πόλεις, η σθεναρή αντίσταση της Ευρώπης στον κλιματισμό και το φαινόμενο της κλιματικής ένδειας.",
           "source": "To Vima"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
-        "url": "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-        "snippet": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+        "title": "What's the oldest Americana flown in space?",
+        "url": "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+        "snippet": "From a Revolutionary War flag to the Statue of Liberty...",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "NRC is (sort of) getting rid of \"as low as reasonably achievable\" standard",
+          "url": "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+          "snippet": "Its issues with current nuclear safety standards are termed semantic, not physical.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Katalyst's satellite rescue mission is now in pursuit of NASA's Swift",
+          "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+          "snippet": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
+          "source": "Ars Technica"
+        },
         {
           "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
           "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
@@ -274,18 +286,6 @@
           "url": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
           "snippet": "Biology could explain the find, but there are other potential explanations.",
           "source": "Ars Technica"
-        },
-        {
-          "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
-          "url": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
-          "snippet": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
-          "url": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-          "snippet": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
-          "source": "Ars Technica"
         }
       ]
     },
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Οι Miami Heat καλωσόρισαν τον Γιάννη Αντετοκούνμπο στη Φλόριντα",
-        "url": "https://www.skai.gr/news/sports/oi-miami-heat-kalosorisan-ton-gianni-antetokounmpo-sti-florinta",
-        "snippet": "Λίγα λεπτά μετά την ανάρτηση του κορυφαίου Έλληνα καλαθοσφαιριστή και το αντίο του στους Bucks, η καινούρια του ομάδα ανακοίνωσε την ιστορική ανταλλαγή",
+        "title": "Τρομερές καταγγελίες Ερασιτέχνη ΠΑΟΚ κατά ΚΑΕ: «Αθετήθηκαν όλες οι συμφωνίες - Ούτε 1 ευρώ στα ταμεία μας»",
+        "url": "https://www.skai.gr/news/sports/erasitexnis-paok-kata-kae-athetithikan-oles-oi-symfonies-oute-1-eyro-sta-tameia-mas",
+        "snippet": "Ο ΑΣ ΠΑΟΚ εξαπέλυσε βαριές καταγγελίες κατά της ΚΑΕ, κάνοντας λόγο για πλήρη αθέτηση συμφωνιών. Στον αέρα η κρίσιμη συμφωνία για το Παλατάκι",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Η ΑΕΚ στη μάχη για τον Σιμινιανί της Λουγκάνο σύμφωνα με τον Ρούντι Γκαλέτι!",
+          "url": "https://www.skai.gr/news/sports/aek-senario-gia-simianini-apo-lougkano",
+          "snippet": "Η ΑΕΚ σύμφωνα με τον έγκυρο δημοσιογράφο Ρούντι Γκαλέτι εξετάζει σοβαρά την περίπτωση του Γιανίς Σιμινιανί της Λουγκάνο, με τον 24χρονο Γάλλο χαφ να βρίσκεται στο στόχαστρο και άλλων ομάδων",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Οι Miami Heat καλωσόρισαν τον Γιάννη Αντετοκούνμπο στη Φλόριντα",
+          "url": "https://www.skai.gr/news/sports/oi-miami-heat-kalosorisan-ton-gianni-antetokounmpo-sti-florinta",
+          "snippet": "Λίγα λεπτά μετά την ανάρτηση του κορυφαίου Έλληνα καλαθοσφαιριστή και το αντίο του στους Bucks, η καινούρια του ομάδα ανακοίνωσε την ιστορική ανταλλαγή",
+          "source": "Skai Sports"
+        },
         {
           "title": "Το «αντίο» του Γιάννη Αντετοκούνμπο στους Μπακς μέσω ενός συγκινητικού βίντεο",
           "url": "https://www.skai.gr/news/sports/to-antio-tou-gianni-antetokounmpo-stous-mpaks-meso-enos-sygkinitikou-vinteo",
@@ -369,18 +381,6 @@
           "title": "Θεαματική εκκίνηση για το AEGEAN 600 στο Αιγαίο - Βρούτσης: «Είναι ένα Παγκόσμιο αθλητικό γεγονός»",
           "url": "https://www.skai.gr/news/sports/theamatiki-ekkinisi-gia-to-aegean-600-sto-aigaio-vroutsis-einai-ena-pagkosmio-athlitiko-ge",
           "snippet": "Για περισσότερο από 2 ώρες, τα αγωνιστικά σκάφη, με βορειανατολικό άνεμο εντάσεως από 20 ως 25 κόμβους, γέμισαν με …αδρεναλίνη τον θαλάσσιο στίβο",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Παναθηναϊκός: Ξεμπέρδεψε με Σενεγάλη και έρχεται για ιατρικά και υπογραφές ο Μπάντιο - Ακολουθεί Μπόνγκα",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-ksemperdepse-me-senegali-kai-erxetai-gia-ypografes-o-mpantio",
-          "snippet": "Ο Μπάντιο ολοκλήρωσε τις υποχρεώσεις του με την Σενεγάλη και έρχεται στην Αθήνα για να κλείσει και τυπικά η μεταγραφή στον Παναθηναϊκό",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Φωτιά στα Ανατολικά Πυρηναία: Xωρίς θεατές το 3ο στάδιο του ποδηλατικού Γύρου Γαλλίας",
-          "url": "https://www.skai.gr/news/sports/fotia-sta-anatolika-pyrinaia-xoris-theates-to-3o-tou-podilatikou-gyrou-gallias",
-          "snippet": "Το τρίτο ετάπ (στάδιο) του ποδηλατικού Γύρου Γαλλίας θα πραγματοποιηθεί τη Δευτέρα με κάποιες προσαρμογές, αλλά χωρίς τροποποίηση της διαδρομής",
           "source": "Skai Sports"
         }
       ]
@@ -485,64 +485,64 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "All Xbox studios remaining following mass layoffs and restructure",
-        "url": "https://www.polygon.com/xbox-studio-status-2026/",
-        "snippet": "Here's what we know about every studio remaining at Xbox following the company's mass layoff announcement.",
+        "title": "Xbox layoffs hit Bethesda: Elder Scrolls Online developer 'gutted'",
+        "url": "https://www.polygon.com/xbox-bethesda-layoffs-elder-scrolls-online/",
+        "snippet": "On Monday, Xbox announced significant layoffs. Bethesda has been reportedly hit hard by job losses, especially the Elder Scrolls Online team.",
         "source": "Polygon"
       },
       "items": [
         {
-          "title": "Marvel Tokon unplayable in 132 countries, including Evo host Morocco",
-          "url": "https://www.polygon.com/marvel-tokon-fighting-game-unplayable-on-pc-which-countries/",
-          "snippet": "Sony is instituting a stubborn ban that will keep millions of players without PSN from playing Marvel Tokon: Fighting Souls",
+          "title": "Kirby Air Riders' Summer Games Done Quick debut proves why it's the Switch 2's best game",
+          "url": "https://www.polygon.com/kirby-air-riders-summer-games-done-quick-2026/",
+          "snippet": "Kirby Air Riders made its debut at this year's Summer Games Done Quick with a record-breaking performance.",
           "source": "Polygon"
         },
         {
-          "title": "AI 'actor' Tilly Norwood to star in a feature film after SAG-AFTRA backlash",
-          "url": "https://www.polygon.com/tilly-norwood-ai-actor-misaligned-announced-particle6/",
-          "snippet": "The AI-generated \"actor\" Tilly Norwood will debut in the feature film Misaligned about an AI's existensial crisis.",
+          "title": "Pokémon Pitch Black fan pulls world's first ever gold god pack",
+          "url": "https://www.polygon.com/pokemon-tcg-pitch-black-mega-darkrai-ex-god-pack/",
+          "snippet": "A Canadian is the first to find a fully golden 'God Pack,' a pull so improbable, some TCG fans refuse to believe it's real",
           "source": "Polygon"
         },
         {
-          "title": "Pokémon Go 'Road to Legends' event guide, raid schedule",
-          "url": "https://www.polygon.com/pokemon-go-road-to-legends-event-legendary-raid-schedule-go-pass/",
-          "snippet": "Here's everything you need to know about Pokémon Go's big \"Road to Legends\" event, including the Go Pass and raid schedule.",
+          "title": "Xbox Game Pass subscriber numbers have fallen massively short",
+          "url": "https://www.polygon.com/xbox-game-pass-subscriber-numbers-30-million/",
+          "snippet": "Xbox Game Pass is reportedly at around 30 million subscribers, which shows a steep decline and way below targets.",
           "source": "Polygon"
         },
         {
-          "title": "Dishonored co-creator asks Xbox CEO 'how much' to buy Arkane",
-          "url": "https://www.polygon.com/arkane-studios-founder-raphael-colantonio-xbox-buy-joke/",
-          "snippet": "Arkane, the studio behind Dishonored and more, has its future in question as Xbox cuts 4 other studios and lays off 3,200.",
+          "title": "Chainsaw Man creator's devastating 2024 film gets new 4K release",
+          "url": "https://www.polygon.com/gkids-anime-blu-ray-4k-physical-release-look-back-angels-egg/",
+          "snippet": "So are cult classics from Final Fantasy's most iconic artist and the creator of Neon Genesis Evangelion",
           "source": "Polygon"
         },
         {
-          "title": "Disney's Hexed directors explain why the film became a mother-daughter story",
-          "url": "https://www.polygon.com/hexed-director-interview-annecy/",
-          "snippet": "Hexed follows a rebellious teen discovering a magical world and her family's secrets.",
+          "title": "Arcane's Jinx returns with a high-end collectible that should stun fans",
+          "url": "https://www.polygon.com/arcane-fractured-jinx-hot-toys-league-of-legends/",
+          "snippet": "Fractured Jinx from Arcane: League of Legends season 2 will get a deluxe release from high-end toymaker Hot Toys.",
           "source": "Polygon"
         },
         {
-          "title": "The Nintendo Switch will no longer be produced from 2027 onward",
-          "url": "https://www.polygon.com/nintendo-switch-ceasing-production-replaceable-batteries-components/",
-          "snippet": "Nintendo is ceasing production of the original Switch in Europe from February 2027 onward, and the Switch 2 is getting a little heavier.",
+          "title": "Minecraft, Monster Hunter, and 8 more games that actually reward patience and precision",
+          "url": "https://www.polygon.com/long-games-that-reward-patience-and-precision/",
+          "snippet": "Games often feature unfocused spectacle, but here are ten titles that demand precision and patience in exchange for satisfying gameplay rewards.",
           "source": "Polygon"
         },
         {
-          "title": "Undead Labs spent eight years as an Xbox studio and still didn't make State of Decay 3",
-          "url": "https://www.polygon.com/undead-labs-state-of-decay-3-xbox-acquisition-no-games/",
-          "snippet": "As Xbox cuts ties with Ninja Theory, Compulsion, and Double Fine, Undead Labs' case is the worst but not the only case of mismanagement",
+          "title": "Why Paddle Paddle Paddle has 'very positive' reviews and 55,000 refunds",
+          "url": "https://www.polygon.com/steam-refund-policy-paddle-paddle-paddle-friendslop-reviews/",
+          "snippet": "Paddle Paddle Paddle is a friendslop game with largely positive reviews, but that hasn't protected it from one of Valve's worst indie game policies",
           "source": "Polygon"
         },
         {
-          "title": "GameStop raises its wild Pokémon 30th anniversary prices again and that's not even the worst part",
-          "url": "https://www.polygon.com/gamestop-pokemon-30th-anniversary-price-increase-upc-market-preorder/",
-          "snippet": "Pre-order market prices are out of control for the September TCG set, and likely to get worse the release date gets closer.",
+          "title": "Your Name is getting a 4K rerelease in theaters to celebrate its 10th anniversary",
+          "url": "https://www.polygon.com/your-name-10-year-anniverary-4k-release-theaters/",
+          "snippet": "GKIDS will bring Your Name, the animation masterpiece from Makoto Shinkai, back to the big screen this August.",
           "source": "Polygon"
         },
         {
-          "title": "Sony goes radio silent after announcing end of PlayStation physical discs",
-          "url": "https://www.polygon.com/sony-killing-physical-disc-releases-backlash-radio-silent/",
-          "snippet": "After announcing that it's killing physical disc releases on its platform, Sony's X account hasn't posted anything.",
+          "title": "All Xbox studios remaining following mass layoffs and restructure",
+          "url": "https://www.polygon.com/xbox-studio-status-2026/",
+          "snippet": "Here's what we know about every studio remaining at Xbox following the company's mass layoff announcement.",
           "source": "Polygon"
         },
         {
