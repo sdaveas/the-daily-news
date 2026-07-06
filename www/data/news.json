@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-06T02:24:53.336227+00:00",
+  "updated": "2026-07-06T08:12:29.327469+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "5 το πρωί: Συναγερμός για τις φωτιές – Πολιτικός «πόλεμος» στην επέτειο των ΗΠΑ – Το φιάσκο με τους Ρώσους φαρσέρ",
-        "url": "https://www.tovima.gr/2026/07/06/5-to-proi/5-to-proi-synagermos-gia-tis-foties-politikos-polemos-stin-epeteio-ton-ipa-to-fiasko-me-tous-rosous-farser/",
-        "snippet": "Σε κατάσταση διαρκούς επιφυλακής βρίσκεται ο κρατικός μηχανισμός μετά τις 96 πυρκαγιές που ξέσπασαν το τελευταίο διήμερο στη χώρα, με την προσοχή να στρέφεται πλέον στα νησιά, για τα οποία προειδοποιεί η Πολιτική Προστασία",
+        "title": "Ωραιόκαστρο: «Θάβουν» τη φωτιά κάτω από το χώμα για να σταματήσουν τις αναζωπυρώσεις",
+        "url": "https://www.tovima.gr/2026/07/06/society/oraiokastro-thavoun-ti-fotia-kato-apo-to-xoma-gia-na-stamatisoun-tis-anazopyroseis/",
+        "snippet": "Με τόνους χώματος επιχειρούν οι πυροσβεστικές δυνάμεις να «θάψουν» τη φωτιά στο εργοστάσιο ανακύκλωσης στο Ωραιόκαστρο, καθώς η ρίψη νερού αποδείχθηκε αδύνατη απέναντι στα πλαστικά που καίγονταν.",
         "source": "To Vima"
       },
       "items": [
         {
+          "title": "«Ντόμινο» καθυστερήσεων στο “Ελ. Βενιζέλος” – «Δουλεύουμε στα κόκκινα»",
+          "url": "https://www.tovima.gr/2026/07/06/society/ntomino-kathysteriseon-sto-el-venizelos-douleyoume-sta-kokkina/",
+          "snippet": "Η εκρηκτική άνοδος της τουριστικής κίνησης και οι γεωπολιτικοί περιορισμοί έχουν φέρει στα όριά τους το «Ελ. Βενιζέλος» και το αεροδρόμιο «Μακεδονία», προκαλώντας ντόμινο καθυστερήσεων",
+          "source": "To Vima"
+        },
+        {
+          "title": "Παγκράτι: Τι εξετάζουν οι Αρχές για τη σορό που βρέθηκε τυλιγμένη σε σεντόνια",
+          "url": "https://www.tovima.gr/2026/07/06/society/pagkrati-ti-eksetazoun-oi-arxes-gia-ti-soro-pou-vrethike-tyligmeni-se-sentonia/",
+          "snippet": "Νεκρός άνδρας στο Παγκράτι, προσήχθη ο 63χρονος αδελφός του - Οι δύο άνδρες, πρώην αστυνομικοί, διέμεναν για αρκετά χρόνια σε διαμέρισμα του πρώτου ορόφου",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μουντιάλ 2026: Η FIFA έσβησε την κόκκινη του Μπαλόγκαν μετά από παρέμβαση Τραμπ",
+          "url": "https://www.tovima.gr/2026/07/06/sports/mountial-2026-i-fifa-esvise-tin-kokkini-tou-mpalogkan-meta-apo-paremvasi-tramp/",
+          "snippet": "Τα τρία προσωπικά τηλεφωνήματα του Ντόναλντ Τραμπ στη διεθνή ομοσπονδία και η ανάκληση της τιμωρίας του Μπαλόγκαν εξόργισαν τους Βέλγους, οι οποίοι κάνουν λόγο για «πρωταπριλιάτικο αστείο» και κατάλυση κάθε ποδοσφαιρικής ηθικής.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Επιχειρησιακή Συνέχεια: Η προληπτική ασπίδα των επιχειρήσεων απέναντι στις κρίσεις ενός αβέβαιου κόσμου",
+          "url": "https://www.tovima.gr/2026/07/06/market/epixeirisiaki-synexeia-i-proliptiki-aspida-ton-epixeiriseon-apenanti-stis-kriseis-enos-avevaiou-kosmou/",
+          "snippet": "Από τις γεωπολιτικές αναταράξεις στην επιχειρησιακή ανθεκτικότητα.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μαρία Αντωνογιαννάκη: Νεκρή στο ΙΧ της στην Κρήτη βρέθηκε η δημοσιογράφος",
+          "url": "https://www.tovima.gr/2026/07/06/society/maria-antonogiannaki-nekri-sto-ix-tis-stin-kriti-vrethike-i-dimosiografos/",
+          "snippet": "Η 46χρονη δημοσιογράφος υπέστη ανακοπή καρδιάς",
+          "source": "To Vima"
+        },
+        {
+          "title": "Τραμπ εναντίον Μελόνι: «Χρειάζονται περιοριστικά μέτρα»",
+          "url": "https://www.tovima.gr/2026/07/06/world/tramp-enantion-meloni-xreiazontai-perioristika-metra/",
+          "snippet": "Βαθαίνει το χάσμα Ουάσινκτον - Ρώμης. Η ανάρτηση Τραμπ μία ημέρα πριν τη Σύνοδος Κορυφής του ΝΑΤΟ σβήνει τις ελπίδες για επαναπροσέγγιση",
+          "source": "To Vima"
+        },
+        {
+          "title": "Ιράν: Ξεκίνησε η κηδεία για τον Αγιατολάχ Αλί Χαμενεΐ – Η ταφή θα γίνει στη Μασάντ",
+          "url": "https://www.tovima.gr/2026/07/06/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/iran-ksekinise-i-nekriki-pompi-gia-ton-agiatolax-ali-xamenei-i-tafi-tha-ginei-sti-masant/",
+          "snippet": "Οι ιρανικές αρχές εκτιμούν ότι εκατοντάδες χιλιάδες πολίτες θα συμμετάσχουν στις εκδηλώσεις πένθους, επιδιώκοντας να αναδείξουν τη λαϊκή στήριξη προς το θεοκρατικό σύστημα της χώρας.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Καλλιθέα: Νέα φωτιά σε διαμέρισμα – Χωρίς τις αισθήσεις εντοπίστηκε 70χρονος",
+          "url": "https://www.tovima.gr/2026/07/06/society/kallithea-nea-fotia-se-diamerisma-xoris-tis-aisthiseis-entopistike-atomo/",
+          "snippet": "Εντός του διαμερίσματος που ξέσπασε η φωτιά, εντοπίστηκε και άλλο άτομο με αναπνευστικά προβλήματα, το οποίο αρνήθηκε να μεταφερθεί σε νοσοκομείο",
+          "source": "To Vima"
+        },
+        {
+          "title": "Αντώνης Σαμαράς: Ο νέος πολιτικός πόλεμος και η διπλή στρατηγική της ΝΔ",
+          "url": "https://www.tovima.gr/2026/07/06/politics/antonis-samaras-o-neos-politikos-polemos-kai-i-dipli-stratigiki-tis-nd/",
+          "snippet": "Η υποβόσκουσα σύγκρουση μεταξύ του κ. Σαμαρά και της ηγεσίας της Νέας Δημοκρατίας πέρασε πλέον σε μια νέα, δημόσια φάση",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μουντιάλ 2026, Μεξικό-Αγγλία 2-3: Με υπογραφή Μπέλινγκχαμ και Κέιν η πρόκριση των Βρετανών στους «8»",
+          "url": "https://www.tovima.gr/2026/07/06/sports/mountial-2026-meksiko-agglia-2-3-me-ypografi-mpelingkxam-kai-kein-i-prokrisi-ton-vretanon-stous-8/",
+          "snippet": "Τα «λιοντάρια» έφτασαν στη νίκη δείχνοντας χαρακτήρα, καθώς αγωνίστηκαν με δέκα παίκτες απέναντι σε ένα ιδιαίτερα ανταγωνιστικό Μεξικό",
+          "source": "To Vima"
+        },
+        {
+          "title": "Το Βήμα σήμερα: Η μάχη της λίστας στα κομματικά επιτελεία",
+          "url": "https://www.tovima.gr/2026/07/06/podcasts/to-vima-simera-i-maxi-tis-listas-sta-kommatika-epiteleia/",
+          "snippet": "Ο Άρης Ραβανός μιλάει για την προετοιμασία των κομμάτων σε μία ανεπίσημη προεκλογική περίοδο. Πόσο καλό κάνει στο ΠαΣοκ η κόντρα Χάρη Δούκα και Άννας Διαμαντοπούλου και γιατί η ΕΛΑΣ κλείνει την πόρτα στον ΣΥΡΙΖΑ",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μουντιάλ 2026, αποκλείστηκε η Βραζιλία – Ο Χάαλαντ έστειλε τη Νορβηγία στους «8»",
+          "url": "https://www.tovima.gr/2026/07/06/sports/mountial-2026-apokleistike-i-vrazilia-o-xaalant-esteile-ti-norvigia-stous-8/",
+          "snippet": "Η Νορβηγία υπέταξε τη Βραζιλία με 2-1 στο Νιου Τζέρσεϊ και προκρίθηκε πανηγυρικά για πρώτη φορά στην Ιστορία της στα προημιτελικά Παγκοσμίου Κυπέλλου",
+          "source": "To Vima"
+        },
+        {
+          "title": "5 το πρωί: Συναγερμός για τις φωτιές – Πολιτικός «πόλεμος» στην επέτειο των ΗΠΑ – Το φιάσκο με τους Ρώσους φαρσέρ",
+          "url": "https://www.tovima.gr/2026/07/06/5-to-proi/5-to-proi-synagermos-gia-tis-foties-politikos-polemos-stin-epeteio-ton-ipa-to-fiasko-me-tous-rosous-farser/",
+          "snippet": "Σε κατάσταση διαρκούς επιφυλακής βρίσκεται ο κρατικός μηχανισμός μετά τις 96 πυρκαγιές που ξέσπασαν το τελευταίο διήμερο στη χώρα, με την προσοχή να στρέφεται πλέον στα νησιά, για τα οποία προειδοποιεί η Πολιτική Προστασία",
+          "source": "To Vima"
+        },
+        {
           "title": "Γιατί εξαφανίζονται τα ελληνικά diners στη Νέα Υόρκη",
           "url": "https://www.tovima.gr/2026/07/05/world/giati-eksafanizontai-ta-ellinika-diners-sti-nea-yorki/",
           "snippet": "Για δεκαετίες υπήρξαν αναπόσπαστο κομμάτι της καθημερινής ζωής στη Νέα Υόρκη και σύμβολο της επιτυχίας της ελληνικής ομογένειας. Σήμερα, τα ιστορικά ελληνικά diners κλείνουν το ένα μετά το άλλο, αφήνοντας πίσω τους μια σημαντική σελίδα της μεταναστευτικής ιστορίας των ΗΠΑ",
-          "source": "To Vima"
-        },
-        {
-          "title": "Εντατικοί έλεγχοι για τις φωτιές – 20 συλλήψεις τις πρώτες πέντε ημέρες του Ιουλίου",
-          "url": "https://www.tovima.gr/2026/07/05/society/entatikoi-elegxoi-gia-tis-pyrkagies-20-syllipseis-tis-protes-pente-imeres-tou-iouliou/",
-          "snippet": "Εντατικοποιήθηκαν οι έλεγχοι του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών τις πρώτες ημέρες του Ιουλίου, με τις αρχές να προχωρούν σε δεκάδες συλλήψεις και την εφαρμογή της αυτόφωρης διαδικασίας σε περιπτώσεις πρόκλησης φωτιάς από αμέλεια",
-          "source": "To Vima"
-        },
-        {
-          "title": "Π. Μαρινάκης: «Χρέος της κυβέρνησης είναι να εφαρμόζει μια πολιτική για το παρόν και το μέλλον»",
-          "url": "https://www.tovima.gr/2026/07/05/politics/p-marinakis-xreos-tis-kyvernisis-einai-na-efarmozei-mia-politiki-gia-to-paron-kai-to-mellon/",
-          "snippet": "Απαντήσεις για την κριτική του Αντώνη Σαμαρά, την υπόθεση του Θάνου Ντόκου και τις τελευταίες πολιτικές εξελίξεις έδωσε ο κυβερνητικός εκπρόσωπος Παύλος Μαρινάκης, ο οποίος αναφέρθηκε επίσης στα μέτρα που εξετάζονται ενόψει της ΔΕΘ και στις εξελίξεις στα ελληνοτουρκικά",
-          "source": "To Vima"
-        },
-        {
-          "title": "ΝΑΤΟ: Οριστικοποιήθηκε το πρόγραμμα της συνόδου κορυφής – Στις 8 Ιουλίου η συνεδρίαση των ηγετών",
-          "url": "https://www.tovima.gr/2026/07/05/world/nato-oristikopoiithike-to-programma-tis-synodou-koryfis-stis-8-iouliou-i-synedriasi-ton-igeton/",
-          "snippet": "Με συνέντευξη Τύπου του γενικού γραμματέα του ΝΑΤΟ, Μαρκ Ρούτε, ξεκινούν τη Δευτέρα οι εργασίες της 36ης Συνόδου Κορυφής του ΝΑΤΟ στην Άγκυρα, με τη συνεδρίαση των αρχηγών κρατών και κυβερνήσεων να αποτελεί το κεντρικό γεγονός της διοργάνωσης στις 8 Ιουλίου",
-          "source": "To Vima"
-        },
-        {
-          "title": "Άνδρας βρέθηκε νεκρός σε διαμέρισμα στο Παγκράτι – Προσήχθη συγγενικό του πρόσωπο",
-          "url": "https://www.tovima.gr/2026/07/05/society/andras-vrethike-nekros-se-diamerisma-sto-pagkrati-prosixthi-enoikos/",
-          "snippet": "Σορός άνδρα σε προχωρημένη σήψη εντοπίστηκε το απόγευμα μέσα σε διαμέρισμα στην περιοχή του Παγκρατίου, έπειτα από ειδοποίηση για έντονη δυσοσμία σε οικία επί της οδού Αστυδάμαντος",
-          "source": "To Vima"
-        },
-        {
-          "title": "Βελτιωμένη η εικόνα της φωτιάς στην Οινόη Μάνδρας – Ισχυρές δυνάμεις συνεχίζουν την επιχείρηση",
-          "url": "https://www.tovima.gr/2026/07/05/society/veltiomeni-i-eikona-tis-fotias-stin-oinoi-mandras-isxyres-dynameis-synexizoun-tin-epixeirisi/",
-          "snippet": "Βελτιωμένη εμφανίζεται η εικόνα της πυρκαγιάς που ξέσπασε σε αγροτοδασική έκταση κοντά στην Οινόη του Δήμου Μάνδρας-Ειδυλλίας, με τις πυροσβεστικές δυνάμεις να συνεχίζουν να επιχειρούν για την αντιμετώπιση διάσπαρτων εστιών εντός της περιμέτρου της δασικής περιοχής.",
-          "source": "To Vima"
-        },
-        {
-          "title": "Υπόθεση Ντόκου: Τι λένε οι Ρώσοι φαρσέρ – Τα αναπάντητα ερωτήματα που προκύπτουν μετά τη συνέντευξη",
-          "url": "https://www.tovima.gr/2026/07/05/politics/ypothesi-ntokou-ti-lene-oi-rosoi-farser-ta-anapantita-erotimata-pou-prokyptoun-meta-ti-synenteyksi/",
-          "snippet": "Για τη συνομιλία με τον Σύμβουλο Εθνικής Ασφάλειας του πρωθυπουργού, Θάνο Ντόκο, μίλησαν οι Ρώσοι φαρσέρ Βόβαν και Λέξους, υποστηρίζοντας ότι η επαφή προέκυψε μέσω απλού email και ότι δεν υπήρξε στοχευμένη επιλογή του συγκεκριμένου προσώπου",
-          "source": "To Vima"
-        },
-        {
-          "title": "Επίδομα αδείας: Πότε καταβάλλεται – Τι πρέπει να γνωρίζουν οι εργαζόμενοι",
-          "url": "https://www.tovima.gr/2026/07/05/society/epidoma-adeias-pote-katavalletai-ti-prepei-na-gnorizoun-oi-ergazomenoi/",
-          "snippet": "Αυξημένο επίδομα αδείας θα λάβουν φέτος εργαζόμενοι του ιδιωτικού τομέα, καθώς η αύξηση του κατώτατου μισθού από την 1η Απριλίου 2026 στα 920 ευρώ μεικτά επηρεάζει άμεσα το ύψος των αποδοχών τους και των σχετικών επιδομάτων",
-          "source": "To Vima"
-        },
-        {
-          "title": "Αττική: Συλλήψεις 4 ατόμων για εκτέλεση θερμών εργασιών σε ημέρα με πολύ υψηλό κίνδυνο πυρκαγιάς",
-          "url": "https://www.tovima.gr/2026/07/05/society/attiki-syllipseis-4-atomon-gia-ektelesi-thermon-ergasion-se-imera-me-poly-ypsilo-kindyno-pyrkagias/",
-          "snippet": "Τέσσερα άτομα συνελήφθησαν στην Αττική για εκτέλεση θερμών εργασιών σε υπαίθριους χώρους, παρά την ισχύ πολύ υψηλού κινδύνου εκδήλωσης πυρκαγιάς (κατηγορία 4), στο πλαίσιο εντατικών ελέγχων του Πυροσβεστικού Σώματος για την πρόληψη των πυρκαγιών",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τσουκαλάς: «Δεν αποδίδει η οικονομία, η ακρίβεια υπεραποδίδει κύριε Μητσοτάκη»",
-          "url": "https://www.tovima.gr/2026/07/05/politics/tsoukalas-den-apodidei-i-oikonomia-i-akriveia-yperapodidei-kyrie-mitsotaki/",
-          "snippet": "Κριτική στην κυβέρνηση με αφορμή την κυριακάτικη ανάρτηση του πρωθυπουργού, Κυριάκου Μητσοτάκη, άσκησε ο εκπρόσωπος Τύπου του ΠαΣοΚ, Κώστας Τσουκαλάς",
-          "source": "To Vima"
-        },
-        {
-          "title": "ΠαΣοΚ: «Ο πρωθυπουργός αντί να περιμένει να χτυπήσει το τηλέφωνο, ας πράξει τα δέοντα»",
-          "url": "https://www.tovima.gr/2026/07/05/politics/pasok-o-prothypourgos-anti-na-perimenei-na-xtypisei-to-tilefono-as-praksei-ta-deonta/",
-          "snippet": "Νέα ανακοίνωση για την υπόθεση του γενικού γραμματέα Εθνικής Ασφάλειας, Θάνου Ντόκου, εξέδωσε το ΠαΣοΚ, κάνοντας λόγο για «τρίτο 24ωρο διασυρμού της χώρας», καλώντας τον πρωθυπουργό να προχωρήσει στις απαραίτητες ενέργειες",
-          "source": "To Vima"
-        },
-        {
-          "title": "Πύρινος κλοιός στη νότια Ευρώπη: Μεγάλες φωτιές σε Γαλλία, Ισπανία και Πορτογαλία εν μέσω καύσωνα",
-          "url": "https://www.tovima.gr/2026/07/05/world/pyrinos-kloios-sti-notia-eyropi-megales-foties-se-gallia-ispania-kai-portogalia-en-meso-kaysona/",
-          "snippet": "Σε πύρινο κλοιό βρίσκεται η νότια Ευρώπη, καθώς μεγάλες δασικές πυρκαγιές πλήττουν τη Γαλλία, την Ισπανία και την Πορτογαλία, με τις υψηλές θερμοκρασίες, την παρατεταμένη ξηρασία και τους ισχυρούς ανέμους να δυσχεραίνουν το έργο των πυροσβεστικών δυνάμεων",
-          "source": "To Vima"
-        },
-        {
-          "title": "Φωτιά στην Οινόη: Ενισχύθηκαν οι δυνάμεις – Ήχησε το 112",
-          "url": "https://www.tovima.gr/2026/07/05/society/fotia-stin-oinoi-sikothikan-enaeria-mesa/",
-          "snippet": "Σύμφωνα με τον χάρτη κινδύνου πυρκαγιάς σήμερα η Αττική είναι σε πολύ υψηλό κίνδυνο πυρκαγιάς κατηγορίας 4",
-          "source": "To Vima"
-        },
-        {
-          "title": "Δημογραφικό: Η Ελλάδα γερνά, η περιφέρεια αδειάζει – Τι συζητήθηκε σε ημερίδα στη Χίο",
-          "url": "https://www.tovima.gr/2026/07/05/society/dimografiko-i-ellada-gerna-i-perifereia-adeiazei-ti-syzitithike-se-imerida-sti-xio/",
-          "snippet": "Το πρόβλημα δεν είναι μόνο ότι γεννιούνται λιγότερα παιδιά, αλλά ότι κάθε χρόνο μειώνεται και ο αριθμός των ανθρώπων που βρίσκονται σε ηλικία να αποκτήσουν παιδιά.",
           "source": "To Vima"
         }
       ]
@@ -101,16 +101,22 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+        "title": "At least 11 killed in second Russian strikes on Kyiv in a week",
+        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Rescue efforts are continuing at more than 20 locations, the city's top military administrator says.",
         "source": "BBC World"
       },
       "items": [
         {
-          "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-          "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-          "snippet": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+          "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+          "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+          "snippet": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
           "source": "BBC World"
         },
         {
@@ -126,27 +132,15 @@
           "source": "BBC World"
         },
         {
-          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
-          "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
-          "source": "BBC World"
-        },
-        {
           "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
           "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
           "snippet": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
           "source": "BBC World"
         },
         {
-          "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-          "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-          "snippet": "Albanese has apologised 'unequivocally' after his remarks were met with a wave of backlash.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Australia probes mystery space balls that washed up on beach",
+          "title": "Australia space agency has found 'likely source' of mystery space balls",
           "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+          "snippet": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
           "source": "BBC World"
         },
         {
@@ -177,6 +171,12 @@
           "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
           "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
           "snippet": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+          "source": "BBC World"
+        },
+        {
+          "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+          "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Some of the famous guests have been posting on social media about the big day in New York.",
           "source": "BBC World"
         },
         {
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Φωτιά στα Ανατολικά Πυρηναία: Xωρίς θεατές το 3ο στάδιο του ποδηλατικού Γύρου Γαλλίας",
-        "url": "https://www.skai.gr/news/sports/fotia-sta-anatolika-pyrinaia-xoris-theates-to-3o-tou-podilatikou-gyrou-gallias",
-        "snippet": "Το τρίτο ετάπ (στάδιο) του ποδηλατικού Γύρου Γαλλίας θα πραγματοποιηθεί τη Δευτέρα με κάποιες προσαρμογές, αλλά χωρίς τροποποίηση της διαδρομής",
+        "title": "Θεαματική εκκίνηση για το AEGEAN 600 στο Αιγαίο - Βρούτσης: «Είναι ένα Παγκόσμιο αθλητικό γεγονός»",
+        "url": "https://www.skai.gr/news/sports/theamatiki-ekkinisi-gia-to-aegean-600-sto-aigaio-vroutsis-einai-ena-pagkosmio-athlitiko-ge",
+        "snippet": "Για περισσότερο από 2 ώρες, τα αγωνιστικά σκάφη, με βορειανατολικό άνεμο εντάσεως από 20 ως 25 κόμβους, γέμισαν με …αδρεναλίνη τον θαλάσσιο στίβο",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Παναθηναϊκός: Ξεμπέρδεψε με Σενεγάλη και έρχεται για ιατρικά και υπογραφές ο Μπάντιο - Ακολουθεί Μπόνγκα",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-ksemperdepse-me-senegali-kai-erxetai-gia-ypografes-o-mpantio",
+          "snippet": "Ο Μπάντιο ολοκλήρωσε τις υποχρεώσεις του με την Σενεγάλη και έρχεται στην Αθήνα για να κλείσει και τυπικά η μεταγραφή στον Παναθηναϊκό",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Φωτιά στα Ανατολικά Πυρηναία: Xωρίς θεατές το 3ο στάδιο του ποδηλατικού Γύρου Γαλλίας",
+          "url": "https://www.skai.gr/news/sports/fotia-sta-anatolika-pyrinaia-xoris-theates-to-3o-tou-podilatikou-gyrou-gallias",
+          "snippet": "Το τρίτο ετάπ (στάδιο) του ποδηλατικού Γύρου Γαλλίας θα πραγματοποιηθεί τη Δευτέρα με κάποιες προσαρμογές, αλλά χωρίς τροποποίηση της διαδρομής",
+          "source": "Skai Sports"
+        },
         {
           "title": "Πάλεψε με την ψυχή του ο Μανόλο, αλλά έμεινε στην 3η θέση",
           "url": "https://www.skai.gr/news/sports/palepse-me-psyxi-o-manolo-alla-emeine-stin-3i-thesi",
@@ -370,18 +382,6 @@
           "url": "https://www.skai.gr/news/sports/vomva-apo-ourmponas-o-panathinaikos-kerdizei-tin-koursa-gia-mpongka",
           "snippet": "Σύμφωνα με τα όσα αναφέρει ο Ντονάτας Ουρμπόνας στο «Basketnews», ο Παναθηναϊκός AKTOR νίκησε τον ανταγωνισμό και πλησιάζει στην απόκτηση του Άιζακ Μπόνγκα",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Φιλική τριάρα στον Άγιαξ με το… Neestrup's way για τον Παναθηναϊκό - Δείτε τα highlights",
-          "url": "https://www.skai.gr/news/sports/filiki-triara-ston-agiaks-me-to-neestrups-way-gia-ton-panathinaiko-deite-ta-highlights",
-          "snippet": "Ο Παναθηναϊκός με ενέργεια, στρωτό παιχνίδι και ποδοσφαιρική λογική, επιβλήθηκε 3-1 του Άγιαξ στο δεύτερο φιλικό προετοιμασίας",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Υποκλίθηκε στην ανωτερότητα της Παολίνι και αποκλείστηκε από τη συνέχεια του Wimbledon η Σάκκαρη",
-          "url": "https://www.skai.gr/news/sports/ypoklithike-stin-anoterotita-tis-paolini-kai-apokleistike-apo-ti-synexeia-tou-wimbledon-i",
-          "snippet": "Αν και το πάλεψε, η Μαρία Σάκκαρη υποκλίθηκε στην ανωτερότητα της Τζασμίν Παολίνι, χάνοντας καθαρά 2-0 στα σετ και αποκλείστηκε από τη συνέχεια του Wimbledon.",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,42 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Clarity and Congress's summer break: State of Crypto",
-        "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
-        "snippet": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+        "title": "Vitalik Buterin says Ethereum is preparing its 'biggest rebuild' since the Merge",
+        "url": "https://www.coindesk.com/tech/2026/07/06/vitalik-buterin-says-ethereum-is-preparing-its-biggest-rebuild-since-the-merge",
+        "snippet": "A revised roadmap details how the multi-year overhaul would replace nearly every major part of Ethereum's protocol, with quantum resistance and privacy moving up the priority list. It lands as ether rallies more than 12% in the past seven days.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Live markets: Bitcoin pops to $63,900, then reverses, as week begins",
+          "url": "https://www.coindesk.com/tech/2026/07/06/live-markets-bitcoin-pops-to-usd63-900-then-reverses-as-week-begins",
+          "snippet": "Bitcoin touched $63,882 overnight before retreating to around $62,900, per CoinDesk data. Sunday's high held briefly before sellers pushed it back down.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "I am contemplating selling some of my bitcoin for gold, veteran trader Peter Brandt says",
+          "url": "https://www.coindesk.com/markets/2026/07/06/i-am-contemplating-selling-some-of-my-bitcoin-for-gold-veteran-trader-peter-brandt-says",
+          "snippet": "Veteran trader Peter Brandt said gold is going to gain substantially on bitcoin.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP rises 3% as $1.14 breakout turns into support test",
+          "url": "https://www.coindesk.com/markets/2026/07/06/xrp-rises-3-as-usd1-14-breakout-turns-into-support-test",
+          "snippet": "Heavy volume pushed XRP through resistance, but sellers met the move near $1.16 and left traders watching whether former resistance can now hold as support.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ether leads crypto's hold above key levels as bitcoin steadies over $63,000",
+          "url": "https://www.coindesk.com/markets/2026/07/06/ether-leads-crypto-s-hold-above-key-levels-as-bitcoin-steadies-over-usd63-000",
+          "snippet": "A stalling rebound in AI and chip stocks and a stronger dollar kept the mood cautious as the second half gets underway.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Clarity and Congress's summer break: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+          "snippet": "All parties are still optimistic that Clarity can happen before the midterms, but time is really starting to run out.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
           "url": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
@@ -447,36 +477,6 @@
           "title": "How ethical hackers with just a $3,000 server found a flaw that could've put $70 billion in crypto at risk",
           "url": "https://www.coindesk.com/tech/2026/07/04/how-ethical-hackers-with-just-a-usd3-000-server-found-a-flaw-that-could-ve-put-usd70-billion-in-crypto-at-risk",
           "snippet": "A critical flaw in the Aptos blockchain, which was patched, gave researchers a near-90% success rate at breaking a core security guarantee, with attack costs of just hundreds of dollars.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Why bitcoin's disconnect from record-high stocks won't last",
-          "url": "https://www.coindesk.com/markets/2026/07/03/why-bitcoin-s-disconnect-from-record-high-stocks-won-t-last",
-          "snippet": "Researchers at Schwab and Hashdex said AI has diverted capital from digital assets while bitcoin continues to follow a familiar post-halving recovery pattern.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Trump's crypto token buyers are down $3.8 billion, blockchain data shows",
-          "url": "https://www.coindesk.com/business/2026/07/04/trump-s-crypto-token-buyers-are-down-usd3-8-billion-blockchain-data-shows",
-          "snippet": "The TRUMP token is down 96% from its peak, and 85% of secondary market wallets for WLFI are underwater, reflecting a broader downturn in the sector.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Europe led on crypto regulation. Now implementation must match ambition",
-          "url": "https://www.coindesk.com/opinion/2026/07/04/europe-led-on-crypto-regulation-now-implementation-must-match-ambition",
-          "snippet": "",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "EU moves to block retail investors from explosive boom of multibillion-dollar prediction markets",
-          "url": "https://www.coindesk.com/policy/2026/07/04/eu-moves-to-block-retail-investors-from-explosive-boom-of-multibillion-dollar-prediction-markets",
-          "snippet": "The region's regulators emphasized that a product's actual function as a derivative matters more than its commercial name or labeling when assessing compliance.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "UK's bold new crypto rules promise to unlock global trading, but huge compliance hurdles still threaten the rollout",
-          "url": "https://www.coindesk.com/policy/2026/07/04/uk-s-bold-new-crypto-rules-promise-to-unlock-global-trading-but-huge-compliance-hurdles-still-threaten-the-rollout",
-          "snippet": "The U.K. FCA's crypto framework has been praised for prioritizing global liquidity and institutional adoption, but the authorization process is expected to be daunting.",
           "source": "CoinDesk"
         }
       ]
