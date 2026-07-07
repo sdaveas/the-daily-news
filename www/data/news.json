@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-07T02:13:09.459840+00:00",
+  "updated": "2026-07-07T07:31:14.679439+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "5 το πρωί: Τα «δώρα» Τραμπ στην Αγκυρα – Η παρέμβαση στο Μουντιάλ – Το αίτημα Σαμαρά στον Αρειο Πάγο",
-        "url": "https://www.tovima.gr/2026/07/07/5-to-proi/5-to-proi-ta-dora-tramp-stin-agkyra-i-paremvasi-sto-mountial-to-aitima-samara-ston-areio-pago/",
-        "snippet": "Το Μουντιάλ μας απασχολούσε μέχρι τώρα κυρίως για αγωνιστικούς λόγους μέχρι που αποφάσισε να παρέμβει και σε αυτό ο Ντόναλντ Τραμπ! Αφού αλλάξε λοιπόν τους κανόνες πετάει σήμερα για την Άγκυρα εκεί όπου τον περιμένει με ανοιχτές αγκάλες ο Ταγίπ Ερντογάν.",
+        "title": "Πούτιν: Ήττα από την Ουκρανία ή σύγκρουση με το NATO;",
+        "url": "https://www.tovima.gr/2026/07/07/world/poutin-itta-apo-tin-oukrania-i-sygkrousi-me-to-nato/",
+        "snippet": "Το παρασκήνιο της Συνόδου του ΝΑΤΟ στην Άγκυρα συμπίπτει με την πιο αδύναμη γεωπολιτική θέση της Μόσχας από την έναρξη της εισβολής, καθώς ο πόλεμος στην Ουκρανία κλείνει πλέον πέντε χρόνια.",
         "source": "To Vima"
       },
       "items": [
         {
-          "title": "Νίκος Ξυλούρης: «Έχω πάντοτε την ανησυχία για το ό,τι κάνω»",
-          "url": "https://www.tovima.gr/2026/07/07/istoriko-arxeio/nikos-ksylouris-exo-pantote-tin-anisyxia-gia-to-oti-kano/",
-          "snippet": "Η συνέντευξη που έδωσε ο σπουδαίος τραγουδιστής Νίκος Ξυλούρης στο «ΒΗΜΑ» το 1972",
+          "title": "Χακάν Φιντάν: Υπονομεύουν οι περιορισμοί στην αμυντική-βιομηχανική συνεργασία",
+          "url": "https://www.tovima.gr/2026/07/07/diplomatia/xakan-fintan-yponomeyoun-oi-periorismoi-stin-amyntiki-viomixaniki-synergasia/",
+          "snippet": "«Οι ευρωπαϊκές αμυντικές πρωτοβουλίες πρέπει να παραμείνουν πλήρως συμπεριληπτικές για όλους τους Συμμάχους του ΝΑΤΟ»",
           "source": "To Vima"
         },
         {
-          "title": "Μουντιάλ 2026: Η Ισπανία λύγισε την Πορτογαλία στις καθυστερήσεις και πέρασε στους «8»",
-          "url": "https://www.tovima.gr/2026/07/07/sports/mountial-2026-i-ispania-lygise-tin-portogalia-stis-kathysteriseis-kai-perase-stous-8/",
-          "snippet": "Ένα «χρυσό» γκολ του Μερίνο στο πρώτο λεπτό των καθυστερήσεων χάρισε στην Ισπανία τη νίκη με 1-0 επί της Πορτογαλίας στο Ντάλας, στέλνοντας τη «Ρόχα» στους προημιτελικούς του Μουντιάλ 2026 για πρώτη φορά μετά το 2010",
+          "title": "Οι προτάσεις της Ε.Σ.Α.μεΑ. για μια προσβάσιμη και οικονομικά προσιτή στεγαστική πολιτική",
+          "url": "https://www.tovima.gr/2026/07/07/society/oi-protaseis-tis-e-s-a-mea-gia-mia-prosvasimi-kai-oikonomika-prositi-stegastiki-politiki/",
+          "snippet": "Τι προτείνει η Συνομοσπονδία για την αντιμετώπιση των προβλημάτων στην εύρεση κατοικίας που αντιμετωπίζουν τα άτομα με αναπηρία.",
           "source": "To Vima"
         },
         {
-          "title": "«Εκρηκτική» τραπεζική κρίση στη Ρωσία λόγω του κόστους του πολέμου – Τι αποκαλύπτει απόρρητη έκθεση",
-          "url": "https://www.tovima.gr/2026/07/06/world/ekriktiki-trapeziki-krisi-sti-rosia-logo-tou-kostous-tou-polemou-ti-apokalyptei-aporriti-ekthesi/",
-          "snippet": "Στις πιέσεις που δέχεται ο χρηματοπιστωτικός τομέας της Ρωσίας λόγω της παρατεταμένης χρηματοδότησης των αμυντικών και κρατικών προγραμμάτων εστιάζει έγγραφο ευρωπαϊκών αρχών ασφαλείας",
+          "title": "Η Ελλάδα μπορεί να περιμένει;",
+          "url": "https://www.tovima.gr/2026/07/07/opinions/i-ellada-mporei-na-perimenei/",
+          "snippet": "«Οπως επεσήμανε ο μεγάλος μας Ελύτης «μια μέρα το παρελθόν θα μας αιφνιδιάσει με τη δύναμη της επικαιρότητάς του!»",
           "source": "To Vima"
         },
         {
-          "title": "Σύνοδος ΝΑΤΟ στην Άγκυρα: Ο Τραμπ επιστρέφει για το «πρώτο report card» – Πιέσεις για το 5%, το παρασκήνιο με Ρούτε, Μελόνι, Συρία",
-          "url": "https://www.tovima.gr/2026/07/06/world/synodos-nato-stin-agkyra-o-tramp-epistrefei-gia-to-proto-report-card-pieseis-gia-to-5-to-paraskinio-me-route-meloni-syria/",
-          "snippet": "Με φόντο τις νέες αμυντικές δαπάνες μαμούθ, ο αμερικανός πρόεδρος φτάνει στην Τουρκία έτοιμος να επιβάλει τη θέλησή του, την ώρα που ο Μαρκ Ρούτε προαναγγέλλει συμβόλαια δεκάδων δισεκατομμυρίων",
+          "title": "Η «Μαύρη Βίβλος» της ΕΛ.Α.Σ. για την επταετία Μητσοτάκη: Ακρίβεια, σκάνδαλα και θεσμική υποχώρηση",
+          "url": "https://www.tovima.gr/2026/07/07/politics/i-mayri-vivlos-tis-el-a-s-gia-tin-eptaetia-mitsotaki-akriveia-skandala-kai-thesmiki-ypoxorisi/",
+          "snippet": "Η Ελληνική Αριστερή Συμπαράταξη παρουσίασε τη «Μαύρη Βίβλο» της διακυβέρνησης της Νέας Δημοκρατίας, κάνοντας λόγο για επτά χρόνια χαμένων ευκαιριών, διεύρυνσης των κοινωνικών ανισοτήτων και σοβαρής υποχώρησης των δημοκρατικών θεσμών",
           "source": "To Vima"
         },
         {
-          "title": "Microsoft: Απολύει χιλιάδες εργαζομένους – Τι συμβαίνει με Xbox και Τεχνητή Νοημοσύνη",
-          "url": "https://www.tovima.gr/2026/07/06/world/microsoft-apolyei-xiliades-ergazomenous-ti-symvainei-me-xbox-kai-texniti-noimosyni/",
-          "snippet": "Μπαράζ απολύσεων στον αμερικανικό κολοσσό - Ανακοίνωσε άμεσο «ψαλίδι» σε 4.800 θέσεις εργασίας παγκοσμίως, με το βαρύ τίμημα να πέφτει στο τμήμα των βιντεοπαιχνιδιών - Ποια είναι η επίσημη θέση της εταιρείας για τον ρόλο του AI και ποιοι ακολουθούν μέχρι το 2027",
+          "title": "Κας Σάνστιν: «Η δημοκρατία μάς καλεί να βγούμε από τους θαλάμους ηχούς του διαδικτύου»",
+          "url": "https://www.tovima.gr/2026/07/07/world/kas-sanstin-i-dimokratia-mas-kalei-na-vgoume-apo-tous-thalamous-ixous-tou-diadiktyou/",
+          "snippet": "Ο Κας Σάνστιν εξηγεί τις γνωστικές προκαταλήψεις που οδηγούν σε πόλωση την αμερικανική δημοκρατία. Εξηγεί τι είναι η \"ευρετική της διαθεσιμότητας\", μια γνωστική πλάνη, στην οποία βασίζεται ο τραμπισμός, και μας καλεί να βγούμε από τους θαλάμους ηχούς του διαδικτύου.",
           "source": "To Vima"
         },
         {
-          "title": "Τραγωδία στη Σπάρτη: Δύο νεκροί σε μετωπική σύγκρουση ΙΧ με πυροσβεστικό όχημα",
-          "url": "https://www.tovima.gr/2026/07/06/society/tragodia-sti-sparti-dyo-nekroi-se-metopiki-sygkrousi-ix-me-pyrosvestiko-oxima/",
-          "snippet": "Δύο άνθρωποι έχασαν τη ζωή τους το απόγευμα της Δευτέρας σε σφοδρή μετωπική σύγκρουση επιβατικού αυτοκινήτου με πυροσβεστικό όχημα στην Εθνική Οδό Σπάρτης – Τρίπολης, στο ύψος της Σελλασίας",
+          "title": "Δημοσκόπηση: Πρόωρες εκλογές βλέπει το 50% των πολιτών",
+          "url": "https://www.tovima.gr/2026/07/07/politics/dimoskopisi-proores-ekloges-vlepei-to-50-ton-politon/",
+          "snippet": "Τι απαντούν οι πολίτες για το χρόνο των εκλογών, τη μορφή της κυβέρνησης που θα αναδειχθεί από αυτές και τον Αντώνη Σαμαρά",
           "source": "To Vima"
         },
         {
-          "title": "Θλίψη στην Κρήτη: Το τελευταίο «αντίο» στη δημοσιογράφο Μαρία Αντωνογιαννάκη",
-          "url": "https://www.tovima.gr/2026/07/06/society/thlipsi-stin-kriti-to-teleytaio-antio-sti-dimosiografo-maria-antonogiannaki/",
-          "snippet": "Σε κλίμα βαθιάς οδύνης, συγγενείς, φίλοι και συνάδελφοι αποχαιρέτησαν την 46χρονη δημοσιογράφο που έφυγε ξαφνικά από τη ζωή - Η ιατροδικαστική εξέταση έδειξε εγκεφαλικό επεισόδιο",
+          "title": "Πού αξίζει να ζεις το 2026: Οι καλύτερες και χειρότερες πόλεις",
+          "url": "https://www.tovima.gr/2026/07/07/world/pou-aksizei-na-zeis-to-2026-oi-kalyteres-kai-xeiroteres-poleis/",
+          "snippet": "Η νέα παγκόσμια κατάταξη για το 2026 δείχνει ότι η ποιότητα ζωής στη Μέση Ανατολή δέχτηκε φέτος το μεγαλύτερο πλήγμα παγκοσμίως, καθώς οι πρόσφατες πολεμικές συγκρούσεις και οι επιθέσεις με drones έκαναν την περιοχή πολύ λιγότερο ελκυστική.",
           "source": "To Vima"
         },
         {
-          "title": "Θεσσαλονίκη: 3η μέρα του εφιάλτη στο Ωραιόκαστρο – 5 εκατ. ευρώ για τις πρώτες «πληγές»",
-          "url": "https://www.tovima.gr/2026/07/06/society/thessaloniki-3i-mera-tou-efialti-sto-oraiokastro-5-ekat-eyro-gia-tis-protes-pliges/",
-          "snippet": "Καθώς Πυροσβεστική και σκαπτικά μηχανήματα δίνουν μάχη με τις κρυφές εστίες, κάτω από τόνους αποκαΐδια, οι επιστήμονες εκπέμπουν σήμα κινδύνου για την ποιότητα του αέρα - Κατάσταση έκτακτης ανάγκης στις πληγείσες περιοχές - Πρώτα μέτρα στήριξης",
+          "title": "Ξέχνα τον φορτιστή: Τα laptops που αντέχουν όλη μέρα",
+          "url": "https://www.tovima.gr/2026/07/07/market/ksexna-ton-fortisti-ta-laptops-pou-antexoun-oli-mera/",
+          "snippet": "Για χρόνια, η μεγάλη αυτονομία αποτελούσε έναν από τους βασικότερους συμβιβασμούς στην αγορά ενός laptop. Αν ήθελες πολλές ώρες μακριά από την πρίζα, συνήθως έπρεπε να αποδεχθείς χαμηλότερες επιδόσεις ή πιο περιορισμένες δυνατότητες. Το 2026 όμως, τα δεδομένα έχουν αλλάξει σημαντ",
           "source": "To Vima"
         },
         {
-          "title": "Και επίσημα στους Μαϊάμι Χιτ ο Γιάννης Αντετοκούνμπο",
-          "url": "https://www.tovima.gr/2026/07/06/sports/kai-episima-stous-maiami-xit-o-giannis-antetokounmpo/",
-          "snippet": "Ο Αντετοκούνμπο αποχωρεί από τους Μπακς ως ο κορυφαίος παίκτης στην ιστορία του συλλόγου, έχοντας καταρρίψει σχεδόν όλα τα σημαντικά ρεκόρ της ομάδας.",
+          "title": "Μηχανογραφικό: Από σήμερα η υποβολή του – Τι πρέπει να ξέρουν οι μαθητές",
+          "url": "https://www.tovima.gr/2026/07/07/society/mixanografiko-apo-simera-i-ypovoli-tou-ti-prepei-na-kseroun-oi-mathites/",
+          "snippet": "Οι υποψήφιοι καλούνται φέτος να σχεδιάσουν το ακαδημαϊκό τους μέλλον υπό το πρίσμα της ραγδαίας ανάπτυξης της Τεχνητής Νοημοσύνης και της διεπιστημονικότητα - Στις 16/7 λήγει η προθεσμία υποβολής του Μηχανογραφικού",
           "source": "To Vima"
         },
         {
-          "title": "«Εξελίξεις τώρα» με την Αναστασία Γιάμαλη: Στην πρώτη θέση της τηλεθέασης το Σαββατοκύριακο 4 και 5 Ιουλίου",
-          "url": "https://www.tovima.gr/2026/07/06/media/ekselikseis-tora-me-tin-anastasia-giamali-stin-proti-thesi-tis-tiletheasis-to-savvatokyriako-4-kai-5-iouliou/",
-          "snippet": "Με έμφαση στην έγκυρη ενημέρωση και την ανάδειξη σημαντικών θεμάτων της επικαιρότητας, οι «Εξελίξεις τώρα» πρωταγωνιστούν στην ενημέρωση του Σαββατοκύριακου",
+          "title": "Ετήσια άδεια εργαζομένων: Τι αλλάζει, τι παραμένει σε ισχύ",
+          "url": "https://www.tovima.gr/2026/07/07/finance/etisia-adeia-ergazomenon-ti-allazei-ti-paramenei-se-isxy/",
+          "snippet": "Το δικαίωμα στην άδεια παραμένει ακέραιο ως προς τη διάρκειά του και τη σύνδεσή του με τα έτη προϋπηρεσίας, αλλάζει όμως ο τρόπος με τον οποίο μπορεί να αξιοποιηθεί μέσα στο έτος",
           "source": "To Vima"
         },
         {
-          "title": "Σφοδρή επίθεση ΠαΣοΚ σε Σαμαρά – Μαξίμου: «Ανταποκρίθηκε με καθυστέρηση στο αυτονόητο – Ομολογία ενοχής για το Predator»",
-          "url": "https://www.tovima.gr/2026/07/06/politics/sfodri-epithesi-pasok-se-samara-maksimou-antapokrithike-me-kathysterisi-sto-aytonoito-omologia-enoxis-gia-to-predator/",
-          "snippet": "Μέτωπο σε δύο κατευθύνσεις ανοίγει η Χαριλάου Τρικούπη με αφορμή την προσφυγή του Αντώνη Σαμαρά στον Άρειο Πάγο για τις υποκλοπές",
+          "title": "Μαρί Λεπέν: Ημέρα της κρίσεως για την υποψηφιότητα στις προεδρικές εκλογές",
+          "url": "https://www.tovima.gr/2026/07/07/world/mari-lepen-imera-tis-kriseos-gia-tin-ypopsifiotita-stis-proedrikes-ekloges/",
+          "snippet": "Αν η Λεπέν κριθεί ένοχη από το εφετείο, ανοίγει ο δρόμος για τον τριαντάχρονο ευρωβουλευτή, Ζορντάν Μπαρντελά, ως υποψήφιο της ακροδεξιάς Εθνικής Συσπείρωσης (RN) που είναι πρώτη στις δημοσκοπήσεις, ενόψει των γαλλικών προεδρικών εκλογών στις 18 Απριλίου 2027",
           "source": "To Vima"
         },
         {
-          "title": "Ανεπιθύμητος ο πρίγκιπας Χάρι στο Μπάκιγχαμ – Ανατροπή στο παρά πέντε",
-          "url": "https://www.tovima.gr/2026/07/06/celebrities/anepithymitos-o-prigkipas-xari-sto-mpakigxam-anatropi-sto-para-pente/",
-          "snippet": "Αντικρουόμενες εκδοχές από τα ανάκτορα και την πλευρά του πρίγκιπα Χάρι για την πρόσκληση φιλοξενίας, λίγες ημέρες πριν από την επίσκεψή του στο Λονδίνο.",
+          "title": "Βιοδείκτες: Το «διαβατήριο» για τη σωστή θεραπεία στον καρκίνο",
+          "url": "https://www.tovima.gr/2026/07/07/health/viodeiktes-to-diavatirio-gia-ti-sosti-therapeia-ston-karkino/",
+          "snippet": "Ένας ασθενής με καρκίνο δε χρειάζεται μόνο μια βιοψία. Το «γενετικό αποτύπωμα» και η θεραπεία που θα παρατείνει τη ζωή και δε θα χάσει χρόνο",
           "source": "To Vima"
         },
         {
-          "title": "Πανελλήνιες 2026: Ανοίγει αύριο η πλατφόρμα για το Μηχανογραφικό – Οι οδηγίες, η προθεσμία",
-          "url": "https://www.tovima.gr/2026/07/06/society/anoigei-ayrio-i-platforma-gia-to-mixanografiko-2026-oles-oi-prothesmies-kai-oi-odigies/",
-          "snippet": "Από την Τρίτη 7 Ιουλίου έως και την Πέμπτη 16 Ιουλίου θα μπορούν οι υποψήφιοι των Πανελλαδικών Εξετάσεων 2026 να υποβάλουν ηλεκτρονικά το Μηχανογραφικό και το Παράλληλο Μηχανογραφικό Δελτίο, όπως ανακοίνωσε το Υπουργείο Παιδείας",
+          "title": "Τα φώτα της Δύσης στραμμένα στην Άγκυρα",
+          "url": "https://www.tovima.gr/2026/07/07/world/ta-fota-tis-dysis-strammena-stin-agkyra/",
+          "snippet": "Τα φώτα της δημοσιότητας είναι στραμμένα στην υποδοχή του Ερντογάν στον Τραμπ. Ο πρωταγωνιστικός ρόλος της Τουρκίας",
           "source": "To Vima"
         },
         {
-          "title": "12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ»: Στο Σίδνεϊ χτυπά φέτος η καρδιά της ελληνικής γλώσσας και της ομογένειας",
-          "url": "https://www.tovima.gr/2026/07/06/culture/12o-diethnes-therino-panepistimio-elliniki-glossa-politismos-kai-mme-sto-sidnei-xtypa-fetos-i-kardia-tis-ellinikis-glossas-kai-tis-omogeneias/",
-          "snippet": "Από τις 6 έως τις 11 Σεπτεμβρίου, το Σίδνεϊ φιλοξενεί το 12ο Διεθνές Θερινό Πανεπιστήμιο «Ελληνική Γλώσσα, Πολιτισμός και ΜΜΕ», μια διεθνή συνάντηση πανεπιστημιακών, εκπαιδευτικών, δημοσιογράφων και φορέων της διασποράς με επίκεντρο το μέλλον της ελληνικής γλώσσας και του πολιτισ",
+          "title": "Το Βήμα σήμερα: Η νέα ισορροπία δυνάμεων στην κρίσιμη Σύνοδο του ΝΑΤΟ",
+          "url": "https://www.tovima.gr/2026/07/07/podcasts/to-vima-simera-i-nea-isorropia-dynameon-stin-krisimi-synodo-tou-nato/",
+          "snippet": "Ο Πιέρρος Τζανετάκος εξηγεί τους στόχους, τα αποτελέσματα και τα συμπεράσματα που ενδέχεται να φέρει αυτή η Σύνοδος Κορυφής",
           "source": "To Vima"
         }
       ]
@@ -101,22 +101,22 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Trump confirms he asked Fifa to review Balogun ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-        "snippet": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "title": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+        "snippet": "The Ukrainian president will use the Nato meeting in Turkey to argue he needs more interceptor missiles.",
         "source": "BBC World"
       },
       "items": [
         {
-          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-          "snippet": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+          "title": "Trump confirms he asked Fifa to review Balogun ban",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+          "snippet": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
           "source": "BBC World"
         },
         {
-          "title": "Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region",
-          "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-          "snippet": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "snippet": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
           "source": "BBC World"
         },
         {
@@ -126,7 +126,13 @@
           "source": "BBC World"
         },
         {
-          "title": "Charlie Kirk's family attends hearing for suspect charged with his murder",
+          "title": "India's landmark Ram temple overhauls board after alleged theft of donations",
+          "url": "https://www.bbc.co.uk/news/articles/c872ngz405xo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Questions have been raised over alleged theft of cash, valuable jewellery, gold and silver offered by devotees.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Erika Kirk attends hearing for suspect charged with husband's murder",
           "url": "https://www.bbc.co.uk/news/articles/c1myyyyjvx5o?at_medium=RSS&at_campaign=rss",
           "snippet": "The hearing will decide whether Tyler Robinson will stand trial in the shooting death of Kirk, a key Trump ally.",
           "source": "BBC World"
@@ -162,7 +168,7 @@
           "source": "BBC World"
         },
         {
-          "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
+          "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
           "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
           "snippet": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
           "source": "BBC World"
@@ -183,12 +189,6 @@
           "title": "Australia space agency has found 'likely source' of mystery space balls",
           "url": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
           "snippet": "The agency says that they \"appear to be pressure vessels from a space launch vehicle\".",
-          "source": "BBC World"
-        },
-        {
-          "title": "Why some African nations are turning down Trump aid money",
-          "url": "https://www.bbc.co.uk/news/articles/ckg0921y8kdo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The Trump administration sees the aid as more transactional - but some say it is not a fair trade.",
           "source": "BBC World"
         }
       ]
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τρομερές καταγγελίες Ερασιτέχνη ΠΑΟΚ κατά ΚΑΕ: «Αθετήθηκαν όλες οι συμφωνίες - Ούτε 1 ευρώ στα ταμεία μας»",
-        "url": "https://www.skai.gr/news/sports/erasitexnis-paok-kata-kae-athetithikan-oles-oi-symfonies-oute-1-eyro-sta-tameia-mas",
-        "snippet": "Ο ΑΣ ΠΑΟΚ εξαπέλυσε βαριές καταγγελίες κατά της ΚΑΕ, κάνοντας λόγο για πλήρη αθέτηση συμφωνιών. Στον αέρα η κρίσιμη συμφωνία για το Παλατάκι",
+        "title": "Γιαννακόπουλος: «Σίγουρο ένα μπαμ σήμερα - Μπορεί και τρία και τέσσερα»",
+        "url": "https://www.skai.gr/news/sports/giannakopoulos-sigouro-ena-mpam-simera-mporei-kai-tria-kai-tessera",
+        "snippet": "Ο Δημήτρης Γιαννακόπουλος προανήγγειλε «βόμβες» από τον Παναθηναϊκό εντός της ημέρας",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Σύζυγος Αντετοκούνμπο: «Το Μιλγουόκι έγινε σπίτι μας-Ο Γιάννης το αφήνει καλύτερο από ό,τι το βρήκε»",
+          "url": "https://www.skai.gr/news/sports/maraia-antetokounmpo-to-milgouoki-egine-spiti-mas-o-giannis-to-afinei-kalytero",
+          "snippet": "Το συγκινητικό «αντίο» της συζύγου του Γιάννη Αντετοκούνμπο στο Μιλγουόκι μετά τη μεταγραφή στο Μαϊάμι",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Τρομερές καταγγελίες Ερασιτέχνη ΠΑΟΚ κατά ΚΑΕ: «Αθετήθηκαν όλες οι συμφωνίες - Ούτε 1 ευρώ στα ταμεία μας»",
+          "url": "https://www.skai.gr/news/sports/erasitexnis-paok-kata-kae-athetithikan-oles-oi-symfonies-oute-1-eyro-sta-tameia-mas",
+          "snippet": "Ο ΑΣ ΠΑΟΚ εξαπέλυσε βαριές καταγγελίες κατά της ΚΑΕ, κάνοντας λόγο για πλήρη αθέτηση συμφωνιών. Στον αέρα η κρίσιμη συμφωνία για το Παλατάκι",
+          "source": "Skai Sports"
+        },
         {
           "title": "Η ΑΕΚ στη μάχη για τον Σιμινιανί της Λουγκάνο σύμφωνα με τον Ρούντι Γκαλέτι!",
           "url": "https://www.skai.gr/news/sports/aek-senario-gia-simianini-apo-lougkano",
@@ -370,18 +382,6 @@
           "url": "https://www.skai.gr/news/sports/kotsolis-epoxi-gia-douleia-oneireyomai-titlous-me-nistroup-pou-kserei-apo-piesi",
           "snippet": "Στέφανος Κοτσόλης για όλα, σε μία συνέντευξη όπου αναλύει τα πάντα για το τριφύλλι. Στο paopantou.gr και τους συναδέλφους στην Ολλανδία",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Αυτή είναι η νέα εκτός έδρας εμφάνιση του Ολυμπιακού για τη σεζόν 2026/27",
-          "url": "https://www.skai.gr/news/sports/ayti-einai-i-nea-ektos-edras-emfanisi-tou-olympiakou-gia-ti-sezon-202627",
-          "snippet": "Ο Ολυμπιακός παρουσίασε τη νέα εκτός έδρας φανέλα για τη σεζόν 2026/27, με πρωταγωνιστές τον νεοαποκτηθέντα Πάμπλο Μαφέο και τον Ζέλσον Μάρτινς",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Θεαματική εκκίνηση για το AEGEAN 600 στο Αιγαίο - Βρούτσης: «Είναι ένα Παγκόσμιο αθλητικό γεγονός»",
-          "url": "https://www.skai.gr/news/sports/theamatiki-ekkinisi-gia-to-aegean-600-sto-aigaio-vroutsis-einai-ena-pagkosmio-athlitiko-ge",
-          "snippet": "Για περισσότερο από 2 ώρες, τα αγωνιστικά σκάφη, με βορειανατολικό άνεμο εντάσεως από 20 ως 25 κόμβους, γέμισαν με …αδρεναλίνη τον θαλάσσιο στίβο",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,36 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
-        "url": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
-        "snippet": "The White House says it's still evaluating the \"best structure\" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.",
+        "title": "Live markets: Bitcoin and ether ETFs drew inflows on Monday",
+        "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
+        "snippet": "Spot bitcoin ETFs still lost a net $526.6 million over the shortened holiday week, an eighth straight week of negative flows.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
+          "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
+          "snippet": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP stalls near $1.14 as breakout attempt struggles for volume",
+          "url": "https://www.coindesk.com/markets/2026/07/07/xrp-stalls-near-usd1-14-as-breakout-attempt-struggles-for-volume",
+          "snippet": "Buyers defended the session lows and pushed XRP back toward resistance, but muted overall volume left traders waiting for confirmation above $1.13-$1.14.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin drops after a run at $64,000, shrugging off Strategy's $213 million BTC sale",
+          "url": "https://www.coindesk.com/markets/2026/07/07/bitcoin-drops-after-a-run-at-usd64-000-shrugging-off-strategy-s-usd213-million-btc-sale",
+          "snippet": "The token touched $64,400 overnight before easing back, still up about 6% on the week. A fresh missile strike on a Qatari gas ship in the Strait of Hormuz lifted oil and tested the late-June peace deal as Asian tech sold off again.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's U.S. reserve still a work-in-progress as federal agencies hash it out",
+          "url": "https://www.coindesk.com/policy/2026/07/06/bitcoin-s-u-s-reserve-still-a-work-in-progress-as-federal-agencies-hash-it-out",
+          "snippet": "The White House says it's still evaluating the \"best structure\" for the federal fund to hold bitcoin as a long-term reserve and a separate stockpile of other crypto assets.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Circle’s USDC is leaving Tether behind in the stablecoin volume race, new data from Visa shows",
           "url": "https://www.coindesk.com/business/2026/07/06/circle-s-usdc-is-leaving-tether-behind-in-the-stablecoin-volume-race",
@@ -417,6 +441,12 @@
           "title": "Securitize eyes acquisitions with $400 million war chest after going public, CEO says",
           "url": "https://www.coindesk.com/business/2026/07/06/securitize-eyes-acquisitions-with-usd400-million-war-chest-after-going-public-ceo-says",
           "snippet": "Following its NYSE debut, Securitize CEO Carlos Domingo said the firm wants to expand its institutional tokenization platform rather than buy competitors.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin miner TeraWulf soars on a $19 billion AI data-center lease with Anthropic",
+          "url": "https://www.coindesk.com/markets/2026/07/06/bitcoin-miner-terawulf-soars-on-a-usd19-billion-ai-data-center-lease-with-anthropic",
+          "snippet": "The onetime pure bitcoin miner signed a 20-year deal to host the AI firm at a Kentucky campus, the latest crypto-adjacent company to trade mining for the steadier money in artificial-intelligence infrastructure.",
           "source": "CoinDesk"
         },
         {
@@ -447,36 +477,6 @@
           "title": "Russia's largest bank plans crypto wallet launch as Moscow clears market path",
           "url": "https://www.coindesk.com/business/2026/07/06/russia-s-largest-bank-plans-crypto-wallet-launch-as-moscow-clears-market-path",
           "snippet": "Services will integrate into \"Sberbank Online\" and \"SberInvestments\" once the \"On Digital Currency and Digital Rights\" bill takes effect in September.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "SpaceX's Nasdaq 100 inclusion comes with a historical warning",
-          "url": "https://www.coindesk.com/markets/2026/07/06/spacex-s-nasdaq-100-inclusion-comes-with-a-historical-warning",
-          "snippet": "The largest IPO ever enters the Nasdaq 100. Previous additions like Palantir and Strategy saw volatility after the index inclusion rather than the start of new rallies.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "U.S. inflation outlook underpins bitcoin bulls after best week since March",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/06/u-s-inflation-outlook-underpins-bitcoin-bulls-after-best-week-since-march",
-          "snippet": "Your day-ahead look for July 6, 2026",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto bounces back from the brink as altcoin optimism returns despite pockets of weakness",
-          "url": "https://www.coindesk.com/markets/2026/07/06/crypto-bounces-back-from-the-brink-as-altcoin-optimism-returns-despite-pockets-of-weakness",
-          "snippet": "BTC holds at $62,800 after last week's brush with $58,000, while LIT surges 50% and the Altcoin Season indicator hits its highest reading in three months.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin's Sharpe Ratio slides to lowest since 2022. Here's what it means.",
-          "url": "https://www.coindesk.com/markets/2026/07/06/bitcoin-s-sharpe-ratio-slides-to-lowest-since-2022-here-s-what-it-means",
-          "snippet": "A reading that negative means investors would have been better off in risk-free assets like 10-year U.S. Treasuries.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Ripple's preliminary crypto asset provider license in Luxembourg upgraded to fully compliant",
-          "url": "https://www.coindesk.com/policy/2026/07/06/ripple-s-preliminary-crypto-asset-provider-license-in-luxembourg-upgraded-to-fully-compliant",
-          "snippet": "The approval means Ripple is now fully MiCA-compliant for payments, financial institutions, corporates and businesses across all 30 European Economic Area countries.",
           "source": "CoinDesk"
         }
       ]
