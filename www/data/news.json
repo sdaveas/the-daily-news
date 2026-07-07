@@ -1,16 +1,64 @@
 {
-  "updated": "2026-07-07T17:52:53.562816+00:00",
+  "updated": "2026-07-07T21:16:18.395508+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Νετανιάχου: «Με τον Τραμπ συμφωνούμε στα σημαντικά ζητήματα για το Ιράν»",
-        "url": "https://www.tovima.gr/2026/07/07/world/netaniaxou-me-ton-tramp-symfonoume-sta-simantika-zitimata-gia-to-iran/",
-        "snippet": "Ο πρωθυπουργός του Ισραήλ, Μπενιαμίν Νετανιάχου, δήλωσε ότι, παρά τις κατά καιρούς διαφωνίες με τον πρόεδρο των ΗΠΑ, Ντόναλντ Τραμπ, οι δύο πλευρές παραμένουν ευθυγραμμισμένες στα βασικά ζητήματα που αφορούν το Ιράν",
+        "title": "Καρυστιανού σε Παπασταύρου: «Υπάρχουν ή όχι αιτήσεις για ανεμογεννήτριες στο Ωραιόκαστρο;»",
+        "url": "https://www.tovima.gr/2026/07/07/politics/karystianou-se-papastayrou-yparxoun-i-oxi-aitiseis-gia-anemogennitries-sto-oraiokastro/",
+        "snippet": "Στα άκρα φτάνει η κόντρα της «Ελπίδας για τη Δημοκρατία» με τον υπουργό Ενέργειας, Στ. Παπασταύρου, για το Ωραιόκαστρο - 18 αιτήσεις για ανεμογεννήτριες στην πληγείσα περιοχή, επικαλείται το κίνημα της Καρυστιανού",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Στενά του Ορμούζ: Με «μπλόκο» στο ιρανικό πετρέλαιο απαντούν οι ΗΠΑ στις επιθέσεις σε 3 τάνκερ",
+          "url": "https://www.tovima.gr/2026/07/07/world/stena-tou-ormouz-me-mploko-sto-iraniko-petrelaio-apantoun-oi-ipa-stis-epitheseis-se-3-tanker/",
+          "snippet": "«Μπορούμε να ισοπεδώσουμε τις υποδομές τους σε μία ώρα», απειλεί εκ νέου ο Τραμπ, ενώ αντηχούν ακόμη οι κραυγές για εκδίκηση από την κηδεία του Χαμενεΐ",
+          "source": "To Vima"
+        },
+        {
+          "title": "ΔΥΠΑ: Nέο πρόγραμμα επιδοτούμενης απασχόλησης – Ποιους αφορά",
+          "url": "https://www.tovima.gr/2026/07/07/society/dypa-neo-programma-epidotoumenis-apasxolisis-poious-afora/",
+          "snippet": "Στην υλοποίηση ειδικού προγράμματος απασχόλησης προχωρά η ΔΥΠΑ, με στόχο την ενίσχυση της απασχόλησης και την αντιμετώπιση της ανεργίας",
+          "source": "To Vima"
+        },
+        {
+          "title": "Σε εξέλιξη ΕΔΕ για περιστατικό που αφορά τη διεξαγωγή των Πανελλαδικών Εξετάσεων σε ΕΠΑΛ",
+          "url": "https://www.tovima.gr/2026/07/07/society/se-ekseliksi-ede-gia-peristatiko-pou-afora-ti-dieksagogi-ton-panelladikon-eksetaseon-se-epal/",
+          "snippet": "Ένορκη Διοικητική Εξέταση (ΕΔΕ) διέταξε το υπουργείο Παιδείας για το περιστατικό που αφορά την εξέταση δύο υποψηφίων ΕΠΑΛ στις Πανελλαδικές Εξετάσεις 2026, μετά τις καταγγελίες ότι έλαβαν εκ παραδρομής τα θέματα της προηγούμενης ημέρας των υποψηφίων των ΓΕΛ",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μαρίν Λεπέν: Υποψήφια για την προεδρία της Γαλλίας παρά την καταδίκη με «βραχιολάκι»",
+          "url": "https://www.tovima.gr/2026/07/07/world/marin-lepen-ypopsifia-gia-tin-proedria-tis-gallias-para-tin-katadiki-me-vraxiolaki/",
+          "snippet": "Η ηγέτιδα της γαλλικής ακροδεξιάς ανακοίνωσε ότι θα διεκδικήσει το Ελιζέ το 2027, εκμεταλλευόμενη το «παράθυρο» της έφεσης στην απόφαση για υπεξαίρεση, που της επιβάλλει ηλεκτρονική επιτήρηση",
+          "source": "To Vima"
+        },
+        {
+          "title": "Μουντιάλ 2026, Αργεντινή-Αίγυπτος 3-2: Μυθική ανατροπή-πρόκριση με buzzer beater στις καθυστερήσεις",
+          "url": "https://www.tovima.gr/2026/07/07/sports/mountial-2026-argentini-aigyptos-3-2-mythiki-anatropi-prokrisi-me-buzzer-beater-stis-kathysteriseis/",
+          "snippet": "Με ένα γκολ, μία ασίστ και ηγετική ψυχή, ο 39χρονος σταρ έφερε τα πάνω-κάτω, οδηγώντας την Αλμπισελέστε σε μια επική ανατροπή με χρυσό σκόρερ τον Έντσο Φερνάντες στο 92’ -Επόμενος σταθμός: οι «8» του κόσμου",
+          "source": "To Vima"
+        },
+        {
+          "title": "Βιώσιμη Ανάπτυξη: Τα καλά και άσχημα νέα της έκθεσης του ΟΗΕ",
+          "url": "https://www.tovima.gr/2026/07/07/world/viosimi-anaptyksi-ta-kala-kai-asxima-nea-tis-ekthesis-tou-oie/",
+          "snippet": "Η έκθεση του ΟΗΕ για τους παγκόσμιους στόχους βιώσιμης ανάπτυξης καταγράφει σημαντικές κατακτήσεις, αλλά και μεγάλες προκλήσεις. Παρά την πρόοδο σε υγεία, τεχνολογία και κοινωνική προστασία, φτώχεια, κλιματική κρίση και ανισότητες παραμένουν",
+          "source": "To Vima"
+        },
+        {
+          "title": "Κογκρέσο για F-35 σε Τουρκία: Η επιστολή-φωτιά 18 βουλευτών πριν τη Σύνοδο του ΝΑΤΟ",
+          "url": "https://www.tovima.gr/2026/07/07/world/kogkreso-gia-f-35-se-tourkia-i-epistoli-fotia-18-vouleyton-prin-ti-synodo-tou-nato/",
+          "snippet": "Ηχηρό «όχι» από 18 αμερικανούς νομοθέτες στα σενάρια επιστροφής της Άγκυρας στο πρόγραμμα των μαχητικών πέμπτης γενιάς - Η προειδοποίηση για το «δώρο» του Τραμπ στον Ερντογάν και το μήνυμα για Ελλάδα και Κύπρο",
+          "source": "To Vima"
+        },
+        {
+          "title": "Νετανιάχου: Η πώληση F-35 στην Τουρκία «θα κατέστρεφε» την ισορροπία δυνάμεων στη Μ. Ανατολή",
+          "url": "https://www.tovima.gr/2026/07/07/world/netaniaxou-me-ton-tramp-symfonoume-sta-simantika-zitimata-gia-to-iran/",
+          "snippet": "Την έντονη αντίθεσή του στο ενδεχόμενο πώλησης μαχητικών αεροσκαφών F-35 από τις ΗΠΑ στην Τουρκία εξέφρασε ο πρωθυπουργός του Ισραήλ, Μπενιαμίν Νετανιάχου, προειδοποιώντας ότι μια τέτοια εξέλιξη θα ανέτρεπε την ισορροπία δυνάμεων στη Μέση Ανατολή",
+          "source": "To Vima"
+        },
         {
           "title": "ΠαΣοΚ για στεγαστική κρίση: Το παρασκήνιο της συζήτησης, τα συμπεράσματα",
           "url": "https://www.tovima.gr/2026/07/07/politics/pasok-gia-stegastiki-krisi-to-paraskinio-tis-syzitisis-ta-symperasmata/",
@@ -46,54 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/07/society/dipli-tragodia-sto-aigio-oi-arxes-eksetazoun-pleon-to-endexomeno-anthropoktonias-kai-aytoxeirias/",
           "snippet": "Νέα δεδομένα προκύπτουν στην έρευνα για τη διπλή τραγωδία στο Αίγιο, όπου βρέθηκαν νεκροί μία 54χρονη και ο 26χρονος γιος της, καθώς οι Αρχές εξετάζουν πλέον σοβαρά το ενδεχόμενο ανθρωποκτονίας του νεαρού και αυτοχειρίας της μητέρας",
           "source": "To Vima"
-        },
-        {
-          "title": "Τραμπ, F-35 και CAATSA: Το μεγάλο παζάρι με την Τουρκία και τα εμπόδια της Ουάσιγκτον",
-          "url": "https://www.tovima.gr/2026/07/07/world/tramp-f-35-kai-caatsa-to-megalo-pazari-me-tin-tourkia-kai-ta-empodia-tis-ouasigkton/",
-          "snippet": "Η πρόθεση Τραμπ να επανεξετάσει τις κυρώσεις κατά της Άγκυρας προσκρούει στη νομοθεσία CAATSA και στις αντιδράσεις Αμερικανών βουλευτών. Ανησυχία σε ΗΠΑ και Ευρώπη για τα Kaan",
-          "source": "To Vima"
-        },
-        {
-          "title": "Κλείδωσε η επένδυση της Toyota στο εργοστάσιο του Τέξας",
-          "url": "https://www.tovima.gr/2026/07/07/autohub/kleidose-i-ependysi-tis-toyota-sto-ergostasio-tou-teksas/",
-          "snippet": "Η ιαπωνική φίρμα θα επενδύσει 3,6 δισεκατομμύρια δολάρια για να διπλασιάσει το μέγεθος του εργοστασίου της στο Τέξας με φόντο τους αμερικανικούς δασμούς",
-          "source": "To Vima"
-        },
-        {
-          "title": "Αγήματα, ιππικό και παραδοσιακοί πολεμιστές – Έτσι υποδέχτηκε ο Ερντογάν τον Τραμπ (Εικόνες)",
-          "url": "https://www.tovima.gr/2026/07/07/world/agimata-ippiko-kai-paradosiakoi-polemistes-etsi-ypodextike-o-erntogan-ton-tramp-eikones/",
-          "snippet": "Με έφιππους, μαχητικά αεροσκάφη και σπάσιμο του πρωτοκόλλου, η τουρκική προεδρία επιχείρησε να στείλει πολλαπλά μηνύματα ισχύος στην Ουάσιγκτον - Η θερμή χειραψία, ο εναγκαλισμός των δύο ηγετών και η σημειολογία πίσω από την «ιστορική» τελετή στο Μπεστεπέ",
-          "source": "To Vima"
-        },
-        {
-          "title": "Η Ρωσία επιστρέφει προσωρινά στους Ολυμπιακούς Αγώνες με απόφαση της ΔΟΕ",
-          "url": "https://www.tovima.gr/2026/07/07/sports/i-rosia-epistrefei-prosorina-stous-olympiakous-agones-me-apofasi-tis-doe/",
-          "snippet": "Η Διεθνής Ολυμπιακή Επιτροπή (ΔΟΕ) αποφάσισε την προσωρινή άρση του αποκλεισμού της Ρωσικής Ολυμπιακής Επιτροπής, εξέλιξη που ανοίγει τον δρόμο για την επιστροφή της Ρωσίας στους Ολυμπιακούς Αγώνες του Λος Άντζελες το 2028",
-          "source": "To Vima"
-        },
-        {
-          "title": "Υπόθεση Γκέτι: Η τραγωδία μιας άπληστης οικογένειας",
-          "url": "https://www.tovima.gr/2026/07/07/vimagazino/ypothesi-gketi-i-tragodia-mias-aplistis-oikogeneias/",
-          "snippet": "Τον Ιούλιο του 1973 ο Τζον Πολ Γκέτι Γ΄, ο εγγονός του μεγιστάνα των πετρελαίων, απήχθη στους δρόμους της Ρώμης. Για πέντε μήνες η υπόθεσή του συγκλόνισε τον κόσμο, αποκαλύπτοντας όχι μόνο τη δράση της μαφίας αλλά και τη σκοτεινή σχέση μιας οικογένειας με το χρήμα, την εξουσία κα",
-          "source": "To Vima"
-        },
-        {
-          "title": "Τραγωδία στην Ημαθία: Άγριο φονικό στην Κουλούρα – Ένας νεκρός κι ένας τραυματίας [Βίντεο]",
-          "url": "https://www.tovima.gr/2026/07/07/society/tragodia-stin-imathia-agrio-foniko-stin-kouloura-enas-nekros-ki-enas-traymatias/",
-          "snippet": "Αιματηρή συμπλοκή σημειώθηκε νωρίς το απόγευμα της Τρίτης, όταν 47χρονος επιτέθηκε με μαχαίρι και γροθιές σε δύο άνδρες - Συνελήφθη ο δράστης, εξετάζεται αν ήταν υπό την επήρεια ουσιών",
-          "source": "To Vima"
-        },
-        {
-          "title": "Κάθε Κυριακή με ΤΟ ΒΗΜΑ: «Το μενού της εβδομάδας» από την Αργυρώ Μπαρμπαρίγου",
-          "url": "https://www.tovima.gr/2026/07/07/media/kathe-kyriaki-me-to-vima-to-menou-tis-evdomadas-apo-tin-argyro-mparmparigou/",
-          "snippet": "Το ένθετο περιλαμβάνει 21 επιλεγμένες προτάσεις γευμάτων — τρεις για κάθε ημέρα: δύο εύκολες και γρήγορες συνταγές για την καθημερινότητα και μία πιο ιδιαίτερη πρόταση για όσους θέλουν να αφιερώσουν περισσότερο χρόνο στην κουζίνα",
-          "source": "To Vima"
-        },
-        {
-          "title": "Πετράλωνα: Εισαγγελική παρέμβαση για την κατάρρευση πολυκατοικίας – Μπλόκο στις έρευνες, λόγω γραφειοκρατίας για τα μπάζα",
-          "url": "https://www.tovima.gr/2026/07/07/society/petralona-eisaggeliki-paremvasi-gia-tin-katarreysi-polykatoikias-mploko-stis-ereynes-logo-grafeiokratias-gia-ta-mpaza/",
-          "snippet": "Έκτακτη σύσκεψη συγκάλεσε ο προϊστάμενος της Εισαγγελίας Πρωτοδικών, Αριστείδης Κορέας, καθώς Δήμος και Περιφέρεια δεν έχουν ξεκαθαρίσει ποιος θα απομακρύνει τα συντρίμμια - «Δεμένα» τα χέρια των πραγματογνωμόνων, υγειονομικός κίνδυνος για την περιοχή",
-          "source": "To Vima"
         }
       ]
     },
@@ -101,16 +101,16 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Marine Le Pen found guilty, but court clears way for presidential run if she wears tag",
-        "url": "https://www.bbc.co.uk/news/articles/cly85qjg45no?at_medium=RSS&at_campaign=rss",
-        "snippet": "The National Rally leader now has to decide whether she will run with an electronic tag and will speak on TV later.",
+        "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
+        "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
         "source": "BBC World"
       },
       "items": [
         {
-          "title": "Zelensky presses Nato for air defence systems after intense Russian strikes",
-          "url": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The Ukrainian president says \"decisions for air defence\" should be \"one of the key outcomes\" of this week's summit in Turkey.",
+          "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+          "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
           "source": "BBC World"
         },
         {
@@ -126,9 +126,15 @@
           "source": "BBC World"
         },
         {
-          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-          "snippet": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+          "title": "New footage shown at Kirk hearing shows man on rooftop near shooting scene",
+          "url": "https://www.bbc.co.uk/news/articles/cr5j983p046o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The preliminary hearing will determine whether Tyler Robinson, accused of killing conservative activist Charlie Kirk, will stand trial.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Hungary's public news broadcasts halted in bid to scrap Orban-era propaganda",
+          "url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The country's main state TV channel displayed a message saying it was \"sorry\" for lying on Tuesday.",
           "source": "BBC World"
         },
         {
@@ -138,13 +144,13 @@
           "source": "BBC World"
         },
         {
-          "title": "Watch: Moment rare tornado lashes central Chinese cities",
-          "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
+          "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+          "snippet": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
           "source": "BBC World"
         },
         {
-          "title": "Explosions injure 18 in Damascus during Macron's visit",
+          "title": "Bomb explosions injure 18 in Damascus during Macron's visit",
           "url": "https://www.bbc.co.uk/news/articles/c2eylx1jj9ko?at_medium=RSS&at_campaign=rss",
           "snippet": "As reports of the blasts came in, state television said the Syrian president had welcomed Macron at the presidential palace.",
           "source": "BBC World"
@@ -159,6 +165,12 @@
           "title": "Zimbabwean football star survives gun attack in South Africa",
           "url": "https://www.bbc.co.uk/news/articles/c1my1rvy28do?at_medium=RSS&at_campaign=rss",
           "snippet": "South African police say they are investigating a case of attempted murder but that no arrests have been made so far.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Watch: Moment rare tornado lashes central Chinese cities",
+          "url": "https://www.bbc.co.uk/news/videos/cq61d22ved2o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Videos shared with the BBC show debris flying through the air as the storm swept through Ezhou and Huanggang in Hubei province.",
           "source": "BBC World"
         },
         {
@@ -178,18 +190,6 @@
           "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
           "snippet": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
           "source": "BBC World"
-        },
-        {
-          "title": "Ex-Syrian intelligence chief found guilty of torture and sexual abuse by Austrian court",
-          "url": "https://www.bbc.co.uk/news/articles/cy8ddd1m3mpo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Two former Syrian officials went on trial in Vienna, Austria, accused of crimes against opponents of former Syrian leader Bashar al-Assad",
-          "source": "BBC World"
-        },
-        {
-          "title": "Wildfire in southern France forces evacuation of 10,000 people",
-          "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
-          "source": "BBC World"
         }
       ]
     },
@@ -197,12 +197,54 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "New virus catalog reveals which pathogens pose the greatest threat",
-        "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
-        "snippet": "The data can help predict what a future pandemic virus might look like.",
+        "title": "Bethesda, id Software reportedly hit hard by Microsoft layoffs",
+        "url": "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/",
+        "snippet": "As much as 50 percent of some teams affected by reductions, and more could be coming.",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "Google's Pixel 11 launch event is set for August 12, with possible price increases",
+          "url": "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
+          "snippet": "Google's new phones could feature glowing LEDs and higher price tags.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "The Weather Channel increases streaming subscription prices by up to $20",
+          "url": "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
+          "snippet": "Livestreaming the channel through its app now starts at $5 per month.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "The Nintendo Switch's days are numbered—but what is that number?",
+          "url": "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
+          "snippet": "Ars analysis suggests the 9-year-old console could keep selling for years.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "This race car is made from plant fibers, volcanoes, ... and seawater?",
+          "url": "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
+          "snippet": "The T70S can be eligible for racing events or built to be road-legal.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+          "url": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+          "snippet": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Dragonflies maneuver like fighter pilots",
+          "url": "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+          "snippet": "Male dragonflies' dramatic aerial combat maneuvers emerge from relatively simple vision-based rules.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "New virus catalog reveals which pathogens pose the greatest threat",
+          "url": "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
+          "snippet": "The data can help predict what a future pandemic virus might look like.",
+          "source": "Ars Technica"
+        },
         {
           "title": "ULA's last six Atlas Vs can't launch anything besides Boeing's Starliner",
           "url": "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
@@ -244,48 +286,6 @@
           "url": "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
           "snippet": "It will take several weeks for the Link spacecraft to rendezvous with NASA's Swift observatory.",
           "source": "Ars Technica"
-        },
-        {
-          "title": "Secret Claude tracker shocks users after Anthropic’s anti-surveillance stance",
-          "url": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
-          "snippet": "Anthropic accused of spying on users; engineer says “experiment” is over.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "The incredible shrinking Xbox: Five studios, 3,200 employees let go",
-          "url": "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-          "snippet": "Move affects ~20% of the gaming division, which will refocus on its biggest franchises.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "F1 in Britain: Automated software to blame for crushing expectations",
-          "url": "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
-          "snippet": "Sometimes races finish behind a safety car, but it's not always satisfying.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "There were not one, but two asteroid encounters this weekend",
-          "url": "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-          "snippet": "The Torifune asteroid turns out to be shaped like a peanut.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
-          "url": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
-          "snippet": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Bentley teases its first EV, the Torcal",
-          "url": "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
-          "snippet": "The new model will be officially unveiled in late September.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "The Czinger 21C might be the wildest car we drive all year",
-          "url": "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
-          "snippet": "This hybrid V8 has organic-looking 3D-printed components and shatters lap records.",
-          "source": "Ars Technica"
         }
       ]
     },
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Η αλλαγή του Σιώπη λόγω Ντε Φράι και τα νούμερα στις φανέλες των παικτών του Παναθηναϊκού",
-        "url": "https://www.skai.gr/news/sports/panathinaikos-apokalyfthikan-ta-noumera-stis-faneles-ton-paikton-gia-ti-nea-sezon",
-        "snippet": "Γνωστά έγιναν τα νούμερα των παικτών του Παναθηναϊκού στις φανέλες τους για τη νέα σεζόν. Σε διψήφιο αριθμό ο Σιώπης, λόγω του Στεφάν ντε Φράι",
+        "title": "Συνεχίζει τη δουλειά και ανεβάζει ρυθμούς η ΑΕΚ στην Ολλανδία",
+        "url": "https://www.skai.gr/news/sports/synexizei-ti-douleia-kai-anevazei-rythmous-i-aek-stin-ollandia",
+        "snippet": "Ο Μάρκο Νίκολιτς αύξησε τις εντάσεις στη δουλειά των πρωταθλητών Ελλάδας επί ολλανδικού εδάφους, κατά τη δεύτερη μέρα προετοιμασίας στο Άπελντοορν",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Η αλλαγή του Σιώπη λόγω Ντε Φράι και τα νούμερα στις φανέλες των παικτών του Παναθηναϊκού",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-apokalyfthikan-ta-noumera-stis-faneles-ton-paikton-gia-ti-nea-sezon",
+          "snippet": "Γνωστά έγιναν τα νούμερα των παικτών του Παναθηναϊκού στις φανέλες τους για τη νέα σεζόν. Σε διψήφιο αριθμό ο Σιώπης, λόγω του Στεφάν ντε Φράι",
+          "source": "Skai Sports"
+        },
         {
           "title": "«Έκανε πρόταση για Γκασαμά ο Παναθηναϊκός»",
           "url": "https://www.skai.gr/news/sports/rosika-mesa-o-panathinaikos-ekane-protasi-gia-ton-gkasama",
@@ -376,12 +382,6 @@
           "url": "https://www.skai.gr/news/sports/mpongka-ta-noumera-se-euroleague-kai-ethniki-germanias-ta-teleytaia-xronia",
           "snippet": "Τα νούμερα του Ισαάκ Μπόνγκα στην Ευρωλίγκα τα τελευταία χρόνια",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Παίκτης της ΑΕΚ και επίσημα ο Κάιρινεν",
-          "url": "https://www.skai.gr/news/sports/paiktis-tis-aek-kai-episima-o-kairinen",
-          "snippet": "Η ΑΕΚ ανακοίνωσε την απόκτηση του Φινλανδού χαφ Κάι Κάιρινεν ως το 2030",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,24 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
-        "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
-        "snippet": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+        "title": "BlackRock-backed Securitize slides 40% after SPAC debut despite tokenization boom",
+        "url": "https://www.coindesk.com/markets/2026/07/07/blackrock-backed-securitize-slides-40-after-spac-debut-despite-tokenization-boom",
+        "snippet": "The decline fits into a pattern of recently-public digital asset companies sliding after debut, Arca's Jeff Dorman said.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Crypto exchange Kraken is trying to become a bank in Europe",
+          "url": "https://www.coindesk.com/business/2026/07/07/crypto-exchange-kraken-is-trying-to-become-a-bank-in-europe",
+          "snippet": "Kraken's focus is on Lithuania as the jurisdiction to secure the license, according to a person familiar with the plans.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SpaceX IPO powers record $3.86 billion in tokenized equities trading in June",
+          "url": "https://www.coindesk.com/markets/2026/07/07/spacex-ipo-powers-record-usd3-86-billion-in-tokenized-equities-trading-in-june",
+          "snippet": "SpaceX tokens captured $1.19 billion, or 31% of total monthly volume, with Backpack’s SPCX leading trading at $1.08 billion.",
+          "source": "CoinDesk"
+        },
         {
           "title": "U.S. SEC to propose crypto rule as soon as this month to ease startups, fundraising",
           "url": "https://www.coindesk.com/policy/2026/07/07/u-s-sec-to-propose-crypto-rule-as-soon-as-this-month-to-ease-startups-fundraising",
@@ -466,18 +478,6 @@
           "url": "https://www.coindesk.com/markets/2026/07/07/btc-s-recent-macro-relief-faces-a-challenge-from-japanese-interest-rates",
           "snippet": "Japanese bond yields continue to rise, lifting their U.S. counterparts and posing a potential headwind for risk assets.",
           "source": "CoinDesk"
-        },
-        {
-          "title": "Live markets: Bitcoin climbs near $64,000 as AI favorites plunge on Tuesday",
-          "url": "https://www.coindesk.com/tech/2026/07/07/live-markets-bitcoin-and-ether-etfs-drew-inflows-on-monday",
-          "snippet": "Bitcoin and ether ETFs drew fresh inflows Monday as the bid starts to return.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "BONK faces $20 million treasury drain after attacker spends $4 million to pass malicious proposal",
-          "url": "https://www.coindesk.com/markets/2026/07/07/bonk-faces-usd20-million-treasury-drain-after-attacker-spends-usd4-million-to-pass-malicious-proposal",
-          "snippet": "The attacker bought enough of the memecoin's tokens to pass a governance proposal that sent the group's holdings to a wallet they controlled, then began selling.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,12 +485,54 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Terminator 2: Judgment Day is getting re-released in theaters for its 35th anniversary",
-        "url": "https://www.polygon.com/terminator-2-judgement-day-rerelease-theaters-3d/",
-        "snippet": "James Cameron's action masterpiece starring Arnold Schwarzenegger is back on the big screen",
+        "title": "All Xbox studios remaining following mass layoffs and restructure",
+        "url": "https://www.polygon.com/xbox-studio-status-2026/",
+        "snippet": "Here's what we know about every studio remaining at Xbox following the company's mass layoff announcement.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Marvel Rivals adds X-Men's Jubilee in season 9: first look at gameplay",
+          "url": "https://www.polygon.com/marvel-rivals-jubilee-announced-reveal-release-date/",
+          "snippet": "The explosive mutant Jubilee is having a moment between Marvel Rivals and X-Men '97 season 2",
+          "source": "Polygon"
+        },
+        {
+          "title": "Fallout season 3 starts filming, The Ghoul actor confirms",
+          "url": "https://www.polygon.com/fallout-season-3-filming-start-release-date-walton-goggins/",
+          "snippet": "Fallout star Walton Goggins says that season 3 is underway in a new behind-the-scenes filming post on Instagram.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Legend of the White Dragon trailer reveals a Power Rangers legend's final role",
+          "url": "https://www.polygon.com/the-final-project-from-power-rangers-biggest-star-finally-gets-its-first-trailer/",
+          "snippet": "Jason David Frank starred as Tommy Oliver in the beloved series Mighty Morphin' Power Rangers",
+          "source": "Polygon"
+        },
+        {
+          "title": "Final Fantasy artist Yoshitaka Amano explains why AI can't replace human creativity",
+          "url": "https://www.polygon.com/zan-anime-yoshitaka-amano-interview-final-fantasy-art/",
+          "snippet": "At Anime Expo, Polygon sat down with the legendary Final Fantasy artist to finish his thoughts on art, AI, anime, and his next big project, ZAN.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Crowd Control season 2 trailer shows new additions Taylor Tomlinson, Nicole Byer, and more",
+          "url": "https://www.polygon.com/dropout-crowd-control-season-2-trailer-taylor-tomlinson-gianmarco-soresi/",
+          "snippet": "Dropout's improvised stand-up show Crowd Control features a murderer's row of comedians for its second season, which premieres next month.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Baki-dou The Invincible Samurai part 2 review: The series's most interesting character and the most disappointing fights",
+          "url": "https://www.polygon.com/baki-invincible-samurai-musashi-reviewl/",
+          "snippet": "Baki-dou: The Invincible Samurai is a post-structuralist take on anime's fighting genre that doesn't need good fights to shine.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Terminator 2: Judgment Day is getting re-released in theaters for its 35th anniversary",
+          "url": "https://www.polygon.com/terminator-2-judgement-day-rerelease-theaters-3d/",
+          "snippet": "James Cameron's action masterpiece starring Arnold Schwarzenegger is back on the big screen",
+          "source": "Polygon"
+        },
         {
           "title": "Frosthaven game director explains the challenges of adapting the hit dungeon-crawler board game",
           "url": "https://www.polygon.com/frosthaven-digital-adaptation-interview/",
@@ -501,48 +543,6 @@
           "title": "Meta launches Pocket, an app for making games with generative AI",
           "url": "https://www.polygon.com/mark-zuckerberg-meta-new-app-pocket/",
           "snippet": "The company shut down multiple game companies earlier this year but is now jumping further into the world of AI-created games.",
-          "source": "Polygon"
-        },
-        {
-          "title": "The Great Ace Attorney Chronicles remains the series’ best game, five years later",
-          "url": "https://www.polygon.com/great-ace-attorney-5th-anniversary-north-america/",
-          "snippet": "After a worldwide release in 2021, Capcom's prequel to the Phoenix Wright games still hasn't been topped",
-          "source": "Polygon"
-        },
-        {
-          "title": "Xbox Game Pass loses Dungeons of Hinterberg and 9 other games this month",
-          "url": "https://www.polygon.com/xbox-game-pass-leaving-july-2026-dungeons-of-hinterberg/",
-          "snippet": "Amid flailing subscriber numbers, Xbox Game Pass is losing several great games in July, including Dungeons of Hinterberg.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Rise of the Lazy Gamemaster is the new essential D&D book you need in your collection",
-          "url": "https://www.polygon.com/lazy-dungeon-master-sly-flourish-new-book-kickstarter/",
-          "snippet": "Sly Flourish is back with another book in the Lazy Dungeon Master series, showing how to make your games better by prepping less.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Dustpile is a Steam dating app that will help clear your backlog",
-          "url": "https://www.polygon.com/steam-dating-app-dustpile-backlog/",
-          "snippet": "Dustpile is a free site that will load your Steam library and help you find what game to play next, clearing your backlog in the process.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Overwatch is no longer Steam's worst-reviewed game",
-          "url": "https://www.polygon.com/overwatch-mixed-steam-review-score-blizzard/",
-          "snippet": "Blizzard's hero shooter is on a slow upward trajectory with fans after Overwatch 2's rough Steam launch in 2023.",
-          "source": "Polygon"
-        },
-        {
-          "title": "What time does Assassin's Creed Black Flag Resynced release in your time zone?",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-release-times-edt-pdt-preload-preorder/",
-          "snippet": "Assassin's Creed Black Flag Resynced's release times are different if you're on console or PC. Here's when you can play AC Black Flag Resynced",
-          "source": "Polygon"
-        },
-        {
-          "title": "Avatar Aang: The Last Airbender trailer revealed ahead of San Diego Comic-Con",
-          "url": "https://www.polygon.com/avatar-aang-last-airbender-trailer/",
-          "snippet": "The long awaited sequel to Avatar: The Last Airbender premieres on Paramount Plus July 25",
           "source": "Polygon"
         },
         {
