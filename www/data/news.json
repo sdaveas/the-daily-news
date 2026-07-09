@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-09T10:47:03.487105+00:00",
+  "updated": "2026-07-09T14:35:01.639455+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Σέρρες: Μπέρδεψαν τις σορούς; Τι συνέβη στο Νοσοκομείο",
-        "url": "https://www.tovima.gr/2026/07/09/society/serres-mperdepsan-tis-sorous-ti-synevi-sto-nosokomeio/",
-        "snippet": "Η διοίκηση του Νοσοκομείου Σερρών διέταξε κατεπείγουσα Ένορκη Διοικητική Εξέταση (ΕΔΕ) προκειμένου να διερευνηθεί το περιστατικό",
+        "title": "Ασπρόπυργος: Η στιγμή της έκρηξης – Ολική καταστροφή, συγκλονιστικές μαρτυρίες",
+        "url": "https://www.tovima.gr/2026/07/09/society/aspropyrgos-i-stigmi-tis-ekriksis-oliki-katastrofi-sygklonistikes-martyries/",
+        "snippet": "Βίντεο αποκαλύπτει πώς ξεκίνησε η βιβλική καταστροφή στην επιχείρηση ανταλλακτικών, που ενεργοποίησε το 112",
         "source": "To Vima"
       },
       "items": [
         {
-          "title": "Hürriyet: Η μεταβίβαση των S-400 σε χώρα του Κόλπου θα «ξεμπλοκάρει» τα F-35",
-          "url": "https://www.tovima.gr/2026/07/09/world/hurriyet-i-metavivasi-ton-s-400-se-xora-tou-kolpou-tha-ksemplokarei-ta-f-35/",
-          "snippet": "Τη μεταβίβαση των ρωσικών αντιαεροπορικών συστημάτων S-400 σε τρίτη χώρα του Κόλπου παρουσιάζει η φιλοκυβερνητική Χουριέτ ως το επικρατέστερο σενάριο για την υπέρβαση του αδιεξόδου στις αμερικανοτουρκικές σχέσεις",
+          "title": "Νέα Υόρκη: Η περιπέτεια με τον ουρανοξύστη αποτελεί δοκιμασία για τις μετατροπές γραφείων",
+          "url": "https://www.tovima.gr/2026/07/09/the-wall-street-journal/nea-yorki-i-peripeteia-me-ton-ouranoksysti-apotelei-dokimasia-gia-tis-metatropes-grafeion/",
+          "snippet": "Μετά τον κίνδυνο μερικής κατάρρευσης στο πρώην αρχηγείο της Pfizer, οι κατασκευαστές αναμένουν αυστηρότερους ελέγχους ασφαλείας, υψηλότερο κόστος και ακριβότερες ασφαλίσεις",
           "source": "To Vima"
         },
         {
-          "title": "Συναγερμός από τον ΕΦΕΤ: Ανακαλεί γνωστά χούμους λόγω σαλμονέλας",
-          "url": "https://www.tovima.gr/2026/07/09/society/synagermos-apo-ton-efet-anakalei-gnosta-xoumous-logo-salmonelas/",
-          "snippet": "Ο ΕΦΕΤ ανακαλεί γνωστά χούμους λόγω σαλμονέλας, η οποία εντοπίστηκε σε παρτίδα ταχινιού.",
+          "title": "Νέα Υόρκη: Γιατί λύγισαν οι κολόνες στον ουρανοξύστη της πρώην Pfizer – Πώς θα αποκατασταθεί η ζημιά",
+          "url": "https://www.tovima.gr/2026/07/09/world/nea-yorki-giati-lygisan-oi-kolones-ston-ouranoksysti-tis-proin-pfizer-pos-tha-apokatastathei-i-zimia/",
+          "snippet": "Μηχανικοί χαρακτηρίζουν το συμβάν ιδιαίτερα ασυνήθιστο, καθώς αντίστοιχες αστοχίες κατά τη διάρκεια ανακατασκευής πολυώροφων κτιρίων είναι εξαιρετικά σπάνιες",
           "source": "To Vima"
         },
         {
-          "title": "Αφορμή",
-          "url": "https://www.tovima.gr/2026/07/09/opinions/aformi/",
-          "snippet": "Γι' αυτό ποτέ στην πολιτική δεν λες ποτέ. Και κυρίως δεν ψηφίζεις ένα ποτέ που δεν σου ζητάει κανείς.",
+          "title": "Θεσσαλονίκη: Φωτιά τώρα στο Καλοχώρι – Ήχησε το 112",
+          "url": "https://www.tovima.gr/2026/07/09/society/thessaloniki-fotia-tora-se-sto-kaloxori-ixise-kai-to-112/",
+          "snippet": "Σε εξέλιξη βρίσκεται μεγάλη επιχείρηση της Πυροσβεστικής για την κατάσβεση φωτιάς που εκδηλώθηκε το απόγευμα σε επιχείρηση κοντά στην παραλία του Καλοχωρίου, στη Θεσσαλονίκη",
           "source": "To Vima"
         },
         {
-          "title": "Κυπριακό και ευρωτουρκικές σχέσεις, το μενού της συνάντησης Ερντογάν – Κόστα – φον ντερ Λάιεν",
-          "url": "https://www.tovima.gr/2026/07/09/world/kypriako-kai-eyrotourkikes-sxeseis-to-menou-tis-synantisis-erntogan-kosta-fon-nter-laien/",
-          "snippet": "Το Κυπριακό, οι διεθνείς εξελίξεις και η ενίσχυση των ευρωτουρκικών σχέσεων βρέθηκαν στο επίκεντρο της συνάντησης Ερντογάν με Κόστα και φον ντερ Λάιεν στην Άγκυρα, ενώ αίσθηση προκάλεσαν τα πιστόλια που προσέφερε ως αναμνηστικά δώρα στους ηγέτες",
+          "title": "Δένδιας από Economist: Καθόλου ευχαριστημένος αν η Τουρκία πάρει τα F-35 και κινητήρες για τα KAAN",
+          "url": "https://www.tovima.gr/2026/07/09/politics/dendias-apo-economist-katholou-eyxaristimenos-an-i-tourkia-parei-ta-f-35-kai-kinitires-gia-ta-kaan/",
+          "snippet": "Κατά την παρουσία του στο Συνέδριο του Economist και μια ημέρα μετά την Σύνοδο Κορυφής στο ΝΑΤΟ στην Άγκυρα όπου ο Ντόναλντ Τραμπ άφησε ανοικτό το ενδεχόμενο πώλησης F-35 στην Τουρκία ο υπουργός Εθνικής Άμυνας Νίκος Δένδιας έστειλε πολλαπλά μηνύματα για το ζήτημα αυτό.",
           "source": "To Vima"
         },
         {
-          "title": "Δυτικός Νείλος: Το πρώτο κρούσμα στην Ελλάδα – Πού εντοπίστηκε, τι να προσέχετε",
-          "url": "https://www.tovima.gr/2026/07/09/society/dytikos-neilos-to-proto-krousma-stin-ellada-pou-entopistike-ti-na-prosexete/",
-          "snippet": "Οι περιοχές στις οποίες θα κυκλοφορήσει ο ιός του Δυτικού Νείλου και θα εμφανισθούν κρούσματα δεν μπορούν να προβλεφθούν με ασφάλεια. Ο ΕΟΔΥ συστήνει τη λήψη ατομικών μέτρων προστασίας από τα κουνούπια",
+          "title": "Η απίθανη ιστορία της «Μεγάλης Σφαγής στα Β΄ ΚΑΠΗ Αλίμου»",
+          "url": "https://www.tovima.gr/2026/07/09/vimagazino/i-apithani-istoria-tis-megalis-sfagis-sta-v%ce%84-kapi-alimou/",
+          "snippet": "Πώς η ιδέα ενός δημάρχου, ένα δωρεάν κινηματογραφικό σεμινάριο και ένας σκηνοθέτης με μικρό προϋπολογισμό αλλά αντιστρόφως ανάλογη φαντασία δημιούργησαν τη «Μεγάλη Σφαγή στα Β’ ΚΑΠΗ Αλίμου» ή αλλιώς μια ταινία με ερασιτέχνες ηθοποιούς, φεστιβαλική πορεία, πανελλαδική διανομή και ",
           "source": "To Vima"
         },
         {
-          "title": "Φοιτητική στέγη: «Φωτιά» τα ενοίκια γύρω απ’ τα πανεπιστήμια",
-          "url": "https://www.tovima.gr/2026/07/09/finance/foititiki-stegi-fotia-ta-enoikia-gyro-ap-ta-panepistimia/",
-          "snippet": "Τι δείχνει νέα έρευνα της ReDataset για τη φοιτητική στέγη και τα ενοίκια που ζητούνται σε 8 περιοχές με μεγάλα πανεπιστήμια – Πού υπάρχει αύξηση και που παρατηρείται στασιμότητα",
+          "title": "Επαναφορά 13ης σύνταξης προτείνει ο Ανδρουλάκης",
+          "url": "https://www.tovima.gr/2026/07/09/politics/epanafora-13is-syntaksis-proteinei-o-androulakis/",
+          "snippet": "Τα 17 μέτρα για τους συνταξιούχους που αποτελούν δέσμευση θα ανακοινώσει σήμερα ο πρόεδρος του ΠαΣοΚ",
           "source": "To Vima"
         },
         {
-          "title": "Βάγια Νέστορα: Με ασθενοφόρο στην κηδεία η κόρη της, Αφροδίτη",
-          "url": "https://www.tovima.gr/2026/07/09/society/vagia-nestora-me-asthenoforo-stin-kideia-i-kori-tis-afroditi/",
-          "snippet": "Παρουσία του πρωθυπουργού Κυριάκου Μητσοτάκη και εκπροσώπων των πολιτικών κομμάτων η κηδεία της Βάγιας Νέστορα - Με δική της ευθύνη στο τελευταία αντίο η κόρη της, Αφροδίτη, που νοσηλευόταν.",
+          "title": "Καύσωνας: Πάνω από 5000 θάνατοι στη Γερμανία – Νέο κύμα στη Γαλλία, στερεύουν ποτάμια",
+          "url": "https://www.tovima.gr/2026/07/09/world/kaysonas-pano-apo-5000-thanatoi-sti-germania-neo-kyma-sti-gallia-stereyoun-potamia/",
+          "snippet": "Ο καύσωνας προκαλεί αλυσιδωτές επιπτώσεις σε ολόκληρη την Ευρώπη, με τη Γερμανία να καταγράφει χιλιάδες θανάτους που συνδέονται με τη ζέστη και τη Γαλλία να βρίσκεται εκ νέου αντιμέτωπη με ξηρασία, πυρκαγιές και προβλήματα στις ενεργειακές υποδομές",
           "source": "To Vima"
         },
         {
-          "title": "Αυτή την Κυριακή με ΤΟ ΒΗΜΑ: «Η Πριγκιπέσα Ιζαμπώ» Α’ Τόμος, «Σαλάτες και ελαφριά γεύματα» από την Αργυρώ Μπαρμπαρίγου & ΒΗΜΑGAZINO",
-          "url": "https://www.tovima.gr/2026/07/09/media/ayti-tin-kyriaki-me-to-vima-i-prigkipesa-izampo-a-tomos-salates-kai-elafria-geymata-apo-tin-argyro-mparmparigou-vimagazino/",
-          "snippet": "Κυκλοφορούν την Κυριακή 12 Ιουλίου αποκλειστικά με το «Βήμα της Κυριακής».",
+          "title": "ΕΛΣΤΑΤ: Στο 4,4% ο πληθωρισμός τον Ιούνιο 2026 – Νέες αυξήσεις σε τρόφιμα, ενέργεια και διακοπές",
+          "url": "https://www.tovima.gr/2026/07/09/finance/elstat-sto-44-o-plithorismos-ton-iounio-2026-nees-ayksiseis-se-trofima-energeia-kai-diakopes/",
+          "snippet": "Την ίδια στιγμή, το υπουργείο Ανάπτυξης προωθεί πρωτοβουλία για μειώσεις τιμών σε βασικά προϊόντα, με στόχο να υπάρξει αποκλιμάκωση στο κόστος για τους καταναλωτές",
           "source": "To Vima"
         },
         {
-          "title": "Πέθανε η Μπόνι Τάιλερ σε ηλικία 75 ετών",
-          "url": "https://www.tovima.gr/2026/07/09/culture/pethane-i-mponi-tailer-se-ilikia-75-eton/",
-          "snippet": "Έφυγε από τη ζωή η Μπόνι Τάιλερ, η τραγουδίστρια του «Total Eclipse of The Heart», στα 75 έτη της.",
+          "title": "Ασπρόπυργος: Βίντεο ντοκουμέντο από τη στιγμή της έκρηξης στο εργοστάσιο",
+          "url": "https://www.tovima.gr/2026/07/09/society/aspropyrgos-vinteo-ntokoumento-apo-ti-stigmi-tis-ekriksis-sto-ergostasio/",
+          "snippet": "Όπως δήλωσε ο δήμαρχος Ασπροπύργου, Γιάννης Ηλίας, η φωτιά έχει σχεδόν σβήσει, χάρη στην υπεράνθρωπη προσπάθεια των δυνάμεων να μην επεκταθεί το μέτωπο σε ολόκληρη τη βιομηχανική ζώνη.",
           "source": "To Vima"
         },
         {
-          "title": "Στη Βουλή η αναφορά Βελόπουλου για τους ποινικούς κώδικες",
-          "url": "https://www.tovima.gr/2026/07/09/dikaiosyni/sti-vouli-i-anafora-velopoulou-gia-tous-poinikous-kodikes/",
-          "snippet": "Θα διαβιβαστεί με τον νόμο περί ευθύνης υπουργών αν και τα όποια αδικήματα έχουν ήδη παραγραφεί.",
+          "title": "Η Λεπέν φαβορί για το Μέγαρο των Ηλυσίων παρά την καταδίκη – Τι δείχνουν οι νέες δημοσκοπήσεις",
+          "url": "https://www.tovima.gr/2026/07/09/world/i-lepen-favori-gia-to-megaro-ton-ilysion-para-tin-katadiki-ti-deixnoun-oi-nees-dimoskopiseis/",
+          "snippet": "Παρά την καταδίκη της σε δεύτερο βαθμό για κατάχρηση ευρωπαϊκών κονδυλίων, η Μαρίν Λεπέν διατηρεί ισχυρό προβάδισμα στην κούρσα για την προεδρία της Γαλλίας, με δύο δημοσκοπήσεις να την εμφανίζουν νικήτρια τόσο στον πρώτο όσο και στον δεύτερο γύρο",
           "source": "To Vima"
         },
         {
-          "title": "Πετράλωνα: Δεξαμενή πετρελαίου θαμμένη στα συντρίμμια – Το πόρισμα για τη διπλανή πολυκατοικία",
-          "url": "https://www.tovima.gr/2026/07/09/society/petralona-deksameni-petrelaiou-thammeni-sta-syntrimmia-to-porisma-gia-ti-diplani-polykatoikia/",
-          "snippet": "Καθώς η ιδιοκτησία είναι ιδιωτική, ουδείς είναι αρμόδιος για την απομάκρυνση των συντριμμιών και τη διαχείριση του χώρου. Περιφέρεια Αττικής και Δήμος Αθηναίων, αναμένουν κατευθυντήριες οδηγίες από τους πραγματογνώμονες που έχει ορίσει η Εισαγγελία Πρωτοδικών Αθηνών",
+          "title": "Χρυσός: Νέα άνοδος μετά τη «βουτιά» – Ο διπλός παράγοντας",
+          "url": "https://www.tovima.gr/2026/07/09/finance/xrysos-nea-anodos-meta-ti-voutia-o-diplos-paragontas/",
+          "snippet": "Ο χρυσός παραμένει ένα πολύτιμο μέταλλο, το οποίο ενισχύεται, καθώς το δολάριο υποχωρεί και οι αγορές αναζητούν ασφαλή καταφύγια.",
           "source": "To Vima"
         },
         {
-          "title": "Δημοσκόπηση MRB: Μονοψήφια η διαφορά ΝΔ – ΕΛ.Α.Σ, 3ο το ΠαΣοΚ",
-          "url": "https://www.tovima.gr/2026/07/09/politics/dimoskopisi-mrb-monopsifia-i-diafora-nd-elas-3o-to-pasok/",
-          "snippet": "Ιδιαίτερο ενδιαφέρον παρουσιάζει η απάντηση των πολιτών ως αναφορά το τρίπτυχο των μεγαλυτέρων προβλημάτων της χώρας",
+          "title": "Πυρά κατά της Κομισιόν για το νέο Σύστημα Εισόδου/Εξόδου στην ΕΕ – Ζητείται ευελιξία",
+          "url": "https://www.tovima.gr/2026/07/09/world/pyra-kata-tis-komision-gia-to-neo-systima-eisodou-eksodou-stin-ee-ziteitai-eyeliksia/",
+          "snippet": "Από τα ελληνικά αεροδρόμια μέχρι τα λιμάνια της Μάγχης, το νέο σύστημα βιομετρικών ελέγχων στις πύλες εισόδου στην ΕΕ προκαλεί σφοδρές αντιδράσεις, με κυβερνήσεις και επιχειρήσεις να ζητούν ευελιξία και ανασχεδιασμό",
           "source": "To Vima"
         },
         {
-          "title": "Φωτιά στον Ασπρόπυργο: «Θα θρηνήσουμε θύματα» – Καταγγελία για τα μέτρα ασφαλείας",
-          "url": "https://www.tovima.gr/2026/07/09/society/fotia-ston-aspropyrgo-tha-thrinisoume-thymata-kataggelia-gia-ta-metra-asfaleias/",
-          "snippet": "Καταγγελίες ότι εργοδότες κρατούσαν εργαζόμενους μέσα σε εργοστάσια την ώρα που η περιοχή καιγόταν, έρχονται στο φως μετά τη μεγάλη πυρκαγιά στον Ασπρόπυργο, η οποία άφησε πίσω της 11 τραυματίες",
+          "title": "Τεχνητή νοημοσύνη, Διάστημα και ανθρώπινα δικαιώματα στου Δελφούς",
+          "url": "https://www.tovima.gr/2026/07/09/culture/texniti-noimosyni-diastima-kai-anthropina-dikaiomata-stou-delfous/",
+          "snippet": "Οκτώ διεθνώς αναγνωρισμένοι επιστήμονες και στοχαστές συζήτησαν στους Τέταρτους Δελφικούς Διαλόγους τις τεχνολογίες, τις πολιτικές αποφάσεις και τα ηθικά διλήμματα που θα διαμορφώσουν το μέλλον της ανθρωπότητας.",
           "source": "To Vima"
         },
         {
-          "title": "Η πόλωση ως πολιτική στρατηγική. Αποδίδει πάντα;",
-          "url": "https://www.tovima.gr/2026/07/09/opinions/i-polosi-os-politiki-stratigiki-apodidei-panta/",
-          "snippet": "Η δημοκρατία δεν χρειάζεται κοινωνίες χωρίς συγκρούσεις. Οι συγκρούσεις είναι η ουσία της πολιτικής. Χρειάζεται όμως συγκρούσεις που οργανώνονται γύρω από πραγματικά πολιτικά διλήμματα και όχι γύρω από την ηθική απαξίωση του αντιπάλου.",
+          "title": "Φωτιά στο Σισμανόγλειο: Συνελήφθη και ομολόγησε ο 76χρονος – «Εχω μετανιώσει»",
+          "url": "https://www.tovima.gr/2026/07/09/society/fotia-sto-sismanogleio-synelifthi-kai-omologise-o-76xronos-exo-metaniosei/",
+          "snippet": "Ο 76χρονος ομολόγησε ότι έβαλε εσκεμμένα φωτιά με αναπτήρα σε στρώμα του θαλάμου - Η σύζυγός του ζήτησε να διεξαχθεί ψυχιατρική πραγματογνωμοσύνη.",
           "source": "To Vima"
         }
       ]
@@ -101,9 +101,9 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "US and Iran trade strikes for second night in a row after Trump declares ceasefire 'over'",
+        "title": "Iran launches more strikes after accusing US of striking near nuclear plant",
         "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
+        "snippet": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
         "source": "BBC World"
       },
       "items": [
@@ -111,6 +111,12 @@
           "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
           "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
           "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "source": "BBC World"
+        },
+        {
+          "title": "At least 28 killed in China shoe factory fire, state media reports",
+          "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
           "source": "BBC World"
         },
         {
@@ -123,12 +129,6 @@
           "title": "It was 'love at first sight' with their adopted baby. Then they were told he may have been trafficked",
           "url": "https://www.bbc.co.uk/news/articles/czxq4ge246wo?at_medium=RSS&at_campaign=rss",
           "snippet": "When they adopted Marcus, David and Ally's dream of having a child was complete - but now they could lose him.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Watch: We're a step closer to finding out if bees have feelings, here's why",
-          "url": "https://www.bbc.co.uk/news/videos/cpq309jrve4o?at_medium=RSS&at_campaign=rss",
-          "snippet": "New research found bumblebees showed \"emotion-like behaviours\" previously only seen in mammals.",
           "source": "BBC World"
         },
         {
@@ -156,7 +156,7 @@
           "source": "BBC World"
         },
         {
-          "title": "Arizona toddler found alive in hospital morgue after declared dead from drowning",
+          "title": "Arizona toddler found alive in morgue after being declared dead from drowning",
           "url": "https://www.bbc.co.uk/news/articles/cvg5x0vvrmro?at_medium=RSS&at_campaign=rss",
           "snippet": "After he was discovered to still be alive, the 18-month-old was flown to another hospital and survived.",
           "source": "BBC World"
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
-        "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-        "snippet": "AI cheating leads to \"a failed society,\" professor says.",
+        "title": "Free Waymo rides in California? You can thank a regulatory quirk.",
+        "url": "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
+        "snippet": "State agency's delay could mean free robotaxi rides in company’s new Ojai vehicle for a few months.",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "The newest entrant in the military’s launch competition isn't actually a launch company",
+          "url": "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
+          "snippet": "\"I think it's fair to say that Phase 3 did not contemplate this.\"",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Payloads used to dictate the terms of launch. That's finally changing.",
+          "url": "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
+          "snippet": "\"The Starship Pez dispenser demonstrates very smart industrial design and scale.\"",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
+          "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+          "snippet": "AI cheating leads to \"a failed society,\" professor says.",
+          "source": "Ars Technica"
+        },
         {
           "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
           "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
@@ -268,24 +286,6 @@
           "url": "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
           "snippet": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
           "source": "Ars Technica"
-        },
-        {
-          "title": "Blue Origin, for the first time, is expected to raise private capital",
-          "url": "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
-          "snippet": "The company is raising $10 billion, leading to a valuation of $130 billion.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-          "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-          "snippet": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Michigan sees explosive outbreak of diarrheal parasite with over 700 cases",
-          "url": "https://arstechnica.com/health/2026/07/michigan-sees-explosive-outbreak-of-diarrheal-parasite-with-over-700-cases/",
-          "snippet": "Cases have risen quickly as officials are working to identify a common source.",
-          "source": "Ars Technica"
         }
       ]
     },
@@ -293,12 +293,48 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ρήτρα που «ζαλίζει» στο νέο συμβόλαιο της ΑΕΚ με τον Γιόβιτς",
-        "url": "https://www.skai.gr/news/sports/aek-ritra-pou-zalizei-sto-neo-symvolaio-me-ton-giovits",
-        "snippet": "Με το νέο συμβόλαιο της ΑΕΚ με τον Λούκα Γιόβιτς διπλασιάστηκε και η ρήτρα, την οποία θα πρέπει να καταβάλλει η ομάδα που θα θέλει να τον αποκτήσει",
+        "title": "Βρούτσης για Προμηθέα και Λιόλιο: «Απολύτως σεβαστή κάθε απόφαση των ανεξάρτητων Αρχών»",
+        "url": "https://www.skai.gr/news/sports/vroutsis-gia-promithea-apolytos-sevasti-kathe-apofasi-ton-aneksartiton-arxon",
+        "snippet": "Ο Αναπληρωτής Υπουργός Αθλητισμού πήρε θέση επί του θέματος του Προμηθέα, της ανάκλησης του πιστοποιητικού του από την ΕΕΑ και τις δηλώσεις του Λιόλιου",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Προμηθέας: «Όσοι βιάστηκαν να μας ξεγράψουν θα μείνουν με την... όρεξη - Η δικαίωση θα είναι πανηγυρική»",
+          "url": "https://www.skai.gr/news/sports/promitheas-osoi-viastikan-na-mas-ksegrapsoun-tha-meinoun-me-tin-oreksi",
+          "snippet": "Οι Πατρινοί αναφέρουν πως την Πέμπτη (09/07) κυκλοφορούν τα εισιτήρια διαρκείας της νέας σεζόν, τονίζοντας πως η δικαίωσή τους θα είναι πανηγυρική",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "GM Εφές: «Μιλήσαμε με Παναθηναϊκό για Όσμαν, δεν θέλουν να τον αφήσουν»",
+          "url": "https://www.skai.gr/news/sports/gm-efes-milisame-me-panathinaiko-gia-osman-den-theloun-na-ton-afisoun",
+          "snippet": "Η Εφές έκανε κρούση στον Παναθηναϊκό για τον Τσέντι Όσμαν, αλλά δεν υπάρχει διάθεση από τους «πράσινους» να χάσουν τον Τούρκο φόργουορντ",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Παναθηναϊκός: Ετοιμάζεται για ντεμπούτο ο Ντε Φράι - Έμφαση ξανά στην τακτική",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-etoimazetai-gia-ntempouto-o-nte-frai",
+          "snippet": "Ο Ολλανδός στόπερ λογικά θα πάρει χρόνο συμμετοχής στο φιλικό με την Γκρασχόπερ, ενώ η σημερινή προπόνηση εστίασε εκ νέου σε τακτική και στημένες φάσεις",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Ανακαλεί το πιστοποιητικό του Προμηθέα η ΕΕΑ και επιβάλει πρόστιμο στον Λιόλιο",
+          "url": "https://www.skai.gr/news/sports/eea-anakalei-to-pistopoiitiko-tou-promithea-kai-epivalei-prostimo-ston-liolio",
+          "snippet": "Η ΕΕΑ αποφάσισε την ανάκληση του πιστοποιητικού του Προμηθέα και επιβάλει πρόστιμο στον πρόεδρο της ΕΟΚ, Βαγγέλη Λιόλιο",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Ο Παναθηναϊκός ανακοίνωσε επίσημα τον Μπάντιο",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-o-mpantio-anakoinothike-episima",
+          "snippet": "Ο Παναθηναϊκός ανακοίνωσε την απόκτηση του Μπάντιο ο οποίος υπέγραψε για τρία χρόνια",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Ρήτρα που «ζαλίζει» στο νέο συμβόλαιο της ΑΕΚ με τον Γιόβιτς",
+          "url": "https://www.skai.gr/news/sports/aek-ritra-pou-zalizei-sto-neo-symvolaio-me-ton-giovits",
+          "snippet": "Με το νέο συμβόλαιο της ΑΕΚ με τον Λούκα Γιόβιτς διπλασιάστηκε και η ρήτρα, την οποία θα πρέπει να καταβάλλει η ομάδα που θα θέλει να τον αποκτήσει",
+          "source": "Skai Sports"
+        },
         {
           "title": "Ολυμπιακός: Ο Ντόρσεϊ αναδείχθηκε ο πιο βελτιωμένος παίκτης στη Stoiximan GBL",
           "url": "https://www.skai.gr/news/sports/olympiakos-o-ntorsei-anadeixthike-o-pio-veltiomenos-paiktis-sti-stoiximan-gbl",
@@ -346,42 +382,6 @@
           "url": "https://www.skai.gr/news/sports/panathinaikos-o-palmer-mpraoun-arnithike-protasi-1-ekat-eyro-apo-tourkia",
           "snippet": "Ο Παναθηναϊκός δέχθηκε πρόταση 1 εκατ. ευρώ από τουρκική ομάδα για τον Πάλμερ-Μπράουν, όμως ο Αμερικανός στόπερ την απέρριψε παρά τις αυξημένες απολαβές",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Ηρακλής: Προσγειώθηκε στη Θεσσαλονίκη ο Ματσάρι",
-          "url": "https://www.skai.gr/news/sports/iraklis-eftase-sti-thessaloniki-o-matsari",
-          "snippet": "Ο Βάλτερ Ματσάρι πάτησε το πόδι του στη Θεσσαλονίκη και μετράει αντίστροφα για την παρουσίαση του ως ο νέος προπονητής του Ηρακλή στην επιστροφή του",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "UEFA: Σκέφτεται να μπλοκάρει την επιστροφή της Ρωσίας στο ποδόσφαιρο, σε πιθανή νέα κόντρα με τη FIFA",
-          "url": "https://www.skai.gr/news/sports/uefa-pithano-to-mplok-stin-epistrofi-tis-rosias-sto-podosfairo",
-          "snippet": "Η FIFA είναι πιο ανοιχτή στο να δεχτεί ξανά τη Ρωσία και επανεξετάζει τη στάση της, ωστόσο πηγές αναφέρουν στον Guardian ότι η UEFA δεν συζητά κάτι τέτοιο",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Το FBI ερευνά την Ποδοσφαιρική Ομοσπονδία της Αργεντινής για απάτη και ξέπλυμα χρήματος",
-          "url": "https://www.skai.gr/news/sports/sok-sto-pagkosmio-podosfairo-ereyna-tou-fbi-stin-argentini-gia-kseplyma-xrimatos",
-          "snippet": "Σύμφωνα με δημοσιεύματα που έχουν ταρακουνήσει το παγκόσμιο ποδόσφαιρο, η Ομοσπονδία κατηγορείται για απάτη και ξέπλυμα χρήματος, ύψους 300 εκατομμυρίων ευρώ",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Γιαμπουσέλε: «Υπερήφανος και ενθουσιασμένος που εντάσσομαι στον Παναθηναϊκό»",
-          "url": "https://www.skai.gr/news/sports/giampousele-yperifanos-kai-enthousiasmenos-pou-entassomai-ston-panathinaiko",
-          "snippet": "Ο Γκέρσον Γιαμπουσέλε έκανε δηλώσεις μετά από την επίσημη ανακοίνωση του από τον Παναθηναϊκό AKTOR, εκφράζοντας την τεράστια ανυπομονησία του",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Παναθηναϊκός: Το συμβόλαιο-μαμούθ που φέρνει τον Γιαμπουσέλε",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-to-symvolaio-mamouth-pou-fernei-ton-giampousele",
-          "snippet": "Χρυσάφι στα πόδια του Γάλλου φόργουορντ, που μπαίνει στη λίστα με τους πιο ακριβοπληρωμένους στην Euroleague",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "ΑΕΚ: Στην ομάδα της καρδιάς του και επίσημα ο Χρήστος Αλεξίου",
-          "url": "https://www.skai.gr/news/sports/aek-stin-omada-tis-kardias-tou-kai-episima-o-xristos-aleksiou",
-          "snippet": "Οι πρωταθλητές Ελλάδας ανακοίνωσαν τον δανεισμό του 21χρονου κεντρικού αμυντικού της Ίντερ για έναν χρόνο - Γεμάτη ιδιαιτερότητες η συνθήκη της οψιόν αγοράς",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,48 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Crypto remains resilient in face of renewed Middle East tensions",
-        "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-        "snippet": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.",
+        "title": "Aave rolls out vaults for yield-hungry fintech investors",
+        "url": "https://www.coindesk.com/business/2026/07/09/aave-rolls-out-vaults-for-yield-hungry-fintech-investors",
+        "snippet": "Aave's new Stable Vaults product lets wallets, exchanges and payment apps offer yields on stablecoin deposits",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Age verification is the surveillance nobody voted for",
+          "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
+          "snippet": "KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
+          "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
+          "snippet": "Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pricing houses in bitcoin exposes dollar's loss of value",
+          "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
+          "snippet": "Your day-ahead look for July 9, 2026",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
+          "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
+          "snippet": "HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
+          "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
+          "snippet": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto remains resilient in face of renewed Middle East tensions",
+          "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
+          "snippet": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Singapore's Temasek investment fund says crypto is off the table, will focus on AI",
           "url": "https://www.coindesk.com/business/2026/07/09/singapore-s-temasek-investment-fund-says-crypto-is-off-the-table-will-focus-on-ai",
@@ -426,7 +462,7 @@
           "source": "CoinDesk"
         },
         {
-          "title": "Live markets: Second day of U.S, Iran conflict keeps markets volatile as oil drops",
+          "title": "Live markets: Bitcoin rises to $63,000, oil and bond yields drop as markets look past latest Iran dustup",
           "url": "https://www.coindesk.com/markets/2026/07/09/live-markets-bitcoin-etfs-slip-back-to-outflows-while-ether-funds-extend-their-streak",
           "snippet": "U.S. spot bitcoin ETFs lost a net $84 million on Wednesday, ending a three-day inflow run that had pulled in roughly $509 million",
           "source": "CoinDesk"
@@ -438,45 +474,9 @@
           "source": "CoinDesk"
         },
         {
-          "title": "'CASHCAT' trader turns $800 into over $1 million on Robinhood's brand new blockchain",
+          "title": "A trader turns $800 into over $1 million on Robinhood's brand new blockchain betting on memecoin",
           "url": "https://www.coindesk.com/tech/2026/07/09/cashcat-trader-turns-usd800-into-over-usd1-million-on-robinhood-s-brand-new-blockchain",
           "snippet": "Robinhood's blockchain went live on July 1 to move stocks onchain. Its first breakout hit is a memecoin named after the mascot the company abandoned.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "XRP holds near $1.10 as traders watch long-term breakout setup",
-          "url": "https://www.coindesk.com/markets/2026/07/09/xrp-holds-near-usd1-10-as-traders-watch-long-term-breakout-setup",
-          "snippet": "XRP defended the $1.00-$1.05 support zone, but the near-term chart remains capped below resistance as analysts track larger wedge and channel patterns.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin, ether steady, gold slides as U.S.-Iran tensions escalate again",
-          "url": "https://www.coindesk.com/markets/2026/07/09/bitcoin-ether-steady-gold-slides-as-us-iran-tensions-escalate-again",
-          "snippet": "Oil climbed for a third day and gold fell for a fourth while bitcoin is up 1.6% on the week.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Polymarket bets on U.S. marketing blitz to win back trust after 4-year ban: Report",
-          "url": "https://www.coindesk.com/markets/2026/07/08/polymarket-bets-on-u-s-marketing-blitz-to-win-back-trust-after-4-year-ban-report",
-          "snippet": "The prediction market's head of U.S. operations says the business is taking steps to legitimize itself after years of legal scrutiny.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto Long & Short: With MSTR concerns assuaged, look to traditional signals around BTC",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/07/08/crypto-long-and-short-with-mstr-concerns-assuaged-look-to-traditional-signals-around-btc",
-          "snippet": "In this week's Crypto Long & Short, FalconX’s Gaspar Martin writes that BTC is reaching a market bottom and is poised for a turnaround.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto VC Paradigm launches $1.2 billion AI fund as it broadens beyond digital assets",
-          "url": "https://www.coindesk.com/markets/2026/07/08/crypto-vc-paradigm-launches-usd1-2-billion-ai-fund-as-it-broadens-beyond-digital-assets-bbg",
-          "snippet": "The firm's latest fund backs AI and robotics startups but leadership says it remains committed to crypto investing.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Dinari, tZERO join forces on turnkey platform for tokenized U.S. equities",
-          "url": "https://www.coindesk.com/business/2026/07/08/dinari-tzero-join-forces-on-turnkey-platform-for-tokenized-u-s-equities",
-          "snippet": "The move comes as firms race to build the infrastructure for blockchain-based stocks and debate how tokenized stocks should work.",
           "source": "CoinDesk"
         }
       ]
@@ -485,12 +485,60 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "July 2026 new video games are about to run the table",
-        "url": "https://www.polygon.com/new-game-releases-july-13/",
-        "snippet": "Your backlog is about to get longer, as the week starting on July 13 is bringing nearly a dozen exciting games.",
+        "title": "Pokémon Legends: Z-A season 14 details and start time",
+        "url": "https://www.polygon.com/pokemon-legends-z-a-season-14-release-time-details/",
+        "snippet": "Season 14 for Pokémon Legends: Z-A begins next week, and we have the details of which Pokémon are banned and when it starts.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Godzilla Minus Zero trailer reveals a shocking twist",
+          "url": "https://www.polygon.com/godzilla-minus-zero-trailer-release-date-sequel/",
+          "snippet": "New look at Toho's Godzilla Minus One sequel coming to movie theaters in 2026 teases a \"moral boundary mankind should not cross.\"",
+          "source": "Polygon"
+        },
+        {
+          "title": "'The Sage's Buried Secret' quest walkthrough in Assassin's Creed Black Flag Resynced",
+          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-the-sages-buried-secret-quest-walkthrough/",
+          "snippet": "Here's how to solve the three statue puzzles in Assassin's Creed Black Flag Resynced's \"The Sage's Buried Secret\" quest",
+          "source": "Polygon"
+        },
+        {
+          "title": "Big Fish is still one of Tim Burton's best movies — and it's now free to stream",
+          "url": "https://www.polygon.com/tim-burton-big-fish-available-to-stream-for-free/",
+          "snippet": "Tim Burton's forgotten 2003 fantasy movie, Big Fish, is currently available to stream for free, starring Ewan McGregor at the peak of his career.",
+          "source": "Polygon"
+        },
+        {
+          "title": "D&D Fiends and Foes is a new monster book — see the first pages here",
+          "url": "https://www.polygon.com/dungeons-dragons-fiends-foes-preview/",
+          "snippet": "D&D Fiends & Foes explores the origins of Tiamat, Acererak, Lolth and more in a sweeping new book.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Overwatch's new hero Shion disses a girlboss icon of American literature",
+          "url": "https://www.polygon.com/overwatch-new-hero-shion-voice-lines-american-literature/",
+          "snippet": "Overwatch's new hero Shion has a voice line with a direct reference to Emily Dickinson, and the Omnic gang leader isn't her biggest fan",
+          "source": "Polygon"
+        },
+        {
+          "title": "10 best new dark fantasy books for fans of The Witcher and Game of Thrones",
+          "url": "https://www.polygon.com/dark-fantasy-books-like-the-witcher-game-of-thrones/",
+          "snippet": "Read stories of heists, magic, monsters, and morally gray characters.",
+          "source": "Polygon"
+        },
+        {
+          "title": "The best Star Wars TV show could have been Tom Cruise's Mission Impossible in space",
+          "url": "https://www.polygon.com/andor-original-concept-jared-bush-spy-mission-impossible/",
+          "snippet": "The original concept for Andor, a gritty sci-fi series with Mission Impossible vibes, is revealed in the official behind-the-scenes companion.",
+          "source": "Polygon"
+        },
+        {
+          "title": "July 2026 new video games are about to run the table",
+          "url": "https://www.polygon.com/new-game-releases-july-13/",
+          "snippet": "Your backlog is about to get longer, as the week starting on July 13 is bringing nearly a dozen exciting games.",
+          "source": "Polygon"
+        },
         {
           "title": "D&D unveils new Arcana Unleashed book, which includes the first real testing ground for 5.5e",
           "url": "https://www.polygon.com/dnd-arcana-unleashed-reveal-release-contents-deadfall-adventure/",
@@ -498,81 +546,33 @@
           "source": "Polygon"
         },
         {
-          "title": "Best hideout upgrades in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-hideout-upgrade-best/",
-          "snippet": "In this guide, we listed all the best hideout upgrades in Assassin's Creed Black Flag Resynced and we explain how to unlock new facilities.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Treasure maps and buried treasure locations in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-treasure-maps-buried-locations/",
-          "snippet": "Treasure maps and buried treasure are one of the many secrets in Assassin's Creed Black Flag Resynced. Here's where to find them all.",
-          "source": "Polygon"
-        },
-        {
-          "title": "All shanty locations in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-shanty-song-sheet-location-all/",
-          "snippet": "Here's how to find all song sheet locations needed to unlock shanties in Assassin's Creed Black Flag Resynced.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Mayan stone locations in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-mayan-stone-stelae-ruin-locations-all/",
-          "snippet": "Mayan stones are discovered through Mayan stelae puzzles around Assassin's Creed Black Flag Resynced. Here's where to find every Mayan stone.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Where to find crocodile leather in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-crocodile-leather-location/",
-          "snippet": "Here's where you can find crocodile leather in Assassin's Creed Black Flag Resynced, a crafting material required to upgrade the Blow Pipe.",
-          "source": "Polygon"
-        },
-        {
-          "title": "10 beginner's tips to not let your crew down in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-beginners-tips/",
-          "snippet": "Here are 10 beginner's tips to help you in Assassin's Creed Black Flag Resynced, covering topics like naval battles to fishing for sharks.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Where to find hammerhead shark bones in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-hammerhead-shark-bone-location/",
-          "snippet": "Here's how to get hammerhead shark bones in Assassin's Creed Black Flag Resynced, and where hammerhead sharks are located.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Best Jackdaw upgrades in Assassin's Creed Black Flag Resynced",
-          "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-best-ship-upgrades-jackdaw/",
-          "snippet": "Here are all the best Jackdaw upgrades in Assassin's Creed Black Flag Resynced, which will allow you to dominate the seas.",
-          "source": "Polygon"
-        },
-        {
-          "title": "\"A hammer blow for games retail\" - Experts weigh in on PlayStation's discless future, and the impact it will have on traditional game stores",
-          "url": "https://www.eurogamer.net/playstation-shift-to-digital-physical-game-retailers-expert",
-          "snippet": "Last week, Sony announced that in January 2028, large-scale production of physical discs for new games would cease. This sent waves throughout the industry, raising questions about what it meant for other console manufacturers, game preservation, and more. Read more",
+          "title": "Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question",
+          "url": "https://www.eurogamer.net/retail-shop-games-cheaper-report-sony-ending-playstation-discs",
+          "snippet": "Earlier this month, Sony announced that it's ending manufacturing of physical PlayStation discs beginning January 2028. The shocking decision means future releases, both from Sony Interactive Entertainment and every other publisher on the planet, will only be available in digital",
           "source": "Eurogamer"
         },
         {
-          "title": "There are apparently going to be \"changes\" to one of Persona 4 Revival's most important characters, but what exactly does that mean?",
-          "url": "https://www.eurogamer.net/persona-4-revival-yosuke-changes",
-          "snippet": "After a long period of not knowing much about the upcoming remake, Persona 4 Revival,, we last month finally learned that Atlus' re-do of one of its most popular games is launching on 18th February on PlayStation 5, Xbox Series X/S, and PC. But the game isn't a straight one-to-on",
+          "title": "Fallout's second season has been nominated for more Emmys, even if it's significantly fewer than last time",
+          "url": "https://www.eurogamer.net/fallout-tv-show-emmy-nominations-2026",
+          "snippet": "Season two of Amazon's live-action Fallout adaptation might have been a bit of a divisive one, but that hasn't stopped it from being showered with another bunch of nominations ahead of this year's prestigious Emmy Awards. In total, Fallout's second TV outing has made it in nine c",
           "source": "Eurogamer"
         },
         {
-          "title": "Brutal Soulslike Mortal Shell 2 chooses violence, sets release date in the 2026 August traffic jam",
-          "url": "https://www.eurogamer.net/mortal-shell-2-august-release-date",
-          "snippet": "Mortal Shell 2, the inventive Soulslike RPG from developer Cold Symmetry, has an official release date. The game will arrive 20th August on PC, PS5, and Xbox Series X/S. While Mortal Shell 2 has always been set for release this year, its release window was the biggest mystery. Re",
+          "title": "Even The Elder Scrolls 6 is affected by Xbox layoffs, say Bethesda employees, as \"key\" people are let go and morale bottoms out",
+          "url": "https://www.eurogamer.net/elder-scrolls-6-morale-bethesda-xbox-layoffs",
+          "snippet": "The impact of this week's massive wave of Xbox layoffs on individual projects and teams is starting to become clear. The latest revelation comes from multiple staff at Bethesda, who have told IGN they expect a \"substantial and cascading effect\" on the long in-development Elder Sc",
           "source": "Eurogamer"
         },
         {
-          "title": "17 years later, Minecraft is finally adding somewhere to sit",
-          "url": "https://www.eurogamer.net/minecraft-preview-update-cushion",
-          "snippet": "You might want to sit down for this one. Some 17 years after its release, Minecraft is finally adding somewhere for weary adventurers to rest their flagging posteriors: cushions are now available as part of the survival blockbuster's latest preview build, with a full release plan",
+          "title": "Sony, Bungie settle with ex-Marathon director they accused of \"predatory behaviour\", bringing $200m wrongful dismissal lawsuit to a close",
+          "url": "https://www.eurogamer.net/sony-bungie-marathon-director-lawsuit-settled",
+          "snippet": "Ex-Marathon director Christopher Barrett has announced a settlement has been reached with Sony and Bungie, after he sued both companies for wrongful dismissal, claiming they had \"deliberately destroyed [his] reputation by falsely, and publicly, insinuating...he had engaged in sex",
           "source": "Eurogamer"
         },
         {
-          "title": "\"Dracula is King of England\" - New immersive sim Vampirium: 1997 announced by Tron: Catalyst and Thomas Was Alone developer Bithell Games",
-          "url": "https://www.eurogamer.net/vampirium-1997-bithell-games-announced",
-          "snippet": "Bithell Games - the developer of Tron: Catalyst, John Wick Hex and Thomas Was Alone - has revealed a new minimalist immersive vampire sim called Vampirium: 1997. Read more",
+          "title": "Doom and Quake studio id Software reportedly gutted, leaving standalone capabilities in doubt and newly revealed game ideas dead",
+          "url": "https://www.eurogamer.net/doom-quake-studio-id-software-gutted-xbox-cuts-game-ideas",
+          "snippet": "A clearer picture of how hard id Software has been hit by Microsoft's drastic Xbox restructuring is beginning to emerge, and it has been hit very hard indeed. Read more",
           "source": "Eurogamer"
         }
       ]
