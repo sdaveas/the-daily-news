@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-09T21:14:10.419429+00:00",
+  "updated": "2026-07-10T02:05:59.880558+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Κίνα: Τουλάχιστον 28 νεκροί από φονική πυρκαγιά σε εργοστάσιο παπουτσιών",
-        "url": "https://www.tovima.gr/2026/07/09/world/kina-toulaxiston-28-nekroi-apo-foniki-pyrkagia-se-ergostasio-papoutsion/",
-        "snippet": "Nέα πολύνεκρη τραγωδία σημειώθηκε την Πέμπτη σε βιομηχανική ζώνη της Κίνας - Παγιδεύτηκαν στις φλόγες δεκάδες εργάτες, με εντολή Σι Τζινπίνγκ συνελήφθησαν οι ιδιοκτήτες",
+        "title": "5 το πρωί: Μάχη στη Βουλή για την ακρίβεια – Ακυβέρνητο καράβι ο ΣΥΡΙΖΑ – Κόλαση φωτιάς στον Ασπρόπυργο",
+        "url": "https://www.tovima.gr/2026/07/10/5-to-proi/5-to-proi-maxi-sti-vouli-gia-tin-akriveia-akyvernito-karavi-o-syriza-kolasi-fotias-ston-aspropyrgo/",
+        "snippet": "Σε νέα φάση εσωκομματικών εξελίξεων εισέρχεται ο ΣΥΡΙΖΑ μετά την παραίτηση του Σωκράτη Φάμελλου από την προεδρία. Μέσα σε αυτό το κλίμα, ο Παύλος Πολάκης παραμένει ένας κυρίαρχος πόλος αυτή τη στιγμή, ενώ βαρύνουσα θα είναι η στάση του Νίκου Παππά και της Ρένας Δούρου",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Κίνα: Τουλάχιστον 28 νεκροί από φονική πυρκαγιά σε εργοστάσιο παπουτσιών",
+          "url": "https://www.tovima.gr/2026/07/09/world/kina-toulaxiston-28-nekroi-apo-foniki-pyrkagia-se-ergostasio-papoutsion/",
+          "snippet": "Nέα πολύνεκρη τραγωδία σημειώθηκε την Πέμπτη σε βιομηχανική ζώνη της Κίνας - Παγιδεύτηκαν στις φλόγες δεκάδες εργάτες, με εντολή Σι Τζινπίνγκ συνελήφθησαν οι ιδιοκτήτες",
+          "source": "To Vima"
+        },
         {
           "title": "Aλ. Τσίπρας: «Το πρόβλημα της χώρας και της πολιτικής τοξικότητας την οποία ζούμε, είναι ο αδωνισμός»",
           "url": "https://www.tovima.gr/2026/07/09/politics/al-tsipras-to-provlima-tis-xoras-kai-tis-politikis-toksikotitas-tin-opoia-zoume-einai-o-adonismos/",
@@ -88,12 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/09/politics/paraitithike-apo-tin-proedria-tou-syriza-o-sokratis-famellos/",
           "snippet": "Την παραίτησή του από τη θέση του προέδρου του ΣΥΡΙΖΑ ανακοίνωσε ο Σωκράτης Φάμελλος. «Δεν θέλω να γίνω μέρος του διχασμού» ανάφερε σε δήλωσή του.",
           "source": "To Vima"
-        },
-        {
-          "title": "Φθορές σε ενοικιαζόμενο ακίνητο: Πότε δικαιούται αποζημίωση ο ιδιοκτήτης και πώς μπορεί να τη διεκδικήσει",
-          "url": "https://www.tovima.gr/2026/07/09/finance/fthores-se-enoikiazomeno-akinito-pote-dikaioutai-apozimiosi-o-idioktitis-kai-pos-mporei-na-ti-diekdikisei/",
-          "snippet": "Τι προβλέπει η νομοθεσία όταν ένας ενοικιαστής αποχωρεί αφήνοντας πίσω ζημιές στο ακίνητο; Η Ένωση Εργαζομένων Καταναλωτών Ελλάδας εξηγεί σε ποιες περιπτώσεις ο ιδιοκτήτης δικαιούται αποζημίωση και ποιες φθορές θεωρούνται φυσιολογικές",
-          "source": "To Vima"
         }
       ]
     },
@@ -101,22 +101,16 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "title": "US and Iran trade attacks as Khamenei is buried",
         "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "snippet": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
         "source": "BBC World"
       },
       "items": [
         {
-          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-          "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-          "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+          "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
           "source": "BBC World"
         },
         {
@@ -132,15 +126,33 @@
           "source": "BBC World"
         },
         {
-          "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
-          "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
+          "title": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
           "source": "BBC World"
         },
         {
-          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-          "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+          "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
+          "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
+          "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
+          "snippet": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+          "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+          "source": "BBC World"
+        },
+        {
+          "title": "Greek F-16 fighter jet crash-lands at busy Zakynthos airport",
+          "url": "https://www.bbc.co.uk/news/articles/czrxz18720eo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The runway is closed after the jet reportedly landed without deploying its landing gear before bursting into flames.",
           "source": "BBC World"
         },
         {
@@ -178,18 +190,6 @@
           "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
           "snippet": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
           "source": "BBC World"
-        },
-        {
-          "title": "Factory fire kills at least 28 in China's 'shoe capital'",
-          "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
-          "source": "BBC World"
-        },
-        {
-          "title": "International court tells BBC of breakthrough in Sudan war crimes probe",
-          "url": "https://www.bbc.co.uk/news/articles/c9928zr2m5xo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The ICC has been looking into atrocities committed in Darfur over the past three years.",
-          "source": "BBC World"
         }
       ]
     },
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
-        "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-        "snippet": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+        "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
+        "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
+        "snippet": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
+          "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
+          "snippet": "In neighboring Ohio, cases have reportedly reached over 500.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "OpenAI wants its new tool to do your work for you and with you",
+          "url": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+          "snippet": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Patch for Windows Defender 0-day could allow attackers to fill hard disk",
+          "url": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
+          "snippet": "The feud between NightmareEclipse and Microsoft shows no signs of resolving soon.",
+          "source": "Ars Technica"
+        },
         {
           "title": "Allstate accuses Broadcom of auditing it because it quit VMware, CA",
           "url": "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
@@ -267,24 +285,6 @@
           "title": "Suspecting AI cheating, Ivy League prof ordered an in-person final; scores fell 50%",
           "url": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
           "snippet": "AI cheating leads to \"a failed society,\" professor says.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
-          "url": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
-          "snippet": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Judge rejects Kalshi attempt to override New York state gambling laws",
-          "url": "https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/",
-          "snippet": "Kalshi tried to ignore gambling laws on its prediction market, NY governor says.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Google pays $250K for Linux vulnerability allowing guest VM escapes",
-          "url": "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
-          "snippet": "Both vulnerabilities allow untrusted users to gain root privileges.",
           "source": "Ars Technica"
         }
       ]
@@ -389,12 +389,18 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
-        "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
-        "snippet": "Edward McGee stepped down after seven years, weeks after distribution chief John Hoffman left for Ondo Finance.",
+        "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+        "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+        "snippet": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
+          "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
+          "snippet": "Edward McGee stepped down after seven years, months after distribution chief John Hoffman left for Ondo Finance.",
+          "source": "CoinDesk"
+        },
         {
           "title": "With SEC fight over, Coinbase's top legal exec Grewal moves on, and others reassigned",
           "url": "https://www.coindesk.com/policy/2026/07/09/with-sec-fight-over-coinbase-s-top-legal-exec-grewal-moves-on-and-others-reassigned",
@@ -472,12 +478,6 @@
           "url": "https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review",
           "snippet": "ETFs face record outflows",
           "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto remains resilient in face of renewed Middle East tensions",
-          "url": "https://www.coindesk.com/markets/2026/07/09/crypto-remains-resilient-in-face-of-renewed-middle-east-tensions",
-          "snippet": "BTC rose 1.2% to $63,000 and Nasdaq futures jumped 2.6% with markets seemingly unconcerned by U.S. airstrikes on Iran. Bitcoin is now up 9% since the end of June.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,12 +485,24 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Xbox could've had the next Baldur's Gate 3, but just killed its best shot",
-        "url": "https://www.polygon.com/xbox-layoffs-obsidian-pillars-of-eternity/",
-        "snippet": "Obsidian Entertainment had all the tools to make its own answer to Baldur's Gate 3, but Xbox doesn't seem eager to capitalize.",
+        "title": "Uwe Boll's 'morally bankrupt' movie Citizen Vigilante gets official game",
+        "url": "https://www.polygon.com/citizen-vigilante-movie-video-game-ps5-uwe-boll-armie-hammer/",
+        "snippet": "Citizen Vigilante star Armie Hammer may regret his role in Uwe Boll's latest shock flick, now it's gamers' turn to suffer.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Rarest PS1 and PS2 games to buy before Sony closes the PlayStation Store",
+          "url": "https://www.polygon.com/rare-ps1-ps2-games-ps3-store-shutdown/",
+          "snippet": "Here are 12 PS1 and PS2 games that cost hundreds of dollars used, but you can buy them digitally for a song on the PlayStation Store before it closes.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Xbox could've had the next Baldur's Gate 3, but just killed its best shot",
+          "url": "https://www.polygon.com/xbox-layoffs-obsidian-pillars-of-eternity/",
+          "snippet": "Obsidian Entertainment had all the tools to make its own answer to Baldur's Gate 3, but Xbox doesn't seem eager to capitalize.",
+          "source": "Polygon"
+        },
         {
           "title": "Hokubu Evolving World Car Meet location in Forza Horizon 6",
           "url": "https://www.polygon.com/forza-horizon-6-fh6-evolving-world-car-meet-location/",
@@ -531,18 +543,6 @@
           "title": "'Blackbeard's Treasure' quest walkthrough in Assassin's Creed Black Flag Resynced",
           "url": "https://www.polygon.com/assassins-creed-black-flag-resynced-blackbeards-treasure-quest-walkthrough/",
           "snippet": "In this \"Blackbeard's Treasure\" quest walkthrough for Assassin's Creed Black Flag Resynced, we'll teach you how to find Blackbeard's treasure.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Alex Garland's Civil War is now streaming free on Pluto TV and Tubi",
-          "url": "https://www.polygon.com/alex-garland-civil-war-free-to-stream/",
-          "snippet": "Alex Garland's 2024 thriller Civil War seemed a bit too safe in 2024, but during the second Trump administration it feels more relevant.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Dragon Ball Xenoverse 3 gets first major gameplay trailer",
-          "url": "https://www.polygon.com/dragon-ball-xenoverse-3-gameplay-trailer-fan-reaction/",
-          "snippet": "Dragon Ball Xenoverse 3's gameplay deep dive reveals limits to how long players can stay in Super Saiyan mode, which has many fans angry.",
           "source": "Polygon"
         },
         {
