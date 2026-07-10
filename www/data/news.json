@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-10T02:05:59.880558+00:00",
+  "updated": "2026-07-10T07:27:46.698540+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "5 το πρωί: Μάχη στη Βουλή για την ακρίβεια – Ακυβέρνητο καράβι ο ΣΥΡΙΖΑ – Κόλαση φωτιάς στον Ασπρόπυργο",
-        "url": "https://www.tovima.gr/2026/07/10/5-to-proi/5-to-proi-maxi-sti-vouli-gia-tin-akriveia-akyvernito-karavi-o-syriza-kolasi-fotias-ston-aspropyrgo/",
-        "snippet": "Σε νέα φάση εσωκομματικών εξελίξεων εισέρχεται ο ΣΥΡΙΖΑ μετά την παραίτηση του Σωκράτη Φάμελλου από την προεδρία. Μέσα σε αυτό το κλίμα, ο Παύλος Πολάκης παραμένει ένας κυρίαρχος πόλος αυτή τη στιγμή, ενώ βαρύνουσα θα είναι η στάση του Νίκου Παππά και της Ρένας Δούρου",
+        "title": "Tο παρασκήνιο της συμφωνίας Τραμπ – Μερτς για τους πυραύλους Tomahawk",
+        "url": "https://www.tovima.gr/2026/07/10/%ce%b1%cf%84%ce%b1%ce%be%ce%b9%ce%bd%cf%8c%ce%bc%ce%b7%cf%84%ce%b1/olo-to-paraskinio-tis-symfonias-tramp-merts-gia-tomahawk/",
+        "snippet": "Τι σημαίνει η ανακοίνωση του Φρίντριχ Μερτς μετά τη σύνοδο του ΝΑΤΟ από το βήμα της Μπούντεσταγκ για την αγορά πυραύλων Tomahawk;",
         "source": "To Vima"
       },
       "items": [
         {
-          "title": "Κίνα: Τουλάχιστον 28 νεκροί από φονική πυρκαγιά σε εργοστάσιο παπουτσιών",
-          "url": "https://www.tovima.gr/2026/07/09/world/kina-toulaxiston-28-nekroi-apo-foniki-pyrkagia-se-ergostasio-papoutsion/",
-          "snippet": "Nέα πολύνεκρη τραγωδία σημειώθηκε την Πέμπτη σε βιομηχανική ζώνη της Κίνας - Παγιδεύτηκαν στις φλόγες δεκάδες εργάτες, με εντολή Σι Τζινπίνγκ συνελήφθησαν οι ιδιοκτήτες",
+          "title": "ΣΥΡΙΖΑ: Παραιτήθηκε ο Γραμματέας της ΚΟ ο Διονύσης Καλαματιανός",
+          "url": "https://www.tovima.gr/2026/07/10/politics/syriza-paraitithike-o-grammateas-tis-ko-o-dionysis-kalamatianos/",
+          "snippet": "Οι κραδασμοί στον ΣΥΡΙΖΑ χτυπούν και τα κομματικά Μέσα Ενημέρωσης, καθώς υπέβαλε την παραίτησή του και ο διευθυντής της εφημερίδας «Αυγή», Λάμπρος Τσουκνίδας.",
           "source": "To Vima"
         },
         {
-          "title": "Aλ. Τσίπρας: «Το πρόβλημα της χώρας και της πολιτικής τοξικότητας την οποία ζούμε, είναι ο αδωνισμός»",
-          "url": "https://www.tovima.gr/2026/07/09/politics/al-tsipras-to-provlima-tis-xoras-kai-tis-politikis-toksikotitas-tin-opoia-zoume-einai-o-adonismos/",
-          "snippet": "Με αιχμές κατά της κυβέρνησης και προσωπικά του Κυριάκου Μητσοτάκη εμφανίστηκε ο Αλέξης Τσίπρας σε εκδήλωση στο Περιστέρι, κάνοντας λόγο για «αδωνισμό» ως πολιτική φιλοσοφία που, όπως υποστήριξε, ευνοεί την τοξικότητα, τον διχασμό και τη διαφθορά",
+          "title": "ΣΥΡΙΖΑ: Το παρασκήνιο της παραίτησης Φάμελλου – Ο Πολάκης, ο Παππάς και η Δούρου",
+          "url": "https://www.tovima.gr/2026/07/10/politics/syriza-to-paraskinio-tis-paraitisis-famellou-o-polakis-o-pappas-kai-i-dourou/",
+          "snippet": "Σε τροχιά οριακής κρίσης και βαθιάς εσωστρέφειας εισέρχεται ο ΣΥΡΙΖΑ μετά την παραίτηση του Σωκράτη Φάμελλου - Νύχτα έντονου παρασκηνίου, κανονικά η συνεδρίαση της Κεντρικής Επιτροπής.",
           "source": "To Vima"
         },
         {
-          "title": "Μουντιάλ 2026: Μπορεί το Μαρόκο να σταματήσει τον Εμπαπέ; Η μεγάλη μάχη των προημιτελικών",
-          "url": "https://www.tovima.gr/2026/07/09/sports/mountial-2026-mporei-to-maroko-na-stamatisei-ton-empape-i-megali-maxi-ton-proimitelikon/",
-          "snippet": "Oι αναμνήσεις του Κατάρ ζωντανεύουν στο Foxborough, με φόντο μια θέση στους «4» του κόσμου",
+          "title": "Ασπρόπυργος: «Άναψα τσιγάρο και πήρα φωτιά» – Η στιγμή που εργαζόμενος βγαίνει τραυματισμένος από το εργοστάσιο",
+          "url": "https://www.tovima.gr/2026/07/10/society/aspropyrgos-anapsa-tsigaro-kai-pira-fotia-i-stigmi-pou-ergazomenos-vgainei-traymatismenos-apo-to-ergostasio/",
+          "snippet": "Δύο εργαζόμενοι δίνουν μάχη για να κρατηθούν στη ζωή καθώς έχουν εγκαύματα στο σώμα τους σε ποσοστό 75-90% - Βίντεο λίγο μετά την έκρηξη",
           "source": "To Vima"
         },
         {
-          "title": "Κωνσταντοπούλου: Ένταση εκτός ορίων στη Βουλή – Κάλεσε τo 100 για βουλευτές της ΝΔ",
-          "url": "https://www.tovima.gr/2026/07/09/politics/konstantopoulou-entasi-ektos-orion-sti-vouli-kalese-to-100-gia-vouleytes-tis-nd/",
-          "snippet": "Σε πεδίο μάχης μετατράπηκε η Βουλή για την ασυλία της Ζωής Κωνσταντοπούλου. Η συζήτηση για την άρση ασυλίας της Ζωής Κωνσταντοπούλου οδηγήθηκε σε ακραίους διαπληκτισμούς, δάκρυα βουλευτή, μέχρι και τηλεφώνημα της προέδρου της Πλεύσης Ελευθερίας στην Άμεση Δράση",
+          "title": "Υδρογονάνθρακες: «Κλείδωσε» η πρώτη μεγάλη γεώτρηση στο Ιόνιο",
+          "url": "https://www.tovima.gr/2026/07/10/finance/ydrogonanthrakes-kleidose-i-proti-megali-geotrisi-sto-ionio/",
+          "snippet": "Το σχέδιο για το Ιόνιο μπαίνει στην τελική ευθεία, με στόχο φυσικό αέριο 270 δισ. κυβικών μέτρων και επενδύσεις που μπορεί να φτάσουν τα 5 δισ. ευρώ.",
           "source": "To Vima"
         },
         {
-          "title": "Ανάφλεξη στο Ιράν: Εκρήξεις κοντά σε πυρηνικό σταθμό και όρκοι εκδίκησης στην κηδεία Χαμενεΐ",
-          "url": "https://www.tovima.gr/2026/07/09/world/anafleksi-sto-iran-ekrikseis-konta-se-pyriniko-stathmo-kai-orkoi-ekdikisis-stin-kideia-xamenei/",
-          "snippet": "Ώρες αγωνίας στη Μέση Ανατολή. Εκρήξεις συγκλόνισαν το νότιο Ιράν, την ώρα που εκατομμύρια πιστών αποχαιρετούσαν τον Αγιατολάχ Χαμενεΐ στο Μασχάντ. Μυστήριο με τον παραμορφωμένο διάδοχό του, Μοτζτάμπα, που παραμένει άφαντος",
+          "title": "Από την ιδιοκτησία στην εμπειρία: Πώς η Avis επαναπροσδιορίζει τη σύγχρονη μετακίνηση",
+          "url": "https://www.tovima.gr/2026/07/10/market/apo-tin-idioktisia-stin-empeiria-pos-i-avis-epanaprosdiorizei-ti-sygxroni-metakinisi/",
+          "snippet": "Η νέα εποχή της μετακίνησης δεν αφορά μόνο στο αυτοκίνητο αλλά στην ελευθερία επιλογών.",
           "source": "To Vima"
         },
         {
-          "title": "Δημοσκόπηση Pulse: Διψήφιο προβάδισμα της ΝΔ – Στη 2η θέση η ΕΛ.Α.Σ. του Αλέξη Τσίπρα",
-          "url": "https://www.tovima.gr/2026/07/09/politics/dimoskopisi-pulse-dipsifio-provadisma-tis-nd-sti-2i-thesi-i-el-a-s-tou-aleksi-tsipra/",
-          "snippet": "Η πλειοψηφία των πολιτών «ψηφίζει» κάλπες μέσα στο 2026, αναδεικνύει την ακρίβεια ως το υπ’ αριθμόν ένα πρόβλημα, ενώ αποτυπώνεται αυξημένο ενδιαφέρον για ένα ενδεχόμενο κόμμα του Αντώνη Σαμαρά",
+          "title": "Γαλλία-Μαρόκο 2-0: Εμπαπέ και Ντεμπελέ έστειλαν τους «Τρικολόρ» στους «4» του Μουντιάλ 2026",
+          "url": "https://www.tovima.gr/2026/07/10/sports/gallia-maroko-2-0-empape-kai-ntempele-esteilan-tous-mple-stous-4-tou-mountial-2026/",
+          "snippet": "Στα ημιτελικά του Μουντιάλ 2026 με «6 στα 6» οι ασταμάτητοι «Τρικολόρ».",
           "source": "To Vima"
         },
         {
-          "title": "Πώς η παραίτηση Φάμελλου ανοίγει τον ασκό του Αιόλου στον ΣΥΡΙΖΑ – Ο ρόλος του Πολάκη",
-          "url": "https://www.tovima.gr/2026/07/09/politics/pos-i-paraitisi-famellou-anoigei-ton-asko-tou-aiolou-ston-syriza-o-rolos-tou-polaki/",
-          "snippet": "Η δήλωση παραίτησης του Σ. Φάμελλου μοιάζει περισσότερο με κατηγορητήριο παρά με απολογισμό. Μέσα σε αυτό το κλίμα, ο Παύλος Πολάκης παραμένει ένας κυρίαρχος πόλος αυτή τη στιγμή, ενώ βαρύνουσα θα είναι η στάση του Νίκου Παππά και της Ρένας Δούρου.",
+          "title": "Τραμπ: Κενά ασφαλείας στο νέο Air Force One",
+          "url": "https://www.tovima.gr/2026/07/10/world/tramp-kena-asfaleias-sto-neo-air-force-one/",
+          "snippet": "Το νέο, υπερπολυτελές Air Force One στερείται βασικών αντιπυραυλικών συστημάτων προστασίας - Με το παλιό επέστρεψε ο Τραμπ από τη Σύνοδο Κορυφής στην Άγκυρα",
           "source": "To Vima"
         },
         {
-          "title": "Το ελληνικό «Woodstock» στα έλατα: Το εναλλακτικό μουσικό φεστιβάλ στην καρδιά της Ευρυτανίας που δεν πρέπει να χάσεις",
-          "url": "https://www.tovima.gr/2026/07/09/culture/to-elliniko-woodstock-sta-elata-to-enallaktiko-mousiko-festival-stin-kardia-tis-eyrytanias-pou-den-prepei-na-xaseis/",
-          "snippet": "Ματούλα Ζαμάνη, Locomondo, Σκιαδαρέσες, Χατζηφραγκέτα και Banda Entopica δίνουν ραντεβού στο Καρπενήσι, σε ένα τριήμερο γεμάτο μουσική, κατασκήνωση κάτω από τα αστέρια και outdoor δραστηριότητες στο Βελούχι",
+          "title": "Νομοσχέδιο για τους ψυχολόγους: Τι αλλάζει με τον νέο Πανελλήνιο Σύλλογο και τις άδειες",
+          "url": "https://www.tovima.gr/2026/07/10/health/nomosxedio-gia-tous-psyxologous-ti-allazei-me-ton-neo-panellinio-syllogo-kai-tis-adeies/",
+          "snippet": "Ιδρύεται πανελλήνιος Σύλλογος Ψυχολόγων με στόχο τη θωράκιση των δικαιωμάτων του επαγγέλματος. Σφοδρή αντίδραση από το Σύλλογο Ελλήνων Ψυχολόγων.",
           "source": "To Vima"
         },
         {
-          "title": "Θεσσαλονίκη: Σύλληψη 70χρονου για πρόκληση πυρκαγιάς από αμέλεια στο Καλοχώρι",
-          "url": "https://www.tovima.gr/2026/07/09/society/thessaloniki-syllipsi-70xronou-gia-proklisi-pyrkagias-apo-ameleia-sto-kaloxori/",
-          "snippet": "Στη σύλληψη ενός 70χρονου προχώρησαν οι αρμόδιες αρχές για τη μεγάλη πυρκαγιά που εκδηλώθηκε στο Καλοχώρι Θεσσαλονίκης και επεκτάθηκε σε επιχείρηση. Σύμφωνα με την Πυροσβεστική, η φωτιά προκλήθηκε όταν ο ηλικιωμένος χρησιμοποίησε γυμνή φλόγα για να απομακρύνει σφήκες",
+          "title": "Θεσσαλονίκη: Τρεις συλλήψεις για τις επιθέσεις με γκαζάκια σε σπίτια στελεχών της ΝΔ",
+          "url": "https://www.tovima.gr/2026/07/10/society/thessaloniki-treis-syllipseis-gia-tis-epitheseis-me-gkazakia-se-spitia-stelexon-tis-nd/",
+          "snippet": "Μεγάλη επιχείρηση σε περιοχές της Θεσσαλονίκης και της Κρήτης - Μέχρι στιγμής έχουν συλληφθεί τρία άτομα, ενώ πραγματοποιούνται έρευνες σε σπίτια και άλλους χώρους - Η ανακοίνωση της ΕΛ.ΑΣ.",
           "source": "To Vima"
         },
         {
-          "title": "Ο «αγνοούμενος» Μοτζτάμπα Χαμενεΐ: Η απουσία του νέου ηγέτη του Ιράν γεννά ερωτήματα για την εξουσία στην Τεχεράνη",
-          "url": "https://www.tovima.gr/2026/07/09/world/o-agnooumenos-motztampa-xamenei-i-apousia-tou-neou-igeti-tou-iran-genna-erotimata-gia-tin-eksousia-stin-texerani/",
-          "snippet": "Ο εκπρόσωπος του Ανώτατου Ηγέτη του Ιράν στην Ινδία, Αγιατολάχ Χακίμ Ελαχί, υποστήριξε ότι ο Μοτζτάμπα Χαμενεΐ επιθυμεί να εμφανιστεί δημόσια, όμως οι υπηρεσίες ασφαλείας θεωρούν ότι κάτι τέτοιο θα εγκυμονούσε σοβαρούς κινδύνους",
+          "title": "Σούπερ μάρκετ: Πόσο θα πέσουν οι τιμές στα ράφια από 1η Σεπτεμβρίου",
+          "url": "https://www.tovima.gr/2026/07/10/finance/souper-market-poso-tha-pesoun-oi-times-sta-rafia-apo-1i-septemvriou/",
+          "snippet": "Τρόφιμα, είδη προσωπικής υγιεινής και καθαριστικά μπαίνουν στο πρόγραμμα μειώσεων στα σούπερ μάρκετ, την ώρα που οι εξελίξεις στη Μέση Ανατολή προκαλούν ανησυχία για νέες ανατιμήσεις.",
           "source": "To Vima"
         },
         {
-          "title": "Ασπρόπυργος: Δύο συλλήψεις για τη φωτιά – Χαροπαλεύουν εργαζόμενοι, το λάθος με την οξυγονοκόλληση",
-          "url": "https://www.tovima.gr/2026/07/09/society/aspropyrgos-dyo-syllipseis-gia-ti-fotia-xaropaleyoun-ergazomenoi-to-lathos-me-tin-oksygonokollisi/",
-          "snippet": "Μάχη για τη ζωή τους δίνουν δύο πολυεγκαυματίες εργαζόμενοι, στη ΜΕΘ του ΚΑΤ - Στο μικροσκόπιο των αρχών το μοιραίο λάθος κατά τη διάρκεια εργασιών οξυγονοκόλλησης δίπλα σε βυτιοφόρο με προπάνιο - Το βίντεο με το «μανιτάρι»",
+          "title": "Πέθανε η Λουίζ Λάσερ, η 1η σύζυγος του Γούντι Αλεν",
+          "url": "https://www.tovima.gr/2026/07/10/culture/pethane-i-louiz-laser-i-1i-syzygos-tou-gounti-alen/",
+          "snippet": "Η Λουίζ Λάσερ υπήρξε μια εκκεντρική φωνή της αμερικανικής κωμωδίας, παρά το βαρύ φορτίο της οικογενειακής τραγωδίας της",
           "source": "To Vima"
         },
         {
-          "title": "Γιατί η Ισπανία έχει μπει στο στόχαστρο του Ντόναλντ Τραμπ",
-          "url": "https://www.tovima.gr/2026/07/09/world/giati-i-ispania-exei-mpei-sto-stoxastro-tou-ntonalnt-tramp/",
-          "snippet": "Οι νέες απειλές του αμερικανού προέδρου για διακοπή του εμπορίου με την Ισπανία είναι η τελευταία πράξη μιας σύγκρουσης που διαρκεί μήνες - Τα σημεία τριβής μεταξύ Ντόναλντ Τραμπ και Πέδρο Σάντσεθ",
+          "title": "Αργος: Στον ανακριτή για τους πυροβολισμούς στον 20χρονο οι 2 αστυνομικοί",
+          "url": "https://www.tovima.gr/2026/07/10/society/argos-ston-anakriti-gia-tous-pyrovolismous-ston-20xrono-oi-2-astynomikoi/",
+          "snippet": "Οι δύο αστυνομικοί που κατηγορούνται για ανθρωποκοτονία με ενδεχόμενο δόλο είχαν λάβει 48ωρη προθεσμία από τον εισαγγελέα Ναυπλίου",
           "source": "To Vima"
         },
         {
-          "title": "Αυτή την Κυριακή με ΤΟ ΒΗΜΑ, νέο τεύχος BHMAgazino",
-          "url": "https://www.tovima.gr/2026/07/09/media/ayti-tin-kyriaki-me-to-vima-neo-teyxos-bhmagazino-6/",
-          "snippet": "Κυκλοφορεί αυτή την Κυριακή 12 Ιουλίου με το Βήμα της Κυριακής",
+          "title": "Σπάει το μονοπώλιο στο LNG: Η στρατηγική κίνηση AKTOR – Motor Oil",
+          "url": "https://www.tovima.gr/2026/07/10/finance/spaei-to-monopolio-sto-lng-i-stratigiki-kinisi-aktor-motor-oil/",
+          "snippet": "Η συμφωνία για το FSRU «Διώρυγα GAS» βάζει τέλος στο μονοπώλιο των υποδομών LNG και ενισχύει τον ρόλο της χώρας ως ενεργειακού κόμβου.",
           "source": "To Vima"
         },
         {
-          "title": "Παραιτήθηκε από την προεδρία του ΣΥΡΙΖΑ ο Σωκράτης Φάμελλος",
-          "url": "https://www.tovima.gr/2026/07/09/politics/paraitithike-apo-tin-proedria-tou-syriza-o-sokratis-famellos/",
-          "snippet": "Την παραίτησή του από τη θέση του προέδρου του ΣΥΡΙΖΑ ανακοίνωσε ο Σωκράτης Φάμελλος. «Δεν θέλω να γίνω μέρος του διχασμού» ανάφερε σε δήλωσή του.",
+          "title": "Τζίβα",
+          "url": "https://www.tovima.gr/2026/07/10/opinions/tziva/",
+          "snippet": "Αιχμές από τον Γιώργο Βέλτσο.",
           "source": "To Vima"
         }
       ]
@@ -101,16 +101,16 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "US and Iran trade attacks as Khamenei is buried",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
+        "title": "At least 11 die in Spain wildfire as heatwave continues in Southern Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+        "snippet": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
         "source": "BBC World"
       },
       "items": [
         {
-          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-          "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+          "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
           "source": "BBC World"
         },
         {
@@ -126,7 +126,7 @@
           "source": "BBC World"
         },
         {
-          "title": "South Korean chip giant SK Hynix raises $26.5bn in US share sale",
+          "title": "Chip giant SK Hynix raises $26.5bn in mega US share sale",
           "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
           "snippet": "The shares are set to start trading on the Nasdaq on Friday in what will be the largest ever debut by a foreign firm.",
           "source": "BBC World"
@@ -141,6 +141,12 @@
           "title": "Tensions erupt in Indian state after 11-year-old raped and murdered",
           "url": "https://www.bbc.co.uk/news/articles/cze9zd8drzro?at_medium=RSS&at_campaign=rss",
           "snippet": "The girl's body was fished out from a pond on Sunday - a day after her family reported her missing.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+          "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
           "source": "BBC World"
         },
         {
@@ -183,12 +189,6 @@
           "title": "Nato allies announce £37bn for new missile project",
           "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
           "snippet": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-          "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-          "snippet": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
           "source": "BBC World"
         }
       ]
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Παραμένει ζεστό το ενδιαφέρον της Άρσεναλ για τον Χρήστο Τζόλη",
-        "url": "https://www.skai.gr/news/sports/paramenei-zesto-to-endiaferon-tis-arsenal-gia-tzoli",
-        "snippet": "Σύμφωνα με αγγλικά Μέσα, οι πρωταθλητές Αγγλίας ενδιαφέρονται ακόμη για την απόκτηση του Έλληνα εξτρέμ, ο οποίος έκανε τρομερά πράγματα φέτος με την Μπριζ",
+        "title": "Το’ δωσε! Ο Μπιλ Σίμονς είπε με σιγουριά πως ο Λεμπρόν Τζέιμς επιστρέφει στους Καβαλίερς",
+        "url": "https://www.skai.gr/news/sports/mpil-simons-eipe-me-sigouria-pos-o-lempron-tzeims-epistrefei-stous-kavaliers",
+        "snippet": "Σύμφωνα με τον Μπιλ Σίμονς, ο Λεμπρόν Τζέιμς επιστρέφει στο Κλίβελαντ για να κλείσει την καριέρα του",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Γιαννακόπουλος: «Χτίσαμε κάτι δυνατό, δεν ξέρω πώς θα χωρέσει ο Γιόκιτς του χρόνου»",
+          "url": "https://www.skai.gr/news/sports/giannakopoulos-den-ksero-pos-tha-xoresei-o-giokits-tou-xronou",
+          "snippet": "Η ατάκα του Δημήτρη Γιαννακόπουλου για τον νέο Παναθηναϊκό και τον... Γιόκιτς",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Παραμένει ζεστό το ενδιαφέρον της Άρσεναλ για τον Χρήστο Τζόλη",
+          "url": "https://www.skai.gr/news/sports/paramenei-zesto-to-endiaferon-tis-arsenal-gia-tzoli",
+          "snippet": "Σύμφωνα με αγγλικά Μέσα, οι πρωταθλητές Αγγλίας ενδιαφέρονται ακόμη για την απόκτηση του Έλληνα εξτρέμ, ο οποίος έκανε τρομερά πράγματα φέτος με την Μπριζ",
+          "source": "Skai Sports"
+        },
         {
           "title": "Πολύ κοντά σε Αντρέ Λουίζ η Κάνσας: Πρόταση-μαμούθ προς τον Ολυμπιακό",
           "url": "https://www.skai.gr/news/sports/olympiakos-terastia-protasi-ston-antre-louiz-mia-anasa-apo-tin-kansas",
@@ -370,18 +382,6 @@
           "url": "https://www.skai.gr/news/sports/gm-efes-milisame-me-panathinaiko-gia-osman-den-theloun-na-ton-afisoun",
           "snippet": "Η Εφές έκανε κρούση στον Παναθηναϊκό για τον Τσέντι Όσμαν, αλλά δεν υπάρχει διάθεση από τους «πράσινους» να χάσουν τον Τούρκο φόργουορντ",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Παναθηναϊκός: Ετοιμάζεται για ντεμπούτο ο Ντε Φράι - Έμφαση ξανά στην τακτική",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-etoimazetai-gia-ntempouto-o-nte-frai",
-          "snippet": "Ο Ολλανδός στόπερ λογικά θα πάρει χρόνο συμμετοχής στο φιλικό με την Γκρασχόπερ, ενώ η σημερινή προπόνηση εστίασε εκ νέου σε τακτική και στημένες φάσεις",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Ανακαλεί το πιστοποιητικό του Προμηθέα η ΕΕΑ και επιβάλει πρόστιμο στον Λιόλιο",
-          "url": "https://www.skai.gr/news/sports/eea-anakalei-to-pistopoiitiko-tou-promithea-kai-epivalei-prostimo-ston-liolio",
-          "snippet": "Η ΕΕΑ αποφάσισε την ανάκληση του πιστοποιητικού του Προμηθέα και επιβάλει πρόστιμο στον πρόεδρο της ΕΟΚ, Βαγγέλη Λιόλιο",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,42 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
-        "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
-        "snippet": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
+        "title": "Bitcoin gets a green light from a reliable momentum gauge. Here are key levels to watch",
+        "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-gets-a-green-light-from-a-reliable-momentum-gauge-here-are-key-levels-to-watch",
+        "snippet": "A smoother long-term MACD just flipped bullish, pointing to more upside. Here are key levels that will decide if the ongoing bounce turns into a full blown uptrend.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Live markets: Bitcoin ETFs bleed again while ether funds snap a five-day inflow streak",
+          "url": "https://www.coindesk.com/tech/2026/07/10/live-markets-bitcoin-etfs-bleed-again-while-ether-funds-snap-a-five-day-inflow-streak",
+          "snippet": "Spot bitcoin funds lost about $95 million on Thursday and ether funds roughly $52 million, ending the one bright spot in crypto's institutional flows even as prices rallied.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP up 2% as buyers push through $1.10 resistance",
+          "url": "https://www.coindesk.com/markets/2026/07/10/xrp-up-2-as-buyers-push-through-usd1-10-resistance",
+          "snippet": "A late-session volume surge carried XRP above its recent range, with traders now watching whether $1.10 can hold as support.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's quiet split: Strong in USD, lagging in JPY as Yen rises on intervention fears",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
+          "snippet": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
+          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
+          "snippet": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
+          "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
+          "snippet": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Grayscale's CFO exits after 7 years with crypto asset manager",
           "url": "https://www.coindesk.com/business/2026/07/09/grayscale-s-cfo-exits-after-7-years-with-crypto-asset-manager",
@@ -447,36 +477,6 @@
           "title": "Age verification is the surveillance nobody voted for",
           "url": "https://www.coindesk.com/opinion/2026/07/09/age-verification-is-the-surveillance-nobody-voted-for",
           "snippet": "KOSA and Chat Control both retreated on their most-criticized measures this week, but both kept mandatory age verification, the quiet mechanism that turns anonymous browsing into identified browsing for all of us, argues Billions CEO Evin McMullen.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Over $7.2 billion have migrated from LayerZero to Chainlink CCIP as Mantle joins exodus",
-          "url": "https://www.coindesk.com/business/2026/07/09/over-usd7-2-billion-have-migrated-from-layerzero-to-chainlink-ccip-as-mantle-joins-exodus",
-          "snippet": "Migrations to Chainlink CCIP so far include Kelp and Lombard, both of which brought over $1 billion, as well as Solv Protocol, Virtuals, Re and Kraken’s tokenized assets.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Pricing houses in bitcoin exposes dollar's loss of value",
-          "url": "https://www.coindesk.com/daybook-us/2026/07/09/pricing-houses-in-bitcoin-exposes-dollar-s-loss-of-value",
-          "snippet": "Your day-ahead look for July 9, 2026",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants",
-          "url": "https://www.coindesk.com/business/2026/07/09/swift-rolls-out-24-7-blockchain-payment-systems-with-17-global-banks-across-six-continents",
-          "snippet": "HSBC, UBS, Wells Fargo and Citi are among the 17 banks now preparing to pilot live transactions using tokenized digital assets on Swift’s new blockchain payments platform.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Latin America’s biggest stock exchange now offers options on bitcoin, ether and solana futures",
-          "url": "https://www.coindesk.com/business/2026/07/09/brazil-s-b3-exchange-introduces-options-on-bitcoin-ether-and-solana-futures",
-          "snippet": "These options settle into underlying futures contracts rather than spot cryptoassets, involving no custody, transfer, or administration of tokens.",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto for Advisors: Q2 2026 Digital Asset Review",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/07/09/q2-2026-digital-asset-review",
-          "snippet": "ETFs face record outflows",
           "source": "CoinDesk"
         }
       ]
