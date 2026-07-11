@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T15:00:51.969897+00:00",
+  "updated": "2026-07-11T15:06:12.389753+00:00",
   "sections": [
     {
       "id": "greek",
@@ -120,6 +120,12 @@
           "source": "NYT World"
         },
         {
+          "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+          "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+          "snippet": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
+          "source": "NYT World"
+        },
+        {
           "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
           "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
           "snippet": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
@@ -180,15 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
-          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
-          "snippet": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
-          "source": "NYT World"
-        },
-        {
-          "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
-          "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
-          "snippet": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
+          "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+          "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+          "snippet": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ατλέτικο Μαδρίτης: Χιούλμαντ και με τη... βούλα στους Ροχιμπλάνκος",
-        "url": "https://www.gazzetta.gr/football/la-liga/2553616/atletiko-madritis-hioylmant-kai-me-ti-boyla-stoys-rohimplankos",
-        "snippet": "O 27χρονος Δανός αμυντικός μέσος, Μόρτεν Χιούλμαντ, είναι και επίσημα κάτοικος Μαδρίτης, καθώς ανακοινώθηκε από την Ατλέτικο Μαδρίτης έως το 2031.",
+        "title": "ΑΕΚ: Συνεχίζει με διπλές προπονήσεις, μοίρασαν αυτόγραφα Νίκολιτς και παίκτες στο Άπελντορν",
+        "url": "https://www.gazzetta.gr/football/superleague/2553618/aek-synehizei-me-diples-proponiseis-moirasan-aytografa-nikolits-kai",
+        "snippet": "Δείτε πλάνα από την πρωινή σαββατιάτικη προπόνηση της ΑΕΚ στην Ολλανδία, την οποία παρακολούθησαν και αρκετοί φίλοι της Ένωσης.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΣΥΡΙΖΑ: Ο Πολάκης επιστρέφει, η στήριξη στον Τσίπρα ακυρώνεται και ανοίγει η κούρσα διαδοχής",
+          "url": "https://www.gazzetta.gr/plus/2553617/syriza-o-polakis-epistrefei-i-stirixi-ston-tsipra-akyronetai-kai-anoigei-i-koyrsa",
+          "snippet": "Η Κεντρική Επιτροπή του ΣΥΡΙΖΑ αποφάσισε την επιστροφή του Παύλου Πολάκη στην Κ.Ο., ακύρωσε την προηγούμενη στήριξη και ξεκινά εκλογική προετοιμασία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ατλέτικο Μαδρίτης: Χιούλμαντ και με τη... βούλα στους Ροχιμπλάνκος",
+          "url": "https://www.gazzetta.gr/football/la-liga/2553616/atletiko-madritis-hioylmant-kai-me-ti-boyla-stoys-rohimplankos",
+          "snippet": "O 27χρονος Δανός αμυντικός μέσος, Μόρτεν Χιούλμαντ, είναι και επίσημα κάτοικος Μαδρίτης, καθώς ανακοινώθηκε από την Ατλέτικο έως το 2031.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ - Τβέντε: Ο Ελουστόντο αποχώρησε τραυματίας",
           "url": "https://www.gazzetta.gr/football/superleague/2553615/paok-tbente-o-eloystonto-apohorise-traymatias",
@@ -369,18 +381,6 @@
           "title": "10 “αθόρυβες” συνήθειες που μπορούν να αυξήσουν την ευφυΐα σου ημέρα με την ημέρα",
           "url": "https://www.gazzetta.gr/plus/2553583/10-athorybes-synitheies-poy-mporoyn-na-ayxisoyn-tin-eyfyia-soy-imera-me-tin-imera",
           "snippet": "Αυτές οι μικροσυνήθειες έχουν τη δύναμη να αυξήσουν το επίπεδο της νοημοσύνης μας μέσα σε μερικές ημέρες.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελβετία: Χωρίς τον Μανζάμπι κόντρα στην Αργεντινή",
-          "url": "https://www.gazzetta.gr/football/mundial/2553596/elbetia-horis-manzampi-kontra-stin-argentini",
-          "snippet": "H Ελβετία δε θα έχει στη διάθεσή της για τον προημιτελικό κόντρα στην Αργεντινή τον Γιόχαν Μανζάμπι, ο οποίος αντιμετωπίζει πρόβλημα τραυματισμού στο γόνατο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Euroleague: Η ανάρτηση για την ανανέωση του Παπανικολάου στον Ολυμπιακό",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553594/euroleague-i-anartisi-gia-tin-ananeosi-toy-papanikolaoy-ston",
-          "snippet": "Η Euroleague αναφέρθηκε στην ανανέωση της συνεργασίας του Κώστα Παπανικολάου με τον Ολυμπιακό.",
           "source": "Gazzetta"
         }
       ]
