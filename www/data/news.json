@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T14:14:15.097768+00:00",
+  "updated": "2026-07-11T14:22:57.301492+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Κ.Ε. ΣΥΡΙΖΑ: Στα… μαχαίρια και επισήμως με την ΕΛΑΣ",
-        "url": "https://www.efsyn.gr/politiki/1425699/k-e-syriza-ps-akyrothike-i-proigoymeni-apofasi-keni-periehomenoy-i-politiki-stirixi-tis-elas-proaggelos-neas-grammis/",
-        "snippet": "Ακυρώθηκε η προηγούμενη απόφαση - «Κενή περιεχομένου» η πολιτική στήριξη της ΕΛΑΣ - Προάγγελος νέας γραμμής;",
+        "title": "Marfin: Επιστολή πρώην διωκόμενου στην «Εφ.Συν.» – «Οι σκευωροί αναζητούν τα νέα τους θύματα»",
+        "url": "https://www.efsyn.gr/ellada/1425701/ypothesi-marfin-epistoli-proin-diokomenoy-stin-ef-syn-oi-skeyoroi-anazitoyn-ta-nea-toys-thymata/",
+        "snippet": "Με αφορμή τις πρόσφατες συλλήψεις δύο ατόμων για την υπόθεση της Μαρφίν, καθώς και την αναμενόμενη παράδοση στην Ελλάδα της τρίτης κατηγορούμενης από τη Μεγάλη Βρετανία όπου διαμένει μόνιμα, ο Γιώργος Π., ένας από τους τρεις ανθρώπους που είχαν βρεθεί στο στόχαστρο των διωκτικών ",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Κ.Ε. ΣΥΡΙΖΑ: Στα… μαχαίρια και επισήμως με την ΕΛΑΣ",
+          "url": "https://www.efsyn.gr/politiki/1425699/k-e-syriza-ps-akyrothike-i-proigoymeni-apofasi-keni-periehomenoy-i-politiki-stirixi-tis-elas-proaggelos-neas-grammis/",
+          "snippet": "Ακυρώθηκε η προηγούμενη απόφαση - «Κενή περιεχομένου» η πολιτική στήριξη της ΕΛΑΣ - Προάγγελος νέας γραμμής;",
+          "source": "EfSyn"
+        },
         {
           "title": "Οι συνήγοροι υπεράσπισης εκθέτουν τον Λιγνάδη: Οι «παραβλέψεις» και τα «στραβά μάτια»",
           "url": "https://www.efsyn.gr/ellada/1425442/oi-synigoroi-yperaspisis-ekthetoyn-ton-lignadi-oi-paravlepseis-kai-ta-strava-matia/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1425628/marfin-i-diadromi-poy-akoloythise-i-el-as-gia-na-ftasei-stoys-treis-ta-psifiaka-eyrimata-edosan-apantiseis/",
           "snippet": "Η ανακοίνωση της ΕΛ.ΑΣ. για τη σύλληψη των δύο 42χρονων για την Marfin.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Φωτιά στα Λάβαρα Έβρου: Καίει σε κτηνοτροφική μονάδα – Απομακρύνθηκαν 200 ζώα",
-          "url": "https://www.efsyn.gr/ellada/1425621/fotia-sta-lavara-evroy-kaiei-se-ktinotrofiki-monada-apomakrynthikan-200-zoa/",
-          "snippet": "Από τη φωτιά έχουν ήδη προκληθεί σοβαρές ζημιές σε κτηνοτροφική μονάδα με βοοειδή",
-          "source": "EfSyn"
         }
       ]
     },
@@ -132,9 +132,15 @@
           "source": "NYT World"
         },
         {
-          "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
-          "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
-          "snippet": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+          "title": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
+          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+          "snippet": "The visit comes after heavy clashes this week between the U.S. and Iran. The country’s supreme leader pledged to avenge his father’s killing, trading threats with President Trump.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Inside the Canadian Lab Burning Down Buildings to Save Them",
+          "url": "https://www.nytimes.com/2026/07/11/world/canada/wildfires-prevention-testing-canada.html",
+          "snippet": "At the national fire safety facility in Ottawa, scientists and engineers are increasingly focused on the threat from the forest.",
           "source": "NYT World"
         },
         {
@@ -177,12 +183,6 @@
           "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
           "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
           "snippet": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
-          "source": "NYT World"
-        },
-        {
-          "title": "Meet Neil, Australia’s Celebrity Seal",
-          "url": "https://www.nytimes.com/2026/07/10/world/australia/neil-seal-australia-tasmania.html",
-          "snippet": "The young elephant seal has gained fans around the world. But the authorities warn he could be in danger of being loved to death.",
           "source": "NYT World"
         },
         {
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Γιατί μία Βρετανίδα ινφλουένσερ κινδυνεύει με εκτέλεση στο Ντουμπάι",
-        "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-        "snippet": "Σαν το «Εξπρές του Μεσονυκτίου», μόνο που είναι μια απόλυτα πραγματική, τραγική ιστορία.",
+        "title": "Κηφισιά: Ο Ρουκουνάκης επέκτεινε το συμβόλαιό του έως το 2029",
+        "url": "https://www.gazzetta.gr/football/superleague/2553598/kifisia-o-roykoynakis-epekteine-symbolaio-toy-eos-2029",
+        "snippet": "Ο Κωνσταντίνος Ρουκουνάκης υπέγραψε νέο συμβόλαιο με την Κηφισιά έως το 2029.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Γιατί μία Βρετανίδα ινφλουένσερ κινδυνεύει με εκτέλεση στο Ντουμπάι",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Σαν το «Εξπρές του Μεσονυκτίου», μόνο που είναι μια απόλυτα πραγματική, τραγική ιστορία.",
+          "source": "Gazzetta"
+        },
         {
           "title": "«Μεράκλωσε» με Καρρά και έκανε το τούνελ… πίστα: Άνοιξε τις πόρτες του ΙΧ εν κινήσει μέσα σε τούνελ και ξεσήκωσε θύελλα αντιδράσεων (vid)",
           "url": "https://www.gazzetta.gr/plus/2553592/meraklose-me-karra-kai-ekane-toynel-pista-anoixe-tis-portes-toy-ih-en-kinisei-mesa-se",
@@ -375,12 +381,6 @@
           "title": "Παράξενο περιστατικό σε σχολείο στις Φιλιππίνες: Μαθητές έκλαιγαν, φώναζαν και κατέρρευσαν χωρίς εξήγηση",
           "url": "https://www.gazzetta.gr/plus/2553581/paraxeno-peristatiko-se-sholeio-stis-filippines-mathites-eklaigan-fonazan-kai",
           "snippet": "Έξι μαθητές σε λύκειο στις Φιλιππίνες παρουσίασαν παράξενη συμπεριφορά και λιποθύμησαν. Το περιστατικό προκάλεσε φόβους για... υπερφυσική παρέμβαση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Λεουβέν 1-1: «Χ»αλαρό μεσημέρι!",
-          "url": "https://www.gazzetta.gr/football/superleague/2553585/olympiakos-leoyben-1-1-halaro-mesimeri",
-          "snippet": "Ξεμούδιασμα με ισοπαλία για τον Ολυμπιακό, στο μεσημεριανό φιλικό προετοιμασίας με αντίπαλο την Λέουβεν (1-1). Οι Πειραιώτες σκόραραν με τον Αντρέ Λουίζ που είναι στο στόχαστρο του Κάνσας.",
           "source": "Gazzetta"
         }
       ]
