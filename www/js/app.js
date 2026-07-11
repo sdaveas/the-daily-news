@@ -160,7 +160,19 @@
     config={sections:sections};
     saveConfig(function(){
       closeSettings();
-      render();
+      if(STATIC){
+        render();
+        return;
+      }
+      // ponytail: poll news.json until mtime changes, max 40s
+      fetch('/refresh',{method:'POST'}).then(function(r){return r.json()}).then(function(){
+        var waited=0;
+        var poll=setInterval(function(){
+          waited+=3;
+          if(waited>40){clearInterval(poll);render();return;}
+          render();
+        },3000);
+      }).catch(function(){render();});
     });
   }
 

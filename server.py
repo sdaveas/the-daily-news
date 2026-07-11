@@ -138,6 +138,7 @@ class Handler(http.server.SimpleHTTPRequestHandler):
                 data = json.loads(body)
                 with open(FEEDS_PATH, 'w') as f:
                     json.dump(data, f, indent=2, ensure_ascii=False)
+                threading.Thread(target=trigger_fetch, daemon=True).start()
                 self.send_response(200)
                 self.send_header('Content-Type','application/json')
                 self._cors()
