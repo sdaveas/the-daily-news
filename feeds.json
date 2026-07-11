@@ -13,6 +13,10 @@
         {
           "url": "https://www.skai.gr/rss/news",
           "source": "Skai News"
+        },
+        {
+          "url": "https://www.efsyn.gr/feed/",
+          "source": "EfSyn"
         }
       ]
     },
