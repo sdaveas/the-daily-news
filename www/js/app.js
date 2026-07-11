@@ -181,6 +181,11 @@
 
   var STATIC = (location.protocol === 'file:') || location.hostname.endsWith('github.io');
 
+  function autoSave(){
+    config={sections:collectSettingsFromPanel()};
+    saveConfig();
+  }
+
   function applySettingsFromPanel(){
     var sections=collectSettingsFromPanel();
     config={sections:sections};
@@ -208,6 +213,7 @@
       + '<div class="feeds"></div>'
       + '<button class="btn-add" data-i="'+i+'" data-k="add-feed">+ Add feed</button>';
     rows.appendChild(row);
+    autoSave();
   }
 
   function resetSettings(){
@@ -347,6 +353,7 @@
       feeds.appendChild(div);
       feeds.appendChild(res);
       div.querySelector('.feed-url').focus();
+      autoSave();
       return;
     }
     if(btn.dataset.k==='del-feed'){
@@ -354,10 +361,12 @@
       var resEl=fr.nextElementSibling;
       if(resEl&&resEl.className==='feed-result')resEl.remove();
       fr.remove();
+      autoSave();
       return;
     }
     if(btn.dataset.k==='del-sec'){
       btn.closest('.sec-row').remove();
+      autoSave();
       return;
     }
   });
