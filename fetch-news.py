@@ -74,9 +74,14 @@ def main():
   config = load_feeds()
   out = {"updated": datetime.datetime.now(datetime.timezone.utc).isoformat(), "sections": []}
   for sec in config.get("sections", []):
+    feed_items = [fetch_feed(f["url"], f.get("source","")) for f in sec.get("feeds", [])]
+    # ponytail: round-robin so all sources appear, not just the first feed
     all_items = []
-    for feed in sec.get("feeds", []):
-      all_items.extend(fetch_feed(feed["url"], feed.get("source","")))
+    i = 0
+    while any(i < len(fi) for fi in feed_items):
+      for fi in feed_items:
+        if i < len(fi): all_items.append(fi[i])
+      i += 1
     lead = all_items[0] if all_items else None
     items = all_items[1:15] if len(all_items) > 1 else []
     out["sections"].append({
