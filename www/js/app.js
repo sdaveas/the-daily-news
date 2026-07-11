@@ -79,7 +79,17 @@
         sections.forEach(function(cfg){
           var sec=byId[cfg.id]||{id:cfg.id,title:cfg.title,lead:null,items:[]};
           sec.title=cfg.title;
-          grid.appendChild(renderSection(sec, cfg));
+          var allowedSources = cfg.feeds.map(function(f){return f.source}).filter(Boolean);
+          var allowedHosts = cfg.feeds.map(function(f){return host(f.url)}).filter(Boolean);
+          function allowed(it){
+            if(!allowedSources.length && !allowedHosts.length) return true;
+            if(allowedSources.indexOf(it.source)>=0) return true;
+            if(allowedHosts.indexOf(host(it.url))>=0) return true;
+            return false;
+          }
+          var filtered = {id:sec.id, title:sec.title, lead:sec.lead, items:(sec.items||[]).filter(allowed)};
+          if(filtered.lead && !allowed(filtered.lead)) filtered.lead=null;
+          grid.appendChild(renderSection(filtered, cfg));
         });
         content.appendChild(grid);
         if(data.updated){
