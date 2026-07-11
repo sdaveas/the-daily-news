@@ -1,18 +1,24 @@
 {
-  "updated": "2026-07-11T14:22:57.301492+00:00",
+  "updated": "2026-07-11T14:31:10.260252+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Marfin: Επιστολή πρώην διωκόμενου στην «Εφ.Συν.» – «Οι σκευωροί αναζητούν τα νέα τους θύματα»",
-        "url": "https://www.efsyn.gr/ellada/1425701/ypothesi-marfin-epistoli-proin-diokomenoy-stin-ef-syn-oi-skeyoroi-anazitoyn-ta-nea-toys-thymata/",
-        "snippet": "Με αφορμή τις πρόσφατες συλλήψεις δύο ατόμων για την υπόθεση της Μαρφίν, καθώς και την αναμενόμενη παράδοση στην Ελλάδα της τρίτης κατηγορούμενης από τη Μεγάλη Βρετανία όπου διαμένει μόνιμα, ο Γιώργος Π., ένας από τους τρεις ανθρώπους που είχαν βρεθεί στο στόχαστρο των διωκτικών ",
+        "title": "Δισκοκριτική: Madonna, Sienna Spiro, The Birthday Party OST, French Fry",
+        "url": "https://www.efsyn.gr/tehnes/1424222/diskokritiki-madonna-sienna-spiro-the-birthday-party-ost-french-fry/",
+        "snippet": "Η Madonna μετά από τόσα χρόνια καριέρας σε αυτή την ηλικία και μετά από πολλές μέτριες δουλειές βγάζει ένα άλμπουμ που θυμίζει τις παλιές, καλές εποχές της. Το ντεμπούτο άλμπουμ της Sienna Spiro αφήνει πολλές υποσχέσεις για το μέλλον της 21χρονης ανερχόμενης Αγγλίδας τραγουδοποιο",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Κ.Ε. ΣΥΡΙΖΑ: Στα… μαχαίρια και επισήμως με την ΕΛΑΣ",
+          "title": "Marfin: «Οι σκευωροί αναζητούν τα νέα τους θύματα» – Επιστολή πρώην κατηγορούμενου στην efsyn.gr",
+          "url": "https://www.efsyn.gr/ellada/1425701/ypothesi-marfin-epistoli-proin-diokomenoy-stin-ef-syn-oi-skeyoroi-anazitoyn-ta-nea-toys-thymata/",
+          "snippet": "Με αφορμή τις πρόσφατες συλλήψεις δύο ατόμων για την υπόθεση της Μαρφίν, καθώς και την αναμενόμενη παράδοση στην Ελλάδα της τρίτης κατηγορούμενης από τη Μεγάλη Βρετανία όπου διαμένει μόνιμα, ο Γιώργος Π., ένας από τους τρεις ανθρώπους που είχαν βρεθεί στο στόχαστρο των διωκτικών ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κ.Ε. ΣΥΡΙΖΑ: Στα… μαχαίρια και επισήμως με την ΕΛΑΣ – Επιστρέφει ο Πολάκης",
           "url": "https://www.efsyn.gr/politiki/1425699/k-e-syriza-ps-akyrothike-i-proigoymeni-apofasi-keni-periehomenoy-i-politiki-stirixi-tis-elas-proaggelos-neas-grammis/",
           "snippet": "Ακυρώθηκε η προηγούμενη απόφαση - «Κενή περιεχομένου» η πολιτική στήριξη της ΕΛΑΣ - Προάγγελος νέας γραμμής;",
           "source": "EfSyn"
@@ -60,7 +66,7 @@
           "source": "EfSyn"
         },
         {
-          "title": "Δημόσια έκκληση του Γεωργιάδη σε Γκας Μπιλιράκι: «Πες στον Τραμπ ότι είναι μεγάλο πρόβλημα τα F-35 στην Τουρκία»",
+          "title": "Δημόσια έκκληση του Γεωργιάδη σε Γκας Μπιλιράκη: «Πες στον Τραμπ ότι είναι μεγάλο πρόβλημα τα F-35 στην Τουρκία»",
           "url": "https://www.efsyn.gr/politiki/1425639/dimosia-ekklisi-toy-georgiadi-se-gkas-mpiliraki-pes-ston-tramp-oti-einai-megalo-provlima-ta-f-35-stin-toyrkia/",
           "snippet": "«Η Ελλάδα είναι τα σύνορα της Ευρώπης και της Δύσης και των Ηνωμένων Πολιτειών της Αμερικής».",
           "source": "EfSyn"
@@ -87,12 +93,6 @@
           "title": "ΣΥΡΙΖΑ: Επεισόδιο στην Κουμουνδούρου με φωνές και σπρωξίματα – Για άσκηση βίας μιλά ο Χρήστος Γιαννούλης",
           "url": "https://www.efsyn.gr/politiki/1425638/syriza-epeisodio-stin-koymoyndoyroy-me-fones-kai-sproximata-gia-askisi-vias-mila-o-hristos-giannoylis/",
           "snippet": "Παράλληλα απευθύνει έκκληση για αξιοπρέπεια.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Marfin: Η διαδρομή που ακολούθησε η ΕΛ.ΑΣ. για να φτάσει στους τρεις – Τα ψηφιακά ευρήματα έδωσαν απαντήσεις",
-          "url": "https://www.efsyn.gr/ellada/1425628/marfin-i-diadromi-poy-akoloythise-i-el-as-gia-na-ftasei-stoys-treis-ta-psifiaka-eyrimata-edosan-apantiseis/",
-          "snippet": "Η ανακοίνωση της ΕΛ.ΑΣ. για τη σύλληψη των δύο 42χρονων για την Marfin.",
           "source": "EfSyn"
         }
       ]
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Κηφισιά: Ο Ρουκουνάκης επέκτεινε το συμβόλαιό του έως το 2029",
-        "url": "https://www.gazzetta.gr/football/superleague/2553598/kifisia-o-roykoynakis-epekteine-symbolaio-toy-eos-2029",
-        "snippet": "Ο Κωνσταντίνος Ρουκουνάκης υπέγραψε νέο συμβόλαιο με την Κηφισιά έως το 2029.",
+        "title": "Μουντιάλ 2026: Η αστυνομία ερευνά την αιτία θανάτου του Άνταμς",
+        "url": "https://www.gazzetta.gr/football/mundial/2553600/moyntial-2026-i-astynomia-ereyna-tin-aitia-thanatoy-toy-antams",
+        "snippet": "Η αστυνομία ερευνά εξονυχιστικά την αιτία θανάτου του Τζέιντεν Άνταμς, ο οποίος βύθισε στη θλίψη τον παγκόσμιο αθλητισμό.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Κηφισιά: Ο Ρουκουνάκης επέκτεινε το συμβόλαιό του έως το 2029",
+          "url": "https://www.gazzetta.gr/football/superleague/2553598/kifisia-o-roykoynakis-epekteine-symbolaio-toy-eos-2029",
+          "snippet": "Ο Κωνσταντίνος Ρουκουνάκης υπέγραψε νέο συμβόλαιο με την Κηφισιά έως το 2029.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Γιατί μία Βρετανίδα ινφλουένσερ κινδυνεύει με εκτέλεση στο Ντουμπάι",
           "url": "https://www.gazzetta.gr/2543496/reader-article-2",
@@ -375,12 +381,6 @@
           "title": "ΠΑΟΚ - Τβέντε: Με Παβλένκα και την «πρόβα» της βασικής ενδεκάδας",
           "url": "https://www.gazzetta.gr/football/superleague/2553586/paok-tbente-me-pablenka-kai-tin-proba-tis-basikis-endekadas",
           "snippet": "Ο Αλέσιο Λίσι ξεκινάει με την καλύτερη δυνατή σύνθεση, σε μία πρόβα με ξεκάθαρο βλέμμα στην ευρωπαϊκή πρεμιέρα της 23ης Ιουλίου. ΑΠΟΣΤΟΛΗ - ΑΡΝΕΜ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παράξενο περιστατικό σε σχολείο στις Φιλιππίνες: Μαθητές έκλαιγαν, φώναζαν και κατέρρευσαν χωρίς εξήγηση",
-          "url": "https://www.gazzetta.gr/plus/2553581/paraxeno-peristatiko-se-sholeio-stis-filippines-mathites-eklaigan-fonazan-kai",
-          "snippet": "Έξι μαθητές σε λύκειο στις Φιλιππίνες παρουσίασαν παράξενη συμπεριφορά και λιποθύμησαν. Το περιστατικό προκάλεσε φόβους για... υπερφυσική παρέμβαση.",
           "source": "Gazzetta"
         }
       ]
