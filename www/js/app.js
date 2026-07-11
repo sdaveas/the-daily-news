@@ -160,19 +160,11 @@
     config={sections:sections};
     saveConfig(function(){
       closeSettings();
-      if(STATIC){
-        render();
-        return;
-      }
-      // ponytail: poll news.json until mtime changes, max 40s
-      fetch('/refresh',{method:'POST'}).then(function(r){return r.json()}).then(function(){
-        var waited=0;
-        var poll=setInterval(function(){
-          waited+=3;
-          if(waited>40){clearInterval(poll);render();return;}
-          render();
-        },3000);
-      }).catch(function(){render();});
+      if(STATIC){render();return;}
+      fetch('/refresh',{method:'POST'})
+        .then(function(r){return r.json()})
+        .then(function(){setTimeout(function(){render();},30000);})
+        .catch(function(){render();});
     });
   }
 
@@ -188,10 +180,17 @@
   }
 
   function addSection(){
-    var sections=collectSettingsFromPanel();
-    sections.push({id:'new-section-'+Date.now(),title:'New Section',enabled:true,lead:true,feeds:[]});
-    config={sections:sections};
-    saveConfig(function(){openSettings();});
+    var rows=document.getElementById('settingsRows');
+    var i=rows.querySelectorAll('.sec-row').length;
+    var row=document.createElement('div');
+    row.className='sec-row';
+    row.innerHTML='<div class="sec-name"><input type="checkbox" checked data-i="'+i+'" data-k="enabled"> '
+      + '<input type="text" class="sec-title" value="New Section" data-i="'+i+'" data-k="title">'
+      + '<label class="lead-chk"><input type="checkbox" checked data-i="'+i+'" data-k="lead"> Lead</label>'
+      + '<button class="sec-del" data-i="'+i+'" data-k="del-sec">Remove</button></div>'
+      + '<div class="feeds"></div>'
+      + '<button class="btn-add" data-i="'+i+'" data-k="add-feed">+ Add feed</button>';
+    rows.appendChild(row);
   }
 
   function resetSettings(){
@@ -278,17 +277,31 @@
       btn.closest('.feed-result').className='feed-result';
       return;
     }
-    var sections=collectSettingsFromPanel();
     if(btn.dataset.k==='add-feed'){
-      sections[i].feeds.push({url:'',source:''});
-    }else if(btn.dataset.k==='del-feed'){
-      var fi=parseInt(btn.dataset.fi);
-      sections[i].feeds.splice(fi,1);
-    }else if(btn.dataset.k==='del-sec'){
-      sections.splice(i,1);
+      var feeds=btn.previousElementSibling;
+      var fi=feeds.querySelectorAll('.feed-row').length;
+      var div=document.createElement('div');
+      div.className='feed-row';
+      div.innerHTML='<input type="text" class="feed-url" value="" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-url" placeholder="RSS URL or site URL"><input type="text" class="feed-src" value="" data-i="'+i+'" data-fi="'+fi+'" data-k="feed-src" placeholder="Name"><button class="btn-test" data-i="'+i+'" data-fi="'+fi+'" data-k="test-feed">Test</button><button class="btn-del" data-i="'+i+'" data-fi="'+fi+'" data-k="del-feed">&minus;</button>';
+      var res=document.createElement('div');
+      res.className='feed-result';
+      res.id='feed-result-'+i+'-'+fi;
+      feeds.appendChild(div);
+      feeds.appendChild(res);
+      div.querySelector('.feed-url').focus();
+      return;
     }
-    config={sections:sections};
-    saveConfig(function(){openSettings();});
+    if(btn.dataset.k==='del-feed'){
+      var fr=btn.closest('.feed-row');
+      var resEl=fr.nextElementSibling;
+      if(resEl&&resEl.className==='feed-result')resEl.remove();
+      fr.remove();
+      return;
+    }
+    if(btn.dataset.k==='del-sec'){
+      btn.closest('.sec-row').remove();
+      return;
+    }
   });
 
   // add section button
