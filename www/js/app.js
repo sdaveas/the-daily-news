@@ -245,23 +245,37 @@
       if(STATIC){
         // ponytail: rss2json as client-side RSS validator, no API key needed
         if(!url.match(/^https?:\/\//)) url='https://'+url;
-        fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url))
-          .then(function(r){return r.json()})
-          .then(function(res){
-            btn.disabled=false;btn.textContent='Test';
-            if(res.status==='ok'){
-              resultDiv.className='feed-result ok';
-              resultDiv.textContent='Valid feed, '+(res.items||[]).length+' items';
-            }else{
-              resultDiv.className='feed-result err';
-              resultDiv.textContent=res.message||'Not a valid RSS feed';
-            }
-          })
-          .catch(function(){
+        var candidates=[url];
+        var base=url.replace(/\/(feed|rss|rss\.xml|feed\.xml|atom\.xml|rss\/?)$/,'').replace(/\/$/,'');
+        if(base!==url) candidates.push(url);
+        ['/feed/','/feed','/rss','/rss.xml','/feed.xml','/atom.xml'].forEach(function(p){
+          if(base+p!==url) candidates.push(base+p);
+        });
+        function tryCandidate(idx){
+          if(idx>=candidates.length){
             btn.disabled=false;btn.textContent='Test';
             resultDiv.className='feed-result err';
-            resultDiv.textContent='Check failed.';
-          });
+            resultDiv.textContent='No RSS feed found. Try entering the direct feed URL.';
+            return;
+          }
+          fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(candidates[idx]))
+            .then(function(r){return r.json()})
+            .then(function(res){
+              if(res.status==='ok'){
+                btn.disabled=false;btn.textContent='Test';
+                resultDiv.className='feed-result ok';
+                var msg='Valid feed, '+(res.items||[]).length+' items';
+                if(candidates[idx]!==url){
+                  msg+=' — <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(candidates[idx])+'</a>';
+                }
+                resultDiv.innerHTML=msg;
+              }else{
+                tryCandidate(idx+1);
+              }
+            })
+            .catch(function(){tryCandidate(idx+1);});
+        }
+        tryCandidate(0);
         return;
       }
       fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
