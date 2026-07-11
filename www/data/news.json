@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T14:50:32.837597+00:00",
+  "updated": "2026-07-11T15:00:51.969897+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Φωτιά στο Θριάσιο Νοσοκομείο: Γέμισε καπνούς το ισόγειο",
-        "url": "https://www.efsyn.gr/ellada/1425719/fotia-sto-thriasio-nosokomeio-gemise-kapnoys-to-isogeio/",
-        "snippet": "Εκκενώθηκε ο χώρος του ισογείου, ενώ η φωτιά φαίνεται να ξεκίνησε από τις τουαλέτες.",
+        "title": "Πολάκης: «Επιστρέφω στην Κ.Ο. του ΣΥΡΙΖΑ – Θα είμαι υποψήφιος πρόεδρος» [βίντεο]",
+        "url": "https://www.efsyn.gr/politiki/1425721/polakis-epistrefo-stin-ko-toy-syriza-tha-eimai-ypopsifios-proedros-vinteo/",
+        "snippet": "Για «ιστορική συνεδρίαση» έκανε λόγο ο Παύλος Πολάκης ενώ ανακοίνωσε πως επιστρέφει στην Κ.Ο. του ΣΥΡΙΖΑ και πως θα βάλει υποψηφιότητα για την προεδρία.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Φωτιά στο Θριάσιο Νοσοκομείο: Γέμισε καπνούς το ισόγειο",
+          "url": "https://www.efsyn.gr/ellada/1425719/fotia-sto-thriasio-nosokomeio-gemise-kapnoys-to-isogeio/",
+          "snippet": "Εκκενώθηκε ο χώρος του ισογείου, ενώ η φωτιά φαίνεται να ξεκίνησε από τις τουαλέτες.",
+          "source": "EfSyn"
+        },
         {
           "title": "Βάγια Νέστορα: Δίωξη για ανθρωποκτονία στους τρεις συλληφθέντες για την εμπρηστική επίθεση",
           "url": "https://www.efsyn.gr/ellada/1425717/vagia-nestora-dioxi-gia-anthropoktonia-stoys-treis-syllifthentes-gia-tin-empristiki-epithesi/",
@@ -87,12 +93,6 @@
           "title": "ΣΥΡΙΖΑ: «Πράσινο φως» της Κεντρικής Επιτροπής για την επιστροφή του Παύλου Πολάκη",
           "url": "https://www.efsyn.gr/politiki/1425658/syriza-prasino-fos-tis-kentrikis-epitropis-gia-tin-epistrofi-toy-payloy-polaki/",
           "snippet": "Η συνεδρίαση θα... συνεχισθεί το επόμενο Σάββατο – ενσωματώνοντας έτσι σχετική πρόταση του Θεόφιλου Ξανθόπουλου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στη Λέσβο τη Δευτέρα ο Αλέξης Τσίπρας – Στο επίκεντρο κτηνοτρόφοι και πρωτογενής τομέας",
-          "url": "https://www.efsyn.gr/politiki/1425655/sti-lesvo-ti-deytera-o-alexis-tsipras-sto-epikentro-ktinotrofoi-kai-protogenis-tomeas/",
-          "snippet": "Αναλυτικά το πρόγραμμά του.",
           "source": "EfSyn"
         }
       ]
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Καλαμάτα: Τετραπλό μεταγραφικό «χτύπημα» από τη Μαύρη Θύελλα",
-        "url": "https://www.gazzetta.gr/football/superleague/2553613/kalamata-tetraplo-metagrafiko-htypima-apo-ti-mayri-thyella",
-        "snippet": "Η Καλαμάτα ανακοίνωσε τέσσερις νέες προσθήκες στο ρόστερ της κι επισημοποίησε μια σειρά από αποχωρήσεις πριν την αρχή της νέας σεζόν.",
+        "title": "Ατλέτικο Μαδρίτης: Χιούλμαντ και με τη... βούλα στους Ροχιμπλάνκος",
+        "url": "https://www.gazzetta.gr/football/la-liga/2553616/atletiko-madritis-hioylmant-kai-me-ti-boyla-stoys-rohimplankos",
+        "snippet": "O 27χρονος Δανός αμυντικός μέσος, Μόρτεν Χιούλμαντ, είναι και επίσημα κάτοικος Μαδρίτης, καθώς ανακοινώθηκε από την Ατλέτικο Μαδρίτης έως το 2031.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ - Τβέντε: Ο Ελουστόντο αποχώρησε τραυματίας",
+          "url": "https://www.gazzetta.gr/football/superleague/2553615/paok-tbente-o-eloystonto-apohorise-traymatias",
+          "snippet": "Ο Αρίτζ Ελουστόντο έγινε αλλαγή στο 45' στο φιλικό του ΠΑΟΚ με τη Τβέντε, λόγω τραυματισμού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ελλάς Σύρου: Ανακοίνωσε την προσθήκη του Σπύρου Κωστόπουλου",
+          "url": "https://www.gazzetta.gr/football/superleague-2/2553614/ellas-syroy-anakoinose-tin-prosthiki-toy-spyroy-kostopoyloy",
+          "snippet": "Με τον έμπειρο σε επίπεδο Superleague 2, Σπύρο Κωστόπουλο, ενισχύθηκε η άμυνα της Ελλάς Σύρου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Καλαμάτα: Τετραπλό μεταγραφικό «χτύπημα» από τη Μαύρη Θύελλα",
+          "url": "https://www.gazzetta.gr/football/superleague/2553613/kalamata-tetraplo-metagrafiko-htypima-apo-ti-mayri-thyella",
+          "snippet": "Η Καλαμάτα ανακοίνωσε τέσσερις νέες προσθήκες στο ρόστερ της κι επισημοποίησε μια σειρά από αποχωρήσεις πριν την αρχή της νέας σεζόν.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Όμιλος Volkswagen: Μειώνει την παραγωγή και «κόβει» τα μισά μοντέλα",
           "url": "https://www.gazzetta.gr/gmotion/2553552/omilos-volkswagen-meionei-tin-paragogi-kai-kobei-ta-misa-montela",
@@ -363,24 +381,6 @@
           "title": "Euroleague: Η ανάρτηση για την ανανέωση του Παπανικολάου στον Ολυμπιακό",
           "url": "https://www.gazzetta.gr/basketball/euroleague/2553594/euroleague-i-anartisi-gia-tin-ananeosi-toy-papanikolaoy-ston",
           "snippet": "Η Euroleague αναφέρθηκε στην ανανέωση της συνεργασίας του Κώστα Παπανικολάου με τον Ολυμπιακό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Το ποσό που ζητάει για τον Γουόκαπ",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553574/olympiakos-poso-poy-zitaei-gia-ton-goyokap",
-          "snippet": "Στο επίκεντρο βρίσκεται η υπόθεση Τόμας Γουόκαπ στον Ολυμπιακό. Σύμφωνα με πληροφορίες του Gazzetta, οι Πειραιώτες έχουν ξεκάθαρη στάση αναφορικά με το οικονομικό σκέλος, που είναι στο χέρι τους.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Λέουβεν 1-1: Τα Highlights της ερυθρόλευκης ισοπαλίας",
-          "url": "https://www.gazzetta.gr/football/superleague/2553593/olympiakos-leoyben-1-1-ta-highlights-tis-erythroleykis-isopalias",
-          "snippet": "Ο Ολυμπιακός είδε τον Αντρέ Λουίζ να βάζει γκολάρα αλλά ο Μούρου έκανε το 1-1 για την ομάδα της Λέουβεν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Live TV: ΠΑΟΚ - Τβέντε",
-          "url": "https://www.gazzetta.gr/football/superleague/2553587/live-tv-paok-tbente",
-          "snippet": "Παρακολουθήστε σε ζωντανή μετάδοση την εξέλιξη της φιλικής αναμέτρησης του ΠΑΟΚ με τη Τβέντε από το Άρνεμ της Ολλανδίας.",
           "source": "Gazzetta"
         }
       ]
