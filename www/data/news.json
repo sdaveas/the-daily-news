@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-11T15:55:54.605394+00:00",
+  "updated": "2026-07-11T16:44:21.341551+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Νέα κατάσταση, νέα δεδομένα",
-        "url": "https://www.efsyn.gr/stiles/1425480/nea-katastasi-nea-dedomena/",
-        "snippet": "Οι εξελίξεις στον ΣΥΡΙΖΑ εδώ και τρία χρόνια, με κορύφωση αυτά που συμβαίνουν τις τελευταίες ώρες, φανερώνουν το τέλος μιας Aριστεράς δεξιότερα του ΚΚΕ που διαδραμάτισε ρόλο για μια ολόκληρη εποχή ξεκινώντας από το πολιτικό περιθώριο και φτάνοντας ώς την κυβερνητική εξουσία",
+        "title": "Συναγερμός για μεγάλη φωτιά στην Παραμυθιά Θεσπρωτίας – Μήνυμα 112 στους κατοίκους",
+        "url": "https://www.efsyn.gr/ellada/1425741/synagermos-gia-megali-fotia-stin-paramythia-thesprotias-minyma-112-stoys-katoikoys/",
+        "snippet": "Σηκώθηκαν και εναέρια μέσα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Δημοσκόπηση Alco για την «Εφ.Συν.»: Προς νέο διπολισμό ΝΔ και ΕΛΑΣ – Μεγαλύτερα τα προβλήματα σήμερα από το 2019",
+          "url": "https://www.efsyn.gr/politiki/1425404/dimoskopisi-alco-gia-tin-ef-syn-pros-neo-dipolismo-nd-kai-elas-megalytera-ta-provlimata-simera-apo-to-2019/",
+          "snippet": "Η ΕΛΑΣ εμφανίζει σταθερά ανοδική τάση, με την εκλογική της επιρροή να αυξάνεται σε κάθε δημοσκόπηση - Ακρίβεια και διαφθορά τα μεγαλύτερα «αγκάθια»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Έπαινοι Αθερίδη σε Χρυσοχοΐδη για τη Marfin: «Γελούσα με το ελληνικό FBI, σήμερα τα παίρνω όλα πίσω»",
+          "url": "https://www.efsyn.gr/politiki/1425734/epainoi-atheridi-se-hrysohoidi-gia-ti-marfin-geloysa-me-to-elliniko-fbi-simera-ta-pairno-ola-piso/",
+          "snippet": "Ο γνωστός ηθοποιός μίλησε με διθυραμβικά σχόλια για το «ελληνικό FBI» ενώπιον του υπουργού Προ.Πο.: «Αγαπητέ Μιχάλη σε γνωρίζω χρόνια και σου έχω τυφλή εμπιστοσύνη...».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ολοκληρωμένο σχέδιο στήριξης για τη μικρομεσαία επιχειρηματικότητα – Γράφει ο Κώστας Τσουκαλάς",
+          "url": "https://www.efsyn.gr/stiles/1425498/olokliromeno-shedio-stirixis-gia-ti-mikromesaia-epiheirimatikotita-grafei-o-kostas-tsoykalas/",
+          "snippet": "Προτείνουμε νέα ρύθμιση 120 δόσεων για οφειλές προς το Δημόσιο και τα ασφαλιστικά ταμεία, με γενναία διαγραφή τόκων, προσαυξήσεων και προστίμων για όσους τηρούν τη ρύθμιση",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νέα κατάσταση, νέα δεδομένα",
+          "url": "https://www.efsyn.gr/stiles/1425480/nea-katastasi-nea-dedomena/",
+          "snippet": "Οι εξελίξεις στον ΣΥΡΙΖΑ εδώ και τρία χρόνια, με κορύφωση αυτά που συμβαίνουν τις τελευταίες ώρες, φανερώνουν το τέλος μιας Aριστεράς δεξιότερα του ΚΚΕ που διαδραμάτισε ρόλο για μια ολόκληρη εποχή ξεκινώντας από το πολιτικό περιθώριο και φτάνοντας ώς την κυβερνητική εξουσία",
+          "source": "EfSyn"
+        },
         {
           "title": "Ο Ακρίτας Καϊδατζής στην «Εφ.Συν.»: Ναι στο Σύνταγμα των πολλών",
           "url": "https://www.efsyn.gr/politiki/1425468/o-akritas-kaidatzis-stin-ef-syn-nai-sto-syntagma-ton-pollon/",
@@ -70,30 +94,6 @@
           "url": "https://www.efsyn.gr/politiki/1425699/k-e-syriza-ps-akyrothike-i-proigoymeni-apofasi-keni-periehomenoy-i-politiki-stirixi-tis-elas-proaggelos-neas-grammis/",
           "snippet": "Ακυρώθηκε η προηγούμενη απόφαση - «Κενή περιεχομένου» η πολιτική στήριξη της ΕΛΑΣ - Προάγγελος νέας γραμμής;",
           "source": "EfSyn"
-        },
-        {
-          "title": "Οι συνήγοροι υπεράσπισης εκθέτουν τον Λιγνάδη: Οι «παραβλέψεις» και τα «στραβά μάτια»",
-          "url": "https://www.efsyn.gr/ellada/1425442/oi-synigoroi-yperaspisis-ekthetoyn-ton-lignadi-oi-paravlepseis-kai-ta-strava-matia/",
-          "snippet": "Παρουσιάζοντας στο δικαστήριο υλικό προς αντίκρουση του μάρτυρα, οι δικηγόροι παρέβλεψαν ότι το ίδιο υλικό δείχνει πως ο άλλοτε διευθυντής του Εθνικού προσπάθησε το 2020, στο απόγειο του #metoo, να έρθει σε επαφή με θύματά του ώστε να «προλάβει» τυχόν καταγγελίες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Εμπρηστική επίθεση στο σπίτι της Νέστορα: Τι αναφέρει η ΕΛ.ΑΣ. – Οι συλλήψεις και η συνέχεια στις έρευνες",
-          "url": "https://www.efsyn.gr/ellada/1425695/empristiki-epithesi-sto-spiti-tis-nestora-ti-anaferei-i-el-as-oi-syllipseis-kai-i-syneheia-stis-ereynes/",
-          "snippet": "Οι έρευνες συνεχίζονται για την ταυτοποίηση άλλων εμπλεκομένων, επισημαίνει η αστυνομία σε επίσημη ανακοίνωσή της - Σφίγγει ο κλοιός για άλλους τρεις.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μετά τη Σύνοδο του ΝΑΤΟ: Το μαύρο σύννεφο Τραμπ και οι χαμένες συμφωνίες",
-          "url": "https://www.efsyn.gr/stiles/1425438/meta-ti-synodo-toy-nato-to-mayro-synnefo-tramp-kai-oi-hamenes-symfonies/",
-          "snippet": "«Τρομερά επιτυχημένη» χαρακτήρισε τη σύνοδο κορυφής του ΝΑΤΟ ο Τραμπ, πριν γυρίσει στο Αμέρικα. Υπήρχε, λέει, ένα κλίμα «τρομερής αγάπης» και «ενότητας» στη συνάντηση των ηγετών της Συμμαχίας, τους οποίους βέβαια μόλις δύο μέρες νωρίτερα είχε δημόσια ξεσκίσει ως δειλούς και ριψάσ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Όλυμπος: Ορειβάτης έχασε τις αισθήσεις του σε μονοπάτι – Άμεση κινητοποίηση για τη διακομιδή του",
-          "url": "https://www.efsyn.gr/ellada/1425690/olympos-oreivatis-ehase-tis-aisthiseis-toy-se-monopati-amesi-kinitopoiisi-gia-ti-diakomidi-toy/",
-          "snippet": "Ένας 64χρονος φέρεται να κατέρρευσε κοντά στο καταφύγιο «Σπήλιος Αγαπητός».",
-          "source": "EfSyn"
         }
       ]
     },
@@ -134,11 +134,11 @@
         {
           "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
           "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-          "snippet": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said.",
+          "snippet": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.",
           "source": "NYT World"
         },
         {
-          "title": "Iran’s Top Diplomat Is in Oman for Talks on Strait as Ayatollah Vows Revenge",
+          "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
           "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
           "snippet": "The visit comes after heavy clashes this week between the U.S. and Iran. The country’s supreme leader pledged to avenge his father’s killing, trading threats with President Trump.",
           "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "15 Killed as Speedboat Capsizes in Vietnam",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-          "snippet": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
+          "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
+          "url": "https://www.nytimes.com/2026/07/11/world/houston-ice-video-shooting-salgado-araujo.html",
+          "snippet": "Surveillance footage obtained by The Times shows ICE agents driving aggressively in unmarked vehicles, but the moment of the fatal shooting of Lorenzo Salgado Araujo remains murky.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Η Κίνα κατασκεύασε τον μεγαλύτερο σιδηροδρομικό σταθμό στον κόσμο σε μόλις 38 μήνες",
-        "url": "https://www.gazzetta.gr/plus/2553604/i-kina-kataskeyase-ton-megalytero-sidirodromiko-stathmo-ston-kosmo-se-molis-38-mines",
-        "snippet": "Ο σταθμός Chongqing East στην Κίνα είναι ο μεγαλύτερος στον κόσμο σε έκταση, καλύπτει 1,22 εκατ. τ.μ. και κατασκευάστηκε μέσα σε μόλις 38 μήνες.",
+        "title": "Σπανούλης στο Gazzetta: «Ιστορικός σύλλογος ο Άρης, με σκληρή δουλειά να πετύχουμε τον στόχο μας»",
+        "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2553636/spanoylis-sto-gazzetta-istorikos-syllogos-o-aris-me-skliri",
+        "snippet": "O Bασίλης Σπανούλης βρέθηκε στο Paros Beach Hoops και μίλησε στο Gazzetta για τη νέα σελίδα στον Άρη, τον Αντετοκούνμπο, αλλά και τους Μέσι και Ρονάλντο.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ - Τβέντε 2-3: Τα highlights της φιλικής αναμέτρησης",
+          "url": "https://www.gazzetta.gr/football/superleague/2553634/paok-tbente-2-3-ta-highlights-tis-filikis-anametrisis",
+          "snippet": "Τα γκολ και οι καλύτερες φάσεις της αναμέτρησης του ΠΑΟΚ με την Τβέντε που έληξε 3-2 υπέρ των Ολλανδών.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κροατία-Ελλάδα 69-64: Ήττα στην πρεμιέρα του Eurobasket U20 για την Εθνική Νέων",
+          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2553633/kroatia-ellada-69-64-itta-stin-premiera-toy-eurobasket-u20-gia",
+          "snippet": "Η Εθνική Νέων ηττήθηκε στην πρεμιέρα του Eurobasket U20 από την Κροατία με 69-64.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τσέλσι: Απεβίωσε ο Κεν Μπέιτς",
+          "url": "https://www.gazzetta.gr/football/premier-league/2553631/tselsi-apebiose-o-ken-mpeits",
+          "snippet": "Ο πρώην πρόεδρος της Τσέλσι, Κεν Μπέιτς, που την οδήγησε στις πρώτες επιτυχίες της σύγχρονης εποχής, άφησε την τελευταία του πνοή σε ηλικία 94 ετών.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ζάκυνθος: Σπουδαία κίνηση με Νέιρα",
+          "url": "https://www.gazzetta.gr/football/superleague-2/2553630/zakynthos-spoydaia-kinisi-me-neira",
+          "snippet": "Η ΠΑΕ ΑΠΣ Ζάκυνθος 1961 γνωστοποίησε την έναρξη της συνεργασίας της με τον Αργεντινό εμπειρότατο χαφ, Χουάν Νέιρα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Τβέντε: Το γκολ του Γερεμέγεφ για το 2-2",
+          "url": "https://www.gazzetta.gr/football/superleague/2553629/paok-tbente-gkol-toy-geremegef-gia-2-2",
+          "snippet": "Στο 87' ο Γερεμέγεφ με το κεφάλι βρήκε δίχτυα ισοφαρίζοντας για τον ΠΑΟΚ κόντρα στην Τβέντε σε 2-2.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγραβάνης στο Gazzetta για μεταγραφή Όσμαν: «Μακάρι ο ΠΑΟΚ να σπάσει το δίπολο στην Ελλάδα»",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2553628/agrabanis-sto-gazzetta-gia-metagrafi-osman-makari-o-paok-na-spasei",
+          "snippet": "Ο Δημήτρης Αγραβάνης βρέθηκε στο Marathon Master 2026 και μίλησε στο Gazzetta για το τουρνουά, την μετακόμισε Όσμαν στον ΠΑΟΚ και πολλά ακόμα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Τβέντε 2-3: Ο Δικέφαλος έχασε τον Ελουστόντο και το πρώτο του φιλικό",
+          "url": "https://www.gazzetta.gr/football/superleague/2553625/paok-tbente-2-3-o-dikefalos-ehase-ton-eloystonto-kai-proto-toy-filiko",
+          "snippet": "Ο ΠΑΟΚ στο τέταρτο φιλικό του στην Ολλανδία έχασε τον Ελουστόντο με τραυματισμό στο γόνατο και γνώρισε την πρώτη φιλική ήττα από τη Τβέντε με 3-2 στην τελευταία φάση. Αποστολή στο Άρνεμ Σταύρος Σουντουλίδης.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βάιος και Μπάτης: Οι προβλέψεις από την κουκουβάγια και τη νυχτερίδα της Novibet για τους βραδινούς προημιτελικούς",
+          "url": "https://www.gazzetta.gr/football/2553408/baios-kai-mpatis-oi-problepseis-apo-tin-koykoybagia-kai-ti-nyhterida-tis-novibet",
+          "snippet": "Οι δύο τελευταίοι προημιτελικοί του Μουντιάλ, ξημερώματα Κυριακής: Νορβηγία – Αγγλία (00:00) και Αργεντινή – Ελβετία (04:00). Ώρα κουκουβάγιας, ώρα νυχτερίδας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "F1: Η Audi ζητά αλλαγές στην εξέλιξη των κινητήρων",
+          "url": "https://www.gazzetta.gr/gmotion/2553379/f1-i-audi-zita-allages-stin-exelixi-ton-kinitiron",
+          "snippet": "Έπειτα από τα πρώτα δείγματα των κανονισμών για την εξέλιξη των νέων μονάδων ισχύος, η Audi ζητά άμεση αναθεώρηση του μηχανισμού ADUO.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αποχαιρέτισε τον Παναιτωλικό ο Μλάντεν μετά από 4 χρόνια!",
+          "url": "https://www.gazzetta.gr/football/superleague/2553624/apohairetise-ton-panaitoliko-o-mlanten-meta-apo-4-hronia",
+          "snippet": "Τίτλοι τέλους και τυπικά έπεσαν στην παρουσία του Σεμπάστιαν Μλάντεν στον Παναιτωλικό, με τον Ρουμάνο να αποχαιρετά το Αγρίνιο μετά από 4 χρόνια!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η Κίνα κατασκεύασε τον μεγαλύτερο σιδηροδρομικό σταθμό στον κόσμο σε μόλις 38 μήνες",
+          "url": "https://www.gazzetta.gr/plus/2553604/i-kina-kataskeyase-ton-megalytero-sidirodromiko-stathmo-ston-kosmo-se-molis-38-mines",
+          "snippet": "Ο σταθμός Chongqing East στην Κίνα είναι ο μεγαλύτερος στον κόσμο σε έκταση, καλύπτει 1,22 εκατ. τ.μ. και κατασκευάστηκε μέσα σε μόλις 38 μήνες.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπόγρης στο Gazzetta για Γιάννη-Χιτ: «Πολύ καλή επιλογή, ήρθε ώρα να κινήσει τα νήματα του ΝΒΑ»",
           "url": "https://www.gazzetta.gr/basketball/2553623/mpogris-sto-gazzetta-gia-gianni-hit-poly-kali-epilogi-irthe-ora-na-kinisei-ta",
@@ -315,72 +381,6 @@
           "title": "Ανακαλύψαμε ότι διαβάζουμε λάθος την «Οδύσσεια» τα τελευταία 2.700 χρόνια",
           "url": "https://www.gazzetta.gr/plus/2553620/anakalypsame-oti-diabazoyme-lathos-tin-odysseia-ta-teleytaia-2700-hronia",
           "snippet": "Η «Οδύσσεια» δεν ανήκει μόνο στον Οδυσσέα. Οι γυναίκες της κινούν την πλοκή και αλλάζουν τον τρόπο που τη διαβάζουμε",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Τβέντε: Ο Όριενστερ κι ο Χέσελινγκ γύρισαν το ματς για τους Ολλανδούς",
-          "url": "https://www.gazzetta.gr/football/superleague/2553622/paok-tbente-o-orienster-1-1-ton-ollandon",
-          "snippet": "Η Τβέντε έφτασε στην ανατροπή κόντρα στον ΠΑΟΚ με Όριενστερ και Χέσελινκ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η στιγμή που οι αστυνομικοί ανοίγουν πυρ κατά του 20χρονου στο Άργος - Καρέ καρέ η αιματηρή καταδίωξη",
-          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "snippet": "Σοκάρει το νέο βίντεο ντοκουμέντο από τη στιγμή των πυροβολισμών στο Άργος με βαριά τραυματία έναν 20χρονο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κλοπ: Συμφώνησε προφορικά με την Εθνική Γερμανίας",
-          "url": "https://www.gazzetta.gr/football/mundial/2553621/klop-symfonise-proforika-me-tin-ethniki-germanias",
-          "snippet": "Ο Γιούργκεν Κλοπ ήρθε σε προφορική συμφωνία για την ανάληψη της τεχνικής ηγεσίας της Γερμανίας, σύμφωνα με τον Μπεν Τζέικομπς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Συνεχίζει με διπλές προπονήσεις, μοίρασαν αυτόγραφα Νίκολιτς και παίκτες στο Άπελντορν",
-          "url": "https://www.gazzetta.gr/football/superleague/2553618/aek-synehizei-me-diples-proponiseis-moirasan-aytografa-nikolits-kai",
-          "snippet": "Δείτε πλάνα από την πρωινή σαββατιάτικη προπόνηση της ΑΕΚ στην Ολλανδία, την οποία παρακολούθησαν και αρκετοί φίλοι της Ένωσης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: Ο Πολάκης επιστρέφει, η στήριξη στον Τσίπρα ακυρώνεται και ανοίγει η κούρσα διαδοχής",
-          "url": "https://www.gazzetta.gr/plus/2553617/syriza-o-polakis-epistrefei-i-stirixi-ston-tsipra-akyronetai-kai-anoigei-i-koyrsa",
-          "snippet": "Η Κεντρική Επιτροπή του ΣΥΡΙΖΑ αποφάσισε την επιστροφή του Παύλου Πολάκη στην Κ.Ο., ακύρωσε την προηγούμενη στήριξη και ξεκινά εκλογική προετοιμασία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατλέτικο Μαδρίτης: Χιούλμαντ και με τη... βούλα στους Ροχιμπλάνκος",
-          "url": "https://www.gazzetta.gr/football/la-liga/2553616/atletiko-madritis-hioylmant-kai-me-ti-boyla-stoys-rohimplankos",
-          "snippet": "O 27χρονος Δανός αμυντικός μέσος, Μόρτεν Χιούλμαντ, είναι και επίσημα κάτοικος Μαδρίτης, καθώς ανακοινώθηκε από την Ατλέτικο έως το 2031.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Τβέντε: Ο Ελουστόντο αποχώρησε τραυματίας",
-          "url": "https://www.gazzetta.gr/football/superleague/2553615/paok-tbente-o-eloystonto-apohorise-traymatias",
-          "snippet": "Ο Αρίτζ Ελουστόντο έγινε αλλαγή στο 45' στο φιλικό του ΠΑΟΚ με τη Τβέντε, λόγω τραυματισμού.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάς Σύρου: Ανακοίνωσε την προσθήκη του Σπύρου Κωστόπουλου",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2553614/ellas-syroy-anakoinose-tin-prosthiki-toy-spyroy-kostopoyloy",
-          "snippet": "Με τον έμπειρο σε επίπεδο Superleague 2, Σπύρο Κωστόπουλο, ενισχύθηκε η άμυνα της Ελλάς Σύρου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καλαμάτα: Τετραπλό μεταγραφικό «χτύπημα» από τη Μαύρη Θύελλα",
-          "url": "https://www.gazzetta.gr/football/superleague/2553613/kalamata-tetraplo-metagrafiko-htypima-apo-ti-mayri-thyella",
-          "snippet": "Η Καλαμάτα ανακοίνωσε τέσσερις νέες προσθήκες στο ρόστερ της κι επισημοποίησε μια σειρά από αποχωρήσεις πριν την αρχή της νέας σεζόν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Όμιλος Volkswagen: Μειώνει την παραγωγή και «κόβει» τα μισά μοντέλα",
-          "url": "https://www.gazzetta.gr/gmotion/2553552/omilos-volkswagen-meionei-tin-paragogi-kai-kobei-ta-misa-montela",
-          "snippet": "Ο γερμανικός κολοσσός περνάει τη μεγαλύτερη κρίση της ιστορίας του, με τον Όλιβερ Μπλούμε να παίρνει ακραία μέτρα λιτότητας κάτω από ασφυκτική οικονομική πίεση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Τβέντε: Απίθανο αυτογκόλ για το 1-0 του Δικεφάλου",
-          "url": "https://www.gazzetta.gr/football/superleague/2553612/paok-tbente-apithano-aytogkol-gia-1-0-toy-dikefaloy",
-          "snippet": "Ο ΠΑΟΚ στο 10' άνοιξε το σκορ με απίθανο αυτογκόλ της Τβέντε.",
           "source": "Gazzetta"
         }
       ]
