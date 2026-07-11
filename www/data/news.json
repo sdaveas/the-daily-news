@@ -1,16 +1,34 @@
 {
-  "updated": "2026-07-11T01:52:14.742494+00:00",
+  "updated": "2026-07-11T06:07:07.439442+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ισπανία – Βέλγιο 2-1: Ο Μερίνο έστειλε τη «Ρόχα» στα ημιτελικά του Μουντιάλ 2026",
-        "url": "https://www.tovima.gr/2026/07/11/sports/ispania-velgio-2-1-o-merino-esteile-ti-roxa-sta-imitelika-tou-mountial-2026/",
-        "snippet": "Με «χρυσή» αλλαγή τον Μίκελ Μερίνο, η Ισπανία επικράτησε 2-1 του Βελγίου στο Λος Άντζελες και προκρίθηκε στα ημιτελικά του Μουντιάλ για πρώτη φορά μετά το 2010",
+        "title": "ΗΠΑ: Διεθνής Σύνοδος κατά της «ακροαριστερής τρομοκρατίας» – Καλεσμένη και η Ελλάδα",
+        "url": "https://www.tovima.gr/2026/07/11/world/ipa-diethnis-synodos-kata-tis-akroaristeris-tromokratias-kalesmeni-kai-i-ellada/",
+        "snippet": "Ο Αμερικανός ΥΠΕΞ Μάρκο Ρούμπιο καλεί υπουργούς από περισσότερες από 60 χώρες στην Ουάσιγκτον την επόμενη εβδομάδα σε μια προσπάθεια να τους επιστρατεύσει στη μάχη ενάντια της «ακροαριστερής τρομοκρατίας» και του κινήματος Antifa",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Η Δικαιοσύνη απέναντι στο τραύμα",
+          "url": "https://www.tovima.gr/2026/07/11/editorial/i-dikaiosyni-apenanti-sto-trayma/",
+          "snippet": "Οι δύο συλλήψεις και η έκδοση εντάλματος σε βάρος ενός ακόμη προσώπου αποτελούν, συνεπώς, εξέλιξη με ιδιαίτερη θεσμική σημασία και ανοίγουν τον δρόμο της δικαστικής κρίσης",
+          "source": "To Vima"
+        },
+        {
+          "title": "Σε δυο βάρκες η κυβέρνηση",
+          "url": "https://www.tovima.gr/2026/07/11/stiles/vimatodotis/se-dyo-varkes-i-kyvernisi/",
+          "snippet": "H στάση της Ελλάδας έχει αρχίσει να ενοχλεί τους Ευρωπαίους, καθώς Μέγαρο Μαξίμου και υπουργείο Εξωτερικών θέλουν να δηλώνουν πρωταγωνιστές του εγχειρήματος της στρατηγικής αυτονομίας της Ε.Ε., θέλουν όμως μέσα στην εξίσωση και τις Ηνωμένες Πολιτείες",
+          "source": "To Vima"
+        },
+        {
+          "title": "Ισπανία – Βέλγιο 2-1: Ο Μερίνο έστειλε τη «Ρόχα» στα ημιτελικά του Μουντιάλ 2026",
+          "url": "https://www.tovima.gr/2026/07/11/sports/ispania-velgio-2-1-o-merino-esteile-ti-roxa-sta-imitelika-tou-mountial-2026/",
+          "snippet": "Με «χρυσή» αλλαγή τον Μίκελ Μερίνο, η Ισπανία επικράτησε 2-1 του Βελγίου στο Λος Άντζελες και προκρίθηκε στα ημιτελικά του Μουντιάλ για πρώτη φορά μετά το 2010",
+          "source": "To Vima"
+        },
         {
           "title": "Λάρισα: Μεγάλη φωτιά σε εργοστάσιο ανακύκλωσης στο Κιλελέρ – Ήχησε το 112",
           "url": "https://www.tovima.gr/2026/07/10/society/larisa-megali-fotia-se-ergostasio-anakyklosis-sto-kileler-ixise-to-112/",
@@ -76,24 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/10/society/poines-fylakisis-stous-dyo-astynomikous-gia-ton-viasmo-19xronis-sto-at-omonoias/",
           "snippet": "Ποινές φυλάκισης 4 ετών και 5 μηνών και 4 ετών επέβαλε το Μικτό Ορκωτό Δικαστήριο Αθηνών στους δύο αστυνομικούς που κρίθηκαν, κατά πλειοψηφία, ένοχοι για τον βιασμό 19χρονης μέσα στο Αστυνομικό Τμήμα Ομονοίας το 2022",
           "source": "To Vima"
-        },
-        {
-          "title": "Marfin: Δίωξη για ανθρωποκτονία από πρόθεση κατά συρροή στους δύο 42χρονους – Διεθνές ένταλμα",
-          "url": "https://www.tovima.gr/2026/07/10/society/marfin-dioksi-gia-anthropoktonia-apo-prothesi-kata-syrroi-stous-dyo-42xronous-diethnes-entalma/",
-          "snippet": "Οι δύο κατηγορούμενοι οδηγήθηκαν υπό δρακόντεια μέτρα ασφαλείας στην 3η τακτική ανακρίτρια, από την οποία έλαβαν προθεσμία για να απολογηθούν την ερχόμενη Τρίτη",
-          "source": "To Vima"
-        },
-        {
-          "title": "Denza Z: Φονέας γιγάντων",
-          "url": "https://www.tovima.gr/2026/07/10/autohub/denza-z-foneas-giganton/",
-          "snippet": "Με προφανή σκοπό να φέρει σε δύσκολη θέση τους καθιερωμένους των επιδόσεων στην Ευρώπη, η θυγατρική της BYD παρουσιάζει το δικό της υπερόπλο με τη μορφή ενός ηλεκτρικού GT",
-          "source": "To Vima"
-        },
-        {
-          "title": "Μουντιάλ 2026: Εμπαπέ και Μέσι σε τροχιά σύγκρουσης – Η Γαλλία στα ημιτελικά με νέο ιστορικό ρεκόρ",
-          "url": "https://www.tovima.gr/2026/07/10/sports/mountial-2026-empape-kai-mesi-se-troxia-sygkrousis-i-gallia-sta-imitelika-me-neo-istoriko-rekor/",
-          "snippet": "Το γκολ απέναντι στο Μαρόκο είχε ιστορική σημασία για τον αρχηγό της εθνικής Γαλλίας, καθώς έφτασε τα 20 τέρματα σε τελικές φάσεις Παγκοσμίου Κυπέλλου",
-          "source": "To Vima"
         }
       ]
     },
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-          "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-          "snippet": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+          "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+          "snippet": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
           "source": "BBC World"
         },
         {
@@ -132,24 +132,6 @@
           "source": "BBC World"
         },
         {
-          "title": "Zulu king expresses regret after video captures tirade against his wife",
-          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-          "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-          "source": "BBC World"
-        },
-        {
           "title": "Meta pulls new AI image feature after days of backlash",
           "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
           "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
@@ -168,27 +150,45 @@
           "source": "BBC World"
         },
         {
+          "title": "Small plane crash in Bahamas kills 10 people",
+          "url": "https://www.bbc.co.uk/news/articles/ckg47lz10p7o?at_medium=RSS&at_campaign=rss",
+          "snippet": "The country's prime minister called the crash, on the country's independence day, a tragedy.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
+          "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Zulu king expresses regret after video captures tirade against his wife",
+          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+          "source": "BBC World"
+        },
+        {
           "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
           "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
           "snippet": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
           "source": "BBC World"
         },
         {
-          "title": "China lands reusable rocket for first time, state media says",
-          "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-          "snippet": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
+          "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+          "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
           "source": "BBC World"
         },
         {
           "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
           "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
           "snippet": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
-          "source": "BBC World"
-        },
-        {
-          "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-          "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
           "source": "BBC World"
         }
       ]
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "«Βόμβα» μεγατόνων από τον μπασκετικό ΠΑΟΚ: Παίρνει τον Τζέντι Όσμαν με ηγεμονικό συμβόλαιο",
-        "url": "https://www.skai.gr/news/sports/vomva-megatonon-apo-ton-mpasketiko-paok-pairnei-ton-tzenti-osman-me-igemoniko-symvolaio",
-        "snippet": "Ο Τούρκος φόργουορντ αποχωρεί από τον Παναθηναϊκό καθώς έφερε μυθική πρόταση - «Με στεναχωρεί η απόφασή σου», η ανάρτηση του Δημήτρη Γιαννακόπουλου",
+        "title": "Παναθηναϊκός – Γκρασχόπερ: Η Λεωφόρος γεμίζει για τον Νίστρουπ και την ομάδα του",
+        "url": "https://www.skai.gr/news/sports/panathinaikos-gkrasxoper-i-leoforos-gemizei-gia-ton-nistroup-kai-tin-omada",
+        "snippet": "Ο Παναθηναϊκός πατά ξανά το χορτάρι της Λεωφόρου και οι εξέδρες γεμίζουν για ένα φιλικό στο πρώτο 10ήμερο Ιουλίου για παιχνίδι καλοκαιρινής προετοιμασίας",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "«Βόμβα» μεγατόνων από τον μπασκετικό ΠΑΟΚ: Παίρνει τον Τζέντι Όσμαν με ηγεμονικό συμβόλαιο",
+          "url": "https://www.skai.gr/news/sports/vomva-megatonon-apo-ton-mpasketiko-paok-pairnei-ton-tzenti-osman-me-igemoniko-symvolaio",
+          "snippet": "Ο Τούρκος φόργουορντ αποχωρεί από τον Παναθηναϊκό καθώς έφερε μυθική πρόταση - «Με στεναχωρεί η απόφασή σου», η ανάρτηση του Δημήτρη Γιαννακόπουλου",
+          "source": "Skai Sports"
+        },
         {
           "title": "Παναθηναϊκός: Τελική πρόταση για Φαν Ντρόγκελεν, άμεσες εξελίξεις",
           "url": "https://www.skai.gr/news/sports/panathinaikos-teliki-protasi-gia-fan-ntrogkelen-ameses-ekselikseis",
@@ -376,12 +382,6 @@
           "url": "https://www.skai.gr/news/sports/aposyrthike-apo-tin-ethniki-senegalis-o-mane-thysiasa-ta-panta-gia-ayti-ti-simaia",
           "snippet": "Την απόφαση να αποσυρθεί από την εθνική ομάδα της Σενεγάλης πήρε ο αρχηγός και πιο εμβληματικός παίκτης της. «Θυσίασα τα πάντα για αυτή τη σημαία» δήλωσε",
           "source": "Skai Sports"
-        },
-        {
-          "title": "Γαλλία: Ο Σαμίρ Νασρί ανακρίθηκε για υπόθεση που συνδέεται με δίκτυο ναρκωτικών",
-          "url": "https://www.skai.gr/news/sports/gallia-o-samir-nasri-anakrithike-gia-ypothesi-pou-syndeetai-me-diktyo-narkotikon",
-          "snippet": "Ο πρώην διεθνής Γάλλος ποδοσφαιριστής πέρασε περίπου δέκα ώρες στα χέρια των αρχών στο πλαίσιο έρευνας για εισαγωγή ναρκωτικών, εγκληματική οργάνωση και ξέπλυμα χρημάτων. Αφέθηκε ελεύθερος χωρίς κατηγορίες",
-          "source": "Skai Sports"
         }
       ]
     },
@@ -389,12 +389,18 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-        "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-        "snippet": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
+        "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
+        "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
+        "snippet": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+          "snippet": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
+          "source": "CoinDesk"
+        },
         {
           "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
           "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
@@ -472,12 +478,6 @@
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-s-quiet-split-strong-in-usd-lagging-in-jpy-as-yen-rises-on-intervention-fears",
           "snippet": "A sharp rise in the yen has left bitcoin and other major cryptocurrencies underperforming in yen terms compared with their dollar-based trading pairs.",
           "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin zips higher to nearly $64,000 as chip rally and yen strength drive gains",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
-          "snippet": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,12 +485,30 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "10 new movies to watch on Netflix and streaming this weekend (July 10-13)",
-        "url": "https://www.polygon.com/new-movies-to-watch-backrooms-july-10-2026/",
-        "snippet": "Here's everything new on streaming this weekend, including Backrooms, Faces of Death, The Furious, Amores Perros, and more.",
+        "title": "Pokémon Go 'A Thunderous Discovery' Zeraora Special Research quest steps",
+        "url": "https://www.polygon.com/pokemon-go-zeraora-special-research-thunderous-discovery-quest-steps/",
+        "snippet": "Our guide lists all of the quest steps for Pokémon Go's \"A Thunderous Discovery\" Special Research that rewards Zeraora.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Pokémon Go Fest Global 2026 event guide and rotating habitat schedule",
+          "url": "https://www.polygon.com/pokemon-go-fest-global-2026-habitat-raid-schedule-spawns/",
+          "snippet": "Here's everything you need to know about Pokémon Go Fest: Global 2026's rotating habitats, raid schedule, and bonuses.",
+          "source": "Polygon"
+        },
+        {
+          "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y?",
+          "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
+          "snippet": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We explain in our guide.",
+          "source": "Polygon"
+        },
+        {
+          "title": "10 new movies to watch on Netflix and streaming this weekend (July 10-13)",
+          "url": "https://www.polygon.com/new-movies-to-watch-backrooms-july-10-2026/",
+          "snippet": "Here's everything new on streaming this weekend, including Backrooms, Faces of Death, The Furious, Amores Perros, and more.",
+          "source": "Polygon"
+        },
         {
           "title": "GTA Online's Kortz Center Heist gets release date, first details",
           "url": "https://www.polygon.com/gta-online-kortz-center-heist-new-dlc-update-release-rockstar-games/",
@@ -525,24 +543,6 @@
           "title": "All Palworld Pals, types, and skills in the Paldeck",
           "url": "https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck/",
           "snippet": "There are more than 100 different Pals in Palworld. We list all Pals, alongside their types and base skills, to help you fill out your Paldeck.",
-          "source": "Polygon"
-        },
-        {
-          "title": "After 2 years, Marvel Rivals finally made one of its worst characters one of its best",
-          "url": "https://www.polygon.com/marvel-rivals-black-widow-rework/",
-          "snippet": "Marvel Rivals' season 9 Black Widow rework makes the former sniper a flanker and burst damage dealer, in keeping with her role in Marvel comics",
-          "source": "Polygon"
-        },
-        {
-          "title": "Palworld radically redesigned to look less like Pokémon for official release",
-          "url": "https://www.polygon.com/palworld-10-patch-notes-pal-pokemon-design-changes-lawsuit/",
-          "snippet": "Designs for monsters that looked like final evolution starters Cinderace and Decidueye now have a more distinct visual style in Palworld",
-          "source": "Polygon"
-        },
-        {
-          "title": "FF14 July Fan Fest schedule revealed ahead of Evercold expansion",
-          "url": "https://www.polygon.com/final-fantasy-14-berlin-fan-fest-2026-what-to-expect-how-to-watch/",
-          "snippet": "Square Enix will share more information on what to expect in the 8.0 version of the MMORPG",
           "source": "Polygon"
         },
         {
