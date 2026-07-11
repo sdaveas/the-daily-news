@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T15:48:52.426069+00:00",
+  "updated": "2026-07-11T15:55:54.605394+00:00",
   "sections": [
     {
       "id": "greek",
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Mίτσελ: Ο master της άμυνας που έρχεται Ελλάδα για να προπονηθεί με τον Γιάννη και το παρατσούκλι «Off night»",
-        "url": "https://www.gazzetta.gr/basketball/nba/2553619/mitsel-o-master-tis-amynas-poy-erhetai-ellada-gia-na-proponithei-me-ton",
-        "snippet": "Το Gazzetta στέκεται στον... καθηγητή της άμυνας και πλεόν συμπαίκτη του Γιάννη Αντετοκούνμπο στους Χιτ, Ντέιβιον Μίτσελ που θα έρθει στην Ελλάδα τις επόμενες μέρες για να κάνει προπονήσεις δίπλα στον Έλληνα σταρ.",
+        "title": "Η Κίνα κατασκεύασε τον μεγαλύτερο σιδηροδρομικό σταθμό στον κόσμο σε μόλις 38 μήνες",
+        "url": "https://www.gazzetta.gr/plus/2553604/i-kina-kataskeyase-ton-megalytero-sidirodromiko-stathmo-ston-kosmo-se-molis-38-mines",
+        "snippet": "Ο σταθμός Chongqing East στην Κίνα είναι ο μεγαλύτερος στον κόσμο σε έκταση, καλύπτει 1,22 εκατ. τ.μ. και κατασκευάστηκε μέσα σε μόλις 38 μήνες.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μπόγρης στο Gazzetta για Γιάννη-Χιτ: «Πολύ καλή επιλογή, ήρθε ώρα να κινήσει τα νήματα του ΝΒΑ»",
+          "url": "https://www.gazzetta.gr/basketball/2553623/mpogris-sto-gazzetta-gia-gianni-hit-poly-kali-epilogi-irthe-ora-na-kinisei-ta",
+          "snippet": "Ξεκίνησε το Paros Beach Hoops και ο Γιώργος Μπόγρης μίλησε στο Gazzetta και για την μετακόμιση του Γιάννη Αντετοκούνμπο στους Χιτ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Mίτσελ: Ο master της άμυνας που έρχεται Ελλάδα για να προπονηθεί με τον Γιάννη και το παρατσούκλι «Off night»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553619/mitsel-o-master-tis-amynas-poy-erhetai-ellada-gia-na-proponithei-me-ton",
+          "snippet": "Το Gazzetta στέκεται στον... καθηγητή της άμυνας και πλεόν συμπαίκτη του Γιάννη Αντετοκούνμπο στους Χιτ, Ντέιβιον Μίτσελ που θα έρθει στην Ελλάδα τις επόμενες μέρες για να κάνει προπονήσεις δίπλα στον Έλληνα σταρ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ανακαλύψαμε ότι διαβάζουμε λάθος την «Οδύσσεια» τα τελευταία 2.700 χρόνια",
           "url": "https://www.gazzetta.gr/plus/2553620/anakalypsame-oti-diabazoyme-lathos-tin-odysseia-ta-teleytaia-2700-hronia",
@@ -369,18 +381,6 @@
           "title": "ΠΑΟΚ - Τβέντε: Απίθανο αυτογκόλ για το 1-0 του Δικεφάλου",
           "url": "https://www.gazzetta.gr/football/superleague/2553612/paok-tbente-apithano-aytogkol-gia-1-0-toy-dikefaloy",
           "snippet": "Ο ΠΑΟΚ στο 10' άνοιξε το σκορ με απίθανο αυτογκόλ της Τβέντε.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τσιτσιπάς: Η κλήρωσή του στο 250άρι στο Γκστάαντ της Ελβετίας",
-          "url": "https://www.gazzetta.gr/tennis/atp/2553611/tsitsipas-i-klirosi-toy-sto-250ari-sto-gkstaant-tis-elbetias",
-          "snippet": "Ο Στέφανος Τσιτσιπάς συνεχίζει τους αγώνες του στο γρασίδι και στο 250άρι τουρνουά στο Γκστάαντ της Ελεβετίας, με πρώτο αντίπαλο τον Ιγκνάσιο Μπούσε.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αντετοκούνμπο - Χιτ: Ο Μίτσελ θα έρθει Ελλάδα για να προπονηθεί μαζί με τον Γιάννη το καλοκαίρι",
-          "url": "https://www.gazzetta.gr/basketball/nba/2553610/antetokoynmpo-hit-o-mitsel-tha-erthei-ellada-gia-na-proponithei-mazi-me-ton",
-          "snippet": "Ο Ντέιβιον Μίτσελ θα επισκεφθεί τη χώρα μας για να γνωρίσει καλύτερα τον συμπαίκτη του πλέον, Γιάννη Αντετοκούνμπο και να προπονηθούν παρέα.",
           "source": "Gazzetta"
         }
       ]
