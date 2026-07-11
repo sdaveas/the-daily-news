@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T14:31:10.260252+00:00",
+  "updated": "2026-07-11T14:46:01.420641+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Δισκοκριτική: Madonna, Sienna Spiro, The Birthday Party OST, French Fry",
-        "url": "https://www.efsyn.gr/tehnes/1424222/diskokritiki-madonna-sienna-spiro-the-birthday-party-ost-french-fry/",
-        "snippet": "Η Madonna μετά από τόσα χρόνια καριέρας σε αυτή την ηλικία και μετά από πολλές μέτριες δουλειές βγάζει ένα άλμπουμ που θυμίζει τις παλιές, καλές εποχές της. Το ντεμπούτο άλμπουμ της Sienna Spiro αφήνει πολλές υποσχέσεις για το μέλλον της 21χρονης ανερχόμενης Αγγλίδας τραγουδοποιο",
+        "title": "Βάγια Νέστορα: Δίωξη για ανθρωποκτονία στους τρεις συλληφθέντες για την εμπρηστική επίθεση",
+        "url": "https://www.efsyn.gr/ellada/1425717/vagia-nestora-dioxi-gia-anthropoktonia-stoys-treis-syllifthentes-gia-tin-empristiki-epithesi/",
+        "snippet": "Βαριές ποινικές διώξεις ασκήθηκαν σε βάρος των τριών συλληφθέντων που κατηγορούνται για τη δολοφονική εμπρηστική επίθεση με θύμα την Βάγια Νέστορα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Δισκοκριτική: Madonna, Sienna Spiro, The Birthday Party OST, French Fry",
+          "url": "https://www.efsyn.gr/tehnes/1424222/diskokritiki-madonna-sienna-spiro-the-birthday-party-ost-french-fry/",
+          "snippet": "Η Madonna μετά από τόσα χρόνια καριέρας σε αυτή την ηλικία και μετά από πολλές μέτριες δουλειές βγάζει ένα άλμπουμ που θυμίζει τις παλιές, καλές εποχές της. Το ντεμπούτο άλμπουμ της Sienna Spiro αφήνει πολλές υποσχέσεις για το μέλλον της 21χρονης ανερχόμενης Αγγλίδας τραγουδοποιο",
+          "source": "EfSyn"
+        },
         {
           "title": "Marfin: «Οι σκευωροί αναζητούν τα νέα τους θύματα» – Επιστολή πρώην κατηγορούμενου στην efsyn.gr",
           "url": "https://www.efsyn.gr/ellada/1425701/ypothesi-marfin-epistoli-proin-diokomenoy-stin-ef-syn-oi-skeyoroi-anazitoyn-ta-nea-toys-thymata/",
@@ -87,12 +93,6 @@
           "title": "Ράμμος για Marfin: Λιντσάρισμα και κανιβαλισμός ανθρώπων που μπορεί να αποδειχθεί ότι είναι αθώοι",
           "url": "https://www.efsyn.gr/politiki/1425634/rammos-gia-marfin-lintsarisma-kai-kanivalismos-anthropon-poy-mporei-na-apodeihthei-oti-einai-athooi/",
           "snippet": "«Eίναι ωμότατη και εξόφθαλμη παραβίαση του τεκμηρίου αθωότητας».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: Επεισόδιο στην Κουμουνδούρου με φωνές και σπρωξίματα – Για άσκηση βίας μιλά ο Χρήστος Γιαννούλης",
-          "url": "https://www.efsyn.gr/politiki/1425638/syriza-epeisodio-stin-koymoyndoyroy-me-fones-kai-sproximata-gia-askisi-vias-mila-o-hristos-giannoylis/",
-          "snippet": "Παράλληλα απευθύνει έκκληση για αξιοπρέπεια.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-          "snippet": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
+          "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
+          "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
+          "snippet": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Μουντιάλ 2026: Η αστυνομία ερευνά την αιτία θανάτου του Άνταμς",
-        "url": "https://www.gazzetta.gr/football/mundial/2553600/moyntial-2026-i-astynomia-ereyna-tin-aitia-thanatoy-toy-antams",
-        "snippet": "Η αστυνομία ερευνά εξονυχιστικά την αιτία θανάτου του Τζέιντεν Άνταμς, ο οποίος βύθισε στη θλίψη τον παγκόσμιο αθλητισμό.",
+        "title": "Όμιλος Volkswagen: Μειώνει την παραγωγή και «κόβει» τα μισά μοντέλα",
+        "url": "https://www.gazzetta.gr/gmotion/2553552/omilos-volkswagen-meionei-tin-paragogi-kai-kobei-ta-misa-montela",
+        "snippet": "Ο γερμανικός κολοσσός περνάει τη μεγαλύτερη κρίση της ιστορίας του, με τον Όλιβερ Μπλούμε να παίρνει ακραία μέτρα λιτότητας κάτω από ασφυκτική οικονομική πίεση.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ - Τβέντε: Απίθανο αυτογκόλ για το 1-0 του Δικεφάλου",
+          "url": "https://www.gazzetta.gr/football/superleague/2553612/paok-tbente-apithano-aytogkol-gia-1-0-toy-dikefaloy",
+          "snippet": "Ο ΠΑΟΚ στο 10' άνοιξε το σκορ με απίθανο αυτογκόλ της Τβέντε.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τσιτσιπάς: Η κλήρωσή του στο 250άρι στο Γκστάαντ της Ελβετίας",
+          "url": "https://www.gazzetta.gr/tennis/atp/2553611/tsitsipas-i-klirosi-toy-sto-250ari-sto-gkstaant-tis-elbetias",
+          "snippet": "Ο Στέφανος Τσιτσιπάς συνεχίζει τους αγώνες του στο γρασίδι και στο 250άρι τουρνουά στο Γκστάαντ της Ελεβετίας, με πρώτο αντίπαλο τον Ιγκνάσιο Μπούσε.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αντετοκούνμπο - Χιτ: Ο Μίτσελ θα έρθει Ελλάδα για να προπονηθεί μαζί με τον Γιάννη το καλοκαίρι",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553610/antetokoynmpo-hit-o-mitsel-tha-erthei-ellada-gia-na-proponithei-mazi-me-ton",
+          "snippet": "Ο Ντέιβιον Μίτσελ θα επισκεφθεί τη χώρα μας για να γνωρίσει καλύτερα τον συμπαίκτη του πλέον, Γιάννη Αντετοκούνμπο και να προπονηθούν παρέα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μουντιάλ 2026: Η αστυνομία ερευνά την αιτία θανάτου του Άνταμς",
+          "url": "https://www.gazzetta.gr/football/mundial/2553600/moyntial-2026-i-astynomia-ereyna-tin-aitia-thanatoy-toy-antams",
+          "snippet": "Η αστυνομία ερευνά εξονυχιστικά την αιτία θανάτου του Τζέιντεν Άνταμς, ο οποίος βύθισε στη θλίψη τον παγκόσμιο αθλητισμό.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Κηφισιά: Ο Ρουκουνάκης επέκτεινε το συμβόλαιό του έως το 2029",
           "url": "https://www.gazzetta.gr/football/superleague/2553598/kifisia-o-roykoynakis-epekteine-symbolaio-toy-eos-2029",
@@ -357,30 +381,6 @@
           "title": "ΠΑΟΚ - Τβέντε: Ενός λεπτού σιγή για την αδικοχαμένη Άννα - Μαρία",
           "url": "https://www.gazzetta.gr/football/superleague/2553591/paok-tbente-enos-leptoy-sigi-gia-tin-adikohameni-anna-maria",
           "snippet": "Στο φιλικό του ΠΑΟΚ με τη Τβέντε θα κρατηθεί ενός λεπτού σιγή για την αδικοχαμένη Άννα - Μαρία Πανταζώνη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μουντιάλ 2026: Πέθανε ο 25χρονος Τζέιντεν Άνταμς της Νότιας Αφρικής",
-          "url": "https://www.gazzetta.gr/football/mundial/2553590/moyntial-2026-pethane-o-25hronos-tzeinten-antams-tis-notias-afrikis",
-          "snippet": "Τραγικά νέα για τη Νότια Αφρική και το παγκόσμιο ποδόσφαιρο, καθώς πέθανε ο 25χρονος Τζέιντεν Άνταμς που αγωνίστηκε στο Μουντιάλ 2026.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "MotoGP, Γερμανία: Νίκη-ρεκόρ για Μ. Μάρκεθ στον Αγώνα Σπριντ",
-          "url": "https://www.gazzetta.gr/gmotion/2553589/motogp-germania-niki-rekor-gia-m-marketh-ston-agona-sprint",
-          "snippet": "Ο Μαρκ Μάρκεθ της Ducati Corse ήταν ο μεγάλος νικητής στον αγώνα σπριντ του MotoGP στο Σάχσενρινγκ και μείωσε τη διαφορά από την κορυφή της βαθμολογίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ντάουτιν: Ο παίκτης που είναι σε επαφές με την ΑΕΚ είχε κάνει career high κόντρα στον Ολυμπιακό",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553588/ntaoytin-o-paiktis-poy-einai-se-epafes-me-tin-aek-eihe-kanei-career",
-          "snippet": "H AEK είναι σε επαφές με τον Τζεφ Ντάουτιν και παλεύει για μια σπουδαία κίνηση ενός παίκτη που είχε εντυπωσιάσει στο ματς της Μακάμπι με τον Ολυμπιακό στη Εuroleague.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ - Τβέντε: Με Παβλένκα και την «πρόβα» της βασικής ενδεκάδας",
-          "url": "https://www.gazzetta.gr/football/superleague/2553586/paok-tbente-me-pablenka-kai-tin-proba-tis-basikis-endekadas",
-          "snippet": "Ο Αλέσιο Λίσι ξεκινάει με την καλύτερη δυνατή σύνθεση, σε μία πρόβα με ξεκάθαρο βλέμμα στην ευρωπαϊκή πρεμιέρα της 23ης Ιουλίου. ΑΠΟΣΤΟΛΗ - ΑΡΝΕΜ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ.",
           "source": "Gazzetta"
         }
       ]
