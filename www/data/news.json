@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-11T15:31:07.323096+00:00",
+  "updated": "2026-07-11T15:48:52.426069+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Άργος: Η στιγμή που αστυνομικοί πυροβολούν τον 20χρονο – Βίντεο ντοκουμέντο",
-        "url": "https://www.efsyn.gr/ellada/1425728/argos-i-stigmi-poy-astynomikoi-pyrovoloyn-ton-20hrono-vinteo-ntokoymento/",
-        "snippet": "Όπως καταγράφεται σε νέο βίντεο, ακούγονται συνολικά 20 πυροβολισμοί, ενώ στο σημείο βρέθηκαν 13 κάλυκες.",
+        "title": "Νέα κατάσταση, νέα δεδομένα",
+        "url": "https://www.efsyn.gr/stiles/1425480/nea-katastasi-nea-dedomena/",
+        "snippet": "Οι εξελίξεις στον ΣΥΡΙΖΑ εδώ και τρία χρόνια, με κορύφωση αυτά που συμβαίνουν τις τελευταίες ώρες, φανερώνουν το τέλος μιας Aριστεράς δεξιότερα του ΚΚΕ που διαδραμάτισε ρόλο για μια ολόκληρη εποχή ξεκινώντας από το πολιτικό περιθώριο και φτάνοντας ώς την κυβερνητική εξουσία",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ο Ακρίτας Καϊδατζής στην «Εφ.Συν.»: Ναι στο Σύνταγμα των πολλών",
+          "url": "https://www.efsyn.gr/politiki/1425468/o-akritas-kaidatzis-stin-ef-syn-nai-sto-syntagma-ton-pollon/",
+          "snippet": "Δεν μπορούμε να συζητάμε σοβαρά για το πώς θα γίνει το Σύνταγμα καλύτερο με μια πλειοψηφία η οποία το παραβιάζει διαρκώς και συστηματικά",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Άργος: Η στιγμή που αστυνομικοί πυροβολούν τον 20χρονο – Βίντεο ντοκουμέντο",
+          "url": "https://www.efsyn.gr/ellada/1425728/argos-i-stigmi-poy-astynomikoi-pyrovoloyn-ton-20hrono-vinteo-ntokoymento/",
+          "snippet": "Όπως καταγράφεται σε νέο βίντεο, ακούγονται συνολικά 20 πυροβολισμοί, ενώ στο σημείο βρέθηκαν 13 κάλυκες.",
+          "source": "EfSyn"
+        },
         {
           "title": "Μουντιάλ 2026: Αγγλία – Νορβηγία, η μάχη των σέντερ φορ",
           "url": "https://www.efsyn.gr/athlitismos/1425460/moyntial-2026-agglia-norvigia-i-mahi-ton-senter-for/",
@@ -81,18 +93,6 @@
           "title": "Όλυμπος: Ορειβάτης έχασε τις αισθήσεις του σε μονοπάτι – Άμεση κινητοποίηση για τη διακομιδή του",
           "url": "https://www.efsyn.gr/ellada/1425690/olympos-oreivatis-ehase-tis-aisthiseis-toy-se-monopati-amesi-kinitopoiisi-gia-ti-diakomidi-toy/",
           "snippet": "Ένας 64χρονος φέρεται να κατέρρευσε κοντά στο καταφύγιο «Σπήλιος Αγαπητός».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Φωτιά στο Περιβολάκι Θεσσαλονίκης: Ήχησε το 112 – «Να είστε σε ετοιμότητα»",
-          "url": "https://www.efsyn.gr/ellada/1425679/fotia-sto-perivolaki-thessalonikis-ihise-to-112-na-eiste-se-etoimotita/",
-          "snippet": "Άμεσα κινητοποιήθηκαν επίγειες και εναέριες δυνάμεις.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Άρης Μουγκοπέτρος: Συγκινητική επιστροφή στη σκηνή – Sold out η συναυλία μετά την περιπέτεια υγείας [εικόνες]",
-          "url": "https://www.efsyn.gr/life/1425670/aris-moygkopetros-sygkinitiki-epistrofi-sti-skini-sold-out-i-synaylia-meta-tin-peripeteia-ygeias-eikones/",
-          "snippet": "Η χθεσινή συναυλία του δεξιοτέχνη του κλαρίνου ήταν sold out, με περίπου 3.500 ανθρώπους να γεμίζουν τον χώρο.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+          "title": "15 Killed as Speedboat Capsizes in Vietnam",
           "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-          "snippet": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
+          "snippet": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
           "source": "NYT World"
         }
       ]
@@ -293,14 +293,20 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ανακαλύψαμε ότι διαβάζουμε λάθος την «Οδύσσεια» τα τελευταία 2.700 χρόνια",
-        "url": "https://www.gazzetta.gr/plus/2553620/anakalypsame-oti-diabazoyme-lathos-tin-odysseia-ta-teleytaia-2700-hronia",
-        "snippet": "Η «Οδύσσεια» δεν ανήκει μόνο στον Οδυσσέα. Οι γυναίκες της κινούν την πλοκή και αλλάζουν τον τρόπο που τη διαβάζουμε",
+        "title": "Mίτσελ: Ο master της άμυνας που έρχεται Ελλάδα για να προπονηθεί με τον Γιάννη και το παρατσούκλι «Off night»",
+        "url": "https://www.gazzetta.gr/basketball/nba/2553619/mitsel-o-master-tis-amynas-poy-erhetai-ellada-gia-na-proponithei-me-ton",
+        "snippet": "Το Gazzetta στέκεται στον... καθηγητή της άμυνας και πλεόν συμπαίκτη του Γιάννη Αντετοκούνμπο στους Χιτ, Ντέιβιον Μίτσελ που θα έρθει στην Ελλάδα τις επόμενες μέρες για να κάνει προπονήσεις δίπλα στον Έλληνα σταρ.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "ΠΑΟΚ - Τβέντε: Ο Όριενστερ το 1-1 των Ολλανδών",
+          "title": "Ανακαλύψαμε ότι διαβάζουμε λάθος την «Οδύσσεια» τα τελευταία 2.700 χρόνια",
+          "url": "https://www.gazzetta.gr/plus/2553620/anakalypsame-oti-diabazoyme-lathos-tin-odysseia-ta-teleytaia-2700-hronia",
+          "snippet": "Η «Οδύσσεια» δεν ανήκει μόνο στον Οδυσσέα. Οι γυναίκες της κινούν την πλοκή και αλλάζουν τον τρόπο που τη διαβάζουμε",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ - Τβέντε: Ο Όριενστερ κι ο Χέσελινγκ γύρισαν το ματς για τους Ολλανδούς",
           "url": "https://www.gazzetta.gr/football/superleague/2553622/paok-tbente-o-orienster-1-1-ton-ollandon",
           "snippet": "Η Τβέντε έφτασε στην ανατροπή κόντρα στον ΠΑΟΚ με Όριενστερ και Χέσελινκ.",
           "source": "Gazzetta"
@@ -375,12 +381,6 @@
           "title": "Αντετοκούνμπο - Χιτ: Ο Μίτσελ θα έρθει Ελλάδα για να προπονηθεί μαζί με τον Γιάννη το καλοκαίρι",
           "url": "https://www.gazzetta.gr/basketball/nba/2553610/antetokoynmpo-hit-o-mitsel-tha-erthei-ellada-gia-na-proponithei-mazi-me-ton",
           "snippet": "Ο Ντέιβιον Μίτσελ θα επισκεφθεί τη χώρα μας για να γνωρίσει καλύτερα τον συμπαίκτη του πλέον, Γιάννη Αντετοκούνμπο και να προπονηθούν παρέα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μουντιάλ 2026: Η αστυνομία ερευνά την αιτία θανάτου του Άνταμς",
-          "url": "https://www.gazzetta.gr/football/mundial/2553600/moyntial-2026-i-astynomia-ereyna-tin-aitia-thanatoy-toy-antams",
-          "snippet": "Η αστυνομία ερευνά εξονυχιστικά την αιτία θανάτου του Τζέιντεν Άνταμς, ο οποίος βύθισε στη θλίψη τον παγκόσμιο αθλητισμό.",
           "source": "Gazzetta"
         }
       ]
