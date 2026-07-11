@@ -243,9 +243,25 @@
       btn.disabled=true;btn.textContent='...';
       var resultDiv=document.getElementById('feed-result-'+i+'-'+fi);
       if(STATIC){
-        btn.disabled=false;btn.textContent='Test';
-        resultDiv.className='feed-result err';
-        resultDiv.textContent='Test not available on GitHub Pages.';
+        // ponytail: rss2json as client-side RSS validator, no API key needed
+        if(!url.match(/^https?:\/\//)) url='https://'+url;
+        fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url))
+          .then(function(r){return r.json()})
+          .then(function(res){
+            btn.disabled=false;btn.textContent='Test';
+            if(res.status==='ok'){
+              resultDiv.className='feed-result ok';
+              resultDiv.textContent='Valid feed, '+(res.items||[]).length+' items';
+            }else{
+              resultDiv.className='feed-result err';
+              resultDiv.textContent=res.message||'Not a valid RSS feed';
+            }
+          })
+          .catch(function(){
+            btn.disabled=false;btn.textContent='Test';
+            resultDiv.className='feed-result err';
+            resultDiv.textContent='Check failed.';
+          });
         return;
       }
       fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
