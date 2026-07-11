@@ -133,7 +133,7 @@
   function collectSettingsFromPanel(){
     var rows=document.getElementById('settingsRows').querySelectorAll('.sec-row');
     var sections=[];
-    rows.forEach(function(row){
+    rows.forEach(function(row, i){
       var sec={feeds:[]};
       var secTitle=row.querySelector('.sec-title');
       var secEnabled=row.querySelector('input[data-k="enabled"]');
@@ -153,35 +153,43 @@
     return sections;
   }
 
+  var STATIC = (location.protocol === 'file:') || location.hostname.endsWith('github.io');
+
   function applySettingsFromPanel(){
     var sections=collectSettingsFromPanel();
     config={sections:sections};
-    if(STATIC){
+    saveConfig(function(){
       closeSettings();
       render();
-      alert('Settings saved locally only. On GitHub Pages, edit feeds.json in the repo to change sections.');
+    });
+  }
+
+  function saveConfig(onDone){
+    if(STATIC){
+      try{localStorage.setItem('dailyNewsSettings',JSON.stringify(config))}catch(e){}
+      if(onDone) onDone();
       return;
     }
-    fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)})
-      .then(function(r){return r.json()})
-      .then(function(){
-        closeSettings();
-        render();
-      })
-      .catch(function(){alert('Failed to save config.');});
+    fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)}).then(function(){
+      if(onDone) onDone();
+    });
   }
 
   function addSection(){
     var sections=collectSettingsFromPanel();
     sections.push({id:'new-section-'+Date.now(),title:'New Section',enabled:true,lead:true,feeds:[]});
     config={sections:sections};
-    fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)}).then(function(){
-      openSettings();
-    });
+    saveConfig(function(){openSettings();});
   }
 
   function resetSettings(){
     localStorage.removeItem('dailyNewsSettings');
+    if(STATIC){
+      fetch('feeds.json').then(function(r){return r.json()}).then(function(c){
+        config=c;openSettings();render();
+      }).catch(function(){config={sections:[]};openSettings();render();});
+      return;
+    }
     fetch('/config').then(function(r){return r.json()}).then(function(c){
       config=c;
       openSettings();
@@ -189,10 +197,10 @@
     });
   }
 
-  var STATIC = (location.protocol === 'file:') || location.hostname.endsWith('github.io');
-
   function loadConfig(){
     if(STATIC){
+      var saved=localStorage.getItem('dailyNewsSettings');
+      if(saved){try{config=JSON.parse(saved);render();return;}catch(e){}}
       fetch('feeds.json')
         .then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})
         .then(function(c){config=c;render();})
@@ -223,6 +231,12 @@
       if(!url){return}
       btn.disabled=true;btn.textContent='...';
       var resultDiv=document.getElementById('feed-result-'+i+'-'+fi);
+      if(STATIC){
+        btn.disabled=false;btn.textContent='Test';
+        resultDiv.className='feed-result err';
+        resultDiv.textContent='Test not available on GitHub Pages.';
+        return;
+      }
       fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
         .then(function(r){return r.json()})
         .then(function(res){
@@ -262,9 +276,7 @@
       sections.splice(i,1);
     }
     config={sections:sections};
-    fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)}).then(function(){
-      openSettings();
-    });
+    saveConfig(function(){openSettings();});
   });
 
   // add section button
