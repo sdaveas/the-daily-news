@@ -148,7 +148,7 @@
       rows.appendChild(row);
     });
     document.getElementById('settingsOverlay').classList.add('open');
-    document.getElementById('settingsPanel').style.display='block';
+    document.getElementById('settingsPanel').style.display='flex';
   }
 
   function closeSettings(){
