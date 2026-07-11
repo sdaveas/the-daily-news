@@ -7,14 +7,6 @@
       "lead": true,
       "feeds": [
         {
-          "url": "https://www.tovima.gr/feed/",
-          "source": "To Vima"
-        },
-        {
-          "url": "https://www.skai.gr/rss/news",
-          "source": "Skai News"
-        },
-        {
           "url": "https://www.efsyn.gr/feed/",
           "source": "EfSyn"
         }
@@ -27,16 +19,8 @@
       "lead": true,
       "feeds": [
         {
-          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-          "source": "BBC World"
-        },
-        {
           "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
           "source": "NYT World"
-        },
-        {
-          "url": "https://www.aljazeera.com/xml/rss/all.xml",
-          "source": "Al Jazeera"
         }
       ]
     },
@@ -46,14 +30,6 @@
       "enabled": true,
       "lead": true,
       "feeds": [
-        {
-          "url": "https://feeds.arstechnica.com/arstechnica/index",
-          "source": "Ars Technica"
-        },
-        {
-          "url": "https://www.theverge.com/rss/index.xml",
-          "source": "The Verge"
-        },
         {
           "url": "https://techcrunch.com/feed/",
           "source": "TechCrunch"
@@ -67,52 +43,28 @@
       "lead": true,
       "feeds": [
         {
-          "url": "https://www.skai.gr/rss/sports",
-          "source": "Skai Sports"
+          "url": "https://gazzetta.gr/rss",
+          "source": "Gazzetta"
         },
         {
-          "url": "https://www.espn.com/espn/rss/soccer/news",
-          "source": "ESPN Soccer"
-        },
-        {
-          "url": "https://www.espn.com/espn/rss/nba/news",
-          "source": "ESPN NBA"
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+          "source": "NYT Sports"
         }
       ]
     },
     {
-      "id": "markets",
-      "title": "Markets",
+      "id": "art-science",
+      "title": "Art / Science",
       "enabled": true,
       "lead": true,
       "feeds": [
         {
-          "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
-          "source": "CoinDesk"
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+          "source": "NYT Arts"
         },
         {
-          "url": "https://cointelegraph.com/rss",
-          "source": "Cointelegraph"
-        },
-        {
-          "url": "https://feeds.marketwatch.com/marketwatch/topstories/",
-          "source": "MarketWatch"
-        }
-      ]
-    },
-    {
-      "id": "gaming",
-      "title": "D&D / Gaming",
-      "enabled": true,
-      "lead": true,
-      "feeds": [
-        {
-          "url": "https://www.polygon.com/rss/index.xml",
-          "source": "Polygon"
-        },
-        {
-          "url": "https://www.eurogamer.net/feed",
-          "source": "Eurogamer"
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+          "source": "NYT Science"
         }
       ]
     }
