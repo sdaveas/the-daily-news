@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T15:13:08.076906+00:00",
+  "updated": "2026-07-11T15:25:24.865865+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΠΑΣΟΚ: Προγραμματική καταιγίδα με το βλέμμα στο φθινόπωρο",
-        "url": "https://www.efsyn.gr/politiki/1425451/pasok-programmatiki-kataigida-me-to-vlemma-sto-fthinoporo/",
-        "snippet": "Ρυθμούς στο φουλ και ατζέντα προώθησης των θέσεων του ΠΑΣΟΚ στους πολίτες περιλαμβάνει η στρατηγική του Νίκου Ανδρουλάκη, ο οποίος χαρακτηρίζει τους Κυριάκο Μητσοτάκη και Αλέξη Τσίπρα ως εκφραστές ενός αποτυχημένου μοντέλου εξουσίας",
+        "title": "Μουντιάλ 2026: Αγγλία – Νορβηγία, η μάχη των σέντερ φορ",
+        "url": "https://www.efsyn.gr/athlitismos/1425460/moyntial-2026-agglia-norvigia-i-mahi-ton-senter-for/",
+        "snippet": "Νορβηγία και Αγγλία ή Χόλαντ vs Κέιν, για μια θέση στα ημιτελικά του Μουντιάλ",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΠΑΣΟΚ: Προγραμματική καταιγίδα με το βλέμμα στο φθινόπωρο",
+          "url": "https://www.efsyn.gr/politiki/1425451/pasok-programmatiki-kataigida-me-to-vlemma-sto-fthinoporo/",
+          "snippet": "Ρυθμούς στο φουλ και ατζέντα προώθησης των θέσεων του ΠΑΣΟΚ στους πολίτες περιλαμβάνει η στρατηγική του Νίκου Ανδρουλάκη, ο οποίος χαρακτηρίζει τους Κυριάκο Μητσοτάκη και Αλέξη Τσίπρα ως εκφραστές ενός αποτυχημένου μοντέλου εξουσίας",
+          "source": "EfSyn"
+        },
         {
           "title": "Πολάκης: «Επιστρέφω στην Κ.Ο. του ΣΥΡΙΖΑ – Θα είμαι υποψήφιος πρόεδρος» [βίντεο]",
           "url": "https://www.efsyn.gr/politiki/1425721/polakis-epistrefo-stin-ko-toy-syriza-tha-eimai-ypopsifios-proedros-vinteo/",
@@ -87,12 +93,6 @@
           "title": "Ανδρουλάκης από Λήμνο: «Η αναβάθμιση του ΕΣΥ είναι πολιτική προτεραιότητα»",
           "url": "https://www.efsyn.gr/politiki/1425668/androylakis-apo-limno-i-anavathmisi-toy-esy-einai-politiki-proteraiotita/",
           "snippet": "«Θέση του ΠΑΣΟΚ είναι η Αυτόνομη Υγειονομική Περιφέρεια Αιγαίου».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Δημόσια έκκληση του Γεωργιάδη σε Γκας Μπιλιράκη: «Πες στον Τραμπ ότι είναι μεγάλο πρόβλημα τα F-35 στην Τουρκία»",
-          "url": "https://www.efsyn.gr/politiki/1425639/dimosia-ekklisi-toy-georgiadi-se-gkas-mpiliraki-pes-ston-tramp-oti-einai-megalo-provlima-ta-f-35-stin-toyrkia/",
-          "snippet": "«Η Ελλάδα είναι τα σύνορα της Ευρώπης και της Δύσης και των Ηνωμένων Πολιτειών της Αμερικής».",
           "source": "EfSyn"
         }
       ]
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΑΕΚ: Συνεχίζει με διπλές προπονήσεις, μοίρασαν αυτόγραφα Νίκολιτς και παίκτες στο Άπελντορν",
-        "url": "https://www.gazzetta.gr/football/superleague/2553618/aek-synehizei-me-diples-proponiseis-moirasan-aytografa-nikolits-kai",
-        "snippet": "Δείτε πλάνα από την πρωινή σαββατιάτικη προπόνηση της ΑΕΚ στην Ολλανδία, την οποία παρακολούθησαν και αρκετοί φίλοι της Ένωσης.",
+        "title": "Κλοπ: Συμφώνησε προφορικά με την Εθνική Γερμανίας",
+        "url": "https://www.gazzetta.gr/football/mundial/2553621/klop-symfonise-proforika-me-tin-ethniki-germanias",
+        "snippet": "Ο Γιούργκεν Κλοπ ήρθε σε προφορική συμφωνία για την ανάληψη της τεχνικής ηγεσίας της Γερμανίας, σύμφωνα με τον Μπεν Τζέικομπς.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΑΕΚ: Συνεχίζει με διπλές προπονήσεις, μοίρασαν αυτόγραφα Νίκολιτς και παίκτες στο Άπελντορν",
+          "url": "https://www.gazzetta.gr/football/superleague/2553618/aek-synehizei-me-diples-proponiseis-moirasan-aytografa-nikolits-kai",
+          "snippet": "Δείτε πλάνα από την πρωινή σαββατιάτικη προπόνηση της ΑΕΚ στην Ολλανδία, την οποία παρακολούθησαν και αρκετοί φίλοι της Ένωσης.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΣΥΡΙΖΑ: Ο Πολάκης επιστρέφει, η στήριξη στον Τσίπρα ακυρώνεται και ανοίγει η κούρσα διαδοχής",
           "url": "https://www.gazzetta.gr/plus/2553617/syriza-o-polakis-epistrefei-i-stirixi-ston-tsipra-akyronetai-kai-anoigei-i-koyrsa",
@@ -375,12 +381,6 @@
           "title": "«Μεράκλωσε» με Καρρά και έκανε το τούνελ… πίστα: Άνοιξε τις πόρτες του ΙΧ εν κινήσει μέσα σε τούνελ και ξεσήκωσε θύελλα αντιδράσεων (vid)",
           "url": "https://www.gazzetta.gr/plus/2553592/meraklose-me-karra-kai-ekane-toynel-pista-anoixe-tis-portes-toy-ih-en-kinisei-mesa-se",
           "snippet": "Ασυνείδητος οδηγός Ι.Χ. άνοιξε τις πόρτες του αυτοκινήτου ενώ βρισκόταν εν κινήσει για να απολαύσει πιο δυνατά τον Βασίλη Καρρά, προκαλώντας χαμό στα σχόλια.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "10 “αθόρυβες” συνήθειες που μπορούν να αυξήσουν την ευφυΐα σου ημέρα με την ημέρα",
-          "url": "https://www.gazzetta.gr/plus/2553583/10-athorybes-synitheies-poy-mporoyn-na-ayxisoyn-tin-eyfyia-soy-imera-me-tin-imera",
-          "snippet": "Αυτές οι μικροσυνήθειες έχουν τη δύναμη να αυξήσουν το επίπεδο της νοημοσύνης μας μέσα σε μερικές ημέρες.",
           "source": "Gazzetta"
         }
       ]
