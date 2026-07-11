@@ -283,11 +283,11 @@
             btn.disabled=false;btn.textContent='Test';
             resultDiv.className='feed-result '+(res.ok?'ok':'err');
             if(res.ok){
-              var html=esc(res.msg||'OK');
               if(res.discovered && res.url && res.url!==url){
-                html+=' &mdash; <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(res.url)+'</a>';
+                urlInput.value=res.url;
+                autoSave();
               }
-              resultDiv.innerHTML=html;
+              resultDiv.textContent=esc(res.msg||'OK');
             }else{
               resultDiv.textContent=res.error||'Failed';
             }
@@ -320,11 +320,11 @@
             if(res.status==='ok'){
               btn.disabled=false;btn.textContent='Test';
               resultDiv.className='feed-result ok';
-              var msg='Valid feed, '+(res.items||[]).length+' items';
               if(candidates[idx]!==url){
-                msg+=' — <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(candidates[idx])+'</a>';
+                urlInput.value=candidates[idx];
+                autoSave();
               }
-              resultDiv.innerHTML=msg;
+              resultDiv.textContent='Valid feed, '+(res.items||[]).length+' items';
             }else{
               tryCandidate(idx+1);
             }
