@@ -1,16 +1,88 @@
 {
-  "updated": "2026-07-11T06:07:07.439442+00:00",
+  "updated": "2026-07-11T09:19:01.142392+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΗΠΑ: Διεθνής Σύνοδος κατά της «ακροαριστερής τρομοκρατίας» – Καλεσμένη και η Ελλάδα",
-        "url": "https://www.tovima.gr/2026/07/11/world/ipa-diethnis-synodos-kata-tis-akroaristeris-tromokratias-kalesmeni-kai-i-ellada/",
-        "snippet": "Ο Αμερικανός ΥΠΕΞ Μάρκο Ρούμπιο καλεί υπουργούς από περισσότερες από 60 χώρες στην Ουάσιγκτον την επόμενη εβδομάδα σε μια προσπάθεια να τους επιστρατεύσει στη μάχη ενάντια της «ακροαριστερής τρομοκρατίας» και του κινήματος Antifa",
+        "title": "To Prosilio κάτω από τις ελιές της Ζακύνθου",
+        "url": "https://www.tovima.gr/2026/07/11/elliniki-kouzina/to-prosilio-kato-apo-tis-elies-tis-zakynthou/",
+        "snippet": "Δέκα χρόνια μετά τη δημιουργία ενός από τα σημαντικότερα εστιατόρια του νησιού, η σεφ Κρίστυ Καραγεώργου μιλά για τη μετακόμιση στον ελαιώνα, τη σχέση ζωής με τον συνέταιρό της Γιώργο Καμπίτση και το όνειρο ενός γαστρονομικού προορισμού που αρχίζει να παίρνει μορφή.",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Δίκη των Τεμπών, Εβδομάδα 11: Αμέλεια ή δόλος;",
+          "url": "https://www.tovima.gr/2026/07/11/stiles/aytoptis-martyras/diki-ton-tempon-evdomada-11-ameleia-i-dolos/",
+          "snippet": "Για πρώτη φορά ακούστηκε η φωνή της υπεράσπισης. Και μαζί της ήρθε στο επίκεντρο το ερώτημα που πιθανότατα θα κρίνει ολόκληρη τη δίκη: μπορούσαν οι κατηγορούμενοι να προβλέψουν ότι θα χάνονταν ανθρώπινες ζωές ή όχι;",
+          "source": "To Vima"
+        },
+        {
+          "title": "Marfin: Η επιστροφή της 46χρονης στην Ελλάδα και ο ρόλος της AI",
+          "url": "https://www.tovima.gr/2026/07/11/society/marfin-i-epistrofi-tis-46xronis-stin-ellada-kai-o-rolos-tis-ai/",
+          "snippet": "Πώς ένα ανώνυμο e-mail, παλιό υλικό της Αντιτρομοκρατικής και η ανάλυση εικόνων οδήγησαν στις νέες εξελίξεις για την τραγωδία της Marfin το 2010.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Τουρισμός: Όσα ρωτούν οι τουρίστες τους ξεναγούς στην Ελλαδα",
+          "url": "https://www.tovima.gr/2026/07/11/society/tourismos-osa-rotoun-oi-touristes-tous-ksenagous-stin-ellada/",
+          "snippet": "Ρωτήσαμε τρεις ξεναγούς ποιες είναι οι συχνότερες απορίες των τουριστών που επισκέπτονται τη χώρα. Το ασανσέρ της Ακρόπολης, το στερεότυπο «σουβλάκι-μουσακάς-συρτάκι» και το Ελλάδα σημαίνει Μύκονος.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Διαβάστε στο Βήμα της Κυριακής: Θεατές στο παζάρι",
+          "url": "https://www.tovima.gr/2026/07/11/media/diavaste-sto-vima-tis-kyriakis-theates-sto-pazari/",
+          "snippet": "Το παρασκήνιο της «αβλαβούς διέλευσης» Μητσοτάκη από την Άγκυρα.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Πόσο δύσκολο είναι να είσαι διευθυντής σχολείου στην Ελλάδα;",
+          "url": "https://www.tovima.gr/2026/07/11/society/poso-dyskolo-einai-na-eisai-dieythyntis-sxoleiou-stin-ellada/",
+          "snippet": "Πως το σύστημα έχει μετατρέψει μια θέση παιδαγωγικής ηγεσίας σε θέση διαρκούς διαχείρισης προβλημάτων - Με καθήκοντα επιστάτη, υδραυλικού, ηλεκτρολόγου, γραμματέα αλλά και ψυχολόγου η καθημερινότητα στη διοίκηση μιας σχολικής μονάδας",
+          "source": "To Vima"
+        },
+        {
+          "title": "Καύσιμα: «Έκαψαν» 340 εκατ. ευρώ και η βενζίνη ξανά στα 2 ευρώ – Γιατί απέτυχαν τα μέτρα",
+          "url": "https://www.tovima.gr/2026/07/11/finance/kaysima-ekapsan-340-ekat-eyro-kai-i-venzini-ksana-sta-2-eyro-giati-apetyxan-ta-metra/",
+          "snippet": "Fuel Pass, επιδοτήσεις και εκπτώσεις από τα διυλιστήρια δεν κατάφεραν να συγκρατήσουν τις τιμές στα καύσιμα, ενώ η κυβέρνηση εξακολουθεί να απορρίπτει τη μείωση των φόρων.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Χαρίλαος Τρικούπης: Από το όραμα του εθνικού εκσυγχρονισμού στην πτώχευση του 1893",
+          "url": "https://www.tovima.gr/2026/07/11/istoriko-arxeio/xarilaos-trikoupis-apo-to-orama-tou-ethnikou-eksygxronismou-stin-ptoxeysi-tou-1893/",
+          "snippet": "Η ασκητική ζωή, οι συγκρούσεις, τα μεγάλα έργα και το φιλόδοξο σχέδιο εκσυγχρονισμού ενός πολιτικού που εξάντλησε ακόμη και την προσωπική του περιουσία.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Φωτιά σε ανακύκλωση στη Λάρισα: Οι καταγγελίες για εμπρησμό και η μάχη που συνεχίζεται",
+          "url": "https://www.tovima.gr/2026/07/11/society/fotia-se-anakyklosi-sti-larisa-oi-kataggelies-gia-emprismo-kai-i-maxi-pou-synexizetai/",
+          "snippet": "Η φωτιά σε ανακύκλωση στη Λάρισα έχει περιοριστεί εντός της επιχείρησης, όμως οι συνεχείς εκρήξεις από φιάλες προπανίου δυσκολεύουν την κατάσβεση, ενώ οι Αρχές ερευνούν το ενδεχόμενο εμπρησμού.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Κέρκυρα: Πώς το Club Med με την καλοκαιρινή ουτοπία του άλλαξε για πάντα τον τουρισμό",
+          "url": "https://www.tovima.gr/2026/07/11/vimagazino/kerkyra-pos-to-club-med-me-tin-kalokairini-outopia-tou-allakse-gia-panta-ton-tourismo/",
+          "snippet": "Αυτή είναι η ιστορία του Club Med στην Κέρκυρα, του πρώτου all-inclusive ξενοδοχείου της Ελλάδας που υποσχόταν την πιο ανεκτίμητη άνεση: την ελευθερία. Πώς ένα ψάθινο χωριό στο Ιόνιο άλλαξε για πάντα τα καλοκαίρια.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Η Λεπέν υποψήφια Πρόεδρος της Γαλλίας – Ευλογία ή Κατάρα για την Κεντροδεξιά;",
+          "url": "https://www.tovima.gr/2026/07/11/opinions/i-lepen-ypopsifia-proedros-tis-gallias-eylogia-i-katara-gia-tin-kentrodeksia/",
+          "snippet": "Με την απόφαση του γαλλικού εφετείου να επιτρέπει στη Λεπέν να διεξάγει προεκλογική εκστρατεία η Γαλλία μπαίνει σε μια 9μηνη προεκλογική περίοδο με πολλούς απρόβλεπτους παράγοντες. Η Λεπέν δεν είναι ένας από αυτούς.",
+          "source": "To Vima"
+        },
+        {
+          "title": "Τραμπ vs Ιράν: 1000 πύραυλοι έτοιμοι για Τεχεράνη και το τελεσίγραφο",
+          "url": "https://www.tovima.gr/2026/07/11/world/tramp-vs-iran-1000-pyrayloi-etoimoi-gia-texerani-kai-to-telesigrafo/",
+          "snippet": "Ο Ντόναλντ Τραμπ προειδοποιεί την Τεχεράνη με συντριπτικά αντίποινα, ενώ η Ουάσιγκτον απαιτεί δημόσια δέσμευση για τα Στενά του Ορμούζ και συνεχίζει τις διαπραγματεύσεις για τα πυρηνικά.",
+          "source": "To Vima"
+        },
+        {
+          "title": "ΗΠΑ: Διεθνής Σύνοδος κατά της «ακροαριστερής τρομοκρατίας» – Καλεσμένη και η Ελλάδα",
+          "url": "https://www.tovima.gr/2026/07/11/world/ipa-diethnis-synodos-kata-tis-akroaristeris-tromokratias-kalesmeni-kai-i-ellada/",
+          "snippet": "Ο Αμερικανός ΥΠΕΞ Μάρκο Ρούμπιο καλεί υπουργούς από περισσότερες από 60 χώρες στην Ουάσιγκτον την επόμενη εβδομάδα σε μια προσπάθεια να τους επιστρατεύσει στη μάχη ενάντια της «ακροαριστερής τρομοκρατίας» και του κινήματος Antifa",
+          "source": "To Vima"
+        },
         {
           "title": "Η Δικαιοσύνη απέναντι στο τραύμα",
           "url": "https://www.tovima.gr/2026/07/11/editorial/i-dikaiosyni-apenanti-sto-trayma/",
@@ -21,78 +93,6 @@
           "title": "Σε δυο βάρκες η κυβέρνηση",
           "url": "https://www.tovima.gr/2026/07/11/stiles/vimatodotis/se-dyo-varkes-i-kyvernisi/",
           "snippet": "H στάση της Ελλάδας έχει αρχίσει να ενοχλεί τους Ευρωπαίους, καθώς Μέγαρο Μαξίμου και υπουργείο Εξωτερικών θέλουν να δηλώνουν πρωταγωνιστές του εγχειρήματος της στρατηγικής αυτονομίας της Ε.Ε., θέλουν όμως μέσα στην εξίσωση και τις Ηνωμένες Πολιτείες",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ισπανία – Βέλγιο 2-1: Ο Μερίνο έστειλε τη «Ρόχα» στα ημιτελικά του Μουντιάλ 2026",
-          "url": "https://www.tovima.gr/2026/07/11/sports/ispania-velgio-2-1-o-merino-esteile-ti-roxa-sta-imitelika-tou-mountial-2026/",
-          "snippet": "Με «χρυσή» αλλαγή τον Μίκελ Μερίνο, η Ισπανία επικράτησε 2-1 του Βελγίου στο Λος Άντζελες και προκρίθηκε στα ημιτελικά του Μουντιάλ για πρώτη φορά μετά το 2010",
-          "source": "To Vima"
-        },
-        {
-          "title": "Λάρισα: Μεγάλη φωτιά σε εργοστάσιο ανακύκλωσης στο Κιλελέρ – Ήχησε το 112",
-          "url": "https://www.tovima.gr/2026/07/10/society/larisa-megali-fotia-se-ergostasio-anakyklosis-sto-kileler-ixise-to-112/",
-          "snippet": "Η Πολιτική Προστασία απέστειλε μήνυμα μέσω του 112, καλώντας τους κατοίκους να παραμείνουν σε εσωτερικούς χώρους με κλειστά παράθυρα και πόρτες, καθώς οι πυκνοί καπνοί κατευθύνονται προς την πόλη της Λάρισας - Ακούγονται εκρήξεις πιθανόν από φιάλες προπανίου",
-          "source": "To Vima"
-        },
-        {
-          "title": "Σύνοδος του ΝΑΤΟ στην Άγκυρα: Επιτυχής παρά τις απειλές Τραμπ",
-          "url": "https://www.tovima.gr/2026/07/10/world/synodos-tou-nato-stin-agkyra-epityxis-para-tis-apeiles-tramp/",
-          "snippet": "Η σύνοδος του ΝΑΤΟ στην Άγκυρα κρίνεται επιτυχής διότι παρά τις απειλές του Τραμπ, η Συμμαχία επανέλαβε τη δέσμευσή της στη συλλογική άμυνα και στη δέσμευση για παροχή 70 δισεκατομμυρίων ευρώ ως στρατιωτική βοήθεια στην Ουκρανία",
-          "source": "To Vima"
-        },
-        {
-          "title": "«Βγήκε το μισό σώμα του έξω» – Τι αναφέρουν οι επιβάτες στην πτήση της Ryanair για το σπασμένο παράθυρο",
-          "url": "https://www.tovima.gr/2026/07/10/society/vgike-to-miso-soma-tou-ekso-ti-anaferoun-oi-epivates-stin-ptisi-tis-ryanair-gia-to-spasmeno-parathyro/",
-          "snippet": "Αναγκαστική προσγείωση πραγματοποίησε στη Θεσσαλονίκη αεροσκάφος της Ryanair, όταν έσπασε παράθυρο της καμπίνας εν μέσω πτήσης",
-          "source": "To Vima"
-        },
-        {
-          "title": "Diamond League Μονακό: Ο Μίλτος Τεντόγλου «πέταξε» στα 8,61 μ. – Τρίτη η Ελίνα Τζένγκο",
-          "url": "https://www.tovima.gr/2026/07/10/sports/diamond-league-monako-o-miltos-tentoglou-petakse-sta-852-m-triti-i-elina-tzengko/",
-          "snippet": "Οι εμφανίσεις των δύο Ελλήνων πρωταθλητών επιβεβαιώνουν τη δυναμική της ελληνικής παρουσίας στις κορυφαίες διοργανώσεις του παγκόσμιου στίβου και δημιουργούν υψηλές προσδοκίες για τη συνέχεια της αγωνιστικής χρονιάς",
-          "source": "To Vima"
-        },
-        {
-          "title": "Βρετανία: Σοκ από τη στυγερή δολοφονία της πρώην υπουργού Αν Γουίτικαμ – Συνελήφθη 26χρονος",
-          "url": "https://www.tovima.gr/2026/07/10/world/vretania-sok-apo-ti-stygeri-dolofonia-tis-proin-ypourgou-an-gouitikam-synelifthi-26xronos/",
-          "snippet": "Η 78χρονη πολιτικός και σταρ των reality βρέθηκε νεκρή με σοβαρά τραύματα στο σπίτι της στο Ντάρμτουρ - Αποκλείουν το πολιτικό κίνητρο ή την τρομοκρατία οι Αρχές - Θρήνος στον πολιτικό κόσμο, δήλωση Κιρ Στάρμερ",
-          "source": "To Vima"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: «Ήξεις αφήξεις» για την Κεντρική Επιτροπή – Βαθαίνει η εσωκομματική κρίση μετά την παραίτηση Φάμελλου",
-          "url": "https://www.tovima.gr/2026/07/10/politics/syriza-ikseis-afikseis-gia-tin-kentriki-epitropi-vathainei-i-esokommatiki-krisi-meta-tin-paraitisi-famellou/",
-          "snippet": "Η παραίτηση του Σωκράτη Φάμελλου, αντί να λειτουργήσει ως σημείο εκκίνησης για μια οργανωμένη διαδικασία μετάβασης, εξελίχθηκε σε καταλύτη νέων συγκρούσεων",
-          "source": "To Vima"
-        },
-        {
-          "title": "Άργος: «Μη αναστρέψιμη η εγκεφαλική βλάβη, το παιδί μου είναι ΑμεΑ»",
-          "url": "https://www.tovima.gr/2026/07/10/society/argos-mi-anastrepsimi-i-egkefaliki-vlavi-to-paidi-mou-einai-amea/",
-          "snippet": "Σε εξαιρετικά κρίσιμη κατάσταση στη ΜΕΘ του ΚΑΤ νοσηλεύεται ο 20χρονος που δέχθηκε πυρά μετά από καταδίωξη - Τι έδειξε το ιατρικό πιστοποιητικό για τη σφαίρα στο κεφάλι - Στον ανακριτή το Σάββατο οι δύο αστυνομικοί της ΟΠΚΕ που κατηγορούνται για απόπειρα ανθρωποκτονίας",
-          "source": "To Vima"
-        },
-        {
-          "title": "efood: «Μπλακάουτ» στις διανομές την ώρα του τελικού του Μουντιάλ",
-          "url": "https://www.tovima.gr/2026/07/10/society/efood-mplakaout-stis-dianomes-tin-ora-tou-telikou-tou-mountial/",
-          "snippet": "Οι εργαζόμενοι ανακοίνωσαν στάση εργασίας για την Κυριακή 19 Ιουλίου, κατά τις ώρες διεξαγωγής του μεγάλου τελικού του Παγκοσμίου Κυπέλλου, στέλνοντας σαφές μήνυμα στην εργοδοσία: «Στον τελικό του Μουντιάλ θα παίξουμε για τη δική μας φανέλα»",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ανανέωσε με τον Ολυμπιακό μέχρι το 2028 ο Κώστας Παπανικολάου",
-          "url": "https://www.tovima.gr/2026/07/10/sports/ananeose-me-ton-olympiako-mexri-to-2028-o-kostas-papanikolaou/",
-          "snippet": "Ο Κώστας Παπανικολάου θα συνεχίσει να φορά τη φανέλα του Ολυμπιακού, καθώς η «ερυθρόλευκη» ΚΑΕ ανακοίνωσε την ανανέωση της συνεργασίας της με τον αρχηγό της ομάδας για ακόμη δύο χρόνια, έως το καλοκαίρι του 2028",
-          "source": "To Vima"
-        },
-        {
-          "title": "Παράταση για τις φορολογικές δηλώσεις – Η νέα προθεσμία της ΑΑΔΕ",
-          "url": "https://www.tovima.gr/2026/07/10/finance/paratasi-gia-tis-forologikes-diloseis-i-nea-prothesmia-tis-aade/",
-          "snippet": "Ολιγοήμερη παράταση στην προθεσμία υποβολής των φορολογικών δηλώσεων έδωσε το υπουργείο Οικονομικών, μετά από αιτήματα φορέων της αγοράς. Η απόφαση αφορά τις δηλώσεις φορολογίας εισοδήματος φυσικών και νομικών προσώπων για το φορολογικό έτος 2025",
-          "source": "To Vima"
-        },
-        {
-          "title": "Ποινές φυλάκισης στους δύο αστυνομικούς για τον βιασμό 19χρονης στο ΑΤ Ομόνοιας",
-          "url": "https://www.tovima.gr/2026/07/10/society/poines-fylakisis-stous-dyo-astynomikous-gia-ton-viasmo-19xronis-sto-at-omonoias/",
-          "snippet": "Ποινές φυλάκισης 4 ετών και 5 μηνών και 4 ετών επέβαλε το Μικτό Ορκωτό Δικαστήριο Αθηνών στους δύο αστυνομικούς που κρίθηκαν, κατά πλειοψηφία, ένοχοι για τον βιασμό 19χρονης μέσα στο Αστυνομικό Τμήμα Ομονοίας το 2022",
           "source": "To Vima"
         }
       ]
@@ -126,15 +126,9 @@
           "source": "BBC World"
         },
         {
-          "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+          "title": "The photo that shows who's really on top in Le Pen's party",
           "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
           "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Meta pulls new AI image feature after days of backlash",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
           "source": "BBC World"
         },
         {
@@ -144,9 +138,21 @@
           "source": "BBC World"
         },
         {
-          "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+          "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
           "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
           "snippet": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+          "url": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+          "snippet": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
           "source": "BBC World"
         },
         {
@@ -156,21 +162,15 @@
           "source": "BBC World"
         },
         {
-          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
-          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
-          "source": "BBC World"
-        },
-        {
           "title": "Man fatally shot by ICE in Houston was not intended target, DHS says",
           "url": "https://www.bbc.co.uk/news/articles/cm2rm66xd17o?at_medium=RSS&at_campaign=rss",
           "snippet": "Immigration agents were looking for a different person when they shot Lorenzo Salgado Araujo during a traffic stop, officials say.",
           "source": "BBC World"
         },
         {
-          "title": "Zulu king expresses regret after video captures tirade against his wife",
-          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
-          "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
+          "title": "Man nearly sucked out of window mid-air on Ryanair plane, passengers say",
+          "url": "https://www.bbc.co.uk/news/articles/cgk65knkyzdo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The man's wife held onto his legs for around five minutes to stop him from being sucked out, officials say.",
           "source": "BBC World"
         },
         {
@@ -180,15 +180,15 @@
           "source": "BBC World"
         },
         {
-          "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-          "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
+          "title": "Zulu king expresses regret after video captures tirade against his wife",
+          "url": "https://www.bbc.co.uk/news/articles/cy8dl9n1v3vo?at_medium=RSS&at_campaign=rss",
+          "snippet": "In the footage widely shared in South Africa, King Misuzulu threatens to physically assault his wife and accuses her of cheating.",
           "source": "BBC World"
         },
         {
-          "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
-          "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
+          "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+          "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
           "source": "BBC World"
         }
       ]
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Παναθηναϊκός – Γκρασχόπερ: Η Λεωφόρος γεμίζει για τον Νίστρουπ και την ομάδα του",
-        "url": "https://www.skai.gr/news/sports/panathinaikos-gkrasxoper-i-leoforos-gemizei-gia-ton-nistroup-kai-tin-omada",
-        "snippet": "Ο Παναθηναϊκός πατά ξανά το χορτάρι της Λεωφόρου και οι εξέδρες γεμίζουν για ένα φιλικό στο πρώτο 10ήμερο Ιουλίου για παιχνίδι καλοκαιρινής προετοιμασίας",
+        "title": "Τσέντι Όσμαν: Οι στιγμές, οι κούπες, το αντίο και η επόμενη ημέρα",
+        "url": "https://www.skai.gr/news/sports/tsenti-osman-oi-stigmes-oi-koupes-to-antio-kai-i-epomeni-imera",
+        "snippet": "Ο Τούρκος φόργουορντ επέλεξε ένα νέο project, επέλεξε κάτι καινούργιο. Ο Σεβασμός παραμένει, η ζωή προχωράει",
         "source": "Skai Sports"
       },
       "items": [
+        {
+          "title": "Μπαμ από Εφές: Ανακοίνωσε τον Μάικ Τζέιμς",
+          "url": "https://www.skai.gr/news/sports/mpam-apo-efes-anakoinose-ton-maik-tzeims",
+          "snippet": "Ο Μάικ Τζέιμς θα συνεχίσει την καριέρα του στην Αναντολού Εφές υπογράφοντας συμβόλαιο για ένα συν ένα χρόνια",
+          "source": "Skai Sports"
+        },
+        {
+          "title": "Παναθηναϊκός – Γκρασχόπερ: Η Λεωφόρος γεμίζει για τον Νίστρουπ και την ομάδα του",
+          "url": "https://www.skai.gr/news/sports/panathinaikos-gkrasxoper-i-leoforos-gemizei-gia-ton-nistroup-kai-tin-omada",
+          "snippet": "Ο Παναθηναϊκός πατά ξανά το χορτάρι της Λεωφόρου και οι εξέδρες γεμίζουν για ένα φιλικό στο πρώτο 10ήμερο Ιουλίου για παιχνίδι καλοκαιρινής προετοιμασίας",
+          "source": "Skai Sports"
+        },
         {
           "title": "«Βόμβα» μεγατόνων από τον μπασκετικό ΠΑΟΚ: Παίρνει τον Τζέντι Όσμαν με ηγεμονικό συμβόλαιο",
           "url": "https://www.skai.gr/news/sports/vomva-megatonon-apo-ton-mpasketiko-paok-pairnei-ton-tzenti-osman-me-igemoniko-symvolaio",
@@ -369,18 +381,6 @@
           "title": "Η πρόταση του Λανουά για τους Έλληνες διαιτητές στα ντέρμπι της νέας σεζόν",
           "url": "https://www.skai.gr/news/sports/lanoua-protasi-gia-ellines-diaitites-sta-ntermpi-tis-neas-sezon",
           "snippet": "Για τον ορισμό Ελλήνων διαιτητών, ο Λανουά αναφέρει ότι θα τοποθετούνται ξένοι VAR και Avar στους αγώνες μεταξύ ΑΕΚ, Άρη, Ολυμπιακού, Παναθηναϊκού και ΠΑΟΚ",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Παίκτρια του ΠΑΟΚ η 15χρονη που σκοτώθηκε μετά από σύγκρουση με απορριμματοφόρο",
-          "url": "https://www.skai.gr/news/sports/thlipsi-ston-paok-paiktria-tou-syllogou-i-15xroni-pou-skotothike-se-troxaio",
-          "snippet": "Ο ΠΑΟΚ αποχαιρέτησε την άτυχη Άννα-Μαρία, γνωστοποιώντας παράλληλα πως ακυρώνεται ο αυριανός φιλικός αγώνας στη Βουλγαρία ως ένδειξη πένθους",
-          "source": "Skai Sports"
-        },
-        {
-          "title": "Τέλος εποχής για τη Σενεγάλη: Αποσύρθηκε από την εθνική ο Μανέ",
-          "url": "https://www.skai.gr/news/sports/aposyrthike-apo-tin-ethniki-senegalis-o-mane-thysiasa-ta-panta-gia-ayti-ti-simaia",
-          "snippet": "Την απόφαση να αποσυρθεί από την εθνική ομάδα της Σενεγάλης πήρε ο αρχηγός και πιο εμβληματικός παίκτης της. «Θυσίασα τα πάντα για αυτή τη σημαία» δήλωσε",
           "source": "Skai Sports"
         }
       ]
@@ -485,12 +485,18 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "Pokémon Go 'A Thunderous Discovery' Zeraora Special Research quest steps",
-        "url": "https://www.polygon.com/pokemon-go-zeraora-special-research-thunderous-discovery-quest-steps/",
-        "snippet": "Our guide lists all of the quest steps for Pokémon Go's \"A Thunderous Discovery\" Special Research that rewards Zeraora.",
+        "title": "Cyberpunk Edgerunners 2, Ghost in the Shell, and 11 more major Anime Expo 2026 reveals",
+        "url": "https://www.polygon.com/anime-expo-2026-biggest-announcements/",
+        "snippet": "From long-awaited sequels to ambitious originals, here's everything announced at Anime Expo 2026 that anime fans should know about.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "Pokémon Go 'A Thunderous Discovery' Zeraora Special Research quest steps",
+          "url": "https://www.polygon.com/pokemon-go-zeraora-special-research-thunderous-discovery-quest-steps/",
+          "snippet": "Our guide lists all of the quest steps for Pokémon Go's \"A Thunderous Discovery\" Special Research that rewards Zeraora.",
+          "source": "Polygon"
+        },
         {
           "title": "Pokémon Go Fest Global 2026 event guide and rotating habitat schedule",
           "url": "https://www.polygon.com/pokemon-go-fest-global-2026-habitat-raid-schedule-spawns/",
@@ -540,10 +546,10 @@
           "source": "Polygon"
         },
         {
-          "title": "All Palworld Pals, types, and skills in the Paldeck",
-          "url": "https://www.polygon.com/palworld-guides/24047325/pals-list-types-elements-base-skills-paldeck/",
-          "snippet": "There are more than 100 different Pals in Palworld. We list all Pals, alongside their types and base skills, to help you fill out your Paldeck.",
-          "source": "Polygon"
+          "title": "What we've been playing - \"I can't sit and do nothing other than melt into my sofa\"",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa",
+          "snippet": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's hot again. Nice of you to notice, Bertie. Kelsey's getting into embroidery with Silksong providing artistic inspiration; Bertie's banging on about the t",
+          "source": "Eurogamer"
         },
         {
           "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
@@ -567,12 +573,6 @@
           "title": "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts",
           "url": "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans",
           "snippet": "Bethesda Game Studios union workers have announced plans to protest the recent mass layoffs impacting Microsoft's Xbox division, telling members, \"The company wants us to accept this as a done deal and quietly disappear. We won't let that happen.\" Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "\"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well\" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs",
-          "url": "https://www.eurogamer.net/xbox-layoffs-id-software-john-carmack",
-          "snippet": "John Carmack, the co-founder of legendary Doom and Quake developer id Software, has shared his thoughts on the reported \"bloodbath\" of layoffs at his former studio, following Xbox's devastating \"restructuring\". Read more",
           "source": "Eurogamer"
         }
       ]
