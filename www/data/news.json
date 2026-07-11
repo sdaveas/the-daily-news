@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T15:06:12.389753+00:00",
+  "updated": "2026-07-11T15:13:08.076906+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πολάκης: «Επιστρέφω στην Κ.Ο. του ΣΥΡΙΖΑ – Θα είμαι υποψήφιος πρόεδρος» [βίντεο]",
-        "url": "https://www.efsyn.gr/politiki/1425721/polakis-epistrefo-stin-ko-toy-syriza-tha-eimai-ypopsifios-proedros-vinteo/",
-        "snippet": "Για «ιστορική συνεδρίαση» έκανε λόγο ο Παύλος Πολάκης ενώ ανακοίνωσε πως επιστρέφει στην Κ.Ο. του ΣΥΡΙΖΑ και πως θα βάλει υποψηφιότητα για την προεδρία.",
+        "title": "ΠΑΣΟΚ: Προγραμματική καταιγίδα με το βλέμμα στο φθινόπωρο",
+        "url": "https://www.efsyn.gr/politiki/1425451/pasok-programmatiki-kataigida-me-to-vlemma-sto-fthinoporo/",
+        "snippet": "Ρυθμούς στο φουλ και ατζέντα προώθησης των θέσεων του ΠΑΣΟΚ στους πολίτες περιλαμβάνει η στρατηγική του Νίκου Ανδρουλάκη, ο οποίος χαρακτηρίζει τους Κυριάκο Μητσοτάκη και Αλέξη Τσίπρα ως εκφραστές ενός αποτυχημένου μοντέλου εξουσίας",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Πολάκης: «Επιστρέφω στην Κ.Ο. του ΣΥΡΙΖΑ – Θα είμαι υποψήφιος πρόεδρος» [βίντεο]",
+          "url": "https://www.efsyn.gr/politiki/1425721/polakis-epistrefo-stin-ko-toy-syriza-tha-eimai-ypopsifios-proedros-vinteo/",
+          "snippet": "Για «ιστορική συνεδρίαση» έκανε λόγο ο Παύλος Πολάκης ενώ ανακοίνωσε πως επιστρέφει στην Κ.Ο. του ΣΥΡΙΖΑ και πως θα βάλει υποψηφιότητα για την προεδρία.",
+          "source": "EfSyn"
+        },
         {
           "title": "Φωτιά στο Θριάσιο Νοσοκομείο: Γέμισε καπνούς το ισόγειο",
           "url": "https://www.efsyn.gr/ellada/1425719/fotia-sto-thriasio-nosokomeio-gemise-kapnoys-to-isogeio/",
@@ -87,12 +93,6 @@
           "title": "Δημόσια έκκληση του Γεωργιάδη σε Γκας Μπιλιράκη: «Πες στον Τραμπ ότι είναι μεγάλο πρόβλημα τα F-35 στην Τουρκία»",
           "url": "https://www.efsyn.gr/politiki/1425639/dimosia-ekklisi-toy-georgiadi-se-gkas-mpiliraki-pes-ston-tramp-oti-einai-megalo-provlima-ta-f-35-stin-toyrkia/",
           "snippet": "«Η Ελλάδα είναι τα σύνορα της Ευρώπης και της Δύσης και των Ηνωμένων Πολιτειών της Αμερικής».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: «Πράσινο φως» της Κεντρικής Επιτροπής για την επιστροφή του Παύλου Πολάκη",
-          "url": "https://www.efsyn.gr/politiki/1425658/syriza-prasino-fos-tis-kentrikis-epitropis-gia-tin-epistrofi-toy-payloy-polaki/",
-          "snippet": "Η συνεδρίαση θα... συνεχισθεί το επόμενο Σάββατο – ενσωματώνοντας έτσι σχετική πρόταση του Θεόφιλου Ξανθόπουλου.",
           "source": "EfSyn"
         }
       ]
