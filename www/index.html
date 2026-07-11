@@ -11,17 +11,18 @@
   <link rel="stylesheet" href="css/main.css">
   <link rel="stylesheet" href="css/glitch.css">
   <style>
-    .icon-btn.gear{width:50px;height:50px}
-    @media(min-width:700px){.icon-btn.gear{width:70px;height:70px}}
-    .icon-btn.gear svg{width:100%;height:100%}
-    .title-bar h1{padding:0 60px}
-
     /* top bar with refresh + gear */
     .top-bar{display:flex;justify-content:flex-end;align-items:center;margin-bottom:1rem}
     .icon-btn{width:38px;height:38px;border-radius:50%;border:1px solid var(--black);background:none;cursor:pointer;color:var(--black);font-size:16px;display:flex;align-items:center;justify-content:center;transition:.15s}
     .icon-btn:hover{background:var(--black);color:#eee}
     .icon-btn:disabled{opacity:.5;cursor:default}
-    .icon-btn.gear{width:56px;height:56px;font-size:28px}
+
+    /* gear in title bar */
+    .title-bar{position:relative}
+    .title-bar h1{padding:0 55px}
+    .icon-btn.gear{position:absolute;right:0;top:0;bottom:0;margin:auto;border:0;border-radius:0;background:none;width:50px;height:50px}
+    .icon-btn.gear svg{width:100%;height:100%;display:block}
+    @media(min-width:700px){.icon-btn.gear{width:70px;height:70px}.title-bar h1{padding:0 75px}}
 
     .section-window{border:1px solid var(--black);padding:1rem;margin:0;background:#fbfaf6;max-height:520px;overflow-y:auto}
     .section-window h3{font:italic 20px var(--font-title);margin-bottom:.6rem;border-bottom:1px solid var(--black);padding-bottom:.4rem;text-transform:uppercase;letter-spacing:1px}
@@ -109,27 +110,21 @@
     </div>
     <div class="actions">
       <button class="btn btn-left" id="settingsHelp">Help</button>
-      <button class="btn" id="settingsShare">Share</button>
-      <button class="btn" id="settingsReset">Reset</button>
-      <button class="btn btn-primary" id="settingsSave">Save</button>
+      <button class="btn" id="settingsShare" title="Copy a link that recreates your configuration for anyone who opens it">Share</button>
+      <button class="btn" id="settingsReset" title="Go back to the default sections">Reset</button>
+      <button class="btn btn-primary" id="settingsSave" title="Close settings and refresh the news">Save</button>
     </div>
   </div>
 
   <div class="settings-overlay" id="helpOverlay"></div>
   <div class="settings-panel" id="helpPanel" style="display:none">
     <h2>How to use</h2>
-    <div class="settings-body" style="font-size:14px;line-height:1.7">
-      <p><strong>Reading news:</strong> Headlines load automatically from your configured RSS feeds. Click any headline to open the full article.</p>
-      <p><strong>Customizing sections:</strong> Click the gear icon to open settings. There you can:</p>
-      <ul style="margin-left:20px;margin-bottom:12px">
+    <div class="settings-body" style="font-size:14px;line-height:1.8">
+      <ul style="margin-left:20px">
         <li>Add or remove sections with "+ Add section" / "Remove"</li>
         <li>Add RSS feed URLs to any section with "+ Add feed"</li>
         <li>Click "Test" to verify a feed URL works</li>
-        <li>Name each feed so you can identify its sources</li>
       </ul>
-      <p><strong>Saving:</strong> Changes auto-save to your browser. Click "Save" to close and refresh the news.</p>
-      <p><strong>Sharing:</strong> Click "Share" to copy a link that recreates your exact configuration for anyone who opens it.</p>
-      <p><strong>Reset:</strong> Click "Reset" to go back to the default sections.</p>
     </div>
     <div class="actions">
       <button class="btn btn-primary btn-left" id="helpClose" style="margin-right:auto">Close</button>
