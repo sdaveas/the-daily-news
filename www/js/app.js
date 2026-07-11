@@ -64,52 +64,68 @@
     return w;
   }
 
+  function clean(s){
+    var d=document.createElement('div');d.innerHTML=s||'';return (d.textContent||'').replace(/\s+/g,' ').trim().slice(0,280);
+  }
+
+  function fetchFeedClient(url, source){
+    if(!url.match(/^https?:\/\//)) url='https://'+url;
+    return fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(url))
+      .then(function(r){return r.json()})
+      .then(function(res){
+        if(res.status!=='ok') return [];
+        return (res.items||[]).slice(0,20).map(function(it){
+          return {title:clean(it.title),url:it.link,snippet:clean(it.description),source:source};
+        });
+      }).catch(function(){return [];});
+  }
+
+  function fetchAllClient(sections, onProgress){
+    var out={sections:[]};
+    var promises=sections.map(function(sec){
+      var feedPromises=sec.feeds.map(function(f){return fetchFeedClient(f.url,f.source||'');});
+      return Promise.all(feedPromises).then(function(results){
+        // ponytail: round-robin so all sources appear
+        var feedItems=results;
+        var allItems=[];
+        var idx=0;
+        while(feedItems.some(function(fi){return idx<fi.length})){
+          feedItems.forEach(function(fi){if(idx<fi.length)allItems.push(fi[idx])});
+          idx++;
+        }
+        var lead=allItems[0]||null;
+        var items=allItems.slice(1,15);
+        out.sections.push({id:sec.id,title:sec.title,lead:lead,items:items});
+      });
+    });
+    return Promise.all(promises).then(function(){return out});
+  }
+
   function render(){
     setDate();
-    fetch('data/news.json?_='+Date.now())
-      .then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})
-      .then(function(data){
-        var byId={};
-        (data.sections||[]).forEach(function(s){byId[s.id]=s});
-        var content=document.getElementById('content');
-        content.innerHTML='';
-        var grid=document.createElement('div');
-        grid.className='grid-sections';
-        var sections = (config && config.sections) || [];
-        sections.forEach(function(cfg){
-          var sec=byId[cfg.id]||{id:cfg.id,title:cfg.title,lead:null,items:[]};
-          sec.title=cfg.title;
-          var allowedSources = cfg.feeds.map(function(f){return f.source}).filter(Boolean);
-          var allowedHosts = cfg.feeds.map(function(f){return host(f.url)}).filter(Boolean);
-          function allowed(it){
-            if(!allowedSources.length && !allowedHosts.length) return true;
-            if(allowedSources.indexOf(it.source)>=0) return true;
-            if(allowedHosts.indexOf(host(it.url))>=0) return true;
-            return false;
-          }
-          var filtered = {id:sec.id, title:sec.title, lead:sec.lead, items:(sec.items||[]).filter(allowed)};
-          if(filtered.lead && !allowed(filtered.lead)) filtered.lead=null;
-          grid.appendChild(renderSection(filtered, cfg));
-        });
-        content.appendChild(grid);
-        if(data.updated){
-          var u=new Date(data.updated);
-          document.getElementById('updated').textContent='Updated '+u.toLocaleString('en-GB');
-        }
-      })
-      .catch(function(){
-        document.getElementById('content').innerHTML='<div class="status-msg">No edition available yet. Open settings to configure sections.</div>';
+    var sections=(config&&config.sections)||[];
+    var content=document.getElementById('content');
+    content.innerHTML='<div class="status-msg">Fetching the morning edition&hellip;</div>';
+    fetchAllClient(sections).then(function(data){
+      var byId={};
+      (data.sections||[]).forEach(function(s){byId[s.id]=s});
+      content.innerHTML='';
+      var grid=document.createElement('div');
+      grid.className='grid-sections';
+      sections.forEach(function(cfg){
+        var sec=byId[cfg.id]||{id:cfg.id,title:cfg.title,lead:null,items:[]};
+        sec.title=cfg.title;
+        grid.appendChild(renderSection(sec,cfg));
       });
+      content.appendChild(grid);
+      document.getElementById('updated').textContent='Updated '+new Date().toLocaleString('en-GB');
+    }).catch(function(){
+      content.innerHTML='<div class="status-msg">Could not fetch headlines. Try again.</div>';
+    });
   }
 
   function refresh(){
-    if(STATIC){alert('Live refresh not available on GitHub Pages. Content updates every 4h via CI.');return;}
-    fetch('/refresh',{method:'POST'})
-      .then(function(r){return r.json()})
-      .then(function(){
-        setTimeout(function(){render();},30000);
-      })
-      .catch(function(){alert('Refresh failed. Try again.');});
+    render();
   }
 
   /* Settings panel */
@@ -170,23 +186,14 @@
     config={sections:sections};
     saveConfig(function(){
       closeSettings();
-      if(STATIC){render();return;}
-      fetch('/refresh',{method:'POST'})
-        .then(function(r){return r.json()})
-        .then(function(){setTimeout(function(){render();},30000);})
-        .catch(function(){render();});
+      render();
     });
   }
 
   function saveConfig(onDone){
-    if(STATIC){
-      try{localStorage.setItem('dailyNewsSettings',JSON.stringify(config))}catch(e){}
-      if(onDone) onDone();
-      return;
-    }
-    fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)}).then(function(){
-      if(onDone) onDone();
-    });
+    try{localStorage.setItem('dailyNewsSettings',JSON.stringify(config))}catch(e){}
+    if(!STATIC){fetch('/config',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(config)}).catch(function(){});}
+    if(onDone)onDone();
   }
 
   function addSection(){
@@ -205,38 +212,49 @@
 
   function resetSettings(){
     localStorage.removeItem('dailyNewsSettings');
-    if(STATIC){
-      fetch('feeds.json').then(function(r){return r.json()}).then(function(c){
-        config=c;openSettings();render();
-      }).catch(function(){config={sections:[]};openSettings();render();});
-      return;
-    }
-    fetch('/config').then(function(r){return r.json()}).then(function(c){
-      config=c;
-      openSettings();
-      render();
-    });
+    fetch('feeds.json').then(function(r){return r.json()}).then(function(c){
+      config=c;openSettings();render();
+    }).catch(function(){config={sections:[]};openSettings();render();});
   }
 
   function loadConfig(){
-    if(STATIC){
-      var saved=localStorage.getItem('dailyNewsSettings');
-      if(saved){try{config=JSON.parse(saved);render();return;}catch(e){}}
-      fetch('feeds.json')
-        .then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})
-        .then(function(c){config=c;render();})
-        .catch(function(){config={sections:[]};render();});
-      return;
+    // #c=<base64> in URL hash = shared config, takes priority
+    var hashCfg=location.hash.match(/#c=([A-Za-z0-9_-]+)/);
+    if(hashCfg){
+      try{
+        var json=decodeURIComponent(escape(atob(hashCfg[1].replace(/-/g,'+').replace(/_/g,'/'))));
+        config=JSON.parse(json);
+        try{localStorage.setItem('dailyNewsSettings',json)}catch(e){}
+        render();return;
+      }catch(e){}
     }
-    fetch('/config')
-      .then(function(r){return r.json()})
+    var saved=localStorage.getItem('dailyNewsSettings');
+    if(saved){try{config=JSON.parse(saved);render();return;}catch(e){}}
+    fetch('feeds.json')
+      .then(function(r){if(!r.ok)throw new Error(r.status);return r.json()})
       .then(function(c){config=c;render();})
       .catch(function(){config={sections:[]};render();});
+  }
+
+  function shareConfig(){
+    var json=JSON.stringify(config);
+    // ponytail: base64url encode, no deps
+    var b64=btoa(unescape(encodeURIComponent(json))).replace(/\+/g,'-').replace(/\//g,'_').replace(/=+$/,'');
+    var url=location.origin+location.pathname+'#c='+b64;
+    var inp=document.createElement('input');
+    inp.value=url;document.body.appendChild(inp);inp.select();
+    try{document.execCommand('copy');
+      var btn=document.getElementById('settingsShare');
+      var orig=btn.textContent;btn.textContent='Copied!';
+      setTimeout(function(){btn.textContent=orig;},2000);
+    }catch(e){prompt('Copy this link:',url);}
+    inp.remove();
   }
 
   document.getElementById('gearBtn').addEventListener('click',openSettings);
   document.getElementById('settingsSave').addEventListener('click',applySettingsFromPanel);
   document.getElementById('settingsReset').addEventListener('click',resetSettings);
+  document.getElementById('settingsShare').addEventListener('click',shareConfig);
   document.getElementById('settingsRefresh').addEventListener('click',function(){applySettingsFromPanel();refresh();});
   document.getElementById('settingsOverlay').addEventListener('click',closeSettings);
 
@@ -252,62 +270,62 @@
       if(!url){return}
       btn.disabled=true;btn.textContent='...';
       var resultDiv=document.getElementById('feed-result-'+i+'-'+fi);
-      if(STATIC){
-        // ponytail: rss2json as client-side RSS validator, no API key needed
-        if(!url.match(/^https?:\/\//)) url='https://'+url;
-        var candidates=[url];
-        var base=url.replace(/\/(feed|rss|rss\.xml|feed\.xml|atom\.xml|rss\/?)$/,'').replace(/\/$/,'');
-        if(base!==url) candidates.push(url);
-        ['/feed/','/feed','/rss','/rss.xml','/feed.xml','/atom.xml'].forEach(function(p){
-          if(base+p!==url) candidates.push(base+p);
-        });
-        function tryCandidate(idx){
-          if(idx>=candidates.length){
+      if(!STATIC){
+        fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
+          .then(function(r){return r.json()})
+          .then(function(res){
+            btn.disabled=false;btn.textContent='Test';
+            resultDiv.className='feed-result '+(res.ok?'ok':'err');
+            if(res.ok){
+              var html=esc(res.msg||'OK');
+              if(res.discovered && res.url && res.url!==url){
+                html+=' &mdash; <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(res.url)+'</a>';
+              }
+              resultDiv.innerHTML=html;
+            }else{
+              resultDiv.textContent=res.error||'Failed';
+            }
+          })
+          .catch(function(){
             btn.disabled=false;btn.textContent='Test';
             resultDiv.className='feed-result err';
-            resultDiv.textContent='No RSS feed found. Try entering the direct feed URL.';
-            return;
-          }
-          fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(candidates[idx]))
-            .then(function(r){return r.json()})
-            .then(function(res){
-              if(res.status==='ok'){
-                btn.disabled=false;btn.textContent='Test';
-                resultDiv.className='feed-result ok';
-                var msg='Valid feed, '+(res.items||[]).length+' items';
-                if(candidates[idx]!==url){
-                  msg+=' — <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(candidates[idx])+'</a>';
-                }
-                resultDiv.innerHTML=msg;
-              }else{
-                tryCandidate(idx+1);
-              }
-            })
-            .catch(function(){tryCandidate(idx+1);});
-        }
-        tryCandidate(0);
+            resultDiv.textContent='Check failed.';
+          });
         return;
       }
-      fetch('/check',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url:url})})
-        .then(function(r){return r.json()})
-        .then(function(res){
-          btn.disabled=false;btn.textContent='Test';
-          resultDiv.className='feed-result '+(res.ok?'ok':'err');
-          if(res.ok){
-            var html=esc(res.msg||'OK');
-            if(res.discovered && res.url && res.url!==url){
-              html+=' &mdash; <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(res.url)+'</a>';
-            }
-            resultDiv.innerHTML=html;
-          }else{
-            resultDiv.textContent=res.error||'Failed';
-          }
-        })
-        .catch(function(){
+      // ponytail: rss2json as client-side RSS validator, no API key needed
+      if(!url.match(/^https?:\/\//)) url='https://'+url;
+      var candidates=[url];
+      var base=url.replace(/\/(feed|rss|rss\.xml|feed\.xml|atom\.xml|rss\/?)$/,'').replace(/\/$/,'');
+      if(base!==url) candidates.push(url);
+      ['/feed/','/feed','/rss','/rss.xml','/feed.xml','/atom.xml'].forEach(function(p){
+        if(base+p!==url) candidates.push(base+p);
+      });
+      function tryCandidate(idx){
+        if(idx>=candidates.length){
           btn.disabled=false;btn.textContent='Test';
           resultDiv.className='feed-result err';
-          resultDiv.textContent='Check failed.';
-        });
+          resultDiv.textContent='No RSS feed found. Try entering the direct feed URL.';
+          return;
+        }
+        fetch('https://api.rss2json.com/v1/api.json?rss_url='+encodeURIComponent(candidates[idx]))
+          .then(function(r){return r.json()})
+          .then(function(res){
+            if(res.status==='ok'){
+              btn.disabled=false;btn.textContent='Test';
+              resultDiv.className='feed-result ok';
+              var msg='Valid feed, '+(res.items||[]).length+' items';
+              if(candidates[idx]!==url){
+                msg+=' — <a data-i="'+i+'" data-fi="'+fi+'" data-k="use-url">use '+esc(candidates[idx])+'</a>';
+              }
+              resultDiv.innerHTML=msg;
+            }else{
+              tryCandidate(idx+1);
+            }
+          })
+          .catch(function(){tryCandidate(idx+1);});
+      }
+      tryCandidate(0);
       return;
     }
     if(btn.dataset.k==='use-url'){
