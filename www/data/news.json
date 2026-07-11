@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-10T21:00:20.687545+00:00",
+  "updated": "2026-07-11T01:52:14.742494+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Λάρισα: Μεγάλη φωτιά σε εργοστάσιο ανακύκλωσης στο Κιλελέρ – Ήχησε το 112",
-        "url": "https://www.tovima.gr/2026/07/10/society/larisa-megali-fotia-se-ergostasio-anakyklosis-sto-kileler-ixise-to-112/",
-        "snippet": "Η Πολιτική Προστασία απέστειλε μήνυμα μέσω του 112, καλώντας τους κατοίκους να παραμείνουν σε εσωτερικούς χώρους με κλειστά παράθυρα και πόρτες, καθώς οι πυκνοί καπνοί κατευθύνονται προς την πόλη της Λάρισας",
+        "title": "Ισπανία – Βέλγιο 2-1: Ο Μερίνο έστειλε τη «Ρόχα» στα ημιτελικά του Μουντιάλ 2026",
+        "url": "https://www.tovima.gr/2026/07/11/sports/ispania-velgio-2-1-o-merino-esteile-ti-roxa-sta-imitelika-tou-mountial-2026/",
+        "snippet": "Με «χρυσή» αλλαγή τον Μίκελ Μερίνο, η Ισπανία επικράτησε 2-1 του Βελγίου στο Λος Άντζελες και προκρίθηκε στα ημιτελικά του Μουντιάλ για πρώτη φορά μετά το 2010",
         "source": "To Vima"
       },
       "items": [
+        {
+          "title": "Λάρισα: Μεγάλη φωτιά σε εργοστάσιο ανακύκλωσης στο Κιλελέρ – Ήχησε το 112",
+          "url": "https://www.tovima.gr/2026/07/10/society/larisa-megali-fotia-se-ergostasio-anakyklosis-sto-kileler-ixise-to-112/",
+          "snippet": "Η Πολιτική Προστασία απέστειλε μήνυμα μέσω του 112, καλώντας τους κατοίκους να παραμείνουν σε εσωτερικούς χώρους με κλειστά παράθυρα και πόρτες, καθώς οι πυκνοί καπνοί κατευθύνονται προς την πόλη της Λάρισας - Ακούγονται εκρήξεις πιθανόν από φιάλες προπανίου",
+          "source": "To Vima"
+        },
         {
           "title": "Σύνοδος του ΝΑΤΟ στην Άγκυρα: Επιτυχής παρά τις απειλές Τραμπ",
           "url": "https://www.tovima.gr/2026/07/10/world/synodos-tou-nato-stin-agkyra-epityxis-para-tis-apeiles-tramp/",
@@ -88,12 +94,6 @@
           "url": "https://www.tovima.gr/2026/07/10/sports/mountial-2026-empape-kai-mesi-se-troxia-sygkrousis-i-gallia-sta-imitelika-me-neo-istoriko-rekor/",
           "snippet": "Το γκολ απέναντι στο Μαρόκο είχε ιστορική σημασία για τον αρχηγό της εθνικής Γαλλίας, καθώς έφτασε τα 20 τέρματα σε τελικές φάσεις Παγκοσμίου Κυπέλλου",
           "source": "To Vima"
-        },
-        {
-          "title": "Ασπρόπυργος: Βαρύ κατηγορητήριο για τους δύο συλληφθέντες – Σε κρίσιμη κατάσταση οι διασωληνωμένοι",
-          "url": "https://www.tovima.gr/2026/07/10/society/aspropyrgos-vary-katigoritirio-gia-tous-dyo-syllifthentes-se-krisimi-katastasi-oi-diasolinomenoi/",
-          "snippet": "Δύο κακουργήματα και δύο πλημμελήματα αντιμετωπίζουν ο ιδιοκτήτης της επιχείρησης και ο εκμεταλλευτής του βυτιοφόρου - Πώς ξεκίνησε η κόλαση φωτιάς που οδήγησε στον τραυματισμό 14 ανθρώπων",
-          "source": "To Vima"
         }
       ]
     },
@@ -101,16 +101,34 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-        "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-        "snippet": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
         "source": "BBC World"
       },
       "items": [
         {
+          "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
+          "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
+          "snippet": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Meet the crypto billionaires building a world where money buys you a vote",
+          "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+          "snippet": "They think democracy has run its course - so they're setting up their own nations instead.",
+          "source": "BBC World"
+        },
+        {
           "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
           "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
           "snippet": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Forced to wait his turn, Marine Le Pen's deputy Bardella returns to the shadows",
+          "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
+          "snippet": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
           "source": "BBC World"
         },
         {
@@ -132,9 +150,27 @@
           "source": "BBC World"
         },
         {
-          "title": "Boxy forms and odd lights: US declassifies more UFO files",
-          "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-          "snippet": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
+          "title": "Meta pulls new AI image feature after days of backlash",
+          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+          "source": "BBC World"
+        },
+        {
+          "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+          "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+          "snippet": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+          "source": "BBC World"
+        },
+        {
+          "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+          "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+          "source": "BBC World"
+        },
+        {
+          "title": "'Devastating' evidence against Charlie Kirk murder suspect laid out in court",
+          "url": "https://www.bbc.co.uk/news/articles/c4gy12gqzpvo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Prosecutors build a vivid picture of the suspect's movements as they seek to try the 23-year-old.",
           "source": "BBC World"
         },
         {
@@ -144,51 +180,15 @@
           "source": "BBC World"
         },
         {
-          "title": "Nolan Wells' family demands answers about US teen's death after boating trip",
-          "url": "https://www.bbc.co.uk/news/articles/cx238gzzy74o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Wells' body was found in the water near Mississippi's Horn Island days after he went on a boating trip there with friends.",
+          "title": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
+          "url": "https://www.bbc.co.uk/news/articles/c872v7wldjyo?at_medium=RSS&at_campaign=rss",
+          "snippet": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
           "source": "BBC World"
         },
         {
-          "title": "Superb Sinner ends Djokovic's latest bid for history",
-          "url": "https://www.bbc.co.uk/sport/tennis/articles/c04y0pyqk6zo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Jannik Sinner produces a devastating display to end Novak Djokovic's latest bid for history and set up a Wimbledon final against Alexander Zverev.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-          "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Chip giant SK Hynix raises $26.5bn as shares surge in bumper US listing",
-          "url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The shares surged as much as 17% in their Nasdaq trading debut on Friday following the record-breaking foreign listing.",
-          "source": "BBC World"
-        },
-        {
-          "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
-          "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
-          "source": "BBC World"
-        },
-        {
-          "title": "How an app in South Korea will let victims track their stalkers",
-          "url": "https://www.bbc.co.uk/news/videos/c2dyw4zygrko?at_medium=RSS&at_campaign=rss",
-          "snippet": "Officials say the app will help stalking victims, but some experts question the impact it might have.",
-          "source": "BBC World"
-        },
-        {
-          "title": "All the best looks from Paris Haute Couture Week 2026",
-          "url": "https://www.bbc.co.uk/news/articles/cj3g6n64z4mo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Scorching temperatures in the French capital accompanied the hottest week in haute couture.",
-          "source": "BBC World"
-        },
-        {
-          "title": "We've saved £6,000 on holidays by swapping homes with strangers",
-          "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-          "snippet": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+          "title": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
+          "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
+          "snippet": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
           "source": "BBC World"
         }
       ]
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Check out the first images of Quest shipwreck",
-        "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
-        "snippet": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+        "title": "Quantum error correction can constantly recalibrate a processor",
+        "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
+        "snippet": "Reinforcement learning uses error information to adjust control algorithms.",
         "source": "Ars Technica"
       },
       "items": [
+        {
+          "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
+          "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
+          "snippet": "More police and firefighters use drones to catch and deter illegal fireworks.",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "China recovered its first reusable rocket and showed a new way to do it",
+          "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
+          "snippet": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
+          "source": "Ars Technica"
+        },
+        {
+          "title": "Check out the first images of Quest shipwreck",
+          "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
+          "snippet": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
+          "source": "Ars Technica"
+        },
         {
           "title": "Ransomware negotiator hired to represent victims was working for the attackers",
           "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
@@ -267,24 +285,6 @@
           "title": "Rocket Report: \"Panic\" over Transporter availability; Isar to launch from Canada",
           "url": "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
           "snippet": "\"We are delighted to actively help shape the ramp-up of the Ariane 6.\"",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Like a cheat code for your car: We investigate ECU tuning",
-          "url": "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
-          "snippet": "Now it's an arms race between OEMs locking down chips and tuners trying to crack them.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Flores Hobbits' eating habits offer clues about their evolutionary past",
-          "url": "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
-          "snippet": "If Homo floresiensis wasn't a fire-using hunter, its origins could be different than we thought.",
-          "source": "Ars Technica"
-        },
-        {
-          "title": "Michigan's explosive outbreak of diarrheal parasite jumps to over 1,200 cases",
-          "url": "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
-          "snippet": "In neighboring Ohio, cases have reportedly reached over 500.",
           "source": "Ars Technica"
         }
       ]
@@ -389,12 +389,18 @@
       "id": "markets",
       "title": "Markets",
       "lead": {
-        "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-        "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-        "snippet": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
+        "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
+        "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
+        "snippet": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
         "source": "CoinDesk"
       },
       "items": [
+        {
+          "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
+          "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
+          "snippet": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
+          "source": "CoinDesk"
+        },
         {
           "title": "Hyundai becomes first major South Korean company to introduce internal stablecoin transfers",
           "url": "https://www.coindesk.com/business/2026/07/10/hyundai-becomes-first-major-south-korean-company-to-introduce-internal-stablecoin-transfers",
@@ -472,12 +478,6 @@
           "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-zips-to-nearly-usd64-000-as-chip-rally-and-yen-strength-drive-gains",
           "snippet": "Bitcoin is up 4.2% over seven days that contained an oil shock, a bond selloff and two rounds of U.S. strikes on Iran.",
           "source": "CoinDesk"
-        },
-        {
-          "title": "New Hampshire snuffs out trailblazing state-government bitcoin bond effort",
-          "url": "https://www.coindesk.com/policy/2026/07/09/new-hampshire-snuffs-out-trailblazing-bitcoin-municipal-bond-effort",
-          "snippet": "At its last stage for government approval, the state's executive council rejected the bond project 3-2.",
-          "source": "CoinDesk"
         }
       ]
     },
@@ -485,12 +485,18 @@
       "id": "gaming",
       "title": "D&D / Gaming",
       "lead": {
-        "title": "GTA Online's Kortz Center Heist gets release date, first details",
-        "url": "https://www.polygon.com/gta-online-kortz-center-heist-new-dlc-update-release-rockstar-games/",
-        "snippet": "Grand Theft Auto Online players will soon get new DLC with the Kortz Center Heist, Rockstar Games' new art thief update.",
+        "title": "10 new movies to watch on Netflix and streaming this weekend (July 10-13)",
+        "url": "https://www.polygon.com/new-movies-to-watch-backrooms-july-10-2026/",
+        "snippet": "Here's everything new on streaming this weekend, including Backrooms, Faces of Death, The Furious, Amores Perros, and more.",
         "source": "Polygon"
       },
       "items": [
+        {
+          "title": "GTA Online's Kortz Center Heist gets release date, first details",
+          "url": "https://www.polygon.com/gta-online-kortz-center-heist-new-dlc-update-release-rockstar-games/",
+          "snippet": "Grand Theft Auto Online players will soon get new DLC with the Kortz Center Heist, Rockstar Games' new art thief update.",
+          "source": "Polygon"
+        },
         {
           "title": "When is the Holofoil power hour in Fortnite?",
           "url": "https://www.polygon.com/fortnite-chapter-7-season-3-holofoil-power-hour-when/",
@@ -537,12 +543,6 @@
           "title": "FF14 July Fan Fest schedule revealed ahead of Evercold expansion",
           "url": "https://www.polygon.com/final-fantasy-14-berlin-fan-fest-2026-what-to-expect-how-to-watch/",
           "snippet": "Square Enix will share more information on what to expect in the 8.0 version of the MMORPG",
-          "source": "Polygon"
-        },
-        {
-          "title": "Star Wars Unlimited Ashes of the Empire release date, leaders, and new mechanics",
-          "url": "https://www.polygon.com/star-wars-unlimited-ashes-of-the-empire-the-mandalorian/",
-          "snippet": "Star Wars: Unlimited's new trading card game set reunites players with key characters from The Mandalorian, Ahsoka, Skeleton Crew and more.",
           "source": "Polygon"
         },
         {
