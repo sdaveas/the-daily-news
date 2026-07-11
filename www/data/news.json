@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-11T15:25:24.865865+00:00",
+  "updated": "2026-07-11T15:31:07.323096+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Μουντιάλ 2026: Αγγλία – Νορβηγία, η μάχη των σέντερ φορ",
-        "url": "https://www.efsyn.gr/athlitismos/1425460/moyntial-2026-agglia-norvigia-i-mahi-ton-senter-for/",
-        "snippet": "Νορβηγία και Αγγλία ή Χόλαντ vs Κέιν, για μια θέση στα ημιτελικά του Μουντιάλ",
+        "title": "Άργος: Η στιγμή που αστυνομικοί πυροβολούν τον 20χρονο – Βίντεο ντοκουμέντο",
+        "url": "https://www.efsyn.gr/ellada/1425728/argos-i-stigmi-poy-astynomikoi-pyrovoloyn-ton-20hrono-vinteo-ntokoymento/",
+        "snippet": "Όπως καταγράφεται σε νέο βίντεο, ακούγονται συνολικά 20 πυροβολισμοί, ενώ στο σημείο βρέθηκαν 13 κάλυκες.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Μουντιάλ 2026: Αγγλία – Νορβηγία, η μάχη των σέντερ φορ",
+          "url": "https://www.efsyn.gr/athlitismos/1425460/moyntial-2026-agglia-norvigia-i-mahi-ton-senter-for/",
+          "snippet": "Νορβηγία και Αγγλία ή Χόλαντ vs Κέιν, για μια θέση στα ημιτελικά του Μουντιάλ",
+          "source": "EfSyn"
+        },
         {
           "title": "ΠΑΣΟΚ: Προγραμματική καταιγίδα με το βλέμμα στο φθινόπωρο",
           "url": "https://www.efsyn.gr/politiki/1425451/pasok-programmatiki-kataigida-me-to-vlemma-sto-fthinoporo/",
@@ -87,12 +93,6 @@
           "title": "Άρης Μουγκοπέτρος: Συγκινητική επιστροφή στη σκηνή – Sold out η συναυλία μετά την περιπέτεια υγείας [εικόνες]",
           "url": "https://www.efsyn.gr/life/1425670/aris-moygkopetros-sygkinitiki-epistrofi-sti-skini-sold-out-i-synaylia-meta-tin-peripeteia-ygeias-eikones/",
           "snippet": "Η χθεσινή συναυλία του δεξιοτέχνη του κλαρίνου ήταν sold out, με περίπου 3.500 ανθρώπους να γεμίζουν τον χώρο.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ανδρουλάκης από Λήμνο: «Η αναβάθμιση του ΕΣΥ είναι πολιτική προτεραιότητα»",
-          "url": "https://www.efsyn.gr/politiki/1425668/androylakis-apo-limno-i-anavathmisi-toy-esy-einai-politiki-proteraiotita/",
-          "snippet": "«Θέση του ΠΑΣΟΚ είναι η Αυτόνομη Υγειονομική Περιφέρεια Αιγαίου».",
           "source": "EfSyn"
         }
       ]
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Κλοπ: Συμφώνησε προφορικά με την Εθνική Γερμανίας",
-        "url": "https://www.gazzetta.gr/football/mundial/2553621/klop-symfonise-proforika-me-tin-ethniki-germanias",
-        "snippet": "Ο Γιούργκεν Κλοπ ήρθε σε προφορική συμφωνία για την ανάληψη της τεχνικής ηγεσίας της Γερμανίας, σύμφωνα με τον Μπεν Τζέικομπς.",
+        "title": "Ανακαλύψαμε ότι διαβάζουμε λάθος την «Οδύσσεια» τα τελευταία 2.700 χρόνια",
+        "url": "https://www.gazzetta.gr/plus/2553620/anakalypsame-oti-diabazoyme-lathos-tin-odysseia-ta-teleytaia-2700-hronia",
+        "snippet": "Η «Οδύσσεια» δεν ανήκει μόνο στον Οδυσσέα. Οι γυναίκες της κινούν την πλοκή και αλλάζουν τον τρόπο που τη διαβάζουμε",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ - Τβέντε: Ο Όριενστερ το 1-1 των Ολλανδών",
+          "url": "https://www.gazzetta.gr/football/superleague/2553622/paok-tbente-o-orienster-1-1-ton-ollandon",
+          "snippet": "Η Τβέντε έφτασε στην ανατροπή κόντρα στον ΠΑΟΚ με Όριενστερ και Χέσελινκ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η στιγμή που οι αστυνομικοί ανοίγουν πυρ κατά του 20χρονου στο Άργος - Καρέ καρέ η αιματηρή καταδίωξη",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Σοκάρει το νέο βίντεο ντοκουμέντο από τη στιγμή των πυροβολισμών στο Άργος με βαριά τραυματία έναν 20χρονο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κλοπ: Συμφώνησε προφορικά με την Εθνική Γερμανίας",
+          "url": "https://www.gazzetta.gr/football/mundial/2553621/klop-symfonise-proforika-me-tin-ethniki-germanias",
+          "snippet": "Ο Γιούργκεν Κλοπ ήρθε σε προφορική συμφωνία για την ανάληψη της τεχνικής ηγεσίας της Γερμανίας, σύμφωνα με τον Μπεν Τζέικομπς.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΕΚ: Συνεχίζει με διπλές προπονήσεις, μοίρασαν αυτόγραφα Νίκολιτς και παίκτες στο Άπελντορν",
           "url": "https://www.gazzetta.gr/football/superleague/2553618/aek-synehizei-me-diples-proponiseis-moirasan-aytografa-nikolits-kai",
@@ -363,24 +381,6 @@
           "title": "Μουντιάλ 2026: Η αστυνομία ερευνά την αιτία θανάτου του Άνταμς",
           "url": "https://www.gazzetta.gr/football/mundial/2553600/moyntial-2026-i-astynomia-ereyna-tin-aitia-thanatoy-toy-antams",
           "snippet": "Η αστυνομία ερευνά εξονυχιστικά την αιτία θανάτου του Τζέιντεν Άνταμς, ο οποίος βύθισε στη θλίψη τον παγκόσμιο αθλητισμό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κηφισιά: Ο Ρουκουνάκης επέκτεινε το συμβόλαιό του έως το 2029",
-          "url": "https://www.gazzetta.gr/football/superleague/2553598/kifisia-o-roykoynakis-epekteine-symbolaio-toy-eos-2029",
-          "snippet": "Ο Κωνσταντίνος Ρουκουνάκης υπέγραψε νέο συμβόλαιο με την Κηφισιά έως το 2029.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γιατί μία Βρετανίδα ινφλουένσερ κινδυνεύει με εκτέλεση στο Ντουμπάι",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Σαν το «Εξπρές του Μεσονυκτίου», μόνο που είναι μια απόλυτα πραγματική, τραγική ιστορία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Μεράκλωσε» με Καρρά και έκανε το τούνελ… πίστα: Άνοιξε τις πόρτες του ΙΧ εν κινήσει μέσα σε τούνελ και ξεσήκωσε θύελλα αντιδράσεων (vid)",
-          "url": "https://www.gazzetta.gr/plus/2553592/meraklose-me-karra-kai-ekane-toynel-pista-anoixe-tis-portes-toy-ih-en-kinisei-mesa-se",
-          "snippet": "Ασυνείδητος οδηγός Ι.Χ. άνοιξε τις πόρτες του αυτοκινήτου ενώ βρισκόταν εν κινήσει για να απολαύσει πιο δυνατά τον Βασίλη Καρρά, προκαλώντας χαμό στα σχόλια.",
           "source": "Gazzetta"
         }
       ]
