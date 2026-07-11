@@ -1,39 +1,21 @@
 {
-  "updated": "2026-07-11T13:41:05.165976+00:00",
+  "updated": "2026-07-11T13:44:41.852748+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Η Apple κατηγορεί την OpenAI για υπεξαίρεση εμπορικών μυστικών",
-        "url": "https://www.tovima.gr/2026/07/11/texnologia/i-apple-katigorei-tin-openai-gia-ypeksairesi-emporikon-mystikon/",
-        "snippet": "Η Apple προσέφυγε στη Δικαιοσύνη κατά της OpenAI, κατηγορώντας την ότι απέκτησε παράνομα εμπορικά μυστικά και απόρρητες πληροφορίες μέσω πρώην και νυν εργαζομένων της",
-        "source": "To Vima"
+        "title": "Οι συνήγοροι υπεράσπισης εκθέτουν τον Λιγνάδη: Οι «παραβλέψεις» και τα «στραβά μάτια»",
+        "url": "https://www.efsyn.gr/ellada/1425442/oi-synigoroi-yperaspisis-ekthetoyn-ton-lignadi-oi-paravlepseis-kai-ta-strava-matia/",
+        "snippet": "Παρουσιάζοντας στο δικαστήριο υλικό προς αντίκρουση του μάρτυρα, οι δικηγόροι παρέβλεψαν ότι το ίδιο υλικό δείχνει πως ο άλλοτε διευθυντής του Εθνικού προσπάθησε το 2020, στο απόγειο του #metoo, να έρθει σε επαφή με θύματά του ώστε να «προλάβει» τυχόν καταγγελίες.",
+        "source": "EfSyn"
       },
       "items": [
-        {
-          "title": "Οι συνήγοροι υπεράσπισης εκθέτουν τον Λιγνάδη: Οι «παραβλέψεις» και τα «στραβά μάτια»",
-          "url": "https://www.efsyn.gr/ellada/1425442/oi-synigoroi-yperaspisis-ekthetoyn-ton-lignadi-oi-paravlepseis-kai-ta-strava-matia/",
-          "snippet": "Παρουσιάζοντας στο δικαστήριο υλικό προς αντίκρουση του μάρτυρα, οι δικηγόροι παρέβλεψαν ότι το ίδιο υλικό δείχνει πως ο άλλοτε διευθυντής του Εθνικού προσπάθησε το 2020, στο απόγειο του #metoo, να έρθει σε επαφή με θύματά του ώστε να «προλάβει» τυχόν καταγγελίες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θεσσαλονίκη: Στον εισαγγελέα οι τρεις για τη φονική εμπρηστική επίθεση",
-          "url": "https://www.tovima.gr/2026/07/11/society/thessaloniki-ston-eisaggelea-oi-treis-gia-ti-foniki-empristiki-epithesi/",
-          "snippet": "Τα ευρήματα της Αντιτρομοκρατικής για το ορμητήριο των δραστών στη Θεσσαλονίκη, το προφίλ των συλληφθέντων και οι έρευνες για τη δεύτερη ομάδα που χτύπησε στελέχη της Νέας Δημοκρατίας.",
-          "source": "To Vima"
-        },
         {
           "title": "Εμπρηστική επίθεση στο σπίτι της Νέστορα: Τι αναφέρει η ΕΛ.ΑΣ. – Οι συλλήψεις και η συνέχεια στις έρευνες",
           "url": "https://www.efsyn.gr/ellada/1425695/empristiki-epithesi-sto-spiti-tis-nestora-ti-anaferei-i-el-as-oi-syllipseis-kai-i-syneheia-stis-ereynes/",
           "snippet": "Οι έρευνες συνεχίζονται για την ταυτοποίηση άλλων εμπλεκομένων, επισημαίνει η αστυνομία σε επίσημη ανακοίνωσή της - Σφίγγει ο κλοιός για άλλους τρεις.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Ιράν: Εκδίκηση ορκίζεται ο Μοτζτάμπα, «όχι» στις διαπραγματεύσεις",
-          "url": "https://www.tovima.gr/2026/07/11/world/iran-ekdikisi-orkizetai-o-motztampa-oxi-stis-diapragmateyseis/",
-          "snippet": "Το Ιράν υψώνει τους τόνους, ο Τραμπ κηρύσσει το τέλος της εκεχειρίας και η Μέση Ανατολή ξανά στο χείλος της έκρηξης.",
-          "source": "To Vima"
         },
         {
           "title": "Μετά τη Σύνοδο του ΝΑΤΟ: Το μαύρο σύννεφο Τραμπ και οι χαμένες συμφωνίες",
@@ -42,22 +24,10 @@
           "source": "EfSyn"
         },
         {
-          "title": "Πάολα Ρεβενιώτη: Το τελευταίο «αντίο» στο Α’ Νεκροταφείο Αθηνών",
-          "url": "https://www.tovima.gr/2026/07/11/society/paola-revenioti-to-teleytaio-antio-sto-a-nekrotafeio-athinon/",
-          "snippet": "Στο πολιτική κηδεία της Πάολας Ρεβενιώτη έδωσαν το «παρών» μέλη της ΛΟΑΤΚΙ+ κοινότητας, άνθρωποι των τεχνών και του πολιτισμού, καθώς και εκπρόσωποι του πολιτικού κόσμου.",
-          "source": "To Vima"
-        },
-        {
           "title": "Όλυμπος: Ορειβάτης έχασε τις αισθήσεις του σε μονοπάτι – Άμεση κινητοποίηση για τη διακομιδή του",
           "url": "https://www.efsyn.gr/ellada/1425690/olympos-oreivatis-ehase-tis-aisthiseis-toy-se-monopati-amesi-kinitopoiisi-gia-ti-diakomidi-toy/",
           "snippet": "Ένας 64χρονος φέρεται να κατέρρευσε κοντά στο καταφύγιο «Σπήλιος Αγαπητός».",
           "source": "EfSyn"
-        },
-        {
-          "title": "Πόση «ζημιά» μπορεί να κάνει ένα κόμμα Σαμαρά;",
-          "url": "https://www.tovima.gr/2026/07/11/opinions/posi-zimia-mporei-na-kanei-ena-komma-samara/",
-          "snippet": "Ενα κόμμα Σαμαρά ενδέχεται να αποσπάσει μερικούς από τους ψηφοφόρους της ΝΔ του 2023 που ήδη έχουν απομακρυνθεί.",
-          "source": "To Vima"
         },
         {
           "title": "Φωτιά στο Περιβολάκι Θεσσαλονίκης: Ήχησε το 112 – «Να είστε σε ετοιμότητα»",
@@ -66,22 +36,10 @@
           "source": "EfSyn"
         },
         {
-          "title": "ΣΥΡΙΖΑ: Κωμικοτραγικές καταστάσεις με την Κεντρική Επιτροπή – Μάχη για την απαρτία",
-          "url": "https://www.tovima.gr/2026/07/11/politics/syriza-komikotragikes-katastaseis-me-tin-kentriki-epitropi-maxi-gia-tin-apartia/",
-          "snippet": "Αλληλοκατηγορίες για τη νομιμότητα της Κεντρικής Επιτροπής του ΣΥΡΙΖΑ, θρίλερ με την απαρτία, παρασκηνιακές κινήσεις για τη διαδοχή και ένα κόμμα που μοιάζει να βρίσκεται ένα βήμα πριν από νέα διάσπαση.",
-          "source": "To Vima"
-        },
-        {
           "title": "Άρης Μουγκοπέτρος: Συγκινητική επιστροφή στη σκηνή – Sold out η συναυλία μετά την περιπέτεια υγείας [εικόνες]",
           "url": "https://www.efsyn.gr/life/1425670/aris-moygkopetros-sygkinitiki-epistrofi-sti-skini-sold-out-i-synaylia-meta-tin-peripeteia-ygeias-eikones/",
           "snippet": "Η χθεσινή συναυλία του δεξιοτέχνη του κλαρίνου ήταν sold out, με περίπου 3.500 ανθρώπους να γεμίζουν τον χώρο.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Χάαλαντ: Ο «Βίκινγκ» που τρέλανε τον πλανήτη – Η Νορβηγία ονειρεύεται, τα εκατομμύρια",
-          "url": "https://www.tovima.gr/2026/07/11/finance/xaalant-o-vikingk-pou-trelane-ton-planiti-i-norvigia-oneireyetai-ta-ekatommyria/",
-          "snippet": "Από τα viral βίντεο και τη λατρεία των φιλάθλων μέχρι τα γκολ που έστειλαν τη Νορβηγία στα προημιτελικά του Μουντιάλ, ο Έρλινγκ Χάαλαντ ζει τη μεγαλύτερη στιγμή της καριέρας του, έχοντας ήδη χτίσει μια περιουσία που ξεπερνά τα 100 εκατομμύρια δολάρια.",
-          "source": "To Vima"
         },
         {
           "title": "Ανδρουλάκης από Λήμνο: «Η αναβάθμιση του ΕΣΥ είναι πολιτική προτεραιότητα»",
@@ -90,10 +48,52 @@
           "source": "EfSyn"
         },
         {
-          "title": "Η Επίδαυρος ανεβάζει ρυθμούς: Μεταμεσονύκτιες παραστάσεις, μουσικές διαδρομές και μια νέα εμπειρία για το κοινό",
-          "url": "https://www.tovima.gr/2026/07/11/culture/i-epidayros-anevazei-rythmous-metamesonykties-parastaseis-mousikes-diadromes-kai-mia-nea-empeiria-gia-to-koino/",
-          "snippet": "Η Επίδαυρος δεν είναι φέτος μόνο οι παραστάσεις στο Αρχαίο Θέατρο και τη Μικρή Επίδαυρο. Το Φεστιβάλ Αθηνών Επιδαύρου αξιοποιεί τον αρχαιολογικό χώρο ως πολιτιστικό προορισμό, με μεταμεσονύκτιες παραστάσεις, συναυλίες, παγκόσμιες πρεμιέρες και εικαστικές προτάσεις.",
-          "source": "To Vima"
+          "title": "Δημόσια έκκληση του Γεωργιάδη σε Γκας Μπιλιράκι: «Πες στον Τραμπ ότι είναι μεγάλο πρόβλημα τα F-35 στην Τουρκία»",
+          "url": "https://www.efsyn.gr/politiki/1425639/dimosia-ekklisi-toy-georgiadi-se-gkas-mpiliraki-pes-ston-tramp-oti-einai-megalo-provlima-ta-f-35-stin-toyrkia/",
+          "snippet": "«Η Ελλάδα είναι τα σύνορα της Ευρώπης και της Δύσης και των Ηνωμένων Πολιτειών της Αμερικής».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΣΥΡΙΖΑ: «Πράσινο φως» της Κεντρικής Επιτροπής για την επιστροφή του Παύλου Πολάκη",
+          "url": "https://www.efsyn.gr/politiki/1425658/syriza-prasino-fos-tis-kentrikis-epitropis-gia-tin-epistrofi-toy-payloy-polaki/",
+          "snippet": "Η συνεδρίαση θα... συνεχισθεί το επόμενο Σάββατο – ενσωματώνοντας έτσι σχετική πρόταση του Θεόφιλου Ξανθόπουλου.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στη Λέσβο τη Δευτέρα ο Αλέξης Τσίπρας – Στο επίκεντρο κτηνοτρόφοι και πρωτογενής τομέας",
+          "url": "https://www.efsyn.gr/politiki/1425655/sti-lesvo-ti-deytera-o-alexis-tsipras-sto-epikentro-ktinotrofoi-kai-protogenis-tomeas/",
+          "snippet": "Αναλυτικά το πρόγραμμά του.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ράμμος για Marfin: Λιντσάρισμα και κανιβαλισμός ανθρώπων που μπορεί να αποδειχθεί ότι είναι αθώοι",
+          "url": "https://www.efsyn.gr/politiki/1425634/rammos-gia-marfin-lintsarisma-kai-kanivalismos-anthropon-poy-mporei-na-apodeihthei-oti-einai-athooi/",
+          "snippet": "«Eίναι ωμότατη και εξόφθαλμη παραβίαση του τεκμηρίου αθωότητας».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΣΥΡΙΖΑ: Επεισόδιο στην Κουμουνδούρου με φωνές και σπρωξίματα – Για άσκηση βίας μιλά ο Χρήστος Γιαννούλης",
+          "url": "https://www.efsyn.gr/politiki/1425638/syriza-epeisodio-stin-koymoyndoyroy-me-fones-kai-sproximata-gia-askisi-vias-mila-o-hristos-giannoylis/",
+          "snippet": "Παράλληλα απευθύνει έκκληση για αξιοπρέπεια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Marfin: Η διαδρομή που ακολούθησε η ΕΛ.ΑΣ. για να φτάσει στους τρεις – Τα ψηφιακά ευρήματα έδωσαν απαντήσεις",
+          "url": "https://www.efsyn.gr/ellada/1425628/marfin-i-diadromi-poy-akoloythise-i-el-as-gia-na-ftasei-stoys-treis-ta-psifiaka-eyrimata-edosan-apantiseis/",
+          "snippet": "Η ανακοίνωση της ΕΛ.ΑΣ. για τη σύλληψη των δύο 42χρονων για την Marfin.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Φωτιά στα Λάβαρα Έβρου: Καίει σε κτηνοτροφική μονάδα – Απομακρύνθηκαν 200 ζώα",
+          "url": "https://www.efsyn.gr/ellada/1425621/fotia-sta-lavara-evroy-kaiei-se-ktinotrofiki-monada-apomakrynthikan-200-zoa/",
+          "snippet": "Από τη φωτιά έχουν ήδη προκληθεί σοβαρές ζημιές σε κτηνοτροφική μονάδα με βοοειδή",
+          "source": "EfSyn"
+        },
+        {
+          "title": "H πρόγνωση Κολυδά για τον καιρό του επόμενου 10ημέρου σε έξι πόλεις: «Έρχεται όμορφο ελληνικό καλοκαίρι»",
+          "url": "https://www.efsyn.gr/ellada/1425551/h-prognosi-kolyda-gia-ton-kairo-toy-epomenoy-10imeroy-se-exi-poleis-erhetai-omorfo-elliniko-kalokairi/",
+          "snippet": "Τα νεότερα προγνωστικά στοιχεία δείχνουν ότι η Ελλάδα εισέρχεται σε μια περίοδο με ζέστη, αρκετή ηλιοφάνεια, μελτέμια και μόνο τοπικές απογευματινές αστάθειες κυρίως στα ηπειρωτικά",
+          "source": "EfSyn"
         }
       ]
     },
@@ -101,30 +101,12 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-        "url": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
-        "source": "BBC World"
+        "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
+        "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
+        "snippet": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
+        "source": "NYT World"
       },
       "items": [
-        {
-          "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-          "snippet": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
-          "source": "NYT World"
-        },
-        {
-          "title": "What is going on in Yemen?",
-          "url": "https://www.aljazeera.com/features/2026/7/11/what-is-going-on-in-yemen?traffic_source=rss",
-          "snippet": "Tensions are rising in the battlefield and political sphere. Will the conflict reignite?",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-          "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-          "snippet": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-          "source": "BBC World"
-        },
         {
           "title": "Man Arrested in Killing of U.K. Ex-Lawmaker Is Released",
           "url": "https://www.nytimes.com/2026/07/11/world/europe/uk-ann-widdecombe-suspect-released.html",
@@ -132,34 +114,10 @@
           "source": "NYT World"
         },
         {
-          "title": "China prepares as Typhoon Bavi leaves Taiwan",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan?traffic_source=rss",
-          "snippet": "China prepares as Typhoon Bavi leaves Taiwan",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "Indian tourists among 15 killed as speedboat capsizes in Vietnam",
-          "url": "https://www.bbc.co.uk/news/articles/cwyd7x22lp1o?at_medium=RSS&at_campaign=rss",
-          "snippet": "Local media say 21 people were saved after the boat overturned in rough seas near an island in south Vietnam.",
-          "source": "BBC World"
-        },
-        {
-          "title": "England and Norway, Old Friends, Resurrect a Rivalry for the World Cup",
+          "title": "England and Norway Resurrect a Rivalry for the World Cup",
           "url": "https://www.nytimes.com/2026/07/11/world/europe/england-norway-world-cup.html",
           "snippet": "Along with historic and diplomatic ties, England’s club soccer teams have loyal fans in Norway. On Saturday, supporters will have to pick a side.",
           "source": "NYT World"
-        },
-        {
-          "title": "Zimbabweans return home amid xenophobic violence in South Africa",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/zimbabweans-return-home-amid-xenophobic-violence-in-south-africa?traffic_source=rss",
-          "snippet": "Zimbabweans return home amid xenophobic violence in South Africa",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "China braced for second typhoon in a week as Bavi approaches landfall",
-          "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-          "snippet": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-          "source": "BBC World"
         },
         {
           "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
@@ -168,28 +126,70 @@
           "source": "NYT World"
         },
         {
-          "title": "Sheinbaum takes on cartels, Trump and the legacy of 1968",
-          "url": "https://www.aljazeera.com/features/longform/2026/7/11/sheinbaum-takes-on-cartels-trump-and-the-legacy-of-1968?traffic_source=rss",
-          "snippet": "Claudia Sheinbaum is trying to govern on her own terms — while dealing with Trump, cartels and AMLO&#039;s shadow.",
-          "source": "Al Jazeera"
-        },
-        {
-          "title": "US pays out $3m to victims of mystery Havana Syndrome condition reported by spies",
-          "url": "https://www.bbc.co.uk/news/articles/cr7xyl78vnko?at_medium=RSS&at_campaign=rss",
-          "snippet": "US officials and diplomats and their families began reporting a mysterious illness a decade ago.",
-          "source": "BBC World"
-        },
-        {
           "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
           "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
           "snippet": "The American works for the humanitarian organization Samaritan’s Purse, American and African health officials said.",
           "source": "NYT World"
         },
         {
-          "title": "Speedboat accident in southern Vietnam kills 15 Indian tourists",
-          "url": "https://www.aljazeera.com/news/2026/7/11/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists?traffic_source=rss",
-          "snippet": "The Indian embassy says it has set up control rooms to respond to victims&#039; families.",
-          "source": "Al Jazeera"
+          "title": "After Being Delayed by Trump, a Canada-U.S. Bridge is Set to Open",
+          "url": "https://www.nytimes.com/2026/07/10/world/canada/gordie-howe-bridge-canada-us-michigan.html",
+          "snippet": "A deal ended the Trump administration’s blocking of a new bridge that will ease congestion at the busiest trade corridor between the United States and Canada.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Iran’s Supreme Leader Remains Absent, a Void at the Top of the Regime",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-supreme-leader-mojtaba-khamenei.html",
+          "snippet": "Ayatollah Mojtaba Khamenei did not appear at his father’s funeral this week, fueling speculation about his physical condition and leaving a power vacuum in a divided country.",
+          "source": "NYT World"
+        },
+        {
+          "title": "At Least 12 People Die in Southern Spain Wildfire",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html",
+          "snippet": "The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.",
+          "source": "NYT World"
+        },
+        {
+          "title": "After Venezuela Earthquakes, a Youth Baseball League Counts the Dead",
+          "url": "https://www.nytimes.com/2026/07/10/world/americas/venezuela-earthquake-death-baseball-los-criollitos.html",
+          "snippet": "Children who played for Venezuela’s youth baseball league, a symbol of national pride, have been left injured, orphaned or dead.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Moscow Still Has Art and Culture. Just Don’t Say ‘Ukraine.’",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/russia-moscow-ukraine-war.html",
+          "snippet": "An eerie limbo prevails at small art shows, independent theaters and private political clubs, where the war is the elephant in the room.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html",
+          "snippet": "Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Fighting Fires With Figures, These Experts Are Trying to Stop Europe From Burning",
+          "url": "https://www.nytimes.com/2026/07/10/world/europe/fire-climate-change-heat-wave-global-warming.html",
+          "snippet": "A team of engineers, foresters and scientists is helping the continent prepare for wildfires from a giant science park in Italy. Their arsenal includes satellites, weather models and expert analysis.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Mediators Trying to Pull U.S. and Iran Back From Brink, Officials Say",
+          "url": "https://www.nytimes.com/2026/07/10/world/middleeast/iran-us-ceasefire-talks.html",
+          "snippet": "Qatari mediators were in Iran seeking to salvage the tattered truce. President Trump said talks with Tehran would continue, even if the cease-fire was “over.”",
+          "source": "NYT World"
+        },
+        {
+          "title": "Meet Neil, Australia’s Celebrity Seal",
+          "url": "https://www.nytimes.com/2026/07/10/world/australia/neil-seal-australia-tasmania.html",
+          "snippet": "The young elephant seal has gained fans around the world. But the authorities warn he could be in danger of being loved to death.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Boat Carrying Dozens of Tourists Capsizes in Vietnam",
+          "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
+          "snippet": "A speedboat carrying 36 people overturned near the island of Phu Quoc in southern Vietnam. Local media reported that 15 people had died and that the others had been rescued.",
+          "source": "NYT World"
         }
       ]
     },
@@ -197,35 +197,17 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "A Jupiter-size planet that escaped its star's death",
-        "url": "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-        "snippet": "It's unclear how the planet avoided its star's bloated red giant stage.",
-        "source": "Ars Technica"
+        "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
+        "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
+        "snippet": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
+        "source": "TechCrunch"
       },
       "items": [
-        {
-          "title": "US cybersecurity agency CISA had to build its incident playbook during the incident, agency reveals",
-          "url": "https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/",
-          "snippet": "Independent cybersecurity journalist Brian Krebs reported in May that a security researcher with cyber firm GitGuardian alerted him to reams of exposed passwords stored in a publicly accessible GitHub repository, which an employee of a CISA contractor had uploaded.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Overhaul of public lands grazing regulations seeks to cut public involvement",
-          "url": "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
-          "snippet": "For the first time since 1995, the Bureau of Land Management is rewriting its grazing regulations.",
-          "source": "Ars Technica"
-        },
         {
           "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
           "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
           "snippet": "Phia, the shopping startup founded by Bill Gates’ daughter, Phoebe, and her friend Sophia Kianni is under fire for a practice known as “cookie stuffing,” which helped the product receive commissions and credit for sales it did not actually generate, per a Bloomberg investigation.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Quantum error correction can constantly recalibrate a processor",
-          "url": "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
-          "snippet": "Reinforcement learning uses error information to adjust control algorithms.",
-          "source": "Ars Technica"
         },
         {
           "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -234,22 +216,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Increased drone surveillance of illegal July 4th fireworks led to $100K fine",
-          "url": "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-          "snippet": "More police and firefighters use drones to catch and deter illegal fireworks.",
-          "source": "Ars Technica"
-        },
-        {
           "title": "Bluesky’s interim CEO, Toni Schneider, drops the ‘interim’",
           "url": "https://techcrunch.com/2026/07/10/blueskys-interim-ceo-toni-schneider-drops-the-interim/",
           "snippet": "Schneider, who formerly served as the CEO of Automattic and is a partner at True Ventures, says he is \"all in\" on the unconventional social media platform.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "China recovered its first reusable rocket and showed a new way to do it",
-          "url": "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-          "snippet": "\"Clearly, they admire the work that's being done by SpaceX and are trying to replicate it.\"",
-          "source": "Ars Technica"
         },
         {
           "title": "Apple sues OpenAI over alleged trade secret theft",
@@ -258,22 +228,10 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Check out the first images of Quest shipwreck",
-          "url": "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
-          "snippet": "The Quest shipwreck is in worse shape than expected, but it has turned into a thriving marine ecosystem.",
-          "source": "Ars Technica"
-        },
-        {
           "title": "Filing: College app Fizz accuses VC of sharing confidential startup information with rival Sidechat",
           "url": "https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/",
           "snippet": "Fizz has expanded its lawsuit against rival Sidechat, alleging that a Maveron VC shared its confidential information obtained during a fundraising meeting with the competing startup.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Ransomware negotiator hired to represent victims was working for the attackers",
-          "url": "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
-          "snippet": "Six years in prison for man who \"sold out the very victims he was hired to represent.\"",
-          "source": "Ars Technica"
         },
         {
           "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
@@ -282,10 +240,52 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Study shows how toxic RFK Jr.’s change to measles vaccine is for US toddlers",
-          "url": "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-          "snippet": "The children who get a combination shot are some of the most vulnerable.",
-          "source": "Ars Technica"
+          "title": "A new app, HyperTexting, turns the open web into a scrollable social media-like feed",
+          "url": "https://techcrunch.com/2026/07/10/a-new-app-hypertexting-turns-the-open-web-into-a-scrollable-social-media-like-feed/",
+          "snippet": "HyperTexting's new app aims to make the open web feel more like social media by turning websites, blogs, newsletters, and podcasts into a scrollable feed, while also making it easier to post to your own website.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "China is catching up to Elon Musk’s reusable rockets",
+          "url": "https://techcrunch.com/2026/07/10/china-is-catching-up-to-elon-musks-reusable-rockets/",
+          "snippet": "China's state-owned space company recovered its first orbital rocket booster after launch.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Disney+ is considering a free streaming tier, report says",
+          "url": "https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/",
+          "snippet": "The launch of free content would allow Disney+ to better compete with free services like YouTube and Tubi, which are capturing a growing share of consumers’ viewing time.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Dumb Co dared me to trade my iPhone for a hacked flip phone",
+          "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
+          "snippet": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
+          "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
+          "snippet": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Netflix could be planning ‘always-on’ live TV channels",
+          "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
+          "snippet": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+          "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+          "snippet": "The tech giant is in breach of the Digital Services Act by focusing on features like infinite scroll, autoplay, push notifications, and the highly personalized recommendation algorithms, the European Commission said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Florida ransomware negotiator convicted for helping ransomware gang extort US companies",
+          "url": "https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/",
+          "snippet": "A third ransomware negotiator has been jailed for helping a notorious ransomware group extort American victim companies into paying the hackers.",
+          "source": "TechCrunch"
         }
       ]
     },
@@ -293,287 +293,191 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "«Γύρισε σπίτι του»: Επίσημη η επιστροφή του Μπατίστ στον Παναθηναϊκό",
-        "url": "https://www.skai.gr/news/sports/gyrise-spiti-tou-episimi-i-epistrofi-tou-mpatist-ston-panathinaiko",
-        "snippet": "Ο Μάικ Μπατίστ επέστρεψε στον Παναθηναϊκό AKTOR και θα αποτελέσει τον άμεσο συνεργάτη του Ζέλικο Ομπράντοβιτς",
-        "source": "Skai Sports"
+        "title": "Μουντιάλ 2026: Πέθανε ο 25χρονος Τζέιντεν Άνταμς της Νότιας Αφρικής",
+        "url": "https://www.gazzetta.gr/football/mundial/2553590/moyntial-2026-pethane-o-25hronos-tzeinten-antams-tis-notias-afrikis",
+        "snippet": "Τραγικά νέα για τη Νότια Αφρική και το παγκόσμιο ποδόσφαιρο, καθώς πέθανε ο 25χρονος Τζέιντεν Άνταμς που αγωνίστηκε στο Μουντιάλ 2026.",
+        "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Τσέντι Όσμαν: Οι στιγμές, οι κούπες, το αντίο και η επόμενη ημέρα",
-          "url": "https://www.skai.gr/news/sports/tsenti-osman-oi-stigmes-oi-koupes-to-antio-kai-i-epomeni-imera",
-          "snippet": "Ο Τούρκος φόργουορντ επέλεξε ένα νέο project, επέλεξε κάτι καινούργιο. Ο Σεβασμός παραμένει, η ζωή προχωράει",
-          "source": "Skai Sports"
+          "title": "MotoGP, Γερμανία: Νίκη-ρεκόρ για Μ. Μάρκεθ στον Αγώνα Σπριντ",
+          "url": "https://www.gazzetta.gr/gmotion/2553589/motogp-germania-niki-rekor-gia-m-marketh-ston-agona-sprint",
+          "snippet": "Ο Μαρκ Μάρκεθ της Ducati Corse ήταν ο μεγάλος νικητής στον αγώνα σπριντ του MotoGP στο Σάχσενρινγκ και μείωσε τη διαφορά από την κορυφή της βαθμολογίας.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Μπαμ από Εφές: Ανακοίνωσε τον Μάικ Τζέιμς",
-          "url": "https://www.skai.gr/news/sports/mpam-apo-efes-anakoinose-ton-maik-tzeims",
-          "snippet": "Ο Μάικ Τζέιμς θα συνεχίσει την καριέρα του στην Αναντολού Εφές υπογράφοντας συμβόλαιο για ένα συν ένα χρόνια",
-          "source": "Skai Sports"
+          "title": "Ντάουτιν: Ο παίκτης που είναι σε επαφές με την ΑΕΚ είχε κάνει career high κόντρα στον Ολυμπιακό",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2553588/ntaoytin-o-paiktis-poy-einai-se-epafes-me-tin-aek-eihe-kanei-career",
+          "snippet": "H AEK είναι σε επαφές με τον Τζεφ Ντάουτιν και παλεύει για μια σπουδαία κίνηση ενός παίκτη που είχε εντυπωσιάσει στο ματς της Μακάμπι με τον Ολυμπιακό στη Εuroleague.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός – Γκρασχόπερ: Η Λεωφόρος γεμίζει για τον Νίστρουπ και την ομάδα του",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-gkrasxoper-i-leoforos-gemizei-gia-ton-nistroup-kai-tin-omada",
-          "snippet": "Ο Παναθηναϊκός πατά ξανά το χορτάρι της Λεωφόρου και οι εξέδρες γεμίζουν για ένα φιλικό στο πρώτο 10ήμερο Ιουλίου για παιχνίδι καλοκαιρινής προετοιμασίας",
-          "source": "Skai Sports"
+          "title": "ΠΑΟΚ - Τβέντε: Με Παβλένκα και την «πρόβα» της βασικής ενδεκάδας",
+          "url": "https://www.gazzetta.gr/football/superleague/2553586/paok-tbente-me-pablenka-kai-tin-proba-tis-basikis-endekadas",
+          "snippet": "Ο Αλέσιο Λίσι ξεκινάει με την καλύτερη δυνατή σύνθεση, σε μία πρόβα με ξεκάθαρο βλέμμα στην ευρωπαϊκή πρεμιέρα της 23ης Ιουλίου. ΑΠΟΣΤΟΛΗ - ΑΡΝΕΜ: ΣΤΑΥΡΟΣ ΣΟΥΝΤΟΥΛΙΔΗΣ.",
+          "source": "Gazzetta"
         },
         {
-          "title": "«Βόμβα» μεγατόνων από τον μπασκετικό ΠΑΟΚ: Παίρνει τον Τζέντι Όσμαν με ηγεμονικό συμβόλαιο",
-          "url": "https://www.skai.gr/news/sports/vomva-megatonon-apo-ton-mpasketiko-paok-pairnei-ton-tzenti-osman-me-igemoniko-symvolaio",
-          "snippet": "Ο Τούρκος φόργουορντ αποχωρεί από τον Παναθηναϊκό καθώς έφερε μυθική πρόταση - «Με στεναχωρεί η απόφασή σου», η ανάρτηση του Δημήτρη Γιαννακόπουλου",
-          "source": "Skai Sports"
+          "title": "Παράξενο περιστατικό σε σχολείο στις Φιλιππίνες: Μαθητές έκλαιγαν, φώναζαν και κατέρρευσαν χωρίς εξήγηση",
+          "url": "https://www.gazzetta.gr/plus/2553581/paraxeno-peristatiko-se-sholeio-stis-filippines-mathites-eklaigan-fonazan-kai",
+          "snippet": "Έξι μαθητές σε λύκειο στις Φιλιππίνες παρουσίασαν παράξενη συμπεριφορά και λιποθύμησαν. Το περιστατικό προκάλεσε φόβους για... υπερφυσική παρέμβαση.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Τελική πρόταση για Φαν Ντρόγκελεν, άμεσες εξελίξεις",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-teliki-protasi-gia-fan-ntrogkelen-ameses-ekselikseis",
-          "snippet": "Ο Παναθηναϊκός έχει θέσει ως προτεραιότητα την απόκτηση του Ρικ Φαν Ντρόγκελεν, ο οποίος είναι η πρώτη επιλογή των Κοτσόλη και Νίστρουπ",
-          "source": "Skai Sports"
+          "title": "Ολυμπιακός - Λεουβέν 1-1: «Χ»αλαρό μεσημέρι!",
+          "url": "https://www.gazzetta.gr/football/superleague/2553585/olympiakos-leoyben-1-1-halaro-mesimeri",
+          "snippet": "Ξεμούδιασμα με ισοπαλία για τον Ολυμπιακό, στο μεσημεριανό φιλικό προετοιμασίας με αντίπαλο την Λέουβεν (1-1). Οι Πειραιώτες σκόραραν με τον Αντρέ Λουίζ που είναι στο στόχαστρο του Κάνσας.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Εκπληκτικός Τεντόγλου: Πέταξε στα 8,61μ. και έκανε την κορυφαία επίδοση φέτος στον κόσμο",
-          "url": "https://www.skai.gr/news/sports/spoudaios-tentoglou-petakse-sta-852m-kai-ekane-tin-koryfaia-epidosi-ston-kosmo",
-          "snippet": "Ο 28χρονος δις χρυσός Ολυμπιονίκης πραγματοποίησε στο Μονακό τον κορυφαίο ίσως αγώνα της σπουδαίας καριέρας του, κατακτώντας την 1η θέση στο Diamond League",
-          "source": "Skai Sports"
+          "title": "Ο Αντρέ Λουίζ είναι εδώ: Η γκολάρα του στο φιλικό με τη Λέουβεν!",
+          "url": "https://www.gazzetta.gr/football/superleague/2553584/o-antre-loyiz-einai-edo-i-gkolara-toy-sto-filiko-me-ti-leoyben",
+          "snippet": "Απίθανο γκολ του Βραζιλιάνου εξτρέμ με τον Ζέλσον να φτιάχνει την φάση του 1-0 του Ολυμπιακού με τη Λέουβεν.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Απόψε στην Αθήνα ο Πελίστρι - Το πρόγραμμα της ενσωμάτωσής του",
-          "url": "https://www.skai.gr/news/sports/panathinaikos-apopse-stin-athina-o-pelistri-to-programma-tis-ensomatosis-tou",
-          "snippet": "Ο Φακούντο Πελίστρι επιστρέφει σήμερα την Ελλάδα μετά την άδεια που είχε από τον Παναθηναϊκό λόγω Μουντιάλ, ενώ αύριο θα περάσει από εργομετρικά",
-          "source": "Skai Sports"
+          "title": "8 μικρές ευρωπαϊκές πόλεις που κάθε λάτρης του κρασιού πρέπει να επισκεφθεί",
+          "url": "https://www.gazzetta.gr/plus/2553582/8-mikres-eyropaikes-poleis-poy-kathe-latris-toy-krasioy-prepei-na-episkefthei",
+          "snippet": "Από τη Βουργουνδία μέχρι τη Σαντορίνη, ανακαλύψτε οκτώ προορισμούς όπου το κρασί, η παράδοση και τα μαγευτικά τοπία συνθέτουν την απόλυτη εμπειρία οινοτουρισμού",
+          "source": "Gazzetta"
         },
         {
-          "title": "Η τεχνολογία υποτίθεται ότι θα έκανε το ποδόσφαιρο πιο δίκαιο",
-          "url": "https://www.skai.gr/news/mundial-2026/i-texnologia-ypotithetai-oti-tha-ekane-to-podosfairo-pio-dikaio",
-          "snippet": "Μηχανές που μετρούν το οφσάιντ μέχρι το χιλιοστό και αισθητήρες στην μπάλα που ανιχνεύουν ακόμη και μία τρίχα, δεν λύνουν το πρόβλημα της διαφάνειας",
-          "source": "Skai Sports"
+          "title": "Βάγια Νέστορα: Στον εισαγγελέα οι τρεις συλληφθέντες για τη φονική εμπρηστική επίθεση",
+          "url": "https://www.gazzetta.gr/plus/2553579/bagia-nestora-ston-eisaggelea-oi-treis-syllifthentes-gia-ti-foniki-empristiki-epithesi",
+          "snippet": "Οι τρεις συλληφθέντες για τη φονική εμπρηστική επίθεση στη Θεσσαλονίκη οδηγήθηκαν στον εισαγγελέα. Οι έρευνες της Αντιτρομοκρατικής και το κρησφύγετο.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Απίστευτος Λεσόρ: Η ”πράσινη” λεπτομέρεια που έχει στο Batmobile του (pic)",
-          "url": "https://www.skai.gr/news/sports/apisteytos-lesor-i-prasini-leptomereia-pou-exei-sto-batmobile-tou-pic",
-          "snippet": "Απίστευτός Λεσόρ με συμβολική κίνηση στο αυτοκίνητο του",
-          "source": "Skai Sports"
+          "title": "Ολυμπιακός: Αποχώρησε τραυματίας ο Κλέιτον, ο λόγος της απουσίας του Μουζακίτη",
+          "url": "https://www.gazzetta.gr/football/superleague/2553578/olympiakos-apohorise-traymatias-o-kleiton-o-logos-tis-apoysias-toy",
+          "snippet": "Ο Κλέιτον χρειάστηκε να αντικατασταθεί μόλις στο 6ο λεπτό του φιλικού του Ολυμπιακού με τη Λέουβεν, καθώς αισθάνθηκε ενοχλήσεις στον οπίσθιο μηριαίο.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Η Μπαρτσελόνα συμφώνησε με Ντόρτμουντ για την απόκτηση του Αντεγέμι",
-          "url": "https://www.skai.gr/news/sports/mpartselona-symfonise-me-ntortmount-gia-antegemi",
-          "snippet": "Η Μπαρτσελόνα συμφώνησε με την Ντόρτμουντ για την απόκτηση του 24χρονου επιθετικού, Καρίμ Αντεγέμι",
-          "source": "Skai Sports"
+          "title": "Μετάλλια, κορύφωση, γλέντι, απονομές και πολύ κέφι στο Masters Οpen της FIBA",
+          "url": "https://www.gazzetta.gr/basketball/2553577/metallia-koryfosi-glenti-aponomes-kai-poly-kefi-sto-masters-open-tis-fiba",
+          "snippet": "To FIBA Masters Open φτάνει προς το τέλος του στα γήπεδα της Δυτικής Αττικής και της Κορινθίας, με την Ελλάδα ως πρώτη διοργανώτρια.",
+          "source": "Gazzetta"
         },
         {
-          "title": "«Ο καπετάνιος μένει στο λιμάνι»: Ανανέωσε με Ολυμπιακό ο Κώστας Παπανικολάου",
-          "url": "https://www.skai.gr/news/sports/i-simaia-ston-isto-tis-ananeose-me-ton-olympiako-o-kostas-papanikolaou",
-          "snippet": "Ο Κώστας Παπανικολάου θα συνεχίσει για δυο ακόμη χρόνια στον Ολυμπιακό, με τους «ερυθρόλευκους» να ανακοινώνουν την επέκταση της συνεργασίας τους",
-          "source": "Skai Sports"
+          "title": "GAC AION V: Ηλεκτρικό SUV με 510 χλμ. αυτονομία και νέα καλοκαιρινή τιμή",
+          "url": "https://www.gazzetta.gr/gmotion/2553567/gac-aion-v-ilektriko-suv-me-510-hlm-aytonomia-kai-nea-kalokairini-timi",
+          "snippet": "Η GAC AION ανακοίνωσε καλοκαιρινή προσφορά για το ηλεκτρικό AION V Premium στα €26.900, για ετοιμοπαράδοτα οχήματα με ταξινόμηση έως τις 31 Αυγούστου.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Σήκωσε μανίκια στη Ρεάλ ο Μουρίνιο: «Τα λόγια δεν αρκούν, γιατί αυτό το αισθάνομαι ως αποστολή»",
-          "url": "https://www.skai.gr/news/sports/mourinio-sti-real-aisthanomai-os-apostoli-to-oti-eimai-edo",
-          "snippet": "Ο Special One μοιράστηκε τις σκέψεις του στο κανάλι των Ισπανών, εκεί όπου αναφέρθηκε στα συναισθήματά του για την επιστροφή του στη Ρεάλ",
-          "source": "Skai Sports"
+          "title": "Φενέρμπαχτσε: Έκανε δικό της τον Μπράξτον Κι για τα επόμενα δύο χρόνια",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2553576/fenermpahtse-ekane-diko-tis-ton-mpraxton-ki-gia-ta-epomena-dyo-hronia",
+          "snippet": "Στη Φενέρμπαχτσε θα συνεχίσει την καριέρα του ο Μπράξτον Κι για τα επόμενα δύο χρόνια, όπως έκανε γνωστό η τουρκική ομάδα μέσω ανακοίνωσής της.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Ο Λανουά καταθέτει πρόταση για Έλληνες διαιτητές στα ντέρμπι της νέας σεζόν",
-          "url": "https://www.skai.gr/news/sports/i-protasi-tou-lanoua-gia-tous-ellines-diaitites-sta-ntermpi-tis-neas-sezon",
-          "snippet": "Η πρόταση εστάλη στα μέλη της Επιτροπής και στους εκπροσώπους των ΠΑΕ που συμμετέχουν σε αυτή, ώστε να υπάρχει χρόνο να την εξετάσουν",
-          "source": "Skai Sports"
+          "title": "Γκολ-ποίημα του Τζόλη κόντρα στη Φέγενορντ υπό το βλέμμα της Άρσεναλ!",
+          "url": "https://www.gazzetta.gr/football/diethni-filika/2553575/gkol-poiima-toy-tzoli-kontra-sti-fegenornt-ypo-blemma-tis-arsenal",
+          "snippet": "Ο Χρήστος Τζόλης πέτυχε ένα γκολ ποίημα στη φιλική αναμέτρηση της Κλαμπ Μπριζ με τη Φέγενορντ, τη στιγμή που η μεταγραφή του στην Άρσεναλ βρίσκεται στα τελικά της στάδια.",
+          "source": "Gazzetta"
         },
         {
-          "title": "Επίσημο: Νέος προπονητής της εθνικής Πορτογαλίας ο Ζόρζε Ζεσούς",
-          "url": "https://www.skai.gr/news/sports/ena-neo-taksidi-arxizei-neos-proponitis-tis-ethnikis-portogalias-o-zorze-zesous",
-          "snippet": "Την πρόσληψη του Ζόρζε Ζεσούς για την ανάληψη της εθνικής ομάδας ανακοίνωσε η ποδοσφαιρική ομοσπονδία της Πορτογαλίας",
-          "source": "Skai Sports"
+          "title": "Ολυμπιακός: Ο λόγος της απουσίας του Ζότα από τον αγώνα με τη Λέουβεν",
+          "url": "https://www.gazzetta.gr/football/superleague/2553572/olympiakos-o-logos-tis-apoysias-toy-zota-apo-ton-agona-me-ti-leoyben",
+          "snippet": "Ο Ζότα Σίλβα βρίσκεται εκτός αποστολής για τη φιλική αναμέτρηση του Ολυμπιακού με τη Λέουβεν, για να δώσει το «παρών» στην πιο ευχάριστη στιγμή της ζωής του.",
+          "source": "Gazzetta"
         }
       ]
     },
     {
-      "id": "markets",
-      "title": "Markets",
+      "id": "art-science",
+      "title": "Art / Science",
       "lead": {
-        "title": "Bitcoin treasury company Empery Digital sold about half of its BTC stack",
-        "url": "https://www.coindesk.com/markets/2026/07/11/bitcoin-treasury-company-empery-digital-sold-about-half-of-btc-stack",
-        "snippet": "It's a sign of the times as the troubled company swaps its bitcoin treasury ambitions for AI data centers.",
-        "source": "CoinDesk"
+        "title": "How Olivia Wilde Builds Comic Tension in ‘The Invite’",
+        "url": "https://www.nytimes.com/2026/07/10/movies/the-invite-clip-olivia-wilde.html",
+        "snippet": "The director and actress discusses a tense scene from her dinner-party comedy, in which she stars with Seth Rogen, Penélope Cruz and Edward Norton.",
+        "source": "NYT Arts"
       },
       "items": [
         {
-          "title": "Bitcoin nearing late stages of bear market: Jamie Coutts, Real Vision",
-          "url": "https://cointelegraph.com/features/bitcoin-is-approaching-the-second-half-of-the-bear-market-jamie-coutts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "snippet": "Real Vision chief crypto analyst Jamie Coutts said it's far too early to call $1 million by 2030, but he's confident Bitcoin could climb up to $250,000 over the next couple of years.",
-          "source": "Cointelegraph"
+          "title": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
+          "url": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
+          "snippet": "A space neophyte not long ago, China is now the United States’s main competitor for supremacy throughout the solar system.",
+          "source": "NYT Science"
         },
         {
-          "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-          "url": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-          "snippet": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
-          "source": "MarketWatch"
+          "title": "Review: ‘Suddenly Last Summer’ Opera Premieres at Bard",
+          "url": "https://www.nytimes.com/2026/07/10/arts/music/suddenly-last-summer-opera-bard-review.html",
+          "snippet": "Tennessee Williams’s darkly operatic one-act play becomes a proper opera in a new adaptation by the composer Courtney Bryan.",
+          "source": "NYT Arts"
         },
         {
-          "title": "AI found an Ethereum bug that could take validators offline, but humans had to prove it",
-          "url": "https://www.coindesk.com/tech/2026/07/10/ai-found-an-ethereum-bug-that-could-take-validators-offline-but-humans-had-to-prove-it",
-          "snippet": "The Ethereum Foundation pointed coordinated AI agents at the software its validators run and got a remotely triggerable crash out of it. It also got a pile of confident, well-written findings that were not bugs at all.",
-          "source": "CoinDesk"
+          "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "snippet": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
+          "source": "NYT Science"
         },
         {
-          "title": "Ethereum climbs 3% on tokenization boom: Can bulls push ETH price past $1,800?",
-          "url": "https://cointelegraph.com/markets/ethereum-climbs-3-on-tokenization-boom-can-bulls-push-eth-price-past-1800?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "snippet": "Despite strong tokenization gains and institutional accumulation, weak onchain and derivatives data leaves ETH vulnerable to a $1,700 retest.",
-          "source": "Cointelegraph"
+          "title": "‘The Chosen’ Studio Is Accused of Shortchanging Crowdfunders",
+          "url": "https://www.nytimes.com/2026/07/10/arts/television/chosen-investors-lawsuit.html",
+          "snippet": "A lawsuit by a former shareholder says he was not fairly compensated when the company behind the popular drama about Jesus’ life went private.",
+          "source": "NYT Arts"
         },
         {
-          "title": "‘Day-to-day dread’ haunts frustrated job seekers in era of low hiring. When will it end?",
-          "url": "https://www.marketwatch.com/story/day-to-day-dread-haunts-frustrated-job-seekers-in-era-of-low-hiring-when-will-it-end-76640caf?mod=mw_rss_topstories",
-          "snippet": "Finding a job was easy a few years ago. Now, Americans are worried about their job prospects, even though the unemployment rate is historically low.",
-          "source": "MarketWatch"
+          "title": "Your Cat Is Being Nice? Think Again.",
+          "url": "https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html",
+          "snippet": "A new study finds that sometimes cats groom each other specifically to be annoying.",
+          "source": "NYT Science"
         },
         {
-          "title": "Bitcoin analysts predict $300,000–$500,000 price in 2029. The math says no",
-          "url": "https://www.coindesk.com/markets/2026/07/10/bitcoin-analysts-predict-usd300-000-usd500-000-price-in-2029-the-math-says-no",
-          "snippet": "Analysts predict a rally to $300,000 or more by 2029. But key data suggests the era of moonshots may be over.",
-          "source": "CoinDesk"
+          "title": "Bayeux Tapestry Arrives in U.K. After Maximum-Security Operation",
+          "url": "https://www.nytimes.com/2026/07/10/arts/design/bayeux-tapestry-british-museum.html",
+          "snippet": "The 11th-century tapestry will go on display at the British Museum in September. Tickets for the exhibition have already been selling rapidly.",
+          "source": "NYT Arts"
         },
         {
-          "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
-          "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "snippet": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra’s on-chain oracle verifier.",
-          "source": "Cointelegraph"
+          "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
+          "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
+          "snippet": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
+          "source": "NYT Science"
         },
         {
-          "title": "Regular water is no longer enough. Welcome to the corporate gold rush around ‘functional hydration.’",
-          "url": "https://www.marketwatch.com/story/regular-water-is-no-longer-enough-welcome-to-the-corporate-gold-rush-around-functional-hydration-6c768bdd?mod=mw_rss_topstories",
-          "snippet": "Social media and GLP-1s are spurring increased interest in hydration products, and companies are responding with things like electrolyte mixes and “hydrating hot chocolate.”",
-          "source": "MarketWatch"
+          "title": "CeCe Winans Revisits Pared-Down Worship Music on ‘The Hymns’",
+          "url": "https://www.nytimes.com/2026/07/10/arts/music/cece-winans-the-hymns-gospel-worship.html",
+          "snippet": "Best known for contemporary stylings of praise music that topped charts across genres, this singer’s new album of pared-down sacred music, “The Hymns,” put her back atop the gospel charts.",
+          "source": "NYT Arts"
         },
         {
-          "title": "Meta's Chief Data Officer Says Agentic Commerce is the \"Next Tier of Business\"",
-          "url": "https://www.coindesk.com/coindesk-news/2026/07/10/meta-s-chief-data-officer-says-agentic-commerce-is-the-next-tier-of-business",
-          "snippet": "Alex Schultz says stablecoins are assumed inside Meta. The harder problem is getting the rest of the world there.",
-          "source": "CoinDesk"
+          "title": "She Studied Ways to Make People Smarter. Then Her Grant Was Cut.",
+          "url": "https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html",
+          "snippet": "Jessica Cantlon had a grant with the U.S. Navy to explore whether people could improve spatial problem-solving skills through training. Then the program was cut.",
+          "source": "NYT Science"
         },
         {
-          "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
-          "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "snippet": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
-          "source": "Cointelegraph"
+          "title": "Dinaw Mengestu Resigns as PEN America President After 7 Months in Role",
+          "url": "https://www.nytimes.com/2026/07/10/arts/pen-america-dinaw-mengestu-resigns.html",
+          "snippet": "The novelist Dinaw Mengestu, who was elected seven months ago, said the article “continues this approach toward defending some rights while not defending others.”",
+          "source": "NYT Arts"
         },
         {
-          "title": "The U.S. stock market is becoming ‘too big to fail’",
-          "url": "https://www.marketwatch.com/story/the-u-s-stock-market-is-becoming-too-big-to-fail-b3473e40?mod=mw_rss_topstories",
-          "snippet": "Why protracted bear markets may be a thing of the past.",
-          "source": "MarketWatch"
+          "title": "This Star Just Ate a Planet, and It’s Not Done Yet",
+          "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+          "snippet": "A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.",
+          "source": "NYT Science"
         },
         {
-          "title": "U.S. government digital dollar set to be banned tonight under housing law's CBDC limit",
-          "url": "https://www.coindesk.com/policy/2026/07/10/u-s-government-digital-dollar-set-to-be-banned-tonight-under-housing-law-s-cbdc-limit",
-          "snippet": "Despite President Donald Trump's refusal to sign Congress' bipartisan housing bill, it's set to go into effect at midnight, and its temporary CBDC ban along with it.",
-          "source": "CoinDesk"
+          "title": "Jay-Z’s Definitive Album? Debating ‘Reasonable Doubt’ vs. ‘The Blueprint’",
+          "url": "https://www.nytimes.com/2026/07/10/podcasts/best-jay-z-album-popcast.html",
+          "snippet": "Ahead of the rapper’s three celebratory nights at Yankee Stadium, our “Popcast” hosts debate two major Jay-Z albums.",
+          "source": "NYT Arts"
         },
         {
-          "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
-          "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "snippet": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
-          "source": "Cointelegraph"
+          "title": "I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents",
+          "url": "https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html",
+          "snippet": "The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.",
+          "source": "NYT Science"
         },
         {
-          "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
-          "url": "https://www.marketwatch.com/story/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy-959ac784?mod=mw_rss_topstories",
-          "snippet": "Kevin Warsh will testify before Congress for the first time as Fed chair this week. Lawmakers will want answers.",
-          "source": "MarketWatch"
-        }
-      ]
-    },
-    {
-      "id": "gaming",
-      "title": "D&D / Gaming",
-      "lead": {
-        "title": "Nintendo officially ending a Mario Kart is a terrible sign for millions of gamers",
-        "url": "https://www.polygon.com/switchboard-mario-kart-tour-end-of-service/",
-        "snippet": "The mobile Mario Kart game will shut down in September, which is common enough, but rare for Nintendo",
-        "source": "Polygon"
-      },
-      "items": [
-        {
-          "title": "Obsidian game director reacts to people \"spouting off\" about the studio and how it's not what it \"used to be\"",
-          "url": "https://www.eurogamer.net/obsidian-director-disputes-studio-not-what-it-used-to-be",
-          "snippet": "A director at Obsidian Entertainment has shared their thoughts about the \"extremely difficult week\" at the studio, stressing how hard it's been to see \"a bunch of cold take artists coming out of the woodwork\" and \"spouting off\" about \"what Obsidian is or what it isn't\". Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Assassin’s Creed remake made a huge mistake cutting the best part of Black Flag",
-          "url": "https://www.polygon.com/assassins-creed-4-black-flag-resynced-modern-day/",
-          "snippet": "Assassin's Creed: Black Flag Resynced features plenty of great changes, but Ubisoft's decision to cut the original's meta story is a miss.",
-          "source": "Polygon"
-        },
-        {
-          "title": "As Criterion rebrands on its 30th anniversary, are its beloved racing franchises like Burnout falling away in the rearview mirror?",
-          "url": "https://www.eurogamer.net/criterion-racing-games-battlefield-6-burnout",
-          "snippet": "Criterion, a legendary UK development studio, is going through something of a re-brand. Its legacy is built upon a foundation of classics, Burnout Paradise and Star Wars: Battlefront to name but a few. However these days, it now finds itself one of many Battlefield Studios, a col",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Sonic the Hedgehog’s creators accidentally made the best Christmas video game ever",
-          "url": "https://www.polygon.com/nights-into-dreams-30th-anniversary-sega-saturn/",
-          "snippet": "30 years ago, Sonic Team's experimental platformer for the new Sega Saturn console birthed a Christmas spinoff that was full of potential",
-          "source": "Polygon"
-        },
-        {
-          "title": "What we've been playing - \"I can't sit and do nothing other than melt into my sofa\"",
-          "url": "https://www.eurogamer.net/what-weve-been-playing-melt-into-my-sofa",
-          "snippet": "Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, everyone's hot again. Nice of you to notice, Bertie. Kelsey's getting into embroidery with Silksong providing artistic inspiration; Bertie's banging on about the t",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Jason Statham's highest-rated action movie is completely free to stream now",
-          "url": "https://www.polygon.com/furious-7-free-on-tubi-jason-statham/",
-          "snippet": "Starring Vin Diesel, Paul Walker, and Jason Statham, Furious 7 is currently available to stream for free on Tubi",
-          "source": "Polygon"
-        },
-        {
-          "title": "\"Just too gay\" - Robert Yang is battling censorship to launch a collection of his award-winning games on Steam and Itch, and it's completely free",
-          "url": "https://www.eurogamer.net/robert-yang-radiator-forever-collection-steam-itch-free",
-          "snippet": "Robert Yang, the award-winning designer behind the likes of The Tearoom and Rinse and Repeat, is battling increasingly restrictive rules adopted by digital storefronts to launch an \"ongoing re-remaster\" compilation of his short experimental games. It's called Radiator Forever and",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Cyberpunk Edgerunners 2, Ghost in the Shell, and 11 more major Anime Expo 2026 reveals",
-          "url": "https://www.polygon.com/anime-expo-2026-biggest-announcements/",
-          "snippet": "From long-awaited sequels to ambitious originals, here's everything announced at Anime Expo 2026 that anime fans should know about.",
-          "source": "Polygon"
-        },
-        {
-          "title": "As Xbox and PlayStation flounder, Steam is reportedly having another record year",
-          "url": "https://www.eurogamer.net/valve-steam-revenue-2026-record",
-          "snippet": "Valve's PC storefront Steam continues to go from strength to strength. In the first half of 2026, it recorded its highest-ever results, generating an enormous $11.1bn in revenue, which is more than it made during the game-heavy end of last year, and considerably more than it made",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Pokémon Go 'A Thunderous Discovery' Zeraora Special Research quest steps",
-          "url": "https://www.polygon.com/pokemon-go-zeraora-special-research-thunderous-discovery-quest-steps/",
-          "snippet": "Our guide lists all of the quest steps for Pokémon Go's \"A Thunderous Discovery\" Special Research that rewards Zeraora.",
-          "source": "Polygon"
-        },
-        {
-          "title": "Xbox needs to make a choice, says former PlayStation leader Shawn Layden: be a publisher or a platform, but you can't be both",
-          "url": "https://www.eurogamer.net/xbox-asha-sharma-shawn-layden-playstation",
-          "snippet": "Few people know more about helping run a successful console business than Shawn Layden. He was there at Sony when the PlayStation dream was first dreamt, and over the course of three decades he helped realise it and shape it. He was there for PlayStation 1, 2, 3, and 4. He helped",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Pokémon Go Fest Global 2026 event guide and rotating habitat schedule",
-          "url": "https://www.polygon.com/pokemon-go-fest-global-2026-habitat-raid-schedule-spawns/",
-          "snippet": "Here's everything you need to know about Pokémon Go Fest: Global 2026's rotating habitats, raid schedule, and bonuses.",
-          "source": "Polygon"
-        },
-        {
-          "title": "\"We mean business\" - Bethesda union members to march in protest of sweeping Xbox job cuts",
-          "url": "https://www.eurogamer.net/xbox-layoffs-bethesda-union-protest-plans",
-          "snippet": "Bethesda Game Studios union workers have announced plans to protest the recent mass layoffs impacting Microsoft's Xbox division, telling members, \"The company wants us to accept this as a done deal and quietly disappear. We won't let that happen.\" Read more",
-          "source": "Eurogamer"
-        },
-        {
-          "title": "Pokémon Go 'Genetic Mastery' choose a path quest steps — Mega Mewtwo X or Y?",
-          "url": "https://www.polygon.com/pokemon-go-fest-2026-genetic-mastery-timed-research-mega-mewtwo-x-y-which-to-pick/",
-          "snippet": "Should you pick Mega Mewtwo X or Mega Mewtwo Y in Pokémon Go Fest: Global's 2026 Timed Research? We explain in our guide.",
-          "source": "Polygon"
+          "title": "Now Entering Noir City",
+          "url": "https://www.nytimes.com/2026/07/10/movies/noir-films-paris-theater-festival-streaming.html",
+          "snippet": "Crime and mystery fans can catch a 10-day festival of film noir at the Paris Theater, or find some killer movies streaming on major platforms.",
+          "source": "NYT Arts"
         }
       ]
     }
