@@ -103,10 +103,31 @@
       <div id="settingsRows"></div>
     </div>
     <div class="actions">
-      <button class="btn btn-left" id="settingsRefresh">&#8635; Refresh</button>
+      <button class="btn btn-left" id="settingsHelp">Help</button>
       <button class="btn" id="settingsShare">Share</button>
       <button class="btn" id="settingsReset">Reset</button>
       <button class="btn btn-primary" id="settingsSave">Save</button>
+    </div>
+  </div>
+
+  <div class="settings-overlay" id="helpOverlay"></div>
+  <div class="settings-panel" id="helpPanel" style="display:none">
+    <h2>How to use</h2>
+    <div class="settings-body" style="font-size:14px;line-height:1.7">
+      <p><strong>Reading news:</strong> Headlines load automatically from your configured RSS feeds. Click any headline to open the full article.</p>
+      <p><strong>Customizing sections:</strong> Click the gear icon to open settings. There you can:</p>
+      <ul style="margin-left:20px;margin-bottom:12px">
+        <li>Add or remove sections with "+ Add section" / "Remove"</li>
+        <li>Add RSS feed URLs to any section with "+ Add feed"</li>
+        <li>Click "Test" to verify a feed URL works</li>
+        <li>Name each feed so you can identify its sources</li>
+      </ul>
+      <p><strong>Saving:</strong> Changes auto-save to your browser. Click "Save" to close and refresh the news.</p>
+      <p><strong>Sharing:</strong> Click "Share" to copy a link that recreates your exact configuration for anyone who opens it.</p>
+      <p><strong>Reset:</strong> Click "Reset" to go back to the default sections.</p>
+    </div>
+    <div class="actions">
+      <button class="btn btn-primary btn-left" id="helpClose" style="margin-right:auto">Close</button>
     </div>
   </div>
 

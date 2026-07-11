@@ -261,8 +261,19 @@
   document.getElementById('settingsSave').addEventListener('click',applySettingsFromPanel);
   document.getElementById('settingsReset').addEventListener('click',resetSettings);
   document.getElementById('settingsShare').addEventListener('click',shareConfig);
-  document.getElementById('settingsRefresh').addEventListener('click',function(){applySettingsFromPanel();refresh();});
   document.getElementById('settingsOverlay').addEventListener('click',closeSettings);
+  document.getElementById('settingsHelp').addEventListener('click',function(){
+    document.getElementById('helpOverlay').classList.add('open');
+    document.getElementById('helpPanel').style.display='flex';
+  });
+  document.getElementById('helpOverlay').addEventListener('click',function(){
+    document.getElementById('helpOverlay').classList.remove('open');
+    document.getElementById('helpPanel').style.display='none';
+  });
+  document.getElementById('helpClose').addEventListener('click',function(){
+    document.getElementById('helpOverlay').classList.remove('open');
+    document.getElementById('helpPanel').style.display='none';
+  });
 
   // handle add-feed and delete buttons inside settings
   document.getElementById('settingsRows').addEventListener('click',function(e){
