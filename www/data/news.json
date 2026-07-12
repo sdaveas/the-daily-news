@@ -1,16 +1,70 @@
 {
-  "updated": "2026-07-12T01:55:12.099174+00:00",
+  "updated": "2026-07-12T06:26:43.533333+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Άργος: Πέθανε ο 20χρονος που πυροβόλησαν αστυνομικοί – Προφυλακιστέοι μετά τις απολογίες τους",
-        "url": "https://www.efsyn.gr/ellada/1425804/argos-pethane-o-20hronos-poy-pyrovolisan-astynomikoi/",
-        "snippet": "Ο νεαρός νοσηλευόταν στην εντατική του νοσοκομείου ΚΑΤ σε εξαιρετικά κρίσιμη κατάσταση και κατέληξε αργά το βράδυ του Σαββάτου.",
+        "title": "Μουντιάλ 2026: Με ανατροπή και Μπέλιγχαμ η Αγγλία με 2-1 τη Νορβηγία – Θα συναντήσει την Αργεντινή στους «4»",
+        "url": "https://www.efsyn.gr/athlitismos/1425840/moyntial-2026-me-anatropi-kai-mpeligham-i-agglia-me-2-1-ti-norvigia-tha-synantisei-tin-argentini-stoys-4/",
+        "snippet": "Τα «Τρία Λιοντάρια» επιστρέφουν στους ημιτελικούς του Παγκοσμίου Κυπέλλου οκτώ χρόνια μετά τη διοργάνωση της Ρωσίας το 2018 και 36 χρόνια μετά την Ιταλία το 1990.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Νέα ένταση στον Ορμούζ: Πλοίο υπό κυπριακή σημαία χτυπήθηκε από το Ιράν – Αγνοείται μέλος του πληρώματος",
+          "url": "https://www.efsyn.gr/kosmos/1425838/nea-entasi-ston-ormoyz-ploio-ypo-kypriaki-simaia-htypithike-apo-to-iran-agnoeitai-melos-toy-pliromatos/",
+          "snippet": "Το πλήρωμα του M/V GFS Galaxy εγκατέλειψε το πλοίο μετά την επίθεση που δέχθηκε από ιρανικά πυρά στα Στενά του Ορμούζ, καθώς ξέσπασε πυρκαγιά και προκλήθηκαν σημαντικές ζημιές στο μηχανοστάσιο.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "F-35, Eurofighter και Rafale: Η νέα εξίσωση Ελλάδας – Τουρκίας στην άμυνα",
+          "url": "https://www.efsyn.gr/politiki/1425561/f-35-eurofighter-kai-rafale-i-nea-exisosi-elladas-toyrkias-stin-amyna/",
+          "snippet": "Η επανένταξη της Τουρκίας στο πρόγραμμα παραγωγής F-35 την αναδεικνύει σε πολύ σημαντική περιφερειακή δύναμη και η Ελλάδα ψάχνει τον χώρο της μέσα στα νέα δεδομένα",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ψηφιακά έργα 3,5 δισ. ευρώ: Οι φόβοι για νέα «Ολυμπιακά Ακίνητα» στην τεχνολογία",
+          "url": "https://www.efsyn.gr/oikonomia/1425554/psifiaka-erga-35-dis-eyro-oi-fovoi-gia-nea-olympiaka-akinita-stin-tehnologia/",
+          "snippet": "Λίγο πριν πέσει η αυλαία για το Ταμείο Ανάκαμψης, ο κλάδος της πληροφορικής εκφράζει την ανησυχία πως η χώρα δεν έχει αποκτήσει ακόμα ψηφιακή πολιτική και η πρόοδος που έχει σημειωθεί, απουσία σχεδιασμού, μπορεί να χαθεί",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Ανεβαίνει ο υδράργυρος λίγο κάτω από τους 40°C – Πού θα εκδηλωθούν βροχές και καταιγίδες",
+          "url": "https://www.efsyn.gr/ellada/1425833/kairos-anevainei-o-ydrargyros-ligo-kato-apo-toys-40c-poy-tha-ekdilothoyn-vrohes-kai-kataigides/",
+          "snippet": "Οι άνεμοι στο Αιγαίο θα πνέουν από βόρειες έως βορειοδυτικές διευθύνσεις με ένταση 4 έως 6 μποφόρ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η μήνυση Βελόπουλου για Τσίπρα και οι ισορροπίες στη δεξιά πολυκατοικία",
+          "url": "https://www.efsyn.gr/politiki/1425536/i-minysi-velopoyloy-gia-tsipra-kai-oi-isorropies-sti-dexia-polykatoikia/",
+          "snippet": "Τα σωσίβια σε Μητσοτάκη και η περίεργη στάση της Ελληνικής Λύσης στο σκάνδαλο των υποκλοπών",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ο Δημήτρης Μάντζος στην «Εφ.Συν.»: «Εχουμε θέσεις, δεν λέμε συνθήματα και παχιά λόγια»",
+          "url": "https://www.efsyn.gr/politiki/1425545/o-dimitris-mantzos-stin-ef-syn-ehoyme-theseis-den-leme-synthimata-kai-pahia-logia/",
+          "snippet": "Η «γαλάζια επταετία» έφερε αδιαφάνεια, σκάνδαλα και αναποτελεσματικότητα. Η κυβέρνηση Μητσοτάκη αφήνει πίσω της ανοικτές πληγές, καθώς φεύγει",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μουντιάλ 2026: Η Αργεντινή λύγισε την Ελβετία στην παράταση και έκλεισε ραντεβού με την Αγγλία",
+          "url": "https://www.efsyn.gr/athlitismos/1425818/moyntial-2026-i-argentini-lygise-tin-elvetia-stin-paratasi-kai-ekleise-rantevoy-me-tin-agglia/",
+          "snippet": "Ο Χουλιάν Άλβαρες με εντυπωσιακό σουτ έξω από τη μεγάλη περιοχή, από απόσταση περίπου 28 μέτρων, έστειλε την μπάλα στα δίχτυα για το 2-1, χαρίζοντας προβάδισμα στην «αλμπισελέστε» και στις καθυστερήσεις της παράτασης (120+1) ο Λαουτάρο Μαρτίνες ολοκλήρωσε την πρόκριση, διαμορφώνο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 12 Ιουλίου",
+          "url": "https://www.efsyn.gr/ellada/1425816/eortologio-poioi-giortazoyn-simera-12-ioylioy/",
+          "snippet": "Η Εκκλησία τιμά σήμερα τη μνήμη τους.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Άργος: Πέθανε ο 20χρονος που πυροβόλησαν αστυνομικοί – Προφυλακιστέοι μετά τις απολογίες τους",
+          "url": "https://www.efsyn.gr/ellada/1425804/argos-pethane-o-20hronos-poy-pyrovolisan-astynomikoi/",
+          "snippet": "Ο νεαρός νοσηλευόταν στην εντατική του νοσοκομείου ΚΑΤ σε εξαιρετικά κρίσιμη κατάσταση και κατέληξε αργά το βράδυ του Σαββάτου.",
+          "source": "EfSyn"
+        },
         {
           "title": "Παναθηναϊκός – Γκρασχόπερς 3-0: Κυρίαρχοι οι «πράσινοι» με λάμψη Γιάγκουσιτς",
           "url": "https://www.efsyn.gr/athlitismos/1425800/panathinaikos-gkrashopers-3-0-kyriarhoi-oi-prasinoi-me-lampsi-giagkoysits/",
@@ -39,60 +93,6 @@
           "title": "Αντιπροσωπεία των ΗΠΑ στον Λίβανο για να συζητήσει αποχώρηση του Ισραήλ από «πιλοτικές ζώνες»",
           "url": "https://www.efsyn.gr/kosmos/1425790/antiprosopeia-ton-ipa-ston-livano-gia-na-syzitisei-apohorisi-toy-israil-apo-pilotikes-zones/",
           "snippet": "Αμερικανική στρατιωτική αντιπροσωπεία συναντάται με τον λιβανικό στρατό στη Βηρυτό για να καθορίσει ενδεχόμενη αποχώρηση του Ισραήλ από «ζώνες» στα κατεχόμενα εδάφη.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γιάννης Μπουλέκος: Το μήνυμα μετά την συνεδρίαση της Κ.Ε. – «Ο ΣΥΡΙΖΑ είναι παρών»",
-          "url": "https://www.efsyn.gr/politiki/1425788/giannis-mpoylekos-to-minyma-meta-tin-synedriasi-tis-k-e-o-syriza-einai-paron/",
-          "snippet": "«Η σημερινή συνεδρίαση της Κεντρικής Επιτροπής έστειλε ένα ξεκάθαρο πολιτικό μήνυμα: ο ΣΥΡΙΖΑ είναι παρών».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μουντιάλ 2026: Θρήνος στο παγκόσμιο ποδόσφαιρο – Νεκρός ο 25χρονος Τζέιντεν Άνταμς της Νότιας Αφρικής",
-          "url": "https://www.efsyn.gr/athlitismos/1425785/moyntial-2026-thrinos-sto-pagkosmio-podosfairo-nekros-o-25hronos-tzeinten-antams-tis-notias-afrikis/",
-          "snippet": "Τραγικά νέα για τη Νότια Αφρική και το παγκόσμιο ποδόσφαιρο, καθώς πέθανε ο 25χρονος Τζέιντεν Άνταμς, που αγωνίστηκε στο Μουντιάλ 2026.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στη Λεωφόρο ο Τσίπρας για το φιλικό του Παναθηναϊκού",
-          "url": "https://www.efsyn.gr/politiki/1425781/sti-leoforo-o-tsipras-gia-to-filiko-toy-panathinaikoy/",
-          "snippet": "Μικρό διάλειμμα για τον πρόεδρο της ΕΛΑΣ από την πολιτική, για να παρακολουθήσει την αγαπημένη του ομάδα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ανησυχία στην Πολιτική Προστασία: 37 πυρκαγιές το Σάββατο παρά τον χαμηλό δείκτη κινδύνου",
-          "url": "https://www.efsyn.gr/ellada/1425779/anisyhia-stin-politiki-prostasia-37-pyrkagies-to-savvato-para-ton-hamilo-deikti-kindynoy/",
-          "snippet": "37 αγροτοδασικές πυρκαγιές μέσα σε λίγες ώρες στη χώρα, παρά τον χαμηλό δείκτη κινδύνου, εν μέσω υψηλών θερμοκρασιών και ξηρής βλάστησης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τι σημαίνει: Γκάζι και χάος",
-          "url": "https://www.efsyn.gr/nisides/1424254/ti-simainei-gkazi-kai-haos/",
-          "snippet": "Το ωραίο είναι πως αυτό το «γκάζι», που το πατάμε στα αυτοκίνητα ή «το ανοίγουμε» στις μοτοσικλέτες για να τρέξουν γρηγορότερα, παράγεται από το «gaz», μια γαλλική λέξη του 12ου αιώνα, με αρχική προέλευση από το αρχαιοελληνικό «χάος».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στο στόχαστρο του Τραμπ δημοσιογράφοι των NYT λόγω δημοσιεύματος για το νέο Air Force One",
-          "url": "https://www.efsyn.gr/kosmos/1425776/sto-stohastro-toy-tramp-dimosiografoi-ton-nyt-logo-dimosieymatos-gia-to-neo-air-force-one/",
-          "snippet": "Η κυβέρνηση των ΗΠΑ καλεί τέσσερις δημοσιογράφους να καταθέσουν ενώπιον εισαγγελέα, με την NYT να καταγγέλλει απόπειρα εκφοβισμού ανεξάρτητων ΜΜΕ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Άργος: Στις φυλακές Κορυδαλλού οδηγούνται οι αστυνομικοί που πυροβόλησαν τον 20χρονο",
-          "url": "https://www.efsyn.gr/ellada/1425771/argos-stis-fylakes-korydalloy-odigoyntai-oi-astynomikoi-poy-pyrovolisan-ton-20hrono/",
-          "snippet": "Οι δύο άνδρες της ΟΠΚΕ κρίθηκαν προφυλακιστέοι μετά την ολοκλήρωση των απολογιών τους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ασπρόπυργος: Από διαρροή προπανίου ή ασετιλίνης φαίνεται να προκλήθηκε η έκρηξη",
-          "url": "https://www.efsyn.gr/ellada/1425764/aspropyrgos-apo-diarroi-propanioy-i-asetilinis-fainetai-na-proklithike-i-ekrixi/",
-          "snippet": "Νέα στοιχεία για τη φωτιά και έκρηξη στον Ασπρόπυργο φέρνει η έρευνα της ΔΑΕΕ - Στο μικροσκόπιο των Αρχών το καθεστώς πυροπροστασίας της επιχείρησης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ντόναλντ Τραμπ: «Μόλις τελείωσα ένα τέλειο τσεκ απ – Αρίστευσα σε όλα»",
-          "url": "https://www.efsyn.gr/kosmos/1425762/ntonalnt-tramp-molis-teleiosa-ena-teleio-tsek-ap-aristeysa-se-ola/",
-          "snippet": "Ο 80χρονος Αμερικανός πρόεδρος ανακοίνωσε ότι ολοκλήρωσε τις ιατρικές του εξετάσεις... με άριστα.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Here’s a look at the heavy strikes in recent days.",
-          "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days",
-          "snippet": "",
+          "title": "As India Erases Its Colonial Past, Delhi’s Elite Feel Targeted",
+          "url": "https://www.nytimes.com/2026/07/12/world/asia/india-gymkhana-club-eviction-colonialism.html",
+          "snippet": "India’s government wants to shut down Delhi’s Gymkhana Club, which the prime minister calls a vestige of colonialism. Some members suspect a different motive.",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Νορβηγία - Αγγλία: Η τοποθέτηση της FIFA για το πρώτο γκολ του Μπέλιγχαμ",
-        "url": "https://www.gazzetta.gr/football/mundial/2553705/norbigia-agglia-i-topothetisi-tis-fifa-gia-proto-gkol-toy-mpeligham",
-        "snippet": "Η FIFA τοποθετήθηκε αναφορικά με το αν βρήκε η μπάλα στο καλώδιο της spidercam πριν το πρώτο γκολ της Αγγλίας ενάντια στη Νορβηγία.",
+        "title": "Παρτίζαν: Deal με τον Παγιόλα σύμφωνα με τη MozzartSport",
+        "url": "https://www.gazzetta.gr/basketball/euroleague/2553729/partizan-deal-me-ton-pagiola-symfona-me-ti-mozzartsport",
+        "snippet": "Σύμφωνα με δημοσίευμα από τη Σερβία, ο Αλεσάντρο Παγιόλα θα συνεχίσει την καριέρα του στην Παρτίζαν.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Νορβηγία - Αγγλία 1-2: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/mundial/2553704/norbigia-agglia-1-2-ta-highlights-toy-agona",
-          "snippet": "Δείτε γκολ και φάσεις από το 2-1 της Αγγλίας ενάντια στη Νορβηγία.",
+          "title": "«Ασταμάτητος» στο Μοντρεάλ ο Στέφανος Δημόπουλος: Χάλκινος στα 500μ. και 5ος στον κόσμο στα 1.000μ.!",
+          "url": "https://www.gazzetta.gr/kanoe-kagiak/2553728/astamatitos-sto-montreal-o-stefanos-dimopoylos-halkinos-sta-500m-kai-5os-ston",
+          "snippet": "Ο Στέφανος Δημόπουλος κατέκτησε την 5η θέση στο 3ο Παγκόσμιο Κύπελλο Κάνοε-Καγιάκ που διεξάγεται στο Μόντρεαλ του Καναδά.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αργεντινή - Ελβετία: Οι ενδεκάδες των ομάδων",
-          "url": "https://www.gazzetta.gr/football/mundial/2553703/argentini-elbetia-oi-endekades-ton-omadon",
-          "snippet": "Δείτε τις ενδεκάδες Αργεντινής και Ελβετίας για τον μεταξύ τους προημιτελικό του Παγκοσμίου Κυπέλλου.",
+          "title": "Μουντιάλ 2026: Τα απίθανα στατιστικά του 39χρονου Μέσι στο τουρνουά",
+          "url": "https://www.gazzetta.gr/football/mundial/2553725/moyntial-2026-ta-apithana-statistika-toy-39hronoy-mesi-sto-toyrnoya",
+          "snippet": "Ο Λιονέλ Μέσι έχει μετατρέψει σε... προσωπική υπόθεση το φετινό Μουντιάλ, καταγράφοντας συνεχώς πρωτιές σε στατιστικές κατηγορίες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νορβηγία - Αγγλία 1-2 παρ. (1-1 κ.δ): Βασιλιάς των Λιονταριών ο Μπέλιγχαμ και πρόκριση στους «4»!",
-          "url": "https://www.gazzetta.gr/football/mundial/2553702/norbigia-agglia-1-2-par-1-1-kd-basilias-ton-liontarion-o-mpeligham-kai",
-          "snippet": "Ο Μπέλιγχαμ βρυχήθηκε ξανά ως αρχηγός της αγέλης, καθώς με δυο γκολ οδήγησε τα Λιοντάρια σε ανατροπή στην παράταση επί των Νορβηγών (2-1) κι έστειλε την Αγγλία στους «4» του Μουντιάλ!",
+          "title": "Σαν Σήμερα: H λαοθάλασσα που «έπνιξε» το Σίλβερστον για τον Μάνσελ (vid)",
+          "url": "https://www.gazzetta.gr/gmotion/2553570/127-san-simera-h-laothalassa-poy-epnixe-silberston-gia-ton-mansel-vid",
+          "snippet": "Πολλά και σημαντικά γεγονότα πραγματοποιήθηκαν Σαν Σήμερα στον κόσμο της F1 και του μηχανοκίνητου αθλητισμού. Ακολουθούν τα κυριότερα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νορβηγία - Αγγλία: Το δεύτερο γκολ του Μπέλιγχαμ",
-          "url": "https://www.gazzetta.gr/football/mundial/2553701/norbigia-agglia-deytero-gkol-toy-mpeligham",
-          "snippet": "Με τον Μπέλιγχαμ να σκοράρει ξανά, η Αγγλία έκανε το 2-1 ενάντια στη Νορβηγία.",
+          "title": "Μουντιάλ 2026: Τα highlights των προημιτελικών της βραδιάς (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2553727/moyntial-2026-ta-highlights-ton-proimitelikon-tis-bradias-vid",
+          "snippet": "Οι προημιτελικοί του Μουντιάλ 2026 ολοκληρώθηκαν και σειρά έχουν οι ημιτελικοί. Αγγλία και Αργεντινή πήραν τα δύο τελευταία εισιτήρια και θα κοντραριστούν στους «4».",
           "source": "Gazzetta"
         },
         {
-          "title": "Νορβηγία - Αγγλία: Το γκολ που ακυρώθηκε για φάουλ του Χάαλαντ",
-          "url": "https://www.gazzetta.gr/football/mundial/2553700/norbigia-agglia-gkol-poy-akyrothike-gia-faoyl-toy-haalant",
-          "snippet": "Η Νορβηγία ανέκτησε το προβάδισμα ενάντια στην Αγγλία αλλά το γκολ του Χέγκεμ ακυρώθηκε για φάουλ του Χάαλαντ.",
+          "title": "Μπακς: Για τέσσερα χρόνια στο Μιλγουόκι ο Γκάρι Τρεντ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553726/mpaks-gia-tessera-hronia-sto-milgoyoki-o-gkari-trent",
+          "snippet": "Ο Γκάρι Τρεντ θα παραμείνει κάτοικος Μιλγουόκι για άλλα 4 χρόνια.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αργεντινή: Πέθανε ο Αντόνιο Ρατίν - Πώς έφερε τις κάρτες στο ποδόσφαιρο",
-          "url": "https://www.gazzetta.gr/football/mundial/2553686/argentini-pethane-o-antonio-ratin-pos-efere-tis-kartes-sto-podosfairo",
-          "snippet": "Έφυγε από τη ζωή σε ηλικία 89 ετών ο παλαίμαχος Αργεντινός ποδοσφαιριστής Αντόνιο Ρατίν, που το 1966 έγινε πρωταγωνιστής σε ένα περιστατικό μουντιαλικής τρέλας!",
+          "title": "ΑΕΚ: Πρώτο φιλικό τεστ στην Ολλανδία με την Ντε Γκράαφσαπ",
+          "url": "https://www.gazzetta.gr/football/superleague/2553665/aek-proto-filiko-test-stin-ollandia-me-tin-nte-gkraafsap",
+          "snippet": "Η ΑΕΚ ξεκινάει τις φιλικές αναμετρήσεις του βασικού σταδίου της προετοιμασίας της επί ολλανδικού εδάφους αντιμετωπίζοντας το απόγευμα της Κυριακής (12/7, 17:00) την Ντε Γκράαφσαπ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νορβηγία - Αγγλία: Το γκολ του Μπέλιγχαμ",
-          "url": "https://www.gazzetta.gr/football/mundial/2553685/norbigia-agglia-gkol-toy-mpeligham",
-          "snippet": "Ένα εξαιρετικό γκολ του Μπέλιγχαμ στο 45+2' έφερε το 1-1 για την Αγγλία απέναντι στη Νορβηγία.",
+          "title": "Μοράντ: «Θα ήθελα να αλλάξει η εικόνα ότι είμαι κακός άνθρωπος»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553724/morant-tha-ithela-na-allaxei-i-eikona-oti-eimai-kakos-anthropos",
+          "snippet": "Ο Τζα Μοράντ μίλησε στο ESPN για τη μεταγραφή του στους Μπλέιζερς, αλλά και τη σχέση του με τους Γκρίζλις.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νορβηγία - Αγγλία: Το γκολ του Σιέλντερουπ",
-          "url": "https://www.gazzetta.gr/football/mundial/2553684/norbigia-agglia-gkol-toy-sielnteroyp",
-          "snippet": "Η Νορβηγία άνοιξε το σκορ ενάντια στην Αγγλία με καταπληκτικό γκολ του Σιέλντερουπ στο 36ο λεπτό της αναμέτρησης.",
+          "title": "Άργος: Νεκρός ο 20χρονος που πυροβολήθηκε από αστυνομικούς – Προφυλακισμένοι οι δύο ένστολοι",
+          "url": "https://www.gazzetta.gr/plus/2553719/argos-nekros-o-20hronos-poy-pyrobolithike-apo-astynomikoys-profylakismenoi-oi-dyo",
+          "snippet": "Τραγική κατάληξη είχε η υπόθεση της αιματηρής καταδίωξης στο Άργος, με τον 20χρονο να χάνει τη μάχη για τη ζωή.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ: «Κλείδωσε» το deal με τη Μάλμε για τον Τάχα Άλι",
-          "url": "https://www.gazzetta.gr/football/superleague/2553683/paok-kleidose-deal-me-ti-malme-gia-ton-taha-ali",
-          "snippet": "Ο ΠΑΟΚ έφτασε σε οριστική συμφωνία με τη Μάλμε για την απόκτηση του Τάχα Άλι. Αυτό αναφέρουν στη Σουηδία και επιβεβαιώνεται μέσα από το ρεπορτάζ του Gazzetta.",
+          "title": "Αργεντινή - Ελβετία 3-1: Το «contrast» συναισθημάτων μετά το τέλος του ματς (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2553722/argentini-elbetia-3-1-contrast-synaisthimaton-meta-telos-toy-mats-vid",
+          "snippet": "Η Αργεντινή επικράτησε 3-1 της Ελβετίας στην παράταση (1-1 κ.δ) και πήρε το εισιτήριο για τα ημιτελικά του Μουντιάλ. Δείτε τις αντιθέσεις των συναισθημάτων των δύο ομάδων.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ντόρτμουντ: Πιέζει για τον Κωνσταντίνο Καρέτσα",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2553682/ntortmoynt-piezei-gia-ton-konstantino-karetsa",
-          "snippet": "Η Μπορούσια Ντόρτμουντ πιέζει για να αποσπάσει την υπογραφή του Κωνσταντίνου Καρέτσα, με την Γκενκ να μην κάνει πίσω στις απαιτήσεις της.",
+          "title": "Αργεντινή - Ελβετία: Τι είπε ο Μέσι στον διαιτητή Πινέιρο (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2553721/argentini-elbetia-ti-eipe-o-mesi-ston-diaititi-pineiro-vid",
+          "snippet": "Τα διεθνή ΜΜΕ αποκάλυψαν τι είπε ο Λιονέλ Μέσι στον διαιτητή Πινέιρο, κατά τη διάρκεια του αγώνα της Αργεντινής με την Ελβετία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Οι «πικάντικες» ιστορίες με πρωταγωνιστή τον «κυβερνήτη των βουνών» λήσταρχο Νταβέλη",
-          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "snippet": "Σοκάρει το νέο βίντεο ντοκουμέντο από τη στιγμή των πυροβολισμών στο Άργος με βαριά τραυματία έναν 20χρονο.",
+          "title": "Αθλητικές μεταδόσεις σήμερα: Το ΑΕΚ - Ντε Γκράαφτσαπ και ο τελικός του Wimbledon",
+          "url": "https://www.gazzetta.gr/football/superleague/2553718/athlitikes-metadoseis-simera-aek-nte-gkraaftsap-kai-o-telikos-toy",
+          "snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με το φιλικό της ΑΕΚ κόντρα στην Ντε Γκράαφτσαπ και τον τελικό του Wimbledon.",
           "source": "Gazzetta"
         },
         {
-          "title": "Από σκουπίδια... σε σπίτια: Τα «τούβλα Lego» που χτίζουν κατοικία 40 τ.μ. σε 5 ημέρες",
-          "url": "https://www.gazzetta.gr/plus/2553667/apo-ta-plastika-skoypidia-se-spitia-ta-toybla-lego-poy-htizoyn-katoikia-40-tm-se-5",
-          "snippet": "Στην Κολομβία, ανακυκλωμένα πλαστικά μετατρέπονται σε «τούβλα Lego», επιτρέποντας την κατασκευή σπιτιού 40 τ.μ. σε 5 ημέρες με χαμηλό κόστος.",
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (12/7)",
+          "url": "https://www.gazzetta.gr/2553723/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-127",
+          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γκαρνέτ για ανταλλαγή Μπράουν: «Δεν μου άρεσε, ήθελα να αποσυρθεί ως παίκτης των Σέλτικς»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2553676/gkarnet-gia-antallagi-mpraoyn-den-moy-arese-ithela-na-aposyrthei-os-paiktis",
-          "snippet": "Ο Κέβιν Γκαρνετ έδειξε πως διαφωνεί με την απόφαση των Σέλτικς να ανταλλάξουν τον Τζέιλεν Μπράουν.",
+          "title": "Το ξεχασμένο κράτος ανάμεσα σε Ισπανία και Πορτογαλία που εξαφανίστηκε μετά από 700 χρόνια",
+          "url": "https://www.gazzetta.gr/plus/2552366/xehasmeno-kratos-anamesa-se-ispania-kai-portogalia-poy-exafanistike-meta-apo-700",
+          "snippet": "Το Couto Mixto ήταν ένα μικρό αυτόνομο κράτος στα σύνορα Ισπανίας και Πορτογαλίας για σχεδόν επτά αιώνες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μαλντίνι: Ανέλαβε τον ρόλο του Τεχνικού Διευθυντή στην Εθνική Ιταλίας",
-          "url": "https://www.gazzetta.gr/football/2553681/malntini-anelabe-ton-rolo-toy-tehnikoy-dieythynti-stin-ethniki-italias",
-          "snippet": "Ο Πάολο Μαλντίνι ανέλαβε με κάθε επισημότητα τον ρόλο του Τεχνικού Διευθυντή στην Εθνική Ιταλίας, επιστρέφοντας στη Σκουάντρα Ατζούρα.",
+          "title": "Αργεντινή - Ελβετία 3-1: Τα highlights του αγώνα",
+          "url": "https://www.gazzetta.gr/football/mundial/2553715/argentini-elbetia-3-1-ta-highlights-toy-agona",
+          "snippet": "Δείτε γκολ και φάσεις από το 3-1 της Αργεντινής ενάντια στην Ελβετία στην παράταση.",
           "source": "Gazzetta"
         }
       ]
