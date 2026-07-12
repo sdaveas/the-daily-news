@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-11T20:39:34.357621+00:00",
+  "updated": "2026-07-12T01:55:12.099174+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Στην Κομισιόν η έκρηξη στον Ασπρόπυργο: «Ένα ακόμα προμήνυμα βιομηχανικού ατυχήματος μεγάλης έκτασης»",
-        "url": "https://www.efsyn.gr/politiki/1425792/stin-komision-i-ekrixi-ston-aspropyrgo-ena-akoma-prominyma-viomihanikoy-atyhimatos-megalis-ektasis/",
-        "snippet": "Καίρια ερωτήματα θέτει το ΚΚΕ στην Ευρωπαϊκή Επιτροπή σχετικά με τη διπλή έκρηξη σε βιομηχανική ζώνη στον Ασπρόπυργο.",
+        "title": "Άργος: Πέθανε ο 20χρονος που πυροβόλησαν αστυνομικοί – Προφυλακιστέοι μετά τις απολογίες τους",
+        "url": "https://www.efsyn.gr/ellada/1425804/argos-pethane-o-20hronos-poy-pyrovolisan-astynomikoi/",
+        "snippet": "Ο νεαρός νοσηλευόταν στην εντατική του νοσοκομείου ΚΑΤ σε εξαιρετικά κρίσιμη κατάσταση και κατέληξε αργά το βράδυ του Σαββάτου.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Παναθηναϊκός – Γκρασχόπερς 3-0: Κυρίαρχοι οι «πράσινοι» με λάμψη Γιάγκουσιτς",
+          "url": "https://www.efsyn.gr/athlitismos/1425800/panathinaikos-gkrashopers-3-0-kyriarhoi-oi-prasinoi-me-lampsi-giagkoysits/",
+          "snippet": "Με την κυριαρχία του στο γήπεδο και τον Γιάγκουσιτς να ξεχωρίζει, ο Παναθηναϊκός εξασφαλίζει μια πειστική νίκη ενόψει των προκριματικών του Conference League.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ισπανία: Πανικός στο φεστιβάλ Σαν Φερμίν – Ταύρος τραυμάτισε σοβαρά δρομέα στο πρόσωπο",
+          "url": "https://www.efsyn.gr/kosmos/1425797/ispania-panikos-sto-festival-san-fermin-tayros-traymatise-sovara-dromea-sto-prosopo/",
+          "snippet": "Ένας δρομέας τραυματίστηκε σοβαρά στο πρόσωπο από τα κέρατα ταύρου κατά τη διάρκεια του φεστιβάλ Σαν Φερμίν στην Παμπλόνα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Marfin: Τα στοιχεία και οι φωτογραφίες που οδήγησαν στην ταυτοποίηση των συλληφθέντων",
+          "url": "https://www.efsyn.gr/ellada/1425794/marfin-ta-stoiheia-kai-oi-fotografies-poy-odigisan-stin-taytopoiisi-ton-syllifthenton/",
+          "snippet": "Η ταυτοποίηση των τριών συλληφθέντων για την επίθεση στη Marfin φαίνεται να προήλθε από παλαιότερη έρευνα της Αντιτρομοκρατικής, η οποία αποκάλυψε οργανωμένο σχέδιο με 12 συμμετέχοντες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στην Κομισιόν η έκρηξη στον Ασπρόπυργο: «Ένα ακόμα προμήνυμα βιομηχανικού ατυχήματος μεγάλης έκτασης»",
+          "url": "https://www.efsyn.gr/politiki/1425792/stin-komision-i-ekrixi-ston-aspropyrgo-ena-akoma-prominyma-viomihanikoy-atyhimatos-megalis-ektasis/",
+          "snippet": "Καίρια ερωτήματα θέτει το ΚΚΕ στην Ευρωπαϊκή Επιτροπή σχετικά με τη διπλή έκρηξη σε βιομηχανική ζώνη στον Ασπρόπυργο.",
+          "source": "EfSyn"
+        },
         {
           "title": "Αντιπροσωπεία των ΗΠΑ στον Λίβανο για να συζητήσει αποχώρηση του Ισραήλ από «πιλοτικές ζώνες»",
           "url": "https://www.efsyn.gr/kosmos/1425790/antiprosopeia-ton-ipa-ston-livano-gia-na-syzitisei-apohorisi-toy-israil-apo-pilotikes-zones/",
@@ -70,30 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1425762/ntonalnt-tramp-molis-teleiosa-ena-teleio-tsek-ap-aristeysa-se-ola/",
           "snippet": "Ο 80χρονος Αμερικανός πρόεδρος ανακοίνωσε ότι ολοκλήρωσε τις ιατρικές του εξετάσεις... με άριστα.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Μουντιάλ 2026: Τρωτή Αργεντινή, «επιμελής» Ελβετία",
-          "url": "https://www.efsyn.gr/athlitismos/1425527/moyntial-2026-troti-argentini-epimelis-elvetia/",
-          "snippet": "Τα προβλήματα της «αλμπισελέστε», ο σωτήρας Μέσι και η ειδική προετοιμασία της «Νάτι»",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Newsroom: Κορυφαίες σειρές, αθλητικές μεταδόσεις και… Κόρε. Ύδρο.",
-          "url": "https://www.efsyn.gr/media/1425518/newsroom-koryfaies-seires-athlitikes-metadoseis-kai-kore-ydro/",
-          "snippet": "Ο ανταγωνισμός για την εξασφάλιση των αθλητικών τηλεοπτικών δικαιωμάτων περνάει σε άλλη φάση φέτος, ειδικά μετά τη δημιουργία του Σπορ FM TV που ανακοίνωσε ο ΣΚΑΪ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Φονικοί σεισμοί στη Βενεζουέλα: Ξεπέρασαν τους 4.300 οι νεκροί – Σβήνουν οι ελπίδες για επιζώντες",
-          "url": "https://www.efsyn.gr/kosmos/1425754/fonikoi-seismoi-sti-venezoyela-xeperasan-toys-4-300-oi-nekroi-svinoyn-oi-elpides-gia-epizontes/",
-          "snippet": "Εκατοντάδες οικογένειες συνεχίζουν να αναζητούν τους ανθρώπους τους στα ερείπια.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βρετανία: «Θρίλερ» με τη δολοφονία της πρώην υπουργού – Ελεύθερος ο 26χρονος ύποπτος",
-          "url": "https://www.efsyn.gr/kosmos/1425752/vretania-thriler-me-ti-dolofonia-tis-proin-ypoyrgoy-eleytheros-o-26hronos-ypoptos/",
-          "snippet": "Ελεύθερος αφέθηκε ο 26χρονος ύποπτος για τη δολοφονία της Αν Γουίτικαμ, καθώς οι Αρχές αποκλείουν πολιτικά κίνητρα και τρομοκρατική δράση στην υπόθεση.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,9 +101,9 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Mojtaba Khamenei Vows Revenge as Iran’s Top Diplomat Is in Oman For Talks",
+        "title": "U.S. Strikes Iran After Iran Fires on Ship in Strait of Hormuz",
         "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
-        "snippet": "Recent clashes between the U.S. and Iran, and a vow by the ayatollah to avenge his father’s death, further eroded a shaky cease-fire signed last month.",
+        "snippet": "Iran’s attack on a container ship came hours after a meeting between the foreign ministers of Iran and Oman about opening the strait to traffic.",
         "source": "NYT World"
       },
       "items": [
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Videos Shed Light on Pursuit Before ICE Killing in Houston",
-          "url": "https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html",
-          "snippet": "Surveillance footage obtained by The Times shows ICE agents driving aggressively in unmarked vehicles, but the moment of the fatal shooting of Lorenzo Salgado Araujo remains murky.",
+          "title": "Here’s a look at the heavy strikes in recent days.",
+          "url": "https://www.nytimes.com/live/2026/07/11/world/iran-war-us-trump/heres-a-look-at-the-heavy-strikes-in-recent-days",
+          "snippet": "",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
-        "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
-        "snippet": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+        "title": "Reed Jobs would rather talk about curing cancer than his last name",
+        "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+        "snippet": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in r",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
+          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
+          "snippet": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slush",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Smart glasses without a camera? Even Realities bets productivity beats recording everyone",
+          "url": "https://techcrunch.com/2026/07/11/smart-glasses-without-a-camera-even-realities-bets-productivity-beats-recording-everyone/",
+          "snippet": "The glasses are targeted at people who might be constantly in meetings, giving presentations, and traveling to countries where different languages are spoken.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI bets on families as ChatGPT goes deeper into households",
           "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/",
           "snippet": "Dumb Co sells flip phones that sync to your smartphone, bridging the infinite connectivity of the iPhone and the unrealistic limitations of an early 2000s relic.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-          "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-          "snippet": "The massive round was co-led by ARCH Venture Partners, Spark Capital, and Khosla Ventures.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Netflix could be planning ‘always-on’ live TV channels",
-          "url": "https://techcrunch.com/2026/07/10/netflix-could-be-planning-always-on-live-tv-channels/",
-          "snippet": "Amid signs of slowing engagement, Netflix is reportedly considering launching \"always-on\" live channels, giving subscribers something to tune into 24/7.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Γκαρνέτ για ανταλλαγή Μπράουν: «Δεν μου άρεσε, ήθελα να αποσυρθεί ως παίκτης των Σέλτικς»",
-        "url": "https://www.gazzetta.gr/basketball/nba/2553676/gkarnet-gia-antallagi-mpraoyn-den-moy-arese-ithela-na-aposyrthei-os-paiktis",
-        "snippet": "Ο Κέβιν Γκαρνετ έδειξε πως διαφωνεί με την απόφαση των Σέλτικς να ανταλλάξουν τον Τζέιλεν Μπράουν.",
+        "title": "Νορβηγία - Αγγλία: Η τοποθέτηση της FIFA για το πρώτο γκολ του Μπέλιγχαμ",
+        "url": "https://www.gazzetta.gr/football/mundial/2553705/norbigia-agglia-i-topothetisi-tis-fifa-gia-proto-gkol-toy-mpeligham",
+        "snippet": "Η FIFA τοποθετήθηκε αναφορικά με το αν βρήκε η μπάλα στο καλώδιο της spidercam πριν το πρώτο γκολ της Αγγλίας ενάντια στη Νορβηγία.",
         "source": "Gazzetta"
       },
       "items": [
         {
+          "title": "Νορβηγία - Αγγλία 1-2: Τα highlights του αγώνα",
+          "url": "https://www.gazzetta.gr/football/mundial/2553704/norbigia-agglia-1-2-ta-highlights-toy-agona",
+          "snippet": "Δείτε γκολ και φάσεις από το 2-1 της Αγγλίας ενάντια στη Νορβηγία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αργεντινή - Ελβετία: Οι ενδεκάδες των ομάδων",
+          "url": "https://www.gazzetta.gr/football/mundial/2553703/argentini-elbetia-oi-endekades-ton-omadon",
+          "snippet": "Δείτε τις ενδεκάδες Αργεντινής και Ελβετίας για τον μεταξύ τους προημιτελικό του Παγκοσμίου Κυπέλλου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νορβηγία - Αγγλία 1-2 παρ. (1-1 κ.δ): Βασιλιάς των Λιονταριών ο Μπέλιγχαμ και πρόκριση στους «4»!",
+          "url": "https://www.gazzetta.gr/football/mundial/2553702/norbigia-agglia-1-2-par-1-1-kd-basilias-ton-liontarion-o-mpeligham-kai",
+          "snippet": "Ο Μπέλιγχαμ βρυχήθηκε ξανά ως αρχηγός της αγέλης, καθώς με δυο γκολ οδήγησε τα Λιοντάρια σε ανατροπή στην παράταση επί των Νορβηγών (2-1) κι έστειλε την Αγγλία στους «4» του Μουντιάλ!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νορβηγία - Αγγλία: Το δεύτερο γκολ του Μπέλιγχαμ",
+          "url": "https://www.gazzetta.gr/football/mundial/2553701/norbigia-agglia-deytero-gkol-toy-mpeligham",
+          "snippet": "Με τον Μπέλιγχαμ να σκοράρει ξανά, η Αγγλία έκανε το 2-1 ενάντια στη Νορβηγία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νορβηγία - Αγγλία: Το γκολ που ακυρώθηκε για φάουλ του Χάαλαντ",
+          "url": "https://www.gazzetta.gr/football/mundial/2553700/norbigia-agglia-gkol-poy-akyrothike-gia-faoyl-toy-haalant",
+          "snippet": "Η Νορβηγία ανέκτησε το προβάδισμα ενάντια στην Αγγλία αλλά το γκολ του Χέγκεμ ακυρώθηκε για φάουλ του Χάαλαντ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αργεντινή: Πέθανε ο Αντόνιο Ρατίν - Πώς έφερε τις κάρτες στο ποδόσφαιρο",
+          "url": "https://www.gazzetta.gr/football/mundial/2553686/argentini-pethane-o-antonio-ratin-pos-efere-tis-kartes-sto-podosfairo",
+          "snippet": "Έφυγε από τη ζωή σε ηλικία 89 ετών ο παλαίμαχος Αργεντινός ποδοσφαιριστής Αντόνιο Ρατίν, που το 1966 έγινε πρωταγωνιστής σε ένα περιστατικό μουντιαλικής τρέλας!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νορβηγία - Αγγλία: Το γκολ του Μπέλιγχαμ",
+          "url": "https://www.gazzetta.gr/football/mundial/2553685/norbigia-agglia-gkol-toy-mpeligham",
+          "snippet": "Ένα εξαιρετικό γκολ του Μπέλιγχαμ στο 45+2' έφερε το 1-1 για την Αγγλία απέναντι στη Νορβηγία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νορβηγία - Αγγλία: Το γκολ του Σιέλντερουπ",
+          "url": "https://www.gazzetta.gr/football/mundial/2553684/norbigia-agglia-gkol-toy-sielnteroyp",
+          "snippet": "Η Νορβηγία άνοιξε το σκορ ενάντια στην Αγγλία με καταπληκτικό γκολ του Σιέλντερουπ στο 36ο λεπτό της αναμέτρησης.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: «Κλείδωσε» το deal με τη Μάλμε για τον Τάχα Άλι",
+          "url": "https://www.gazzetta.gr/football/superleague/2553683/paok-kleidose-deal-me-ti-malme-gia-ton-taha-ali",
+          "snippet": "Ο ΠΑΟΚ έφτασε σε οριστική συμφωνία με τη Μάλμε για την απόκτηση του Τάχα Άλι. Αυτό αναφέρουν στη Σουηδία και επιβεβαιώνεται μέσα από το ρεπορτάζ του Gazzetta.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ντόρτμουντ: Πιέζει για τον Κωνσταντίνο Καρέτσα",
+          "url": "https://www.gazzetta.gr/football/bundesliga/2553682/ntortmoynt-piezei-gia-ton-konstantino-karetsa",
+          "snippet": "Η Μπορούσια Ντόρτμουντ πιέζει για να αποσπάσει την υπογραφή του Κωνσταντίνου Καρέτσα, με την Γκενκ να μην κάνει πίσω στις απαιτήσεις της.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι «πικάντικες» ιστορίες με πρωταγωνιστή τον «κυβερνήτη των βουνών» λήσταρχο Νταβέλη",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Σοκάρει το νέο βίντεο ντοκουμέντο από τη στιγμή των πυροβολισμών στο Άργος με βαριά τραυματία έναν 20χρονο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Από σκουπίδια... σε σπίτια: Τα «τούβλα Lego» που χτίζουν κατοικία 40 τ.μ. σε 5 ημέρες",
+          "url": "https://www.gazzetta.gr/plus/2553667/apo-ta-plastika-skoypidia-se-spitia-ta-toybla-lego-poy-htizoyn-katoikia-40-tm-se-5",
+          "snippet": "Στην Κολομβία, ανακυκλωμένα πλαστικά μετατρέπονται σε «τούβλα Lego», επιτρέποντας την κατασκευή σπιτιού 40 τ.μ. σε 5 ημέρες με χαμηλό κόστος.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γκαρνέτ για ανταλλαγή Μπράουν: «Δεν μου άρεσε, ήθελα να αποσυρθεί ως παίκτης των Σέλτικς»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553676/gkarnet-gia-antallagi-mpraoyn-den-moy-arese-ithela-na-aposyrthei-os-paiktis",
+          "snippet": "Ο Κέβιν Γκαρνετ έδειξε πως διαφωνεί με την απόφαση των Σέλτικς να ανταλλάξουν τον Τζέιλεν Μπράουν.",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μαλντίνι: Ανέλαβε τον ρόλο του Τεχνικού Διευθυντή στην Εθνική Ιταλίας",
           "url": "https://www.gazzetta.gr/football/2553681/malntini-anelabe-ton-rolo-toy-tehnikoy-dieythynti-stin-ethniki-italias",
           "snippet": "Ο Πάολο Μαλντίνι ανέλαβε με κάθε επισημότητα τον ρόλο του Τεχνικού Διευθυντή στην Εθνική Ιταλίας, επιστρέφοντας στη Σκουάντρα Ατζούρα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κρίστιανσεν - Παναθηναϊκός: «Πράσινος» στα ιατρικά και προβάρει τη φανέλα του «τριφυλλιού»",
-          "url": "https://www.gazzetta.gr/football/superleague/2553680/kristiansen-panathinaikos-prasinos-sta-iatrika-kai-probarei-ti-fanela",
-          "snippet": "Σύμφωνα με πληροφορίες του Gazzetta, το εξειδικευμένο ιατρικό κέντρο στην Ιταλία έδωσε το πράσινο φως στον Βίκτορ Κρίστιανσεν και ο παίκτης αναμένεται στην Αθήνα άμεσα για αν υπογράψει και ν' ανακοινωθεί.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "O Παναθηναϊκός ως πρωταθλητής ανέβηκε στη Waterpolo League 2 γυναικών",
-          "url": "https://www.gazzetta.gr/polo/2553679/o-panathinaikos-os-protathlitis-sti-waterpolo-league-2-gynaikon",
-          "snippet": "Ο Παναθηναϊκός με τρεις άνετες νίκες σε ισάριθμα παιχνίδια, κατέκτησε τον τίτλο στην Εθνική Κατηγορία και την άνοδο στη Waterpolo League 2 γυναικών.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Γκρασχόπερ 3-0: Φανταστική η ατμόσφαιρα στη Λεωφόρο",
-          "url": "https://www.gazzetta.gr/football/superleague/2553678/panathinaikos-gkrashoper-3-0-fantastiki-i-atmosfaira-sti-leoforo",
-          "snippet": "Οι οπαδοί του Παναθηναϊκού δημιούργησαν εξαιρετική ατμόσφαιρα στη Λεωφόρο στο φιλικό με τη Γκρασχόπερ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νίστρουπ: «Είμαι απόλυτα ικανοποιημένος»",
-          "url": "https://www.gazzetta.gr/football/superleague/2553677/nistroyp-eimai-apolyta-ikanopoiimenos",
-          "snippet": "Ο Τζέικομπ Νίστρουπ στις δηλώσεις του στον ΣΚΑΪ έκανε το σχόλιό του μετά την φιλική νίκη του Παναθηναϊκού κόντρα στη Γκρασχόπερ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νορβηγία - Αγγλία: Οι ενδεκάδες των δυο ομάδων",
-          "url": "https://www.gazzetta.gr/football/mundial/2553675/norbigia-agglia-oi-endekades-ton-dyo-omadon",
-          "snippet": "Γνωστές έγιναν οι ενδεκάδες της Νορβηγίας και της Αγγλίας, οι οποίες επέλεξαν τα βαριά χαρτιά τους για τον μεγάλο προημιτελικό του Μουντιάλ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τέλος στο πλαστικό bubble wrap; Χάρτινη λύση με ευρωπαϊκή χρηματοδότηση 13 εκατ. ευρώ",
-          "url": "https://www.gazzetta.gr/plus/2553661/telos-sto-plastiko-bubble-wrap-hartini-lysi-me-eyropaiki-hrimatodotisi-13-ekat-eyro",
-          "snippet": "Μια γερμανική startup δημιούργησε χάρτινη εναλλακτική του bubble wrap, που προστατεύει προϊόντα στις αποστολές χωρίς πλαστικό και ήδη υποστηρίζεται από ευρωπαϊκό έργο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Γκρασχόπερ 3-0: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/superleague/2553674/panathinaikos-gkrashoper-3-0-ta-highlights-toy-agona",
-          "snippet": "Τα γκολ και οι καλύτερες φάσεις της νίκης του Παναθηναϊκού επί της Γκρασχόπερ με 3-0.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Γκρασχόπερ: Ο Ταμπόρδα έκανε το 3-0",
-          "url": "https://www.gazzetta.gr/football/superleague/2553672/panathinaikos-gkrashoper-o-tamporda-ekane-3-0",
-          "snippet": "Ο Ταμπόρδα σημείωσε με πλασέ το 3-0 για τον Παναθηναϊκό κόντρα στη Γκρασχόπερ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Γκρασχόπερς 3-0: Ορεξάτος με λαμπερό Γιάγκουσιτς!",
-          "url": "https://www.gazzetta.gr/football/superleague/2553671/panathinaikos-gkrashopers-3-0-orexatos-me-lampero-giagkoysits",
-          "snippet": "Δείγμα θετικό για τον Παναθηναϊκό μπροστά σε 14000 φίλους του που βρέθηκαν στη Λεωφόρο! Με μπροστάρη τον λαμπερό Γιάγκουσιτς (γκολ και δοκάρι), το Τριφύλλι επικράτησε στο φιλικό κόντρα στη Γκρασχόπερς με 3-0. Δίχτυα βρήκαν και οι Ζαρουρί, Ταμπόρδα. Πρώτη για Ντε Φράι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ιμπραΐμοβιτς: Σφοδρή κριτική εναντίον του Ρούντι Γκαρσιά",
-          "url": "https://www.gazzetta.gr/football/mundial/2553670/impraimobits-sfodri-kritiki-enantion-toy-roynti-gkarsia",
-          "snippet": "Ο Ιμπραΐμοβιτς άσκησε δριμεία κριτική στον Γκαρσιά για την επιλογή του να περάσει στον αγωνιστικό χώρο τον Λάμενς αντί του Πέντερς, μετά τον τραυματισμό του Κουρτουά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Στάθης Λαλιάς: Πένθος στο πόλο για τον θάνατο του 25χρονου παίκτη",
-          "url": "https://www.gazzetta.gr/polo/a1-andron/2553669/stathis-lalias-penthos-sto-polo-gia-ton-thanato-toy-25hronoy-paikti",
-          "snippet": "Ο Στάθης Λαλιάς άφησε την τελευταία του πνοή σε ηλικία 25 ετών, βυθίζοντας στο πένθος την ελληνική υδατοσφαίριση, έπαιξε πόλο στον ΠΑΟΚ και στον Όμιλο Φίλων Θαλάσσης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Γκρασχόπερς: Το γκολ του Ζαρουρί για το 2-0",
-          "url": "https://www.gazzetta.gr/football/superleague/2553668/panathinaikos-gkrashopers-gkol-toy-zaroyri-gia-2-0",
-          "snippet": "Ο Παναθηναϊκός διπλασίασε τα τέρματά του απέναντι στην Γκρασχόπερς με σκόρερ τον Ζαρουρί.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νορβηγία - Αγγλία: Ακραίες θερμοκρασίες στο Μαϊάμι και κίνδυνος καθυστέρησης στον αγώνα",
-          "url": "https://www.gazzetta.gr/football/mundial/2553666/norbigia-agglia-akraies-thermokrasies-sto-maiami-kai-kindynos",
-          "snippet": "Σε ισχύ βρίσκεται προειδοποίηση από το Μαϊάμι για επικίνδυνα υψηλές θερμοκρασίες, οι οποίες θα μπορούσαν να οδηγήσουν σε καθυστέρηση τον προημιτελικό της Νορβηγίας με την Αγγλία.",
           "source": "Gazzetta"
         }
       ]
