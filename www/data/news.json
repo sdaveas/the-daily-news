@@ -1,16 +1,70 @@
 {
-  "updated": "2026-07-12T16:49:27.017596+00:00",
+  "updated": "2026-07-12T20:36:05.462239+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Τεχνητή Νοημοσύνη – Η περίπτωση Ferrera: Τι αδυνατεί να δει η πολιτική επιστήμη;",
-        "url": "https://www.efsyn.gr/nisides/1424293/tehniti-noimosyni-i-periptosi-ferrera-ti-adynatei-na-dei-i-politiki-epistimi/",
-        "snippet": "H πολιτική επιστήμη δεν μπορεί να διαγνώσει τι κομίζει η Τ.Ν. στον ψηφιακό χρήστη.",
+        "title": "Μπιενάλε Βενετίας: Η Κομισιόν κόβει τη χρηματοδότηση λόγω ρωσικού περιπτέρου",
+        "url": "https://www.efsyn.gr/kosmos/1426029/mpienale-venetias-i-komision-kovei-ti-hrimatodotisi-logo-rosikoy-peripteroy/",
+        "snippet": "Η Κομισιόν ανακοινώνει την περικοπή δύο εκατομμυρίων ευρώ για τη Μπιενάλε Βενετίας, λόγω της επαναλειτουργίας του ρωσικού περιπτέρου.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Κουφονήσια: Αντιδράσεις για πλωτή καντίνα σε παραλία Natura 2000 [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1426025/koyfonisia-antidraseis-gia-ploti-kantina-se-paralia-natura-2000-vinteo/",
+          "snippet": "Η πλωτή καντίνα σε παραλία Natura 2000 προκάλεσε την οργή των κατοίκων του νησιού, που ζητούν την απομάκρυνσή της.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Τουρκία: Συνελήφθη γνωστός ροκ σταρ για διαφθορά",
+          "url": "https://www.efsyn.gr/kosmos/1426023/toyrkia-synelifthi-gnostos-rok-star-gia-diafthora/",
+          "snippet": "Ο Χαλούκ Λεβέντ συνελήφθη για διαφθορά και ξέπλυμα χρημάτων, στο πλαίσιο έρευνας που αφορά τη μη κυβερνητική οργάνωση AHBAP που ίδρυσε το 2017.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ελληνικός θρίαμβος: Πρωταθλητής Ευρώπης στα 100 μ. πρόσθιο ο Βαγγέλης Ντούμας",
+          "url": "https://www.efsyn.gr/athlitismos/1426020/ellinikos-thriamvos-protathlitis-eyropis-sta-100-m-prosthio-o-vaggelis-ntoymas/",
+          "snippet": "Ο Βαγγέλης Ντούμας, μόλις 18 ετών, κατέκτησε το χρυσό μετάλλιο στα 100 μ. πρόσθιο με χρόνο 59.91, επαναλαμβάνοντας την επιτυχία του στο Ευρωπαϊκό Πρωτάθλημα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νέα ανάφλεξη ΗΠΑ – Ιράν: Αμερικανικοί πύραυλοι στο νησί Κεσμ, μάχη στα Στενά του Ορμούζ – Νεκροί και τραυματίες",
+          "url": "https://www.efsyn.gr/kosmos/1425988/nea-anaflexi-ipa-iran-amerikanikoi-pyrayloi-sto-nisi-kesm-mahi-sta-stena-toy-ormoyz-nekroi-kai-traymaties/",
+          "snippet": "Εκτοξεύθηκαν πύραυλοι από τις ΗΠΑ προς το νησί Κεσμ - Αναφορές για νεκρούς και τραυματίες από επιθέσεις στην επαρχία Χορμοζγκάν - Η Μέση Ανατολή φλέγεται ξανά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η νεολαία ΣΥΡΙΖΑ ζητά εσωκομματικό δημοψήφισμα για στήριξη της ΕΛΑΣ και μη κάθοδο του κόμματος στις επόμενες εκλογές",
+          "url": "https://www.efsyn.gr/politiki/1426013/i-neolaia-syriza-zita-esokommatiko-dimopsifisma-gia-stirixi-tis-elas-kai-mi-kathodo-toy-kommatos-stis-epomenes-ekloges/",
+          "snippet": "Η Νεολαία ΣΥΡΙΖΑ ζητά τη διεξαγωγή εσωκομματικού δημοψηφίσματος για στήριξη στον Αλέξη Τσίπρα και την αποχή από τις επόμενες εκλογές, για να «ενισχυθεί η ενότητα και η συλλογική δράση».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Συνέντευξη Τέντσα Αλιέντε: «Η γυναίκα να συνειδητοποιεί την αναγκαιότητα της ελευθερίας της»",
+          "url": "https://www.efsyn.gr/tehnes/1425654/synenteyxi-tentsa-aliente-i-gynaika-na-syneiditopoiei-tin-anagkaiotita-tis-eleytherias-tis/",
+          "snippet": "Μια συνέντευξη με τη σύζυγο του Σαλβαδόρ Αλιέντε και αγωνίστρια ενάντια στο καθεστώς Πινοτσέτ από την επίσκεψή της στην Αθήνα το 1984",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κάηκε το παλιό κτίριο του Μπάντμιντον στο Πάρκο Γουδή – Ήχησε το 112 [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1425989/fotia-sto-palio-ktirio-toy-mpantminton-sto-parko-goydi-ihise-to-112/",
+          "snippet": "Το κτίριο καιγόταν ολοσχερώς από τις 8 το απόγευμα ενώ υπήρχαν αναφορές για εκρήξεις - Λίγο μετά τις 9, η φωτιά περιορίστηκε.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ισραήλ: Βουλευτικές εκλογές στις 27 Οκτωβρίου – «Δημοψήφισμα» για την ηγεσία Νετανιάχου",
+          "url": "https://www.efsyn.gr/kosmos/1425984/israil-voyleytikes-ekloges-stis-27-oktovrioy-dimopsifisma-gia-tin-igesia-netaniahoy/",
+          "snippet": "Η εκλογική αναμέτρηση στις 27 Οκτωβρίου κρίνει την πολιτική επιβίωση του Νετανιάχου, καθώς οι δημοσκοπήσεις δείχνουν σφιχτό ανταγωνισμό με τον Γκάντι Άιζενκοτ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Τεχνητή Νοημοσύνη – Η περίπτωση Ferrera: Τι αδυνατεί να δει η πολιτική επιστήμη;",
+          "url": "https://www.efsyn.gr/nisides/1424293/tehniti-noimosyni-i-periptosi-ferrera-ti-adynatei-na-dei-i-politiki-epistimi/",
+          "snippet": "H πολιτική επιστήμη δεν μπορεί να διαγνώσει τι κομίζει η Τ.Ν. στον ψηφιακό χρήστη.",
+          "source": "EfSyn"
+        },
         {
           "title": "Άργος: Αναβαθμίζεται το κατηγορητήριο για τους δύο αστυνομικούς που σκότωσαν τον 20χρονο",
           "url": "https://www.efsyn.gr/ellada/1425979/argos-anavathmizetai-to-katigoritirio-gia-toys-dyo-astynomikoys-poy-skotosan-ton-20hrono/",
@@ -40,60 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1425970/kriti-27hronos-allaxe-mehri-kai-hora-gia-na-kakopoiisei-tin-proin-syntrofo-toy/",
           "snippet": "Ο 27χρονος που βρισκόταν στη Γερμανία εντόπισε την κοπέλα από online παραγγελία φαγητού.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Eurovision 2027: Το Ισραήλ θα συμμετέχει ξανά παρά το κύμα αντιδράσεων",
-          "url": "https://www.efsyn.gr/tehnes/1425968/eurovision-2027-to-israil-tha-symmetehei-xana-para-to-kyma-antidraseon/",
-          "snippet": "Αψηφώντας τις δεκάδες έμμεσες ή άμεσες αντιδράσεις πολιτών αλλά και ευρωπαϊκών χωρών, το Ισραήλ δήλωσε ότι θα λάβει κανονικά μέρος στον διαγωνισμό τραγουδιού το 2027.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Οταν ο Ταρντέλι μπήκε στα σπίτια μας!",
-          "url": "https://www.efsyn.gr/stiles/1425650/otan-o-tarnteli-mpike-sta-spitia-mas/",
-          "snippet": "Μουντιάλ 1982 στην Ισπανία: ελκυστικό θέαμα μα και παρασκήνιο… Σαν σήμερα έγινε ο τελικός με τον ιστορικό πανηγυρισμό",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μετά την Ουκρανία…",
-          "url": "https://www.efsyn.gr/stiles/1425646/meta-tin-oykrania/",
-          "snippet": "Δεν φαίνεται στον ορίζοντα κανένα πλαίσιο για τη μεταπολεμική τάξη πραγμάτων στην Ουκρανία",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η οικονομία δεν αντέχει αγορές οπλικών συστημάτων από το ράφι",
-          "url": "https://www.efsyn.gr/stiles/1425642/i-oikonomia-den-antehei-agores-oplikon-systimaton-apo-to-rafi/",
-          "snippet": "Η ανατροπή της ισορροπίας δυνάμεων στην οικονομία και στο δημογραφικό σε βάρος μας επιβάλλει μια εντελώς διαφορετική διαχείριση της κούρσας των εξοπλισμών με την Τουρκία. Επρεπε να είχαμε γίνει οικονομικότεροι, παραγωγικότεροι, δημιουργικότεροι",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ανάμεσα στο χτες και την ΕΛΑΣ",
-          "url": "https://www.efsyn.gr/stiles/1425637/anamesa-sto-htes-kai-tin-elas/",
-          "snippet": "Ο καθένας αποφασίζει με βάση τη συνείδησή του. Και το προσωπικό του αύριο αν θέλετε, ενταγμένο σε μια συλλογική προσπάθεια. Αυτό θα κρίνει το μέλλον του ΣΥΡΙΖΑ - και αν έχει μέλλον",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΑΑΔΕ: Κατασχέθηκαν 2 τόνοι επικίνδυνων γαλακτοκομικών – Μεταφέρονταν παράνομα και εκτός ψυγείου",
-          "url": "https://www.efsyn.gr/oikonomia/1425957/aade-katashethikan-2-tonoi-epikindynon-galaktokomikon-metaferontan-paranoma-kai-ektos-psygeioy/",
-          "snippet": "Τα προϊόντα μεταφέρονταν από τη Βουλγαρία και ήταν άκρως επικίνδυνα για τη δημόσια υγεία λόγω της πλήρους απουσίας ψύξης, σύμφωνα με την ΑΑΔΕ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κριστιάνο Ρονάλντο: Ενα ρομπότ που έχει και προκαλεί συναισθήματα",
-          "url": "https://www.efsyn.gr/stiles/1425632/kristiano-ronalnto-ena-rompot-poy-ehei-kai-prokalei-synaisthimata/",
-          "snippet": "Η… ατελείωτη καριέρα του 41χρονου σούπερ σταρ του ποδοσφαίρου, γεμάτη ποδοσφαιρικά μίση και πάθη",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κύπρος: Ξεκινά έρευνα για το πλήγμα σε πλοίο υπό κυπριακή σημαία στα Στενά του Ορμούζ",
-          "url": "https://www.efsyn.gr/kosmos/1425948/kypros-to-yfypoyrgeio-naytilias-xekina-ereyna-gia-to-pligma-se-ploio-ypo-kypriaki-simaia-sta-stena-toy-ormoyz/",
-          "snippet": "«Η διέλευση από τα Στενά του Ορμούζ είναι ιδιαίτερα δύσκολη για όλα τα πλοία» - Εξακολουθεί να αγνοείται μέλος του πληρώματος.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Το Τραγούδι της Ημέρας: Τζούρα ελευθερίας",
-          "url": "https://www.efsyn.gr/tehnes/1425951/to-tragoydi-tis-imeras-tzoyra-eleytherias/",
-          "snippet": "Από το «Χέρια στον Θεό», το πρόσφατο άλμπουμ του Ορέστη Ντάντου, ακούμε ένα πολύ ωραίο τραγούδι, ερμηνευμένο εξαιρετικά από την Ιουλία Καραπατάκη, το οποίο αποτυπώνει την ελευθερία που νιώθουμε συμμετέχοντας στη μυσταγωγία τού «μαζί».",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,16 +101,46 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
-        "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
-        "snippet": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
+        "title": "Live Updates: Cease-Fire Unraveling as U.S. and Iran Trade Strikes Again",
+        "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz",
+        "snippet": "A fresh round of attacks by the U.S. on Sunday was the latest volley in a familiar pattern of back-and-forth strikes fueled by disputes over the Strait of Hormuz.",
         "source": "NYT World"
       },
       "items": [
         {
+          "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+          "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+          "snippet": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
+          "source": "NYT World"
+        },
+        {
           "title": "Hard-Liners in Iran Want to Keep Fighting America",
           "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
           "snippet": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
+          "source": "NYT World"
+        },
+        {
+          "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+          "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+          "snippet": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
+          "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
+          "snippet": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
+          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
+          "snippet": "The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
+          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
+          "snippet": "Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.",
           "source": "NYT World"
         },
         {
@@ -156,39 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.",
-          "url": "https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html",
-          "snippet": "Officials said more than 20 people were still missing because of the fire, one of the deadliest in Spain’s history. Most of those confirmed to have been killed were from Belgium or Britain.",
-          "source": "NYT World"
-        },
-        {
-          "title": "‘They Don’t Need People’: The Workers Left Behind by China’s Robot Drive",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/china-workers-robots-factories.html",
-          "snippet": "For out-of-work factory workers in Kunshan, a region made rich by electronics manufacturing, a park is the only place to go.",
-          "source": "NYT World"
-        },
-        {
-          "title": "U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo",
-          "url": "https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html",
-          "snippet": "The American, who works for the humanitarian organization Samaritan’s Purse, is the second to be infected in an outbreak that continues to spread.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?",
-          "url": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-steel-plant-civilian-military.html",
-          "snippet": "During the war, Israel attacked Iran’s steel plants, saying they provided forces with revenue and the means to make weapons, but it also hurt the civilian economy.",
-          "source": "NYT World"
-        },
-        {
-          "title": "15 Killed as Speedboat Capsizes in Vietnam",
-          "url": "https://www.nytimes.com/2026/07/11/world/asia/vietnam-speedboat-tourists-capsize.html",
-          "snippet": "A speedboat was carrying 36 people when it overturned near the island of Phu Quoc in southern Vietnam. The other people onboard were rescued alive.",
-          "source": "NYT World"
-        },
-        {
-          "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-          "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-          "snippet": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
+          "title": "Here’s a look at the heavy strikes in recent days.",
+          "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
+          "snippet": "The attack",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "18χρονος ζήτησε μια τελευταία αγκαλιά από την οικογένειά του πριν από τα ισόβια – Ο δικαστής είπε «όχι»",
-        "url": "https://www.gazzetta.gr/plus/2553842/18hronos-zitise-mia-teleytaia-agkalia-apo-tin-oikogeneia-toy-prin-apo-ta-isobia-o",
-        "snippet": "Συγγνώμη προς την οικογένεια του θύματος ζήτησε ο 18χρονος, χωρίς όμως να αποφύγει τα ισόβια.",
+        "title": "Ολυμπιακός: Στην κορυφή για το απευθείας εισιτήριο του Champions League το 2027!",
+        "url": "https://www.gazzetta.gr/football/champions-league/2553876/olympiakos-stin-koryfi-gia-apeytheias-eisitirio-toy-champions",
+        "snippet": "Στην pole position για το απευθείας εισιτήριο του Champions League μέσω του rebalancing είναι ο Ολυμπιακός ενόψει της σεζόν 2027/2028.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Να γιατί έχουμε τα πιο ακριβά όσπρια και αποξηραμένα φρούτα στην Ευρώπη",
-          "url": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
-          "snippet": "Ποιος να το περίμενε πριν 30 χρόνια, ότι τα ταπεινά φασόλια και ρεβίθια, θα διεκδικούσαν μια θέση στο σύγχρονο ελληνικό τραπέζι.",
+          "title": "Ολυμπιακός: «Κοιτάζει» τον Πουλακίδα - Τι ισχύει με το ελληνικό διαβατήριο",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2553875/olympiakos-koitazei-ton-poylakida-ti-ishyei-me-elliniko-diabatirio",
+          "snippet": "Ο Τζον Πουλακίδας βρίσκεται στο μικροσκόπιο των ανθρώπων του Ολυμπιακού οι οποίοι δίνουν το «παρών» στο Summer League του Λας Βέγκας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Η εικόνα από τα πιο ενδιαφέροντα πρόσωπα του νέου φιλικού",
-          "url": "https://www.gazzetta.gr/football/superleague/2553808/olympiakos-i-eikona-apo-ta-pio-endiaferonta-prosopa-toy-neoy-filikoy",
-          "snippet": "Ο Κ. Νικολακόπουλος καταγράφει στο blog του στο gazzetta την εικόνα έξι παικτών του Ολυμπιακού στο δεύτερο φιλικό του.",
+          "title": "Athens Open: Η Σάκκαρη δεσπόζει στην πρεμιέρα, το πρόγραμμα της Δευτέρας",
+          "url": "https://www.gazzetta.gr/tennis/wta/2553874/athens-open-i-sakkari-despozei-stin-premiera-programma-tis-deyteras",
+          "snippet": "Η Μαρία Σάκκαρη αντιμετωπίζει την Πολίνα Κουντερμέτοβα στην πρεμιέρα του Athens Open τη Δευτέρα στο ΟΑΚΑ, αναλυτικά όλες οι ελληνικές συμμετοχές.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - Ντε Γκράαφσαπ 2-1: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/superleague/2553840/aek-nte-gkraafsap-2-1-ta-highlights-toy-agona",
-          "snippet": "Τα γκολ και οι καλύτερες φάσεις της φιλικής νίκης της ΑΕΚ με 2-1 επί της Ντε Γκράαφσαπ.",
+          "title": "Παναθηναϊκός: Συμφωνία με Κότσαρη για νέο συμβόλαιο",
+          "url": "https://www.gazzetta.gr/football/superleague/2553873/panathinaikos-symfonia-me-kotsari-gia-neo-symbolaio",
+          "snippet": "Ο Κωνσταντίνος Κότσαρης έδωσε τα χέρια με τον Παναθηναϊκό για την υπογραφή νέου συμβολαίου με βελτιωμένες αποδοχές.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπεσίκτας: «Έδεσε» τον Αλιμπίγεβιτς μέχρι το 2028",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553839/mpesiktas-edese-ton-alimpigebits-mehri-2028",
-          "snippet": "Η Μπεσίκτας ανακοίνωσε την επέκταση της συνεργασίας της με τον Ντούσαν Αλιμπίγεβιτς έως το τέλος της σεζόν 2027-28.",
+          "title": "Ντιάλο: Στους Νάγκετς ο πρώην παίκτης της Μονακό!",
+          "url": "https://www.gazzetta.gr/basketball/nba/2553872/ntialo-stoys-nagkets-o-proin-paiktis-tis-monako",
+          "snippet": "Ο Άλφα Ντιάλο θα μετακομίσει στην άλλη άκρη του Ατλαντικού προκειμένου να δοκιμάσει την τύχη του στο NBA και δη στους Ντένβερ Νάγκετς υπογράφοντας μονοετές συμβόλαιο!",
           "source": "Gazzetta"
         },
         {
-          "title": "Ντε Γκράαφσαπ - ΑΕΚ 1-2: Νίκησε ακόμη και τα... νεύρα!",
-          "url": "https://www.gazzetta.gr/football/superleague/2553838/nte-gkraafsap-aek-1-2-nikise-akomi-kai-ta-neyra",
-          "snippet": "Νικηφόρο σεφτέ για την πρωταθλήτρια ΑΕΚ, που σε ένα φιλικό γεμάτο νεύρα και ένταση επικράτησε με 2-1 της Ντε Γκράαφσαπ! Το πρώτο γκολ της σεζόν ο Βάργκα, πρώτο «κιτρινόμαυρο» τέρμα για τον Ζούμπκοφ. Ευκαιρίες για μεγαλύτερο σκορ από την Ένωση.",
+          "title": "Μπαρτσελόνα: Καταλήγει σε Σέκουλιτς",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2553871/mpartselona-kataligei-se-sekoylits",
+          "snippet": "Ο Αλεξάντερ Σέκουλιτς φαίνεται ότι είναι ο εκλεκτός της Μπαρτσελόνα προκειμένου να αναλάβει την τεχνική ηγεσία της ομάδας από τη νέα σεζόν.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ: Στη Θεσσαλονίκη ο Σανταμαρία για τις υπογραφές με τον «Δικέφαλο»",
-          "url": "https://www.gazzetta.gr/football/superleague/2553836/santamaria-paok-sti-thessaloniki-o-gallos-mesos",
-          "snippet": "Ο Μπαπτίστ Σανταμαρία αφίχθη στη Θεσσαλονίκη και τη Δευτέρα, εκτός απροόπτου, θ' ανακοινωθεί η απόκτησή του από τον ΠΑΟΚ.",
+          "title": "«Πλήρωσα 850 ευρώ για την ομπρέλα, θα φάω ό,τι θέλω»: Χαμός στις παραλίες της Ιταλίας για τα σπιτικά σάντουιτς",
+          "url": "https://www.gazzetta.gr/plus/2553870/plirosa-850-eyro-gia-tin-omprela-tha-fao-oti-thelo-hamos-stis-paralies-tis-italias-gia",
+          "snippet": "Η απαγόρευση του φαγητού από το σπίτι σε ορισμένα beach clubs έχει προκαλέσει αντιδράσεις από λουόμενους, επιχειρηματίες και πολιτικούς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νίκη Βόλου: Ανακοίνωσε τον Καλαϊτσίδη από τον ΠΑΟΚ Β",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2553835/niki-boloy-anakoinose-ton-kalaitsidi-apo-ton-paok-b",
-          "snippet": "Συνεχίζει να ενισχύεται η Νίκη Βόλου στο μεταγραφικό «παζάρι» του καλοκαιριού και μέσω ανακοίνωσης της έκανε γνωστή την απόκτηση του Καλαϊτσίδη από τον ΠΑΟΚ Β.",
+          "title": "ΠΑΟΚ: Ήττα για την Κλουζ στον τελικό του Σούπερ Καπ Ρουμανίας",
+          "url": "https://www.gazzetta.gr/football/superleague/2553869/paok-itta-gia-tin-kloyz-ston-teliko-toy-soyper-kap-roymanias",
+          "snippet": "Η Κλουζ, που θα αντιμετωπίσει τον ΠΑΟΚ, αν περάσει τη Ντιναμό Κιέβου έχασε στα πέναλτι στον τελικό του Σούπερ Καπ Ρουμανίας, από τη νταμπλούχο Κραϊόβα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ζευγάρι χτίζει το νέο του σπίτι χρησιμοποιώντας μπάλες από άχυρο: «Σταθερή θερμοκρασία όλο το χρόνο»",
-          "url": "https://www.gazzetta.gr/plus/2553473/zeygari-htizei-neo-toy-spiti-hrisimopoiontas-mpales-apo-ahyro-statheri-thermokrasia",
-          "snippet": "Ζευγάρι σχεδίασε και έχτισε ένα ενεργειακά αυτόνομο και οικολογικό σπίτι από άχυρο, πηλό και ξύλο στις ακτές της Αστούριας.",
+          "title": "Παναθηναϊκός: Με Νίστρουπ και κόσμο κέρδισε το πρώτο στοίχημα",
+          "url": "https://www.gazzetta.gr/football/superleague/2553812/panathinaikos-me-nistroyp-kai-kosmo-kerdise-proto-stoihima",
+          "snippet": "Ο Γιώργος Σακελλαρίου γράφει στο blog του για τον κόσμο του Παναθηναϊκού, τον Νίστρουπ και τη διοίκηση που πιστεύουν σ' αυτό που χτίζεται. Σειρά, όμως, έχει να κερδίσει ο οργανισμός το μεγάλο στοίχημα.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ: Τετάρτη ξανά προπόνηση με Σανταμαρία και Τάχα Άλι",
-          "url": "https://www.gazzetta.gr/football/superleague/2553834/paok-tetarti-xana-proponisi-me-santamaria-kai-taha-ali",
-          "snippet": "Η αποστολή του ΠΑΟΚ επέστρεψε στη Θεσσαλονίκη μετά το βασικό στάδιο της προετοιμασίας στο Ζαλτμπόμελ της Ολλανδίας.",
+          "title": "Ελλάδα - Πορτογαλία 43-78: Βαριά ήττα για την Νέων Γυναικών στον τελικό, αλλά ο στόχος... επετεύχθη!",
+          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2553867/ellada-portogalia-43-78-baria-itta-gia-tin-neon-gynaikon-ston",
+          "snippet": "Η Εθνική Νέων Γυναικών ηττήθηκε στον τελικό του Eurobasket U20 B' κατηγορίας από την Πορτογαλία με 43-78 ωστόσο είχε εξασφαλίσει την άνοδο στην Α' κατηγορία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπεσίκτας: Ενισχύθηκε με τον πρώην NBAer, Τζέιλεν Νόουελ",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553833/mpesiktas-enishythike-me-ton-proin-nbaer-tzeilen-nooyel",
-          "snippet": "Ο Τζέιλεν Νόουελ αφήνει τις ΗΠΑ και μετακομίζει στην Τουρκία, με την Μπεσίκτας να ανακοινώνει την απόκτησή του.",
+          "title": "Κλήρωση Τζόκερ (12/7): Αυτοί είναι οι αριθμοί που κερδίζουν πάνω από 5,1 εκατ. ευρώ",
+          "url": "https://www.gazzetta.gr/plus/2553866/klirosi-tzoker-127-aytoi-einai-oi-arithmoi-poy-kerdizoyn-pano-apo-51-ekat-eyro",
+          "snippet": "Δείτε τους αριθμούς που ανέδειξε η αποψινή κλήρωση του Τζόκερ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - Ντε Γκράαφσαπ: Νέα ένταση με Βάργκα, έξι κίτρινες στο πρώτο ημίχρονο",
-          "url": "https://www.gazzetta.gr/football/superleague/2553832/aek-nte-gkraafsap-nea-entasi-me-bargka-exi-kitrines-sto-proto-imihrono",
-          "snippet": "Ο φορ της ΑΕΚ Μπάρναμπας Βάργκα είχε αψιμαχία με αντίπαλο λίγο πριν το τέλος του πρώτου ημιχρόνου.",
+          "title": "Σίνερ - Ζβέρεφ 3-1: Διατήρησε το στέμμα του στο Wimbledon",
+          "url": "https://www.gazzetta.gr/tennis/wimbledon/2553865/siner-zberef-3-1-diatirise-stemma-toy-sto-wimbledon",
+          "snippet": "Ο Γιάνικ Σίνερ μετά την περιπέτεια του Roland Garros, επέστρεψε στη δράση και νικώντας τον Αλεξάντερ Ζβέρεφ με 3-1 σετ, διατήρησε τον τίτλο του πρωταθλητή στο Wimbledon.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η Kathy Griffin αναστάτωσε το διαδίκτυο με τον 43 χρόνια νεότερο σύντροφό της – Η αλήθεια πίσω από το viral post",
-          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "snippet": "Αίσθηση προκάλεσε η Kathy Griffin, όταν δημοσίευσε στο Instagram μια φωτογραφία στην οποία εμφανιζόταν να περπατά χέρι-χέρι με έναν νεαρό άνδρα.",
+          "title": "Χάμζα - Καλαμάτα: Ανακοινώθηκε η απόκτηση του 18χρονου μεσοεπιθετικού",
+          "url": "https://www.gazzetta.gr/football/superleague/2553864/hamza-kalamata-anakoinothike-i-apoktisi-toy-18hronoy-mesoepithetikoy",
+          "snippet": "Ο Έρικ Χάμζα θα συνεχίσει την ποδοσφαιρική του διαδρομή στον σύλλογο της Καλαμάτας ως δανεικός από τον Ολυμπιακό.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - Ντε Γκράαφσαπ: Βάργκα και Ζούμπκοφ έκαναν το 2-0 για την Ένωση",
-          "url": "https://www.gazzetta.gr/football/superleague/2553831/aek-nte-gkraafsap-bargka-kai-zoympkof-ekanan-2-0-gia-tin-enosi",
-          "snippet": "Η ΑΕΚ στο ημίχρονο είναι μπροστά με 2-0 στο σκορ στο φιλικό με τη Ντε Γκράαφσαπ, με γκολ των Βάργκα και Ζούμπκοφ.",
+          "title": "DENZA Z: Το ηλεκτρικό supercar των 1.604 ίππων «ισοπεδωσε» το Goodwood",
+          "url": "https://www.gazzetta.gr/gmotion/2553794/denza-z-ilektriko-supercar-ton-1604-ippon-isopedose-goodwood",
+          "snippet": "Η premium μάρκα του BYD Group παρουσίασε ένα εξωτικό τετραθέσιο μοντέλο με τρεις ηλεκτροκινητήρες, τεχνολογία FLASH Charging και επιτάχυνση 0-100 χλμ./ώρα σε λιγότερο από 2 δευτερόλεπτα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χάποελ Τελ Αβίβ: Ανανέωσε ο Οτούρου έως το 2029!",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2553830/hapoel-tel-abib-ananeose-o-otoyroy-eos-2029",
-          "snippet": "Παίκτης της Χάποελ για άλλα τρία χρόνια θα παραμείνει ο Νταν Οτούρου, καθώς η ισραηλινή ομάδα ανακοίνωσε την επέκταση του συμβολαίου του.",
+          "title": "Στάνιτς - Ολυμπιακός: Τι προκύπτει από τους Ερυθρόλευκους για τον παίκτη",
+          "url": "https://www.gazzetta.gr/football/superleague/2553863/stanits-olympiakos-ti-prokyptei-apo-toys-erythroleykoys-ga-ton-paikti",
+          "snippet": "Στις τάξεις του Ολυμπιακού υπάρχει μία συγκεκριμένη στάση γύρω από το θέμα Στάνιτς και τις πληροφορίες για την μεταγραφή του.",
           "source": "Gazzetta"
         }
       ]
@@ -389,9 +389,9 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
-        "url": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
-        "snippet": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
+        "title": "Why Dior’s Jonathan Anderson Is Inspired by Lynda Benglis",
+        "url": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
+        "snippet": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior’s Jonathan Anderson.",
         "source": "NYT Arts"
       },
       "items": [
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
-          "url": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
-          "snippet": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan.",
+          "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
+          "url": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
+          "snippet": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
           "source": "NYT Arts"
         },
         {
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
-          "url": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
-          "snippet": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color.",
+          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
+          "url": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+          "snippet": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan.",
           "source": "NYT Arts"
         },
         {
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
-          "url": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
-          "snippet": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough.",
+          "title": "Melbourne Symphony Wins Discrimination Case Over Gaza Comments",
+          "url": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
+          "snippet": "The pianist Jayson Gillham had sued the orchestra after it canceled his performance in the wake of comments he made against Israel’s war with Hamas.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
-          "url": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
-          "snippet": "A stirring but tonally muddled new musical about the “poison queen of Palermo” gets an elegant Off Broadway production.",
+          "title": "Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump",
+          "url": "https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html",
+          "snippet": "Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
-          "url": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
-          "snippet": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”",
+          "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
+          "url": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+          "snippet": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Orna Guralnik of ‘Couples Therapy’ Considers Kendrick Lamar a Genius",
-          "url": "https://www.nytimes.com/2026/07/11/arts/television/orna-guralnik-couples-therapy.html",
-          "snippet": "Outside of her job as the therapist on the series “Couples Therapy,” she has a favorite clip of the rapper performing and shows it to everyone she knows.",
+          "title": "‘Giulia’ Review: Jennifer Nettles Delivers Empowerment (and Poison)",
+          "url": "https://www.nytimes.com/2026/07/10/theater/giulia-poison-queen-of-palermo-review-nettles.html",
+          "snippet": "A stirring but tonally muddled new musical about the “poison queen of Palermo” gets an elegant Off Broadway production.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Beyoncé, the Rolling Stones: Songs to Know This Week",
-          "url": "https://www.nytimes.com/2026/07/11/arts/music/beyonce-rolling-stones-songs.html",
-          "snippet": "Beyoncé gets amorous, the Rolling Stones stay loud and the Linda Lindas team up with Hayley Williams.",
+          "title": "How Good Is Jon Hamm at Playing Jon Hamm?",
+          "url": "https://www.nytimes.com/2026/07/11/movies/actors-playing-themselves-jon-hamm.html",
+          "snippet": "Inside the high-wire act of casting celebrities to play themselves, including in movies like “Gail Daughtry and the Celebrity Sex Pass.”",
           "source": "NYT Arts"
         }
       ]
