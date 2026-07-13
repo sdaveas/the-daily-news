@@ -1,16 +1,34 @@
 {
-  "updated": "2026-07-12T20:36:05.462239+00:00",
+  "updated": "2026-07-13T01:57:20.289655+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Μπιενάλε Βενετίας: Η Κομισιόν κόβει τη χρηματοδότηση λόγω ρωσικού περιπτέρου",
-        "url": "https://www.efsyn.gr/kosmos/1426029/mpienale-venetias-i-komision-kovei-ti-hrimatodotisi-logo-rosikoy-peripteroy/",
-        "snippet": "Η Κομισιόν ανακοινώνει την περικοπή δύο εκατομμυρίων ευρώ για τη Μπιενάλε Βενετίας, λόγω της επαναλειτουργίας του ρωσικού περιπτέρου.",
+        "title": "Θεσσαλονίκη: Χωρίς τις αισθήσεις του ανασύρθηκε λουόμενος στην παραλία της Περαίας",
+        "url": "https://www.efsyn.gr/ellada/1426040/thessaloniki-horis-tis-aisthiseis-toy-anasyrthike-loyomenos-stin-paralia-tis-peraias/",
+        "snippet": "Ένας 78χρονος λουόμενος ανασύρθηκε χωρίς τις αισθήσεις του.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Στη Θεσσαλονίκη για τον ΠΑΟΚ ο Σανταμαρία – Τη Δευτέρα πάει και ο Αλί",
+          "url": "https://www.efsyn.gr/athlitismos/1426037/sti-thessaloniki-gia-ton-paok-o-santamaria-ti-deytera-paei-kai-o-ali/",
+          "snippet": "Ο Μπαπτίστ Σανταμαρία φτάνει στη Θεσσαλονίκη για να ολοκληρώσει τη μεταγραφή του στον ΠΑΟΚ, ενώ αύριο αναμένεται και ο Τάχα Αλί από τη Μάλμε.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Αυτόπτης μάρτυρας για τη φωτιά στο Μπάντμιντον: «Το κτίριο φλεγόταν στους πάνω ορόφους, είδα πυκνούς, μαύρους καπνούς»",
+          "url": "https://www.efsyn.gr/ellada/1426032/aytoptes-martyres-gia-ti-fotia-sto-mpantminton-to-ktirio-flegotan-stoys-pano-orofoys-eida-pyknoys-mayroys-kapnoys/",
+          "snippet": "«Δεν πρέπει να έχει ούτε ρεύμα ούτε τίποτα για βραχυκύκλωμα. Φως δεν έβλεπα. Και αυτό τώρα δεν ξέρω πώς έγινε»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μπιενάλε Βενετίας: Η Κομισιόν κόβει τη χρηματοδότηση λόγω ρωσικού περιπτέρου",
+          "url": "https://www.efsyn.gr/kosmos/1426029/mpienale-venetias-i-komision-kovei-ti-hrimatodotisi-logo-rosikoy-peripteroy/",
+          "snippet": "Η Κομισιόν ανακοινώνει την περικοπή δύο εκατομμυρίων ευρώ για τη Μπιενάλε Βενετίας, λόγω της επαναλειτουργίας του ρωσικού περιπτέρου.",
+          "source": "EfSyn"
+        },
         {
           "title": "Κουφονήσια: Αντιδράσεις για πλωτή καντίνα σε παραλία Natura 2000 [βίντεο]",
           "url": "https://www.efsyn.gr/ellada/1426025/koyfonisia-antidraseis-gia-ploti-kantina-se-paralia-natura-2000-vinteo/",
@@ -75,24 +93,6 @@
           "title": "Φωτιά στον Άγιο Αθανάσιο Θεσσαλονίκης – Καίγονται ξερόχορτα και σκουπίδια",
           "url": "https://www.efsyn.gr/ellada/1425977/fotia-ston-agio-athanasio-thessalonikis-kaigontai-xerohorta-kai-skoypidia/",
           "snippet": "Ήχησε το 112 το οποίο καλεί τους κατοίκους να παραμείνουν σε ετοιμότητα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η άνοδος της ακροδεξιάς, απειλή για τη Δημοκρατία",
-          "url": "https://www.efsyn.gr/stiles/1425975/i-anodos-tis-akrodexias-apeili-gia-ti-dimokratia/",
-          "snippet": "Ένα από τα πιο κρίσιμα ερωτήματα της ευρωπαϊκής πολιτικής σκηνής μετά τις αλλεπάλληλες κρίσεις της τελευταίας δεκαπενταετίας είναι αν αυτές αποτελούν σημαντικό ερμηνευτικό παράγοντα για την άνοδο της Ακροδεξιάς. Τα αποτελέσματα των εθνικών εκλογών του Ιουνίου 2023 οδήγησαν τρία κ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Mini John Cooper Works: Δύναμη που φαίνεται",
-          "url": "https://www.efsyn.gr/aytokinito/1424261/mini-john-cooper-works-dynami-poy-fainetai/",
-          "snippet": "Η MINI ανοίγει νέο κεφάλαιο στην πλούσια ιστορία της, παρουσιάζοντας τη νέα γενιά μοντέλων John Cooper Works (JCW). Για πρώτη φορά, οι λάτρεις των υψηλών επιδόσεων έχουν τη δυνατότητα να επιλέξουν ανάμεσα σε δύο ηλεκτρικές και τρεις βενζινοκίνητες εκδόσεις. Κοινό σημείο αναφοράς ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κρήτη: 27χρονος άλλαξε μέχρι και… χώρα για να κακοποιήσει την πρώην σύντροφό του",
-          "url": "https://www.efsyn.gr/ellada/1425970/kriti-27hronos-allaxe-mehri-kai-hora-gia-na-kakopoiisei-tin-proin-syntrofo-toy/",
-          "snippet": "Ο 27χρονος που βρισκόταν στη Γερμανία εντόπισε την κοπέλα από online παραγγελία φαγητού.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Here’s a look at the heavy strikes in recent days.",
-          "url": "https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/us-and-iranian-strikes",
-          "snippet": "The attack",
+          "title": "Fire in Bangkok Bar Kills Dozens",
+          "url": "https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html",
+          "snippet": "The fast-moving blaze sent people fleeing into the bathroom to hide, officials said. Their bodies were found there, raising questions about fire safety standards.",
           "source": "NYT World"
         }
       ]
@@ -212,7 +212,7 @@
         {
           "title": "This slushie machine was a lifesaver during NYC’s heat wave",
           "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-          "snippet": "Last weekend&#8217;s brutal NYC heat wave had me craving a frozen drink almost every afternoon. Normally, that would mean sweating through a walk to 7-Eleven for a slurpee. This time, though, I stayed home and put the new Ninja Slushi Twist to the test. Ninja&#8217;s latest slush",
+          "snippet": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
           "source": "TechCrunch"
         },
         {
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ολυμπιακός: Στην κορυφή για το απευθείας εισιτήριο του Champions League το 2027!",
-        "url": "https://www.gazzetta.gr/football/champions-league/2553876/olympiakos-stin-koryfi-gia-apeytheias-eisitirio-toy-champions",
-        "snippet": "Στην pole position για το απευθείας εισιτήριο του Champions League μέσω του rebalancing είναι ο Ολυμπιακός ενόψει της σεζόν 2027/2028.",
+        "title": "Marathon Masters 2026: Πρώτοι και καλύτεροι στο Karavi Club οι Τσιγαρίδας, Σεμιτέκολος",
+        "url": "https://www.gazzetta.gr/mpits-bolei/2553879/marathon-masters-2026-protoi-kai-kalyteroi-sto-karavi-club-oi-tsigaridas",
+        "snippet": "Οι Παναγιώτης Σεμιτέκολος και τον Χρήστος Τσιγαρίδας κατέκτησαν τον τίτλο Masters στο Karavi Club.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Τι μισθό βγάζουν όσοι δουλεύουν σε Κρουαζιερόπλοια: Η χαοτική διαφορά ανάμεσα σε καμαριέρα και καπετάνιο",
+          "url": "https://www.gazzetta.gr/plus/2553877/ti-mistho-bgazoyn-osoi-doyleyoyn-se-kroyazieroploia",
+          "snippet": "Από τους εργαζόμενους στην κουζίνα μέχρι τον καπετάνιο, οι μισθοί στα κρουαζιερόπλοια παρουσιάζουν τεράστιες αποκλίσεις.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τροχαίο με θύμα την 15χρονη του ΠΑΟΚ: Μυστήριο με τον οδηγό του απορριμματοφόρου - Οι καταγγελίες του πατέρα",
+          "url": "https://www.gazzetta.gr/plus/2553878/trohaio-me-thyma-tin-15hroni-toy-paok-mystirio-me-ton-odigo-toy-aporrimmatoforoy-oi",
+          "snippet": "Θρήνος στη Θεσσαλονίκη για την 15χρονη αθλήτρια που έχασε τη ζωή της σε τροχαίο όταν απορριμματοφόρο συγκρούστηκε με τη μοτοσυκλέτα που οδηγούσε ο πατέρας της.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Στην κορυφή για το απευθείας εισιτήριο του Champions League το 2027!",
+          "url": "https://www.gazzetta.gr/football/champions-league/2553876/olympiakos-stin-koryfi-gia-apeytheias-eisitirio-toy-champions",
+          "snippet": "Στην pole position για το απευθείας εισιτήριο του Champions League μέσω του rebalancing είναι ο Ολυμπιακός ενόψει της σεζόν 2027/2028.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός: «Κοιτάζει» τον Πουλακίδα - Τι ισχύει με το ελληνικό διαβατήριο",
           "url": "https://www.gazzetta.gr/basketball/euroleague/2553875/olympiakos-koitazei-ton-poylakida-ti-ishyei-me-elliniko-diabatirio",
@@ -364,24 +382,6 @@
           "url": "https://www.gazzetta.gr/tennis/wimbledon/2553865/siner-zberef-3-1-diatirise-stemma-toy-sto-wimbledon",
           "snippet": "Ο Γιάνικ Σίνερ μετά την περιπέτεια του Roland Garros, επέστρεψε στη δράση και νικώντας τον Αλεξάντερ Ζβέρεφ με 3-1 σετ, διατήρησε τον τίτλο του πρωταθλητή στο Wimbledon.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Χάμζα - Καλαμάτα: Ανακοινώθηκε η απόκτηση του 18χρονου μεσοεπιθετικού",
-          "url": "https://www.gazzetta.gr/football/superleague/2553864/hamza-kalamata-anakoinothike-i-apoktisi-toy-18hronoy-mesoepithetikoy",
-          "snippet": "Ο Έρικ Χάμζα θα συνεχίσει την ποδοσφαιρική του διαδρομή στον σύλλογο της Καλαμάτας ως δανεικός από τον Ολυμπιακό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "DENZA Z: Το ηλεκτρικό supercar των 1.604 ίππων «ισοπεδωσε» το Goodwood",
-          "url": "https://www.gazzetta.gr/gmotion/2553794/denza-z-ilektriko-supercar-ton-1604-ippon-isopedose-goodwood",
-          "snippet": "Η premium μάρκα του BYD Group παρουσίασε ένα εξωτικό τετραθέσιο μοντέλο με τρεις ηλεκτροκινητήρες, τεχνολογία FLASH Charging και επιτάχυνση 0-100 χλμ./ώρα σε λιγότερο από 2 δευτερόλεπτα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Στάνιτς - Ολυμπιακός: Τι προκύπτει από τους Ερυθρόλευκους για τον παίκτη",
-          "url": "https://www.gazzetta.gr/football/superleague/2553863/stanits-olympiakos-ti-prokyptei-apo-toys-erythroleykoys-ga-ton-paikti",
-          "snippet": "Στις τάξεις του Ολυμπιακού υπάρχει μία συγκεκριμένη στάση γύρω από το θέμα Στάνιτς και τις πληροφορίες για την μεταγραφή του.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
-          "url": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
-          "snippet": "A space neophyte not long ago, China is now the United States’s main competitor for supremacy throughout the solar system.",
+          "title": "What Is an Aortic Dissection?",
+          "url": "https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html",
+          "snippet": "The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the back,” one expert said.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "snippet": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
+          "title": "Kids Can’t Stop Watching ‘Moana.’ There’s a Scientific Explanation.",
+          "url": "https://www.nytimes.com/2026/07/11/movies/moana-kids-obsession.html",
+          "snippet": "The 2016 release has become the most watched movie on Disney+. Parents and experts explain why kids can’t get enough.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Your Cat Is Being Nice? Think Again.",
-          "url": "https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html",
-          "snippet": "A new study finds that sometimes cats groom each other specifically to be annoying.",
+          "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "snippet": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
-          "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
-          "snippet": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
+          "title": "Your Cat Is Being Nice? Think Again.",
+          "url": "https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html",
+          "snippet": "A new study finds that sometimes cats groom each other specifically to be annoying.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "She Studied Ways to Make People Smarter. Then Her Grant Was Cut.",
-          "url": "https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html",
-          "snippet": "Jessica Cantlon had a grant with the U.S. Navy to explore whether people could improve spatial problem-solving skills through training. Then the program was cut.",
+          "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
+          "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
+          "snippet": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "This Star Just Ate a Planet, and It’s Not Done Yet",
-          "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
-          "snippet": "A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.",
+          "title": "She Studied Ways to Make People Smarter. Then Her Grant Was Cut.",
+          "url": "https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html",
+          "snippet": "Jessica Cantlon had a grant with the U.S. Navy to explore whether people could improve spatial problem-solving skills through training. Then the program was cut.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents",
-          "url": "https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html",
-          "snippet": "The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.",
+          "title": "This Star Just Ate a Planet, and It’s Not Done Yet",
+          "url": "https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html",
+          "snippet": "A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.",
           "source": "NYT Science"
         },
         {
