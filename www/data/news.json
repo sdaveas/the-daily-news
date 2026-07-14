@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-14T09:48:32.964816+00:00",
+  "updated": "2026-07-14T13:12:58.324041+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Στα λευκά η κηδεία της 15χρονης αθλήτριας του ΠΑΟΚ – «Καλό ταξίδι στο πιο όμορφο κορίτσι» [εικόνες]",
-        "url": "https://www.efsyn.gr/ellada/1427324/sta-leyka-i-kideia-tis-15hronis-athlitrias-toy-paok-kalo-taxidi-sto-pio-omorfo-koritsi-eikones/",
-        "snippet": "Βαρύ το πένθος στην συμπρωτεύουσα.",
+        "title": "Φωτιά σε εργοτάξιο στις Βρυξέλλες – Αναφορές για νεκρούς και αγνοούμενους [βίντεο]",
+        "url": "https://www.efsyn.gr/kosmos/1427595/fotia-se-ergotaxio-stis-vryxelles-anafores-se-arketoys-nekroys-vinteo/",
+        "snippet": "Πραγματοποιούνται έρευνες για έξι αγνοούμενους, σύμφωνα με τις τοπικές αρχές.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Ρόδος: Συνελήφθη 41χρονος με διεθνές ένταλμα σύλληψης από την Τουρκία για ανθρωποκτονία",
-          "url": "https://www.efsyn.gr/ellada/1427322/rodos-synelifthi-41hronos-me-diethnes-entalma-syllipsis-apo-tin-toyrkia-gia-anthropoktonia/",
-          "snippet": "Η σύλληψη πραγματοποιήθηκε χθες, Δευτέρα 13 Ιουλίου, από αστυνομικούς της Υποδιεύθυνσης Δίωξης και Εξιχνίασης Εγκλημάτων Ρόδου, στο πλαίσιο διερεύνησης περιστατικού ενδοοικογενειακής βίας.",
+          "title": "Περιφερειακή Ανάπτυξη και Ανταποδοτικότητα",
+          "url": "https://www.efsyn.gr/stiles/1427590/perifereiaki-anaptyxi-kai-antapodotikotita/",
+          "snippet": "Την εποχή της «Ελλάδας 2.0» και ενώ η κυβέρνηση και οι διάφοροι φίλοι της πασχίζουν να αποδείξουν το «success-story», χιλιάδες συμπολιτών μας ταλαιπωρούνται καθημερινά γιατί μία Εθνική Οδός είναι κλειστή! Πρόκειται για την Εθνική Οδό 74, που συνδέει την Τρίπολη Αρκαδίας με τον Πύ",
           "source": "EfSyn"
         },
         {
-          "title": "Συναγερμός στην Πυροσβεστική: Φωτιά σε διαμέρισμα στα Άνω Πατήσια [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1427303/synagermos-stin-pyrosvestiki-fotia-se-diamerisma-sta-ano-patisia-vinteo/",
-          "snippet": "Στο σημείο έχουν κινητοποιηθεί 18 πυροσβέστες με πέντε οχήματα, καθώς και ειδικό βραχιονοφόρο όχημα για την υποστήριξη της επιχείρησης.",
+          "title": "Ζωνιανά: Επίθεση σε συνεργείο του ΔΕΔΔΗΕ – Έσπασαν τα τζάμια υπηρεσιακού οχήματος",
+          "url": "https://www.efsyn.gr/ellada/1427585/epithesi-8-atomon-me-katsoynes-se-synergeio-toy-deddie-sta-zoniana-stigmes-tromoy-gia-toys-ypalliloys/",
+          "snippet": "Συγκλονιστικές οι διηγήσεις των εργαζόμενων. Καταγγέλλει το βίαιο περιστατικό η Ένωση Τεχνικών Ρεθύμνου.",
           "source": "EfSyn"
         },
         {
-          "title": "Φωτιά στο Αλιβέρι Ευβοίας: Επιχειρούν 9 εναέρια μέσα, μήνυμα 112",
-          "url": "https://www.efsyn.gr/ellada/1427307/fotia-sto-aliveri-eyvoias-ihise-to-112-epiheiroyn-ishyres-dynameis-tis-pyrosvestikis/",
-          "snippet": "Η πυρκαγιά εκδηλώθηκε κάτω από άγνωστες μέχρι στιγμής συνθήκες σε αγροτοδασική έκταση στον Δήμο Κύμης - Αλιβερίου.",
+          "title": "Αποστάσεις Μαρινάκη από Γεωργιάδη: «Δεν είναι θέση της κυβέρνησης η συνεργασία με τον Σαμαρά»",
+          "url": "https://www.efsyn.gr/politiki/1427586/apostaseis-marinaki-apo-georgiadi-den-einai-thesi-tis-kyvernisis-i-synergasia-me-ton-samara/",
+          "snippet": "Με αφορμή τη Marfin ο κυβερνητικός εκπρόσωπος επιχείρησε να συνδέσει τις καταλήψεις με πράξεις ακραίας βίας.",
           "source": "EfSyn"
         },
         {
-          "title": "Επιμένει ο Αθερίδης για τα εύσημα στον Χρυσοχοΐδη: «Κάποιοι παρακαλούν να μη βρεθούν οι δολοφόνοι της Marfin»",
-          "url": "https://www.efsyn.gr/ellada/1427292/epimenei-o-atheridis-gia-ta-eysima-ston-hrysohoidi-kapoioi-parakaloyn-na-min-vrethoyn-oi-dolofonoi-tis-marfin/",
-          "snippet": "«Εύσημο να σε κατηγορούν αυτοί που απεχθάνεσαι», είναι η απάντηση του ηθοποιού στους επικριτές.",
+          "title": "Κυκλοφοριακές ρυθμίσεις για δύο μέρες στην Αθηνών – Θεσσαλονίκης στον κόμβο της Λυκόβρυσης",
+          "url": "https://www.efsyn.gr/ellada/1427581/kykloforiakes-rythmiseis-gia-dyo-meres-stin-athinon-thessalonikis-ston-komvo-tis-lykovrysis/",
+          "snippet": "Για τεχνικές εργασίες.",
           "source": "EfSyn"
         },
         {
-          "title": "Γιγαντοπανό της ΚΝΕ στη Βουλή για τη δολοφονία του 20χρονου στο Άργος – «Κρατικό έγκλημα» [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1427253/poreia-tis-kne-sti-voyli-gia-tin-dolofonia-toy-20hronoy-sto-argos-eikones-vinteo/",
-          "snippet": "«Το έγκλημα στο Άργος είναι κρατικό, με σφαίρες στο κεφάλι, εκτέλεση εν ψυχρώ», φώναζαν οι παρευρισκόμενοι.",
+          "title": "Επιστολή διαμαρτυρίας Κωνσταντοπούλου σε Κακλαμάνη: Καταγγέλλει Γεωργαντά – Υψηλάντη για ακραίες συμπεριφορές",
+          "url": "https://www.efsyn.gr/politiki/1427573/epistoli-diamartyrias-konstantopoyloy-se-kaklamani-kataggellei-georganta-ypsilanti-gia-akraies-symperifores/",
+          "snippet": "Ζητά από τον πρόεδρο της Βουλής «την απομάκρυνση των «βουλευτών-κακοποιητών».",
           "source": "EfSyn"
         },
         {
-          "title": "ΕΟΔΥ για σαλμονέλα στη Λαμία: «Αναμένονται κι άλλα κρούσματα – Να μην καταναλωθεί κοτόπουλο για 3 ημέρες»",
-          "url": "https://www.efsyn.gr/ellada/1427255/eody-gia-salmonela-sti-lamia-anamenontai-ki-alla-kroysmata-na-min-katanalothei-kotopoylo-gia-3-imeres/",
-          "snippet": "«Οι νοσηλείες δεν σημαίνουν ότι οι ασθενείς είναι βαριά», λέει ο πρόεδρος του ΕΟΔΥ Θοδωρής Βασιλακόπουλος.",
+          "title": "Ο Τζόζεφ αναγκαστικά περιμένει τον Γουόκαπ",
+          "url": "https://www.efsyn.gr/athlitismos/1427420/o-tzozef-anagkastika-perimenei-ton-goyokap/",
+          "snippet": "Κρίσιμη εβδομάδα στον Ολυμπιακό για την περίπτωση του Τεξανού και του Ντόρσεϊ - Σαλονικιώτικο «ντέρμπι» για Τολιόπουλο",
           "source": "EfSyn"
         },
         {
-          "title": "Κώδικας με κενά, επενδύσεις με ιδιωτική πολεοδόμηση – Ευνοούνται τα «γρηγορόσημα»",
-          "url": "https://www.efsyn.gr/ellada/1427095/kodikas-me-kena-ependyseis-me-idiotiki-poleodomisi-eynooyntai-ta-grigorosima/",
-          "snippet": "Η κυβέρνηση αλλάζει σημαντικά κεφάλαια για να προχωρήσει η «ιδιωτική πολεοδόμηση» μικρών και εγκαταλελειμμένων οικισμών στην περιφέρεια και ιδιαίτερα στα νησιά",
+          "title": "Νέα Υόρκη: Ο Μαμντάνι έφτιαξε το πρόγραμμα «Parents’ Night Out» – Δωρεάν βραδινές μπέιμπι σίτερς",
+          "url": "https://www.efsyn.gr/kosmos/1427564/nea-yorki-o-mamntani-eftiaxe-to-programma-parents-night-out-dorean-vradynes-baby-sitters/",
+          "snippet": "«Κάθε γονιός γνωρίζει ότι λίγες ώρες για τον εαυτό του μοιάζουν με πολυτέλεια. Δεν θα έπρεπε να είναι έτσι», ανέφερε ο δήμαρχος σε γραπτή δήλωσή του.",
           "source": "EfSyn"
         },
         {
-          "title": "ΑΕΚ: Προέχει ο Πινέδα από τις μεταγραφές",
-          "url": "https://www.efsyn.gr/athlitismos/1427182/aek-proehei-o-pineda-apo-tis-metagrafes/",
-          "snippet": "Αυτό που αποτελεί πρώτο θέμα τόσο στα γραφεία της ΠΑΕ όσο και στις τάξεις των οπαδών, είναι οι μεταγραφές και, πάνω απ’ όλα, η ανανέωση συνεργασίας με τον Ορμπελίν Πινέδα",
+          "title": "Αυξήθηκαν κατά 18,7% οι πωλήσεις των αυτοκινήτων τον Ιούνιο",
+          "url": "https://www.efsyn.gr/oikonomia/1427562/ayxithikan-kata-187-oi-poliseis-ton-aytokiniton-ton-ioynio/",
+          "snippet": "Τα καινούργια αυτοκίνητα ανέρχονται σε 19.905 έναντι 15.915 που κυκλοφόρησαν τον Ιούνιο 2025, παρουσιάζοντας αύξηση 25,1%, σύμφωνα με τα στοιχεία της ΕΛΣΤΑΤ.",
           "source": "EfSyn"
         },
         {
-          "title": "Ολυμπιακός: Τρεις στο… συρτάρι, κινείται για έξι!",
-          "url": "https://www.efsyn.gr/athlitismos/1427169/olympiakos-treis-sto-syrtari-kineitai-gia-exi/",
-          "snippet": "Τουλάχιστον έξι ακόμη παίκτες θα κινηθεί για να αποκτήσει ο Ολυμπιακός ενόψει της νέας σεζόν",
+          "title": "Τα 4 «άγνωστα» νησάκια σε Αιγαίο και Ιόνιο που θα γίνουν το καλοκαιρινό σας καταφύγιο",
+          "url": "https://www.efsyn.gr/nisides/1427245/ta-agnosta-nisakia-poy-tha-ginoyn-to-fetino-sas-kalokairino-katafygio/",
+          "snippet": "Ανακαλύψτε τέσσερα μικρά νησιά του Αιγαίου και του Ιονίου, ιδανικά για ήρεμες καλοκαιρινές διακοπές, μακριά από τη φασαρία και τον συνωστισμό.",
           "source": "EfSyn"
         },
         {
-          "title": "Η Επιτροπή Δεοντολογίας εισηγήθηκε την άρση ασυλίας του Μάριου Σαλμά μετά από μήνυση του Άδωνι Γεωργιάδη",
-          "url": "https://www.efsyn.gr/politiki/1427272/i-epitropi-deontologias-eisigithike-tin-arsi-asylias-toy-marioy-salma-meta-apo-minysi-toy-adoni-georgiadi/",
-          "snippet": "Η πρώτη αντίδραση του ανεξάρτητου βουλευτή στους δημοσιογράφους.",
+          "title": "«Ταύρος» ο Κρίστιανσεν",
+          "url": "https://www.efsyn.gr/athlitismos/1427408/tayros-o-kristiansen/",
+          "snippet": "Η απόκτησή του από τον Παναθηναϊκό σημαίνει ότι πέρασε όλα τα ιατρικά",
           "source": "EfSyn"
         },
         {
-          "title": "Μητσοτάκης για τα 34 χρόνια από τη δολοφονία Αρξαλιάν: «Η Δημοκρατία πάντα νικά το μίσος, δεν σας φοβόμαστε!»",
-          "url": "https://www.efsyn.gr/politiki/1427254/mitsotakis-gia-ta-34-hronia-apo-ti-dolofonia-arxalian-i-dimokratia-panta-nika-to-misos-den-sas-fovomaste/",
-          "snippet": "«Σήμερα τα φαντάσματα του χτες επιχειρούν να επιστρέψουν και πάλι».",
+          "title": "Ο εκπρόσωπος Τύπου του ΣΥΡΙΖΑ επιτίθεται στον Πολάκη που επιστρέφει στην Κ.Ο. του ΣΥΡΙΖΑ",
+          "url": "https://www.efsyn.gr/politiki/1427547/o-ekprosopos-typoy-toy-syriza-epitithetai-ston-polaki-poy-epistrefei-stin-k-o-toy-syriza/",
+          "snippet": "Έκρυθμη η κατάσταση στο κόμμα της Κουμουνδούρου.",
           "source": "EfSyn"
         },
         {
-          "title": "Επαναφορά Νίκου Σουρμελίδη στη διεύθυνση της «Αυγής»",
-          "url": "https://www.efsyn.gr/media/1427264/epanafora-nikoy-soyrmelidi-sti-dieythynsi-tis-aygis/",
-          "snippet": "Στο δυναμικό της «Αυγής» επιστρέφει ο δημοσιογράφος Σπύρος Σουρμελίδης",
+          "title": "Κόμμα Καρυστιανού για 20χρονο στο Αργος: «Να μην γίνει άλλη μια ιστορία συγκάλυψης»",
+          "url": "https://www.efsyn.gr/politiki/1427542/komma-karystianoy-gia-20hrono-sto-argos-na-min-ginei-alli-mia-istoria-sygkalypsis/",
+          "snippet": "«Αισθανόμαστε επίσης αγανάκτηση, καθώς η παρέμβαση των αστυνομικών αντί να λειτουργήσει προστατευτικά προς το ίδιο το θύμα και το κοινωνικό σύνολο, αποδείχτηκε επικίνδυνη».",
           "source": "EfSyn"
         },
         {
-          "title": "Ακρίτα: Θα στηρίξω Δούρου για την προεδρία του ΣΥΡΙΖΑ – Ακροδεξιός με το σπαθί του ο Πλεύρης",
-          "url": "https://www.efsyn.gr/politiki/1427232/akrita-tha-stirixo-doyroy-gia-tin-proedria-toy-syriza-akrodexios-me-to-spathi-toy-o-pleyris/",
-          "snippet": "Τι είπε για τη δολοφονία του 20χρονου στο Άργος η βουλεύτρια του ΣΥΡΙΖΑ.",
+          "title": "Θεσσαλονίκη: Προφυλακιστέοι δύο από τους συλληφθέντες για την επίθεση στο σπίτι της Νέστορα",
+          "url": "https://www.efsyn.gr/ellada/1427541/thessaloniki-profylakisteoi-oi-dyo-syllifthentes-gia-tin-epithesi-sto-spiti-tis-a-nestora/",
+          "snippet": "Ο τρίτος συγκατηγορούμενός τους, 24 ετών, έλαβε νέα προθεσμία και αναμένεται να απολογηθεί αύριο ενώπιον της ίδιας ανακρίτριας.",
           "source": "EfSyn"
         },
         {
-          "title": "Ο Κακλαμάνης «βλέπει» εκλογές το φθινόπωρο: «Μπορεί να είναι η θεραπεία στην πολιτική τοξικότητα»",
-          "url": "https://www.efsyn.gr/politiki/1427155/o-kaklamanis-vlepei-ekloges-to-fthinoporo-mporei-na-einai-i-therapeia-stin-politiki-toxikotita/",
-          "snippet": "«Τυπικά αν γίνουν οι εκλογές τον Οκτώβριο, είναι πρόωρες», δήλωσε ο πρόεδρος της Βουλής",
+          "title": "Το βάρος",
+          "url": "https://www.efsyn.gr/stiles/1427259/to-varos/",
+          "snippet": "Μεταξύ 2015-2020, το ένα τέταρτο όλων των θανατηφόρων πυροβολισμών από αστυνομικούς αφορούσε άνθρωπο με ψυχική ασθένεια. Φυσικά η επίκληση της απειλής δύσκολα ευσταθεί σε περιστατικά όπως του Αργους",
           "source": "EfSyn"
         }
       ]
@@ -101,16 +101,52 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
-        "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
-        "snippet": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.",
+        "title": "Deportations by India Cause Tension Along Border with Bangladesh",
+        "url": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+        "snippet": "India is driving out Bangladeshi immigrants it says are in the country illegally. Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries.",
         "source": "NYT World"
       },
       "items": [
         {
-          "title": "U.S. Strikes Iran for 3rd Night, in Return to Open Conflict",
-          "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-          "snippet": "President Trump announced a 20 percent fee on cargo shipped through the Strait of Hormuz. Iran said it had attacked two tankers transiting the waterway as the battle to control it intensified.",
+          "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
+          "url": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
+          "snippet": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.",
+          "source": "NYT World"
+        },
+        {
+          "title": "China Purges Top Official Over Corruption and Sex Charges",
+          "url": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
+          "snippet": "Ma Xingrui is the third member of the Politburo to be purged since 2022. He once led the Xinjiang region and was previously head of China’s space program.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
+          "url": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
+          "snippet": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America’s foreign policy.",
+          "source": "NYT World"
+        },
+        {
+          "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
+          "url": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+          "snippet": "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits.",
+          "source": "NYT World"
+        },
+        {
+          "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
+          "url": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
+          "snippet": "Deep in the Amazon rainforest, a heated rivalry has split a town for a century. It’s got nothing to do with sports or politics.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
+          "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
+          "snippet": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Lebanese Hold Fast to Their Land Despite Threat of Long Israeli Occupation",
+          "url": "https://www.nytimes.com/2026/07/13/world/middleeast/lebanon-south-israel.html",
+          "snippet": "Entire towns in southern Lebanon have been hollowed out by the war between Israel and Hezbollah. Some residents have stayed, fearing permanent displacement.",
           "source": "NYT World"
         },
         {
@@ -150,45 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Hard-Liners in Iran Want to Keep Fighting America",
-          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/iran-united-states-hard-liners.html",
-          "snippet": "With much of their leadership killed in the war, Iran’s conservatives have sought to fill the void and intensify the fight against the United States.",
-          "source": "NYT World"
-        },
-        {
-          "title": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-          "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-          "snippet": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Zelensky Announces Leadership Shuffle as War Turns in Ukraine’s Favor",
-          "url": "https://www.nytimes.com/2026/07/12/world/europe/ukraine-zelensky-leadership.html",
-          "snippet": "President Volodymyr Zelensky said Ukraine’s prime minister, Yuliia Svyrydenko, would step down amid a broader shake-up in Ukraine’s senior leadership.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Lindsey Graham Championed Israel, Even as Wars Eroded American Support",
-          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/lindsey-graham-iran-israel-gaza-war.html",
-          "snippet": "The Republican senator from South Carolina had an intense interest in the Middle East, and was a staunch supporter of U.S. strikes on Iran.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Sheikh Hamad bin Khalifa, Ruler Who Transformed Qatar, Dies at 74",
-          "url": "https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html",
-          "snippet": "Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Inside Herat, Where a Taliban Campaign Targets a Cosmopolitan Outpost",
-          "url": "https://www.nytimes.com/2026/07/12/world/asia/taliban-morality-police-herat-protests.html",
-          "snippet": "Afghanistan’s leader has exerted full control over a city that once enjoyed looser social norms, even under Taliban rule.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Trump Will Let Ukraine Build Patriots. Ukraine Wants to Make Homegrown Missiles Too.",
-          "url": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
-          "snippet": "The Ukrainian firm Fire Point has produced weapons that hit Russian territory. Its next goal, developing an antimissile system, is a much bigger challenge, experts said.",
+          "title": "Bloomberg Loses Landmark Libel Case in Singapore",
+          "url": "https://www.nytimes.com/2026/07/14/world/asia/singapore-bloomberg-defamation.html",
+          "snippet": "A judge ruled in favor of two Singaporean ministers in a closely watched defamation trial seen as a significant test of the country’s libel laws and their implications for press freedom.",
           "source": "NYT World"
         }
       ]
@@ -210,9 +210,9 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+          "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be ‘everything for everyone’",
           "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-          "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
+          "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
           "source": "TechCrunch"
         },
         {
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ο πρεσβευτής της Rolex, Jannik Sinner, θριαμβευτής για δεύτερη συνεχόμενη χρονιά στο Wimbledon",
-        "url": "https://www.gazzetta.gr/tennis/2554215/o-presbeytis-tis-rolex-jannik-sinner-thriambeytis-gia-deyteri-synehomeni-hronia-sto",
-        "snippet": "Σχεδόν δύο εβδομάδες αφότου άνοιξε η αγωνιστική δράση στο κεντρικό γήπεδο του Wimbledon, ο Νο 1 της παγκόσμιας κατάταξης, Jannik Sinner, ολοκλήρωσε με τον πλέον ιδανικό τρόπο τη φετινή διοργάνωση.",
+        "title": "Ο CEO της Λουντογκόρετς πήρε θέση για Ολυμπιακό και Στάνιτς",
+        "url": "https://www.gazzetta.gr/football/superleague/2554267/o-ceo-tis-loyntogkorets-pire-thesi-gia-olympiako-kai-stanits-tipota",
+        "snippet": "Ο Πέταρ Στάνιτς έχει εξελιχθεί σε... σήριαλ στο μεταγραφικό προσκήνιο του Ολυμπιακού και ο CEO της Λουντογκόρετς πήρε θέση για το ζήτημα.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "ΟΦΗ: Το οργανόγραμμα της Elite Ακαδημίας για τη σεζόν 2026-2027",
-          "url": "https://www.gazzetta.gr/football/superleague/2554214/ofi-organogramma-tis-elite-akadimias-gia-ti-sezon-2026-2027",
-          "snippet": "Ο ΟΦΗ ανακοίνωσε το τεχνικό επιτελείο που θα απαρτίσει την Elite Ακαδημία του κρητικού συλλόγου για τη σεζόν 2026-2027.",
+          "title": "Ολυμπιακός: Ο Λιμαράκης στα «ερυθρόλευκα», αβέβαιο το μέλλον του Ζερδεβά",
+          "url": "https://www.gazzetta.gr/polo/a1-andron/2554266/olympiakos-o-limarakis-sta-erythroleyka-abebaio-mellon-toy-zerdeba",
+          "snippet": "Ο Κωνσταντίνος Λιμαράκης ανακοινώθηκε από τον Ολυμπιακό, αβέβαιο το μέλλον του Μάνου Ζερδεβά στους «ερυθρόλευκους».",
           "source": "Gazzetta"
         },
         {
-          "title": "Πάμε Στοίχημα Sports Party by Gazzetta: Βλέπουμε Γαλλία - Ισπανία για τον πρώτο ημιτελικό",
-          "url": "https://www.gazzetta.gr/football/2554213/pame-stoihima-sports-party-gazzetta-blepoyme-gallia-ispania-gia-ton-proto",
-          "snippet": "Πριν το μεγάλο ραντεβού του πρώτου ημιτελικού του Παγκοσμίου Κυπέλλου 2026, το Πάμε Στοίχημα Sports Party by Gazzetta θα μεταφέρει για ακόμη μία φορά τον παλμό της κορυφαίας ποδοσφαιρικής διοργάνωσης.",
+          "title": "Το άστρο Θήτα του Ηριδανού έχασε τη λάμψη του: Η νέα θεωρία που λύνει ένα αστρονομικό μυστήριο 2.000 ετών",
+          "url": "https://www.gazzetta.gr/plus/2554233/astro-thita-toy-iridanoy-ehase-ti-lampsi-toy-i-nea-theoria-poy-lynei-ena-astronomiko",
+          "snippet": "Το Θήτα του Ηριδανού ήταν κάποτε ανάμεσα στα λαμπρότερα άστρα του ουρανού. Νέα μελέτη προτείνει ότι η μεταφορά ύλης σε τριπλό σύστημα εξηγεί τη μυστηριώδη εξασθένησή του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χάποελ: Το συμβόλαιο του ΛεΝτέι προκαλεί ίλιγγο",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2554212/hapoel-symbolaio-toy-lentei-prokalei-iliggo",
-          "snippet": "Ο Ζακ ΛεΝτέι θα είναι παίκτης της Χάποελ Τελ Αβίβ για τα επόμενα δύο χρόνια, με το συμβόλαιό του να... αγγίζει τα έξι εκατομμύρια για δύο χρόνια!",
+          "title": "F1: Η πηγή των προβλημάτων του Φερστάπεν με την RB22",
+          "url": "https://www.gazzetta.gr/gmotion/2553940/f1-i-pigi-ton-problimaton-toy-ferstapen-me-tin-rb22",
+          "snippet": "Ο Πιερ Βασέ της Red Bull Racing εξηγεί πώς προκύπτει η δυσαρέσκεια του Μαξ Φερστάπεν με το φετινό μονοθέσιο της αυστριακής ομάδας.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Το cancel δεν με αφορά»: Ο Θοδωρής Αθερίδης απαντά μετά την κατακραυγή για το ελληνικό FBI",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Μια αγγελία για σεζόν, ζητά από υποψήφιους σερβιτόρους να διαθέτουν δεξιότητες όπως έρευνα και καινοτομία και αναδεικνύει ένα δομικό πρόβλημα της εποχικής εργασίας.",
+          "title": "APON: Μάγεψε το Θέατρο Βράχων με το «Ηχογένεια Tour»",
+          "url": "https://www.gazzetta.gr/plus/2554265/apon-magepse-theatro-brahon-me-ihogeneia-tour",
+          "snippet": "Ο APON ξεσήκωσε το κατάμεστο Θέατρο Βράχων με επιτυχίες, εκπλήξεις και δυνατές συνεργασίες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μουντιάλ 2026: Ο γιατρός της εθνικής Σενεγάλης ήταν τελικά... γυναικολόγος",
-          "url": "https://www.gazzetta.gr/football/mundial/2554210/moyntial-2026-o-giatros-tis-ethnikis-senegalis-itan-telika-gynaikologos",
-          "snippet": "Η Ποδοσφαιρική Ομοσπονδία της Σενεγάλης προχώρησε σε μία αδιανόητη αποκάλυψη ότι ο επί χρόνια γιατρός της ανδρικής ομάδας ήταν τελικά γυναικολόγος.",
+          "title": "Γιατί οι παίκτες της Εθνικής Ισπανίας δεν τραγουδούν τον Εθνικό τους Ύμνο;",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Νεαρός πιλότος κατά τη διάρκεια δοκιμαστικής πτήσης στη Βρετανία σχημάτισε τη λέξη «βαριέμαι» στον ουρανό και έγινε viral.",
           "source": "Gazzetta"
         },
         {
-          "title": "Φαν Ντρόνγκελεν - Παναθηναϊκός: Ολοκληρώνει τη μεταγραφή του στην Τραμπζονσπόρ λένε οι Τούρκοι",
-          "url": "https://www.gazzetta.gr/football/superleague/2554209/fan-ntrongkelen-panathinaikos-oloklironei-ti-metagrafi-toy-stin",
-          "snippet": "Σύμφωνα με δημοσίευμα από την Τουρκία, ο Ρικ Φαν Ντρόνγκελεν φαίνεται πως είναι κοντά να τελειώσει τη μεταγραφή του στην Τραμπζονσπόρ.",
+          "title": "Οικογενειακό SUV με έως 7 θέσεις από 18.990 ευρώ γίνεται;",
+          "url": "https://www.gazzetta.gr/gmotion/2554247/oikogeneiako-suv-me-eos-7-theseis-apo-18990-eyro-ginetai",
+          "snippet": "Γίνεται και είναι μάλιστα διαθέσιμο με κινητήρες βενζίνης, Hybrid ή 100% ηλεκτρικό, σε τέσσερα επίπεδα εξοπλισμού για να καλύπτει κάθε ανάγκη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Όνειρο ήταν και πάει: Μαζί με τον πόλεμο, επανέρχονται και οι αυξήσεις στα καύσιμα",
-          "url": "https://www.gazzetta.gr/plus/2554208/oneiro-itan-kai-paei-mazi-me-ton-polemo-epanerhontai-kai-oi-ayxiseis-sta-kaysima",
-          "snippet": "Αυξήσεις υπάρχουν, ξανά, στις τιμές των καυσίμων. Τι λέει η πρόεδρος της Ένωσης Βενζινοπωλών Αττικής, Μαρία Ζάγκα, για την κατάσταση στην αγορά και την κρατική επιδότηση.",
+          "title": "AEK: Οι ημερομηνίες των ματς στο BCL, πρεμιέρα στις 7 Οκτώβρη στη SUNEL Arena",
+          "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2554263/aek-oi-imerominies-ton-mats-sto-bcl-premiera-stis-7",
+          "snippet": "Γνωστές έγιναν οι ημερομηνίες των παιχνιδιών της ΑΕΚ στο BCL.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κηφισιά: Τέλος ο Νικοπολίδης, οδεύει προς Αστέρα AKTOR Β'",
-          "url": "https://www.gazzetta.gr/football/superleague/2554207/kifisia-telos-o-nikopolidis-odeyei-pros-astera-aktor-b",
-          "snippet": "Ο Γιάννης Νικοπολίδης αποτελεί παρελθόν από την Κηφισιά και όλα δείχνουν πως ο επόμενος σταθμός της καριέρας του θα είναι η Β' ομάδα του Αστέρα AKTOR.",
+          "title": "Απόλλων Σμύρνης: Ο Μουρίκης ο νέος φουνταριστός στην «ελαφρά ταξαρχία»",
+          "url": "https://www.gazzetta.gr/polo/a1-andron/2554262/apollon-smyrnis-o-moyrikis-o-neos-foyntaristos-stin-elafra-taxarhia",
+          "snippet": "Ο Απόλλων Σμύρνης είναι ο νέος σταθμός στην καριέρα του πολύπειρου φουντατιστού Κωνσταντίνου Μουρίκη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η νέα Mercedes-Benz GLB έφτασε στην Ελλάδα",
-          "url": "https://www.gazzetta.gr/gmotion/2554182/i-nea-mercedes-benz-glb-eftase-stin-ellada",
-          "snippet": "H Mercedes-Benz GLB παραμένει ένα σοβαρό premium SUV, έρχεται με αμιγώς ηλεκτρικές και υβριδικές εκδόσεις και προσφέρει κορυφαίους χώρους για έως επτά επιβάτες.",
+          "title": "Μουντιάλ 2026: Σούπερ ημιτελικός, λίγα τα 90 λεπτά και δύο οι πρωταγωνιστές στο Γαλλία - Ισπανία",
+          "url": "https://www.gazzetta.gr/football/2554257/moyntial-2026-soyper-imitelikos-liga-ta-90-lepta-kai-dyo-oi-protagonistes-sto",
+          "snippet": "Γαλλία και Ισπανία αποτελούν το ζευγάρι του πρώτου μεγάλου ημιτελικού στο Παγκόσμιο Κύπελλο 2026, με τη σέντρα προγραμματισμένη στις 22:00 το βράδυ της Τρίτης στο AT&T Stadium του Άρλινγκτον.",
           "source": "Gazzetta"
         },
         {
-          "title": "Pop Tour Live: Ζήστε την εμπειρία και μην ζητάτε copyright (vid)",
-          "url": "https://www.gazzetta.gr/plus/2554183/pop-tour-live-ziste-tin-empeiria-kai-min-zitate-copyright-vid",
-          "snippet": "Έναν χρόνο μετά, το POP TOUR Live της Μαρίνας Σάττι ανεβαίνει στο YouTube.",
+          "title": "Φενέρμπαχτσε: Ανακοίνωσε τον Ίγκνας Σαργκιούνας",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2554256/fenermpahtse-anakoinose-ton-igknas-sargkioynas",
+          "snippet": "Παίκτης της Φενέρμπαχτσε για τα επόμενα τρία χρόνια (2+1) θα είναι ο Ίγκνας Σαργκιούνας, όπως ανακοίνωσε ο τούρκικος σύλλογος.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΛ: Επίσημη η πρόσληψη του Μάκη Μπελεβώνη, ο ρόλος που αναλαμβάνει",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2554204/ael-episimi-i-proslipsi-toy-maki-mpeleboni-o-rolos-poy-analambanei",
-          "snippet": "Η ΑΕΛ ανακοίνωσε την πρόσληψη του Μάκη Μπελεβώνη, που θα είναι υπεύθυνος για τον σχεδιασμό της ομάδας μαζί με τον Σωτήρη Κυργιάκο.",
+          "title": "Μια ανάσα από τον τελικό!",
+          "url": "https://www.gazzetta.gr/football/2554253/mia-anasa-apo-ton-teliko",
+          "snippet": "Η μεγάλη ευρωπαϊκή μάχη ανάμεσα στη Γαλλία και την Ισπανία, είναι αυτή που δεσπόζει στο πρόγραμμα της Τρίτης και πώς να γινόταν διαφορετικά όταν μιλάμε για έναν ημιτελικό Παγκοσμίου Κυπέλλου;",
           "source": "Gazzetta"
         },
         {
-          "title": "Θρίλερ στον Πειραιά: Νεαρό ζευγάρι βρέθηκε νεκρό μέσα σε αυτοκίνητο σε κλειστό γκαράζ",
-          "url": "https://www.gazzetta.gr/plus/2554203/thriler-ston-peiraia-nearo-zeygari-brethike-nekro-mesa-se-aytokinito-se-kleisto-gkaraz",
-          "snippet": "Ένας νεαρός άνδρας και μια γυναίκα βρέθηκαν νεκροί μέσα σε αυτοκίνητο σε γκαράζ σπιτιού στον Πειραιά. Σε εξέλιξη η έρευνα των αρχών για τα αίτια της τραγωδίας.",
+          "title": "Παγκόσμια προσφορά* με τον νικητή του Παγκοσμίου σε απόδοση 150!",
+          "url": "https://www.gazzetta.gr/football/2554252/pagkosmia-prosfora-me-ton-nikiti-toy-pagkosmioy-se-apodosi-150",
+          "snippet": "Το Παγκόσμιο Κύπελλο 2026 βρίσκεται σε πλήρη εξέλιξη στα γήπεδα των ΗΠΑ, με τις κορυφαίες τέσσερις εθνικές ομάδες του πλανήτη να δίνουν σκληρές μάχες για το βαρύτιμο τρόπαιο!",
           "source": "Gazzetta"
         },
         {
-          "title": "Δερμιτζάκης: Ανέλαβε την Παντζάμπ",
-          "url": "https://www.gazzetta.gr/football/2554202/dermitzakis-anelabe-tin-pantzamp",
-          "snippet": "Στο τιμόνι της ινδικής Παντζάμπ είναι πλέον ο Παύλος Δερμιτζάκης .",
+          "title": "Οι ειδικοί προειδοποιούν: Τα 3 αντικείμενα που αγγίζουμε καθημερινά και πρέπει να πλένουμε αμέσως τα χέρια μας μετά",
+          "url": "https://www.gazzetta.gr/plus/2554224/oi-eidikoi-proeidopoioyn-ta-3-antikeimena-poy-aggizoyme-kathimerina-kai-prepei-na",
+          "snippet": "Ειδικοί αποκαλύπτουν ποια τρία αντικείμενα αγγίζουμε καθημερινά και συγκεντρώνουν τα περισσότερα μικρόβια, αυξάνοντας τον κίνδυνο μετάδοσης λοιμώξεων.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άρσεναλ: Αποφασίζει για Τζόλη, σύμφωνα με το Athletic",
-          "url": "https://www.gazzetta.gr/football/premier-league/2554201/arsenal-apofasizei-gia-tzoli",
-          "snippet": "Μετά και από την ολοκλήρωση της πώλησης του Λεάντρο Τροσάρ στη Μπεσίκτας, η Άρσεναλ είναι έτοιμη να αποφασίσει και για την ολοκλήρωση της μεταγραφής του Χρήστου Τζόλη.",
+          "title": "Το συγκινητικό video της ΑΕΚ για τα διαρκείας με αναδρομή στην ιστορία της: «Μαζί για τη νέα εποχή»",
+          "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2554250/sygkinitiko-video-tis-aek-gia-ta-diarkeias-me",
+          "snippet": "H KAE AEK έφτιαξε ένα ξεχωριστό video για τα διαρκείας της νέας σεζόν με πολλές σπουδαίες στιγμές του παρελθόντος να κλέβουν την παράσταση.",
           "source": "Gazzetta"
         }
       ]
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy",
-          "url": "https://www.nytimes.com/2026/07/13/science/space/sugar-milky-way.html",
-          "snippet": "It’s the first time a sugar molecule has been detected in interstellar space. The discovery provides tantalizing new clues into how life may have arisen on Earth.",
+          "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman",
+          "url": "https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html",
+          "snippet": "Physicists have debated which way a submerged sprinkler sucking in water would spin. Careful experiments provide an answer.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion",
-          "url": "https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html",
-          "snippet": "As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.",
+          "title": "A Sweet Surprise: Scientists Find Sugar Deep in Our Galaxy",
+          "url": "https://www.nytimes.com/2026/07/13/science/space/sugar-milky-way.html",
+          "snippet": "It’s the first time a sugar molecule has been detected in interstellar space. The discovery provides tantalizing new clues into how life may have arisen on Earth.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "What Is an Aortic Dissection?",
-          "url": "https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html",
-          "snippet": "The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.",
+          "title": "Dark Sky Defenders Raise Alarm Along the Border of West Texas",
+          "url": "https://www.nytimes.com/2026/07/14/science/texas-astronomy-dark-sky-border.html",
+          "snippet": "Residents fear that the Trump administration’s plans to build a border wall will threaten the region’s spectacular starry skies.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-          "snippet": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
+          "title": "‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion",
+          "url": "https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html",
+          "snippet": "As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
-          "url": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
-          "snippet": "A space neophyte not long ago, China is now the United States’s main competitor for supremacy throughout the solar system.",
+          "title": "What Is an Aortic Dissection?",
+          "url": "https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html",
+          "snippet": "The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Your Cat Is Being Nice? Think Again.",
-          "url": "https://www.nytimes.com/2026/07/10/science/cat-grooming-licking-research.html",
-          "snippet": "A new study finds that sometimes cats groom each other specifically to be annoying.",
+          "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+          "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+          "snippet": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
-          "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
-          "snippet": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
+          "title": "What China’s Successful Rocket Launch Means for the Future of the Space Race",
+          "url": "https://www.nytimes.com/2026/07/10/science/china-space-race.html",
+          "snippet": "A space neophyte not long ago, China is now the United States’s main competitor for supremacy throughout the solar system.",
           "source": "NYT Science"
         },
         {
