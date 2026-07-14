@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-13T20:51:24.740245+00:00",
+  "updated": "2026-07-14T01:44:32.888678+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ακτή Ελεφαντοστού: Δεκάδες νεκροί και τραυματίες σε τροχαίο με λεωφορείο",
-        "url": "https://www.efsyn.gr/kosmos/1426914/akti-elefantostoy-dekades-nekroi-kai-traymaties-se-trohaio-me-leoforeio/",
-        "snippet": "Από τους 69 ανθρώπους που επέβαιναν στο λεωφορείο, οι 24 σκοτώθηκαν και οι 36 τραυματίστηκαν.",
+        "title": "Σπέτσες: Τραυματίστηκε σοβαρά τουρίστρια που έπεσε από σκάφος και χτύπησε στην προπέλα",
+        "url": "https://www.efsyn.gr/ellada/1426917/spetses-traymatistike-sovara-toyristria-poy-epese-apo-skafos-kai-htypise-stin-propela/",
+        "snippet": "Στο Γενικό Νοσοκομείο Αργους διακομίστηκε και νοσηλεύεται 40χρονη τουρίστρια από τη Σερβία, μετά το ατύχημα που είχε σε θαλάσσια περιοχή των Σπετσών. Σύμφωνα με όσα έχουν γίνει γνωστά, η 40χρονη επέβαινε σε σκάφος, όμως κάτω από άγνωστες συνθήκες, έπεσε στη θάλασσα. Το αποτέλεσμα",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Μουντιάλ 2026: Στα 1,36 δισ. ευρώ η αξία των 10 πιο ακριβών σούπερ σταρ των ημιτελικών",
+          "url": "https://www.efsyn.gr/athlitismos/1426918/moyntial-2026-sta-136-dis-eyro-i-axia-ton-10-pio-akrivon-soyper-star-ton-imitelikon/",
+          "snippet": "Το Μουντιάλ 2026 έχει φτάσει πλέον στην τελική του ευθεία: από τις 48 ομάδες που ξεκίνησαν στο μεγαλύτερο Μουντιάλ στην ιστορία, μόνο τέσσερις ποδοσφαιρικοί γίγαντες απομένουν. Γα πρώτη φορά, οι τέσσερις ομάδες με την υψηλότερη κατάταξη της FIFA καταλαμβάνουν όλες τις θέσεις στα ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ακτή Ελεφαντοστού: Δεκάδες νεκροί και τραυματίες σε τροχαίο με λεωφορείο",
+          "url": "https://www.efsyn.gr/kosmos/1426914/akti-elefantostoy-dekades-nekroi-kai-traymaties-se-trohaio-me-leoforeio/",
+          "snippet": "Από τους 69 ανθρώπους που επέβαιναν στο λεωφορείο, οι 24 σκοτώθηκαν και οι 36 τραυματίστηκαν.",
+          "source": "EfSyn"
+        },
         {
           "title": "Συμμαχία των Προθύμων: Δηλώσεις στήριξης στην Ουκρανία, η οποία αγοράζει αντιαεροπορικά και Rafale",
           "url": "https://www.efsyn.gr/kosmos/1426909/symmahia-ton-prothymon-diloseis-stirixis-stin-oykrania-i-opoia-agorazei-antiaeroporika-kai-rafale/",
@@ -50,7 +62,7 @@
         {
           "title": "Σανταμαρία μέχρι το 2027 στον ΠΑΟΚ",
           "url": "https://www.efsyn.gr/athlitismos/1426884/santamaria-mehri-to-2027-ston-paok/",
-          "snippet": "Μία μέρα μετά την έλευσή του στην Θεσσαλονίκη, ο ΠΑΟΚ ανακοίνωσε (χρησιμοποιώντας ένα ξεχωριστό βίντεο, πέρα από την επίσημη ανακοίνωση) την συμφωνία του με τον Μπαπτίστ Σανταμαρία για έναν χρόνο. Ο 31χρονος Γάλλος μέσος έμεινε ελεύθερος από την Βαλένθια και υπέγραψε στον ΠΑΟΚ μέ",
+          "snippet": "Στη Θεσσαλονίκη επίσης ο Τάχα Αλί που θα αποτελέσει την τρίτη μεταγραφή του ΠΑΟΚ.",
           "source": "EfSyn"
         },
         {
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1426862/new-york-times-pos-to-israil-estise-shedio-anatropis-stin-teherani-gia-na-epanaferei-ton-ahmantinetzant/",
           "snippet": "Ο πρώην πρόεδρος του Ιράν από σκληρός επικριτής του Ισραήλ βρέθηκε να κάνει μυστικές συναντήσεις με τον επικεφαλής της Μοσάντ.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Ορμούζ: Ο ΙΜΟ απορρρίπτει την επιβολή τελών από ΗΠΑ και Τραμπ – Στο ναδίρ ο αριθμός των πλοίων που περνούν τα Στενά",
-          "url": "https://www.efsyn.gr/kosmos/1426853/ormoyz-o-imo-aporrriptei-tin-epivoli-telon-apo-ipa-kai-tramp-sto-nadir-o-arithmos-ton-ploion-poy-pernoyn-ta-stena/",
-          "snippet": "Ο αριθμός των πλοίων είναι ο μικρότερος που έχει καταγραφεί από τις 13 Ιουνίου, λίγο πριν υπογραφεί το «μνημόνιο συνεννόησης». Από την Τρίτη επανέρχεται ο ναυτικός αποκλεισμός στο Ιράν.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΕΛΑΣ προς Μαρινάκη για τα F-35: «Ψεύδεστε ασύστολα – Η τουρκική συμμετοχή πάγωσε τον Σεπτέμβριο 2017»",
-          "url": "https://www.efsyn.gr/politiki/1426854/elas-pros-marinaki-gia-ta-f-35-pseydeste-asystola-i-toyrkiki-symmetohi-pagose-ton-septemvrio-2017/",
-          "snippet": "«Είναι η προσφιλής ενέργεια μίας κυβέρνησης που ψεύδεται διαρκώς προκειμένου να μην ομολογήσει τις παταγώδεις αποτυχίες της».",
-          "source": "EfSyn"
         }
       ]
     },
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "Live Updates: U.S. to Resume Shipping Blockade on Iran",
+          "title": "Live Updates: U.S. Forces Begin New Round of Strikes on Iran",
           "url": "https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz",
-          "snippet": "President Trump also said the United States would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
+          "snippet": "President Trump had earlier threatened “very hard” strikes, ordered the resumption of a blockade on Iranian ports to begin Tuesday and said the U.S. would charge a 20 percent fee on goods passing through the Strait of Hormuz.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Hamas Forces Interfered With Aid Distribution, U.N. Says",
-          "url": "https://www.nytimes.com/2026/07/13/world/middleeast/un-says-hamas-forces-interfered-with-aid-distribution-at-a-gaza-site.html",
-          "snippet": "A raid by armed personnel led the World Food Program to suspend its operations in one part of Gaza, the U.N. said. Hamas disputed the accusations.",
+          "title": "Israel’s Regime-Change Plan for Iran",
+          "url": "https://www.nytimes.com/2026/07/13/world/iran-israel-ahmadinejad-bangkok-fire.html",
+          "snippet": "Here’s the wild back story behind a failed plan to install Mahmoud Ahmadinejad as Iran’s next leader.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
-        "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
-        "snippet": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+        "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+        "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and how AI is starting to show up in ways riders and drivers will actually notice.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "snippet": "With the cash, the company aims to expand its world model offering and reach customers across geographies.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "X just tweaked its algorithm to make it more friendly, less battleground",
+          "url": "https://techcrunch.com/2026/07/13/x-just-tweaked-its-algorithm-to-make-it-more-friendly-less-battleground/",
+          "snippet": "The social media site says it will amplify posts made by users' mutual followers' to give the feed more of a communal feel.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+          "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+          "snippet": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Satya Nadella has issued a shocking warning to companies using AI",
+          "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple says former employee exploited ‘rare’ bug to download confidential files after leaving for OpenAI",
+          "url": "https://techcrunch.com/2026/07/13/apple-says-former-employee-exploited-rare-bug-to-download-confidential-files-after-leaving-for-openai/",
+          "snippet": "Apple would not comment on the \"security breach,\" which allegedly allowed a former employee to download sensitive files from Apple's network long after he departed the company for rival OpenAI.",
+          "source": "TechCrunch"
+        },
         {
           "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
           "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
           "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "LAPD lets contract with surveillance giant Flock expire, citing ‘serious concerns’ over civil liberties and privacy",
-          "url": "https://techcrunch.com/2026/07/13/lapd-lets-contract-with-surveillance-giant-flock-expire-citing-serious-concerns-over-civil-liberties-and-privacy/",
-          "snippet": "The LAPD, one of Flock's biggest government customers, is ending its contract with the company citing civil liberties concerns.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Uber’s robotaxi lobbying effort puts it on a collision course with Waymo",
-          "url": "https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/",
-          "snippet": "Washington, D.C. has become a battleground for Uber and Waymo's competing views.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Mobility: A robotaxi ultimatum",
-          "url": "https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/",
-          "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reed Jobs would rather talk about curing cancer than his last name",
-          "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-          "snippet": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a team of 17; a cluster of blockbuster drugs are all losing patent protection in r",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "This slushie machine was a lifesaver during NYC’s heat wave",
-          "url": "https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/",
-          "snippet": "Ninja's latest slushie machine builds on the popularity of the original Slushi, but with a big upgrade.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Δεν «μάσησαν»: Στρατιωτικοί έπεσαν στο λιμάνι και έσωσαν οδηγό που βυθιζόταν (vid)",
-        "url": "https://www.gazzetta.gr/plus/2554119/den-masisan-stratiotikoi-epesan-sto-limani-kai-esosan-odigo-poy-bythizotan-vid",
-        "snippet": "Η ψυχραιμία και η άμεση αντίδραση των δοκίμων της Στρατιωτικής Ακαδημίας της Μόντενα απέτρεψαν τα χειρότερα, όταν αυτοκίνητο κατέληξε στο λιμάνι της Τεργέστης.",
+        "title": "Πινέδα: Στο 50-50 το θέμα για ΑΕΚ και Μοντερέι, σύμφωνα με τον Μέρλο",
+        "url": "https://www.gazzetta.gr/football/superleague/2554124/pineda-sto-50-50-thema-gia-aek-kai-monterei-symfona-me-ton-merlo",
+        "snippet": "Ο γνωστός δημοσιογράφος Σέζαρ Λουίς Μέρλο έκανε νέα αναφορά για το θέμα της ανανέωσης του Ορμπελίν Πινέδα στην ΑΕΚ και το ενδιαφέρον της Μοντερέι.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μπαπτίστ Σανταμαρία: ΠΑΟΚ - Το εκπληκτικό βίντεο του Δικεφάλου",
+          "url": "https://www.gazzetta.gr/football/superleague/2554121/mpaptist-santamaria-paok-ekpliktiko-binteo-toy-dikefaloy",
+          "snippet": "Ο ΠΑΟΚ παρουσίασε με έναν ξεχωριστό τρόπο τον Γάλλο μέσο Μπαπτίστ Σανταμαρία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "«Η Μπαρτσελόνα κοντά στην απόκτηση του Ταϊρίς Μάρτιν»",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2554120/i-mpartselona-konta-stin-apoktisi-toy-tairis-martin",
+          "snippet": "Η Μπαρτσελόνα βρίσκεται κοντά στην απόκτηση του Ταϊρίς Μάρτιν, σύμφωνα με όσα αναφέρει ισπανικό δημοσίευμα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δεν «μάσησαν»: Στρατιωτικοί έπεσαν στο λιμάνι και έσωσαν οδηγό που βυθιζόταν (vid)",
+          "url": "https://www.gazzetta.gr/plus/2554119/den-masisan-stratiotikoi-epesan-sto-limani-kai-esosan-odigo-poy-bythizotan-vid",
+          "snippet": "Η ψυχραιμία και η άμεση αντίδραση των δοκίμων της Στρατιωτικής Ακαδημίας της Μόντενα απέτρεψαν τα χειρότερα, όταν αυτοκίνητο κατέληξε στο λιμάνι της Τεργέστης.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΕΛ: Κλείνουν Εραμούσπε οι «βυσσινί»",
           "url": "https://www.gazzetta.gr/football/superleague-2/2554118/ael-kleinoyn-eramoyspe-oi-byssini",
@@ -364,24 +382,6 @@
           "url": "https://www.gazzetta.gr/football/superleague/2554051/taha-ali-paok-sti-thessaloniki-o-soyidos-extrem",
           "snippet": "Ο διεθνής Σουηδός εξτρέμ Τάχα Άλι αφίχθη στη Θεσσαλονίκη για να τελειώσει και τυπικά τη μεταγραφή του στον ΠΑΟΚ.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Μουντιάλ 2026: Το marketing εκατομμυρίων πίσω από τα «hydration breaks» της FIFA",
-          "url": "https://www.gazzetta.gr/football/mundial/2554106/moyntial-2026-marketing-ekatommyrion-piso-apo-ta-hydration-breaks-tis-fifa",
-          "snippet": "Hydration breaks, αμερικανοποίηση του ποδοσφαίρου κι ένα σακί με εκατομμύρια. Πώς η ιδέα της FIFA μπορεί να καλωσορίσει τα διαφημιστικά διαλείμματα στο ποδόσφαιρο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός, Γουόκαπ: Πόσο εφικτή είναι η ανατροπή και τί ισχύει με Ντόρσεϊ!",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2554103/olympiakos-goyokap-poso-efikti-einai-i-anatropi-kai-ti-ishyei-me",
-          "snippet": "Το Gazzetta αναλύει τα δεδομένα στην καυτή υπόθεση Γουόκαπ, εξηγεί γιατί οι πιθανότητες παραμονής του στον Πειραιά δεν είναι καθόλου μικρές και μεταφέρει το κλίμα που επικρατεί στις τάξεις των «ερυθρόλευκων» για τους χειρισμούς του Τεξανού point-guard με το ελληνικό διαβατήριο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Marfin: Οι φωτογραφίες από την Ικαρία που «ξεκλείδωσαν» την υπόθεση μετά από 16 χρόνια",
-          "url": "https://www.gazzetta.gr/plus/2554108/marfin-oi-fotografies-apo-tin-ikaria-poy-xekleidosan-tin-ypothesi-meta-apo-16-hronia",
-          "snippet": "Νέα στοιχεία από φωτογραφικά αρχεία του 2009 και του 2010 φέρονται να οδήγησαν την ΕΛ.ΑΣ. στην ταυτοποίηση τριών υπόπτων για την εμπρηστική επίθεση στη Marfin.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Why Dior’s Jonathan Anderson Is Inspired by Lynda Benglis",
-          "url": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
-          "snippet": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior’s Jonathan Anderson.",
+          "title": "Sam Neill’s Best Movie Performances: Where to Stream",
+          "url": "https://www.nytimes.com/2026/07/13/movies/sam-neill-movies-streaming.html",
+          "snippet": "From his global breakthrough in “Jurassic Park” to the more recent “Peaky Blinders,” the actor’s range was always on display.",
           "source": "NYT Arts"
         },
         {
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
-          "url": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
-          "snippet": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
+          "title": "Why Dior’s Jonathan Anderson Is Inspired by Lynda Benglis",
+          "url": "https://www.nytimes.com/2026/07/12/arts/design/lynda-benglis-dior-jonathan-anderson-art.html",
+          "snippet": "Lynda Benglis redefined sculpture in the 1960s. No longer overlooked, her audacious talent moves from museums to runways, transformed by Dior’s Jonathan Anderson.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘House of the Dragon’ Season 3, Episode 4 Recap: Heavy Is the Head",
-          "url": "https://www.nytimes.com/2026/07/12/arts/television/house-of-the-dragon-recap-season-3-episode-4.html",
-          "snippet": "In her attempts to establish order, Rhaenyra is already alienating some of her most vital allies, including the Sea Snake.",
+          "title": "Don’t Try This at Home: How Performers Turn Stunts Into Movie Magic",
+          "url": "https://www.nytimes.com/2026/07/12/arts/film-stunts-school-action-movies.html",
+          "snippet": "At the International Stunt School in Seattle, veterans of TV and film teach newcomers the art of falls, fights and fire.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
-          "url": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
-          "snippet": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan.",
+          "title": "Labels for Music Created With A.I. Could Join Explicit Lyrics Warnings",
+          "url": "https://www.nytimes.com/2026/07/13/arts/music/ai-labels-warnings-riaa.html",
+          "snippet": "Major music industry groups, including the organization behind the Grammy Awards, have proposed labels for tracks made with some degree of artificial intelligence.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Melbourne Symphony Wins Discrimination Case Over Gaza Comments",
-          "url": "https://www.nytimes.com/2026/07/12/arts/music/jayson-gillham-melbourne-symphony-orchestra-gaza.html",
-          "snippet": "The pianist Jayson Gillham had sued the orchestra after it canceled his performance in the wake of comments he made against Israel’s war with Hamas.",
+          "title": "‘House of the Dragon’ Season 3, Episode 4 Recap: Heavy Is the Head",
+          "url": "https://www.nytimes.com/2026/07/12/arts/television/house-of-the-dragon-recap-season-3-episode-4.html",
+          "snippet": "In her attempts to establish order, Rhaenyra is already alienating some of her most vital allies, including the Sea Snake.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Lucky’ and 6 More Shows to Watch on TV this Week",
-          "url": "https://www.nytimes.com/2026/07/13/arts/television/lucky-and-6-more-shows-to-watch-on-tv-this-week.html",
-          "snippet": "A new crime thriller comes to Apple TV. And Sean Evans hosts “Hot Ones: Extra Heat.”",
+          "title": "Fans of ‘Love Island USA’ Ask: ‘Are These Couples for Real?’",
+          "url": "https://www.nytimes.com/2026/07/12/arts/television/love-island-finale-trinity-bryce.html",
+          "snippet": "For many viewers of the hit reality TV show, lively debates over whether the competing couples are truly in love is a central part of being a fan.",
           "source": "NYT Arts"
         }
       ]
