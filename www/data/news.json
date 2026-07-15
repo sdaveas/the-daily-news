@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-14T20:51:19.756646+00:00",
+  "updated": "2026-07-15T01:40:47.255881+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΗΠΑ: Καύσωνας με θερμοκρασίες ρεκόρ θέτει σε συναγερμό 100 εκατ. Αμερικανούς",
-        "url": "https://www.efsyn.gr/kosmos/1427892/ipa-kaysonas-me-thermokrasies-rekor-thetei-se-synagermo-100-ekat-amerikanoys/",
-        "snippet": "Ήδη έχουν καταρριφθεί ιστορικά ρεκόρ ζέστης σε πολλές περιοχές στα δυτικά και τα βόρεια της χώρας.",
+        "title": "Μουντιάλ 2026: Η Ισπανία πέρασε «χειροπέδες» στη Γαλλία και… έφυγε για τελικό [εικόνες-βίντεο]",
+        "url": "https://www.efsyn.gr/athlitismos/1427889/moyntial-2026-i-ispania-perase-heiropedes-sti-gallia-kai-efyge-gia-teliko-eikones-vinteo/",
+        "snippet": "Οι Ισπανοί επέβαλαν πλήρως τον ρυθμό τους και σε κανένα σημείο του ματς δεν επέτρεψαν στους Γάλλους να κάνουν το παιχνίδι τους.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΗΠΑ: Καύσωνας με θερμοκρασίες ρεκόρ θέτει σε συναγερμό 100 εκατ. Αμερικανούς",
+          "url": "https://www.efsyn.gr/kosmos/1427892/ipa-kaysonas-me-thermokrasies-rekor-thetei-se-synagermo-100-ekat-amerikanoys/",
+          "snippet": "Ήδη έχουν καταρριφθεί ιστορικά ρεκόρ ζέστης σε πολλές περιοχές στα δυτικά και τα βόρεια της χώρας.",
+          "source": "EfSyn"
+        },
         {
           "title": "Βενεζουέλα: Ξεπέρασαν τους 4.700 οι νεκροί από τον διπλό φονικό σεισμό",
           "url": "https://www.efsyn.gr/kosmos/1427887/venezoyela-xeperasan-toys-4-700-oi-nekroi-apo-ton-diplo-foniko-seismo/",
@@ -87,12 +93,6 @@
           "title": "Τρίτη κοινοβουλευτική δύναμη το ΚΚΕ μετά το μπαράζ παραιτήσεων στον ΣΥΡΙΖΑ",
           "url": "https://www.efsyn.gr/politiki/1427801/triti-koinovoyleytiki-dynami-to-kke-meta-to-mparaz-paraitiseon-ston-syriza/",
           "snippet": "Στους 43 έχει φτάσει ο αριθμός των ανεξάρτητων βουλευτών.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Tάχα Αλί τριετίας στον ΠΑΟΚ",
-          "url": "https://www.efsyn.gr/athlitismos/1427828/taha-ali-trietias-ston-paok/",
-          "snippet": "Επίσημο χαρακτήρα πήρε η μεταγραφή του 28χρονου Σουηδοσομαλού εξτρέμ από τη Μάλμε.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Trump Paid $2 Million by South Korean Company Facing Trade Investigation",
-          "url": "https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html",
-          "snippet": "The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.",
+          "title": "Expelled from China",
+          "url": "https://www.nytimes.com/2026/07/14/world/china-journalist-expelled-spain-world-cup.html",
+          "snippet": "A New York Times correspondent was kicked out of the country after reporting on the struggles of everyday Chinese. Here’s her story.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "snippet": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch",
+        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+        "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+        "snippet": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Lorde says AI glasses are ‘not sexy’",
+          "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+          "snippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+          "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+          "snippet": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and become a physical manifestation of OpenAI’s ChatGPT.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI pushes back on Apple trade secret lawsuit",
+          "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+          "snippet": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+          "snippet": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
+          "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
+          "snippet": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its AI-powered assistant and other new features before the software’s official launch",
+          "source": "TechCrunch"
+        },
         {
           "title": "Anthropic’s newest ad is creeping people out",
           "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
           "snippet": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn’t come at the expense of higher electricity costs, water supplies, or local control.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Iran abused mobile networks’ vulnerabilities to locate US military in the Middle East, report says",
-          "url": "https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/",
-          "snippet": "The Iranian government exploited well-known flaws in cellphone networks to locate and then strike U.S. military personnel in the build-up and beginning of the war.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "I’m de-influencing you from buying the RingConn 3 (even though it’s pretty)",
-          "url": "https://techcrunch.com/2026/07/14/ringconn-3-review/",
-          "snippet": "The RingConn 3 actually looks like real jewelry, not a wearable -- but its fitness tracking and headache detection features are disappointing.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Reflection inks $1B compute deal with Nebius",
-          "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-          "snippet": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The real AI race may no longer be at the frontier",
-          "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-          "snippet": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open models?",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Telegram’s shortlink domain is back online after day-long suspension",
-          "url": "https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/",
-          "snippet": "Telegram CEO Pavel Durov confirmed an outage in a tweet, saying that shortlinks to the messaging app had \"stopped working.\"",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,66 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Αγρότης χαρίζει 200 ​​τόνους κρεμμυδιών: «Είναι αδύνατο αν πληρώνουν 13 λεπτά το κιλό»",
-        "url": "https://www.gazzetta.gr/plus/2554364/agrotis-harizei-200-tonoys-kremmydion-einai-adynato-plironoyn-13-lepta-kilo",
-        "snippet": "Ισπανός αγρότης αποφάσισε να χαρίσει 200 τόνους κρεμμύδια στους συνδημότες του, καθώς η εξευτελιστική τιμή πώλησης καθιστούσε τη συγκομιδή οικονομικά ασύμφορη.",
+        "title": "ΑΕΚ: Ο Πινέδα άναψε το πράσινο φως στη Μοντερέι, σύμφωνα με τον Μέρλο",
+        "url": "https://www.gazzetta.gr/football/superleague/2554378/pineda-anapse-prasino-fos-sti-monterei-symfona-me-ton-merlo",
+        "snippet": "Νέο «χτύπημα» από τον Σέζαρ Λουίς Μέρλο, ο οποίος ισχυρίζεται ότι ο Πινέδα έχει πει το «ναι» σε προφορικό επίπεδο στη Μοντερέι που πρέπει τώρα να φτάσει σε συμφωνία με την ΑΕΚ.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Champions League: Οι προκρίσεις και τα ζευγάρια που ενδιαφέρουν την ΑΕΚ",
+          "url": "https://www.gazzetta.gr/football/champions-league/2554377/champions-league-oi-prokriseis-kai-ta-zeygaria-poy-endiaferoyn",
+          "snippet": "Αρχίζει σιγά-σιγά να συμπληρώνεται το παζλ των ομάδων που θα συμμετάσχουν στον 2ο προκριματικό γύρο του Champions League. Τα ζευγάρια που ενδιαφέρουν την ΑΕΚ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γαλλία - Ισπανία: Ντελιβεράς μπήκε σε σπίτι για να δει το πέναλτι",
+          "url": "https://www.gazzetta.gr/football/mundial/2554376/gallia-ispania-nteliberas-mpike-se-spiti-gia-na-dei-penalti",
+          "snippet": "Απίθανο περιστατικό στην Ισπανία, με ντελιβερά να μπαίνει σε σπίτι για να δει την εκτέλεση του πέναλτι του Ογιαρθάμπαλ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μουντιάλ 2026: Η Ισπανία ισοφάρισε το μεγαλύτερο αήττητο σερί",
+          "url": "https://www.gazzetta.gr/football/mundial/2554374/moyntial-2026-i-ispania-isofarise-megalytero-aittito-seri",
+          "snippet": "Με τη νίκη επί της Γαλλίας, η Ισπανία έφτασε τα 37 συνεχόμενα ματς χωρίς ήττα, ισοφαρίζοντας το σχετικό ρεκόρ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γαλλία - Ισπανία 0-2: Τα highlights της επικράτησης της Φούρια Ρόχα (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554373/gallia-ispania-0-2-ta-highlights-tis-epikratisis-tis-foyria-roha-vid",
+          "snippet": "Η Ισπανία υπέταξε με 2-0 τη Γαλλία στον ημιτελικό του Ντάλας και έκλεισε θέση στον μεγάλο τελικό της Κυριακής,(19/07, 22:00).",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μουντιάλ 2026: Για τρίτο καλοκαίρι σερί, η Ισπανία νίκησε τη Γαλλία",
+          "url": "https://www.gazzetta.gr/football/mundial/2554372/moyntial-2026-gia-trito-kalokairi-seri-i-ispania-nikise-ti-gallia",
+          "snippet": "Ισπανία και Γαλλία αντάμωσαν σε έναν ακόμη τελικό, με την κατάληξη να είναι εκ νέου μια νίκη για τους Ίβηρες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νέα προθεσμία για τις παλιές ταυτότητες - Μέχρι πότε ισχύουν",
+          "url": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+          "snippet": "Παράταση για τις παλαιές ταυτότητες έως τον Σεπτέμβριο του 2027 - Οι περιορισμοί.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρίτσας: Αποχώρησε από τον Εθνικό Αστέρα με αιχμές για τον Δήμο Καισαριανής",
+          "url": "https://www.gazzetta.gr/football/superleague/2554371/pritsas-apohorise-apo-ton-ethniko-astera-me-aihmes-gia-ton-dimo",
+          "snippet": "Ο μεγαλομέτοχος της Κηφισιάς, Χρήστος Πρίτσας, με επιστολή του ενημέρωσε ότι δεν στηρίζει πλέον οικονομικά τον Εθνικό Αστέρα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γαλλία - Ισπανία 0-2: Έκλεισαν θέση στον τελικό του Μουντιάλ οι Ίβηρες",
+          "url": "https://www.gazzetta.gr/football/mundial/2554370/gallia-ispania-0-2-ekleisan-thesi-ston-teliko-toy-moyntial-oi-ibires",
+          "snippet": "Δίχως καν να ιδρώσει, η Ισπανία επικράτησε 2-0 της Γαλλίας και πέρασε στον τελικό του Παγκοσμίου Κυπέλλου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγρότης χαρίζει 200 ​​τόνους κρεμμυδιών: «Είναι αδύνατο αν πληρώνουν 13 λεπτά το κιλό»",
+          "url": "https://www.gazzetta.gr/plus/2554364/agrotis-harizei-200-tonoys-kremmydion-einai-adynato-plironoyn-13-lepta-kilo",
+          "snippet": "Ισπανός αγρότης αποφάσισε να χαρίσει 200 τόνους κρεμμύδια στους συνδημότες του, καθώς η εξευτελιστική τιμή πώλησης καθιστούσε τη συγκομιδή οικονομικά ασύμφορη.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Γαλλία - Ισπανία 0-2: Το δεύτερο γκολ της Φούρια Ρόχα με τον Πόρο (vid)",
           "url": "https://www.gazzetta.gr/football/mundial/2554369/gallia-ispania-0-2-deytero-gkol-tis-foyria-roha-me-ton-poro-vid",
@@ -327,60 +381,6 @@
           "title": "Ευνοϊκές ρυθμίσεις για χρέη προς Δημόσιο, ΕΦΚΑ, τράπεζες: Οι 3 κινήσεις - Τι να προσέξετε",
           "url": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
           "snippet": "Οι επόμενες εβδομάδες φέρνουν τρεις διαφορετικές ευκαιρίες που θέλουν προετοιμασία, επιλογή και σωστό timing.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ταξίδι σε όλη την Ευρώπη: Το σχέδιο της Ε.Ε. για τρένα υψηλής ταχύτητας",
-          "url": "https://www.gazzetta.gr/plus/2554358/taxidi-se-oli-tin-eyropi-shedio-tis-ee-gia-trena-ypsilis-tahytitas",
-          "snippet": "Το νέο σχέδιο της Ευρωπαϊκής Επιτροπής στοχεύει στη σύνδεση των ευρωπαϊκών πρωτευουσών με τρένα υψηλής ταχύτητας έως το 2040, μειώνοντας δραστικά τους χρόνους ταξιδιού.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γαλλία - Ισπανία: Ο Σαλιμπά αποχώρησε τραυματίας (vid)",
-          "url": "https://www.gazzetta.gr/football/mundial/2554363/gallia-ispania-o-salimpa-apohorise-traymatias-vid",
-          "snippet": "Ο Ουιλιάμ Σαλιμπά αποχώρησε τραυματίας στο 30ό λεπτό του ημιτελικού κόντρα στη Γαλλία, δίνοντας τη θέση του στον Λακρουά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Σαραμπογιούκοφ ανέβασε το ρεκόρ Βουλγαρίας στα 8,49μ.",
-          "url": "https://www.gazzetta.gr/stibos/2554362/o-sarampogioykof-anebase-rekor-boylgarias-sta-849m",
-          "snippet": "Ο Μπόζινταρ Σαραμπογιούκοφ με άλμα στα 8,49μ. βελτίωσε κατά τέσσερα εκατοστά το δικό του ρεκόρ Βουλγαρίας σε αγώνες στο Πλόβντιβ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γαλλία - Ισπανία 0-1: Το εύστοχο πέναλτι του Ογιαρθάμπαλ (vid)",
-          "url": "https://www.gazzetta.gr/football/mundial/2554361/gallia-ispania-0-1-eystoho-penalti-toy-ogiarthampal-vid",
-          "snippet": "Ο Ογιαρθάμπαλ ευστόχησε από την άσπρη βούλα και η Ισπανία πήρε το προβάδισμα κόντρα στη Γαλλία (1-0), στον μεγάλο ημιτελικό του Ντάλας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μάλαγα: Ανακοίνωσε τον Ίγκνας Μπραζντέικις",
-          "url": "https://www.gazzetta.gr/basketball/mpasket-ispania/2554360/malaga-anakoinose-ton-igknas-mpraznteikis",
-          "snippet": "Η Ουνικάχα Μάλαγα ανακοίνωσε την απόκτηση του Ίγκνας Μπραζντέικις.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Τσιτσιπάς επιστρέφει την Τετάρτη (15/7) στο κεντρικό κορτ στο Γκστάαντ",
-          "url": "https://www.gazzetta.gr/tennis/atp/2554359/o-tsitsipas-epistrefei-tin-tetarti-157-sto-kentriko-kort-sto-gkstaant",
-          "snippet": "Ο Στέφανος Τσιτσιπάς κόντρα στον γηπεδούχο Τζερόμ Κιμ θα διεκδικήσει το απόγευμα της Τετάρτης (15/7) την πρόκριση στα προημιτελικά στο 250άρι τουρνουά στο Γκστάαντ της Ελβετίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "24 Ώρες Λε Μαν: Δείτε ξανά τον κορυφαίο αγώνα του motorsport (vid)",
-          "url": "https://www.gazzetta.gr/gmotion/2552911/24-ores-le-man-deite-xana-ton-koryfaio-agona-toy-motorsport-vid",
-          "snippet": "Για όσους δεν… χόρτασαν το θρυλικό αγώνα του WEC που διεξήχθη πριν από μερικές εβδομάδες, έχουν την ευκαιρία να τον απολαύσουν και πάλι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τελικός Μουντιάλ: Η FIFA στοχεύει σε ημίχρονο 20 λεπτών με απίθανο σόου",
-          "url": "https://www.gazzetta.gr/football/2554357/telikos-moyntial-i-fifa-stoheyei-se-imihrono-20-lepton-me-apithano-sooy",
-          "snippet": "Η FIFA στοχεύει το ημίχρονο του τελικού του Παγκοσμίου Κυπέλλου, που θα διεξαχθεί στο MetLife Stadium, να μην ξεπεράσει συνολικά τα 20 λεπτά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ανατροπή με τις παλιές ταυτότητες: Δόθηκε παράταση - Έως πότε",
-          "url": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
-          "snippet": "Παράταση για τις παλαιές ταυτότητες έως τον Σεπτέμβριο του 2027 - Οι περιορισμοί.",
           "source": "Gazzetta"
         }
       ]
