@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-15T20:51:11.232291+00:00",
+  "updated": "2026-07-16T01:50:31.031344+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ο εφιάλτης της Βενεζουέλας συνεχίζεται: Τουλάχιστον 4.829 οι νεκροί από τους σεισμούς",
-        "url": "https://www.efsyn.gr/kosmos/1428796/o-efialtis-tis-venezoyelas-synehizetai-toylahiston-4-829-oi-nekroi-apo-toys-seismoys/",
-        "snippet": "Οι αρχές αποφεύγουν να αναφέρουν αριθμό αγνοουμένων. Τα πρώτα 24ωρα μετά τους φονικούς σεισμούς, ο ΟΗΕ εκτιμούσε πως οι αγνοούμενοι ανέρχονταν σε 50.000.",
+        "title": "Μουντιάλ 2026: Η Αργεντινή έκανε τη μεγάλη ανατροπή κατά της Αγγλίας και διεκδικεί το «στέμμα»",
+        "url": "https://www.efsyn.gr/athlitismos/1428797/moyntial-2026-i-argentini-ekane-ti-megali-anatropi-kata-tis-agglias-kai-diekdikei-to-stemma/",
+        "snippet": "Νικήτρια η ομάδα του Μέσι στον αποψινό ημιτελικό.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Σαντορίνη: Εμπλοκή σε άγκυρα φορτηγού πλοίου – Παρέμεινε στο λιμάνι",
+          "url": "https://www.efsyn.gr/ellada/1428800/santorini-emploki-se-agkyra-fortigoy-ploioy-paremeine-sto-limani/",
+          "snippet": "Στο πλοίο επέβαιναν 11 φορτηγά οχήματα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ο εφιάλτης της Βενεζουέλας συνεχίζεται: Τουλάχιστον 4.829 οι νεκροί από τους σεισμούς",
+          "url": "https://www.efsyn.gr/kosmos/1428796/o-efialtis-tis-venezoyelas-synehizetai-toylahiston-4-829-oi-nekroi-apo-toys-seismoys/",
+          "snippet": "Οι αρχές αποφεύγουν να αναφέρουν αριθμό αγνοουμένων. Τα πρώτα 24ωρα μετά τους φονικούς σεισμούς, ο ΟΗΕ εκτιμούσε πως οι αγνοούμενοι ανέρχονταν σε 50.000.",
+          "source": "EfSyn"
+        },
         {
           "title": "Νέα πλήγματα ΗΠΑ κατά Ιράν: Ακούστηκαν εκρήξεις στην πόλη Αχβάζ – «Θέλουν συμφωνία» επιμένει ο Τραμπ",
           "url": "https://www.efsyn.gr/kosmos/1428792/nea-pligmata-ipa-kata-iran-akoystikan-ekrixeis-stin-poli-ahvaz-theloyn-symfonia-epimenei-o-tramp/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/politiki/1428757/premiera-gia-tis-diadiktyakes-synantiseis-tis-elas-to-kalesma-toy-alexi-tsipra-vinteo/",
           "snippet": "Το απόγευμα της Πέμπτης το πρώτο «ραντεβού»",
           "source": "EfSyn"
-        },
-        {
-          "title": "Φιλικά προετοιμασίας: Βαριά ήττα για τον Παναθηναϊκό από τη Ραπίντ στη Βιέννη",
-          "url": "https://www.efsyn.gr/athlitismos/1428751/filika-proetoimasias-varia-itta-gia-ton-panathinaiko-apo-ti-rapint-sti-vienni/",
-          "snippet": "Οι Πράσινοι έχασαν με 4-1.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Δήμος Αθηναίων δίπλα στους κατοίκους της Κυψέλης για τις ζημιές στα σπίτια τους",
-          "url": "https://www.efsyn.gr/ellada/1428749/o-dimos-athinaion-dipla-stoys-katoikoys-tis-kypselis-gia-tis-zimies-sta-spitia-toys/",
-          "snippet": "Ο δήμαρχος της Αθήνας Χάρης Δούκας τόνισε ότι ο δήμος θα σταθεί στο πλευρό των κατοίκων, τόσο νομικά όσο και με όλες τις υπηρεσίες του, και ότι έθεσε το θέμα στον αρμόδιο εισαγγελέα.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -103,7 +103,7 @@
       "lead": {
         "title": "Iran War Live Updates: U.S. and Iran Exchange Strikes for Fifth Straight Day",
         "url": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
-        "snippet": "The United States launched fresh attacks against Iranian targets on Wednesday, hours after Iran targeted American military sites in the region. Neither side has shown signs of backing down in opening a new stage of the war.",
+        "snippet": "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”",
         "source": "NYT World"
       },
       "items": [
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Billboard in Iran’s Capital Depicts Trump in a Coffin",
-          "url": "https://www.nytimes.com/2026/07/15/world/middleeast/iran-tehran-billboard-trump-coffin.html",
-          "snippet": "Threatening imagery in Enghelab Square is nothing new, but has rarely taken such lurid form.",
+          "title": "For England, the World Cup Final Remains Elusive",
+          "url": "https://www.nytimes.com/2026/07/15/world/europe/england-world-cup-loss-fans.html",
+          "snippet": "The nation’s years of pain continue.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
-        "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
-        "snippet": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+        "title": "Why Greylock capped its new fund at $1.5B when it says it could have raised more",
+        "url": "https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/",
+        "snippet": "By keeping the number of investments to about 25 per fund, Greylock aims to remain what it calls \"the most important partner\" to its founders.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+          "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "snippet": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms",
+          "url": "https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/",
+          "snippet": "The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Daniel Ek’s body-scanning startup Neko Health raises another $700M",
           "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
           "snippet": "If completed, the acquisition would unite two of the biggest names in digital payments.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-          "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-          "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-          "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-          "snippet": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τέλος στα προκατασκευασμένα; Το κινεζικό «σπίτι-κάψουλα» των 70.000 ευρώ",
-        "url": "https://www.gazzetta.gr/plus/2554628/telos-sta-prokataskeyasmena-kineziko-spiti-kapsoyla-ton-70000-eyro",
-        "snippet": "Το πρώτο κινεζικό σπίτι-κάψουλα εγκαταστάθηκε στην Ισπανία. Διαθέτει φωνητικό έλεγχο, έξυπνες λειτουργίες και τιμή που ξεκινά από 70.000 ευρώ.",
+        "title": "Μουντιάλ 2026: Μόνο ο Μέσι και ο Καφού με συμμετοχή σε τρεις τελικούς Μουντιάλ",
+        "url": "https://www.gazzetta.gr/football/mundial/2554641/moyntial-2026-mono-o-mesi-kai-o-kafoy-me-symmetohi-se-treis-telikoys",
+        "snippet": "Ο Μέσι έγινε ο δεύτερος παίκτης μετά τον Καφού, που θα αγωνιστεί σε τρίτο τελικό Παγκοσμίου Κυπέλλου.",
         "source": "Gazzetta"
       },
       "items": [
         {
+          "title": "Τούχελ: «Από τα καλύτερα παιχνίδια μας, τώρα με κρίνουν εκατομμύρια... προπονητές»",
+          "url": "https://www.gazzetta.gr/football/mundial/2554640/toyhel-apo-ta-kalytera-paihnidi-mas-tora-me-krinoyn-ekatommyria-proponites",
+          "snippet": "Ο Τόμας Τούχελ υπερασπίστηκε τις αποφάσεις του στο ματς της Αγγλίας με την Αργεντινή και πέταξε... δηλητηριώδη ατάκα για τις κριτικές εναντίον του.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή: Τα ασύλληπτα ποσοστά κυριαρχίας της Αλμπισελέστε",
+          "url": "https://www.gazzetta.gr/football/mundial/2554639/agglia-arrgentini-ta-asyllipta-pososta-kyriarhias-tis-almpiseleste",
+          "snippet": "Η Αργεντινή πίεσε ασφυκτικά την Αγγλία μετά το προβάδισμα των Λιονταριών, με τα ποσοστά κατοχής να φτάνουν το 88%!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μουντιάλ 2026: Το ξεκάθαρο μήνυμα των παικτών της Αργεντινής για τα νησιά Φώκλαντ",
+          "url": "https://www.gazzetta.gr/football/mundial/2554638/moyntial-2026-xekatharo-minyma-ton-paikton-tis-argentinis-gia-ta-nisia",
+          "snippet": "Οι παίκτες της Αργεντινής πανηγύρισαν με πανό για τα νησιά Φώκλαντ μετά την τρομερή ανατροπή επί της Αγγλίας και την πρόκριση στον τελικό του Μουντιάλ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή: Απαρηγόρητοι Μπέκαμ και Μπέλιγχαμ μετά την ήττα (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554637/agglia-argentini-aparigoritoi-mpekam-kai-mpeligham-meta-tin-itta-vid",
+          "snippet": "Η Αγγλία για μια ακόμη φορά έφτασε στην πηγή αλλά νερό δεν ήπιε και η απογοήτευση ήταν ζωγραφισμένη στα πρόσωπα των Μπέλιγχαμ και Μπέκαμ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή: Το ξέσπασμα του Μέσι στη λήξη του ματς (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554636/agglia-argentini-xespasma-toy-mesi-sti-lixi-toy-mats-vid",
+          "snippet": "Με τους παλμούς στο κόκκινο, ο Λιονέλ Μέσι πανηγύρισε έξαλλα την ανατροπή της Αργεντινής και την πρόκριση στον τελικό του Παγκοσμίου Κυπέλλου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή 1-2: Τα highlights της πρόκρισης της παρέας του Μέσι (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554635/agglia-argentini-1-2-ta-highlights-tis-prokrisis-tis-pareas-toy-mesi-vid",
+          "snippet": "Η «ατσάλινη» Παγκόσμια Πρωταθλήτρια, Αργεντινή, τα ανέτρεψε όλα μέσα σε επτά λεπτά, νίκησε με 2-1 την Αγγλία και πήρε το εισιτήριο για τον μεγάλο τελικό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μουντιάλ 2026: Η μέρα και η ώρα του τελικού ανάμεσα σε Αργεντινή και Ισπανία",
+          "url": "https://www.gazzetta.gr/football/mundial/2554634/moyntial-2026-i-mera-kai-i-ora-toy-telikoy-anamesa-se-argentini-kai",
+          "snippet": "Αργεντινή και Ισπανία έκλεισαν μια θέση στον μεγάλο τελικό του Παγκοσμίου Κυπέλλου, ο οποίος θα διεξαχθεί στις 19 Ιουλίου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή 1-2: Το γύρισε με ανατροπάρα στο 90'+2' και πάει για το back-to-back!",
+          "url": "https://www.gazzetta.gr/football/mundial/2554632/agglia-argentini-1-2-gyrise-me-anatropara-sto-902-kai-paei-gia-back-back",
+          "snippet": "Η συνήθεια που έγινε λατρεία! Με ακόμα μια ασύλληπτη ανατροπή με δυο γκολ στα τελευταία λεπτά, η Αργεντινή έβγαλε νοκ-άουτ την Αγγλία με 2-1 κι έκλεισε ραντεβού με την Ισπανία στον τελικό του Μουντιάλ!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή 1-2: Το δεύτερο δοκάρι του ΜακΆλιστερ και το γκολ του Μαρτίνες (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554631/agglia-argentini-1-2-deytero-dokari-toy-makalister-kai-gkol-toy-martines",
+          "snippet": "Η Αργεντινή ανέτρεψε τα πάντα μέσα σε επτά λεπτά, έκανε το 2-1 και έστειλε την... Αγγλία στα σχοινιά.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Οριστικά στην ομάδα και τη νέα σεζόν!",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2554613/olympiakos-oristika-stin-omada-kai-ti-nea-sezon",
+          "snippet": "Ο Ολυμπιακός και ο Κόρι Τζόσεφ θα συνεχίσουν να πορεύονται μαζί και τη νέα σεζόν (2026-27), καθώς οι «ερυθρόλευκοι» δεν θέλησαν να τον αποδεσμεύσουν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή: Ο Γιάννης Αντετοκούνμπο στην Ατλάντα!",
+          "url": "https://www.gazzetta.gr/football/mundial/2554630/agglia-argentini-o-giannis-antetokoynmpo-stin-atlanta",
+          "snippet": "Ο διεθνής Έλληνας άσος και σταρ του NBA Γιάννης Αντετοκούνμπο, παρακολουθεί τον δραματικό ημιτελικό Αγγλία - Αργεντινή.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγγλία - Αργεντινή: Ισοφάρισε με σουτάρα ο Έντσο Φερνάντες (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2554629/agglia-argentini-isofarise-me-soytara-o-entso-fernantes-vid",
+          "snippet": "Καθοριστικό γκολ από τον Έντσο Φερνάντες, ο οποίος βρήκε χώρο έξω από την περιοχή στο 86΄και με τρομερό σουτ ισοφάρισε σε 1-1 για την Αργεντινή κόντρα στην Αγγλία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τέλος στα προκατασκευασμένα; Το κινεζικό «σπίτι-κάψουλα» των 70.000 ευρώ",
+          "url": "https://www.gazzetta.gr/plus/2554628/telos-sta-prokataskeyasmena-kineziko-spiti-kapsoyla-ton-70000-eyro",
+          "snippet": "Το πρώτο κινεζικό σπίτι-κάψουλα εγκαταστάθηκε στην Ισπανία. Διαθέτει φωνητικό έλεγχο, έξυπνες λειτουργίες και τιμή που ξεκινά από 70.000 ευρώ.",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Αγγλία - Αργεντινή: Η τρομερή επέμβαση του Πίκφορντ και το δοκάρι του ΜακΆλιστερ (vid)",
           "url": "https://www.gazzetta.gr/football/mundial/2554627/agglia-argentini-i-tromeri-epembasi-toy-pikfornt-kai-dokari-toy-makalister",
           "snippet": "Ο Τζόρνταν Πίκφορντ είπε «όχι» στην κεφαλιά του Νίκο Γκονζάλες και κράτησε το 1-0 για την Αγγλία. Λίγα λεπτά αργότερα, ο ΜακΆλιστερ σημάδεψε το κάθετο δοκάρι και το σκορ δεν άλλαξε.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αγκουστίν Ούρτσι: Λεβαδειακός - «Πλησιάζει ο Αργεντινός εξτρέμ»",
-          "url": "https://www.gazzetta.gr/football/superleague/2554626/agkoystin-oyrtsi-lebadeiakos-plisiazei-o-argentinos-extrem",
-          "snippet": "Σύμφωνα με δημοσιεύματα στην Αργεντινή, ο Λεβαδειακός θα πάρει δανεικό από τη Χουάρες τον εξτρέμ Αγκουστίν Ούρτσι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική Εφήβων U20: Με Σερβία στα Προημιτελικά του Eurobasket",
-          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2554625/ethniki-efibon-u20-me-serbia-sta-proimitelika-toy-eurobasket",
-          "snippet": "Η Εθνική Ελλάδας έμαθε τον αντίπαλό της στα Προημιτελικά του Eurobasket με φόντο την είσοδο στη «ζώνη» των μεταλλίων.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αγγλία - Αργεντινή 1-0: Προβάδισμα με τον Γκόρντον για τα Τρία Λιοντάρια (vid)",
-          "url": "https://www.gazzetta.gr/football/mundial/2554624/agglia-argentini-1-0-probadisma-me-ton-gkornton-gia-ta-tria-liontaria-vid",
-          "snippet": "Ο Γκόρντον έκανε το 1-0 για την Αγγλία στο 55ο λεπτό του ημιτελικού κόντρα στην Αργεντινή, ύστερα από την ασίστ του Ρότζερς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σάκκαρη: H αντίπαλός της στα προημιτελικά του Athens Open",
-          "url": "https://www.gazzetta.gr/tennis/wta/2554623/sakkari-h-antipalos-tis-sta-proimitelika-toy-athens-open",
-          "snippet": "Την τενίστρια που θ' αντιμετωπίσει στα προημιτελικά του Vanda Pharmaceuticals Athens Open έμαθε η Μαρία Σάκκαρη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπάντιο: Η FIBA έφτιαξε βίντεο με τις καλύτερες στιγμές του από τα Προκριματικά",
-          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2554622/mpantio-i-fiba-eftiaxe-binteo-me-tis-kalyteres-stigmes",
-          "snippet": "Ο Μπράνοκυ Μπάντιο έκλεψε την παράσταση στα Προκριματικά της Αφρικής για το Παγκόσμιο Κύπελλο, όντας από τους παίκτες που ξεχώρισαν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Το σχόλιο του Αθανασίου για την φιλική ήττα από την Ραπίντ",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2554621/panathinaikos-sholio-toy-athanasioy-gia-tin-filiki-itta-apo-tin",
-          "snippet": "Ο Νίκος Αθανασίου σχολιάζει το τελευταίο φιλικό του Παναθηναϊκού με την Ραπίντ Βιέννης, στέκεται στο κακό αμυντικό κομμάτι και στην εικόνα που είχαν οι εξέδρες με τους οπαδούς των δύο ομάδων να τραγουδάνε μαζί.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ραφαηλίδου: Πανελλήνιο ρεκόρ στη σφαιροβολία στους αγώνες «Κώστας Σπανίδης»",
-          "url": "https://www.gazzetta.gr/stibos/2554620/rafailidoy-panellinio-rekor-sti-sfairobolia-stoys-agones-kostas-spanidis",
-          "snippet": "Η Μαρία Ραφαηλίδου με βολή στα 16,80μ. βελτίωσε το δικό της πανελλήνιο ρεκόρ Κ20 στη σφαιροβολία, στη συνάντηση ρίψεων «Κώστας Σπανίδης» στη Θεσσαλονίκη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τολιόπουλος: Και τώρα τι γίνεται;",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2554595/toliopoylos-kai-tora-ti-ginetai",
-          "snippet": "Το Gazzetta ξετυλίγει το κουβάρι της υπόθεσης του Βασίλη Τολιόπουλου και παρουσιάζει τα τρία σενάρια που θα κρίνουν το επόμενο βήμα της καριέρας του.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πέθανε ο Λορέντζο Καριέρε - Είχε γίνει γνωστός από το τηλεοπτικό ριάλιτι «Bar»",
-          "url": "https://www.gazzetta.gr/plus/2554619/pethane-o-lorentzo-kariere-eihe-ginei-gnostos-apo-tileoptiko-rialiti-bar",
-          "snippet": "Ο Λορέντζο Καριέρε, γνωστός από το ριάλιτι «Bar» του MEGA, πέθανε μετά από σοβαρό πρόβλημα υγείας. Ήταν σύζυγος της Έλενας Κατραβά και πατέρας δύο παιδιών.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League: Η απόφαση γι' αναβολή αγώνων και Goal Line Cameras",
-          "url": "https://www.gazzetta.gr/football/superleague/2554618/super-league-i-apofasi-gi-anaboli-agonon-kai-goal-line-cameras",
-          "snippet": "Οι αποφάσεις της Super League στο ΔΣ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Προετοιμασία Ολυμπιακού: Τι δούλεψε με τους παίκτες του ο Μεντιλίμπαρ",
-          "url": "https://www.gazzetta.gr/football/superleague/2554604/proetoimasia-olympiakoy-ti-doylepse-me-toys-paiktes-toy-o-mentilimpar",
-          "snippet": "Συνδυαστική η πρώτη προπόνηση του Ολυμπιακού έχοντας πρόγραμμα και με αλλά και χωρίς τη μπάλα. Δείτε το βίντεο του απεσταλμένου του Gazzetta, Δημήτρη Τομαρά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ντάνι Μουνιόθ: Ηρακλής - Ο Ισπανός αριστερός μπακ στον «γηραιό»",
-          "url": "https://www.gazzetta.gr/football/superleague/2554616/ntani-moynioth-iraklis-o-ispanos-aristeros-mpak-ston-giraio",
-          "snippet": "Ο Ηρακλής ανακοίνωσε τη μεταγραφή από την Ατλέτικο Μαδρίτης του 20χρονου αριστερού μπακ Ντάνι Μουνιόθ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Φίτεσε - ΑΕΚ 0-0: Τα highlights της φιλικής αναμέτρησης",
-          "url": "https://www.gazzetta.gr/football/superleague/2554614/fitese-aek-0-0-ta-highlights-tis-filikis-anametrisis",
-          "snippet": "Δείτε τις καλύτερες στιγμές του φιλικού 0-0 μεταξύ της ΑΕΚ και της Φίτεσε στην Ολλανδία.",
           "source": "Gazzetta"
         }
       ]
@@ -434,7 +434,7 @@
         {
           "title": "Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks",
           "url": "https://www.nytimes.com/article/heat-air-pollution-climate.html",
-          "snippet": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health risks.",
+          "snippet": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.",
           "source": "NYT Science"
         },
         {
