@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-16T20:47:54.390545+00:00",
+  "updated": "2026-07-17T01:54:05.917405+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Βρετανία: Προς απαγόρευση σε παιδιά η πώληση ενεργειακών ποτών με υψηλή περιεκτικότητα σε καφεΐνη",
-        "url": "https://www.efsyn.gr/kosmos/1429673/vretania-pros-apagoreysi-se-paidia-i-polisi-energeiakon-poton-me-ypsili-periektikotita-se-kafeini/",
-        "snippet": "Περίπου 100.000 παιδιά στην Αγγλία καταναλώνουν τέτοια ποτά καθημερινά, με στοιχεία να τα συνδέουν με διαταραχές ύπνου, άγχος και δυσκολία στη συγκέντρωση.",
+        "title": "Europa League: Η ουκρανική Ντινάμο Κιέβου αντίπαλος του ΠΑΟΚ στον Β’ προκριματικό",
+        "url": "https://www.efsyn.gr/athlitismos/1429677/europa-league-i-oykraniki-ntinamo-kievoy-antipalos-toy-paok-ston-v-prokrimatiko/",
+        "snippet": "Η Ντινάμο Κιέβου του Ιγκόρ Κόστσιουκ θα είναι ο αντίπαλος του ΠΑΟΚ στον Β&#8217; προκριματικό του Europa League, καθώς κατάφερε να «λυγίσει» την Ουνιβερσιτατέα Κλουζ με 4-2 στα πέναλτι, έπειτα από ένα δεύτερο «λευκό» 0-0 ανάμεσα στις δύο ομάδες: αυτή τη φορά στην &#8220;Cluj Aren",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Βρετανία: Προς απαγόρευση σε παιδιά η πώληση ενεργειακών ποτών με υψηλή περιεκτικότητα σε καφεΐνη",
+          "url": "https://www.efsyn.gr/kosmos/1429673/vretania-pros-apagoreysi-se-paidia-i-polisi-energeiakon-poton-me-ypsili-periektikotita-se-kafeini/",
+          "snippet": "Περίπου 100.000 παιδιά στην Αγγλία καταναλώνουν τέτοια ποτά καθημερινά, με στοιχεία να τα συνδέουν με διαταραχές ύπνου, άγχος και δυσκολία στη συγκέντρωση.",
+          "source": "EfSyn"
+        },
         {
           "title": "Μουντιάλ 2026: Για 4,9 εκατ. δολάρια πωλήθηκε η φανέλα του Πελέ από τον τελικό του 1958",
           "url": "https://www.efsyn.gr/athlitismos/1429671/moyntial-2026-gia-49-ekat-dolaria-polithike-i-fanela-toy-pele-apo-ton-teliko-toy-1958/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/life/1429629/survivor-epestrepse-stin-ellada-o-stayros-floros-meta-ton-sovaro-traymatismo-toy/",
           "snippet": "Δύο μήνες μετά το φρικτό ατύχημα στον Άγιο Δομίνικο.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Έκθεση-κόλαφος της ΕΕΔΑ για την Ελλάδα: Τουλάχιστον 359 επαναπροωθήσεις μεταναστών σε δύο χρόνια",
-          "url": "https://www.efsyn.gr/ellada/1429597/ekthesi-kolafos-tis-eeda-gia-to-2025-toylahiston-359-atypes-anagkastikes-epistrofes-metanaston/",
-          "snippet": "Ο όρος «Άτυπη Αναγκαστική Επιστροφή» περιλαμβάνει τόσο τις επαναπροωθήσεις, όσο και κάθε άλλη αναγκαστική απομάκρυνση από την ελληνική επικράτεια με τρόπο παράτυπο και συνοπτικό, δηλαδή χωρίς να ακολουθούνται οι νόμιμες διαδικασίες.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "Iran War Live Updates: U.S. and Iran Trade Strikes, Escalating Tensions Over Strait of Hormuz",
+          "title": "Iran War Updates: U.S. Launches New Strikes, as Tensions Escalate Over Strait of Hormuz",
           "url": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz",
-          "snippet": "U.S. forces launched new attacks on Thursday afternoon. But both sides appeared to leave the door open to more negotiations to end the war.",
+          "snippet": "American forces appeared to be focused on infrastructure, hitting bridges and a railway junction, Iranian state media reported.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Ukraine Was on a Roll. Then a Clash Over War Strategy Exploded Into View.",
-          "url": "https://www.nytimes.com/2026/07/16/world/europe/ukraine-military-defense-minister-drones.html",
-          "snippet": "From an underground parking garage, Ukraine’s newly dismissed defense minister aired the most dramatic, public critique of the military command to emerge during the war.",
+          "title": "Canada’s Wildfires Are Burning Through the Night",
+          "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+          "snippet": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
-        "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
-        "snippet": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+        "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
+        "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
+        "snippet": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "SpaceX suddenly aborts second Starship V3 launch after ignition",
+          "url": "https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/",
+          "snippet": "The company didn't immediately say what went wrong. SpaceX's stock plunged more than 4% in after-hours trading before paring losses.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Coca-Cola suspended production at its Fairlife dairy after a ransomware attack",
+          "url": "https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/",
+          "snippet": "Coca Cola said dairy production at its Fairlife unit will \"remain suspended\" in the United States following a hack.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Founders Fund hires former OpenAI exec Ryan Beiermeister (and not because of her ‘Mafia’ skills)",
+          "url": "https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/",
+          "snippet": "Ryan Beiermeister, who demonstrated cool analysis in the Founders Fund YouTube series \"Mafia,\" has joined the firm as a partner.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Google Vids now lets you star in your own AI videos",
           "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
@@ -268,24 +286,6 @@
           "url": "https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/",
           "snippet": "Owen Flowers and Thalha Jubair, two members of the prolific Scattered Spider hacking group, pleaded guilty and were sentenced to five years and six months in jail for hacking London’s metropolitan transit system.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Period tracker Stardust shares users’ health data with analytics firm, says Mozilla research",
-          "url": "https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/",
-          "snippet": "One period tracker app tested by Mozilla was 'squeaky clean,' while another app was seen sharing users' health data with an analytics company, underscoring vast differences in user privacy among these apps.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why is OpenAI selling a ChatGPT basketball?",
-          "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-          "snippet": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-          "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-          "snippet": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believes visual AI is one of the next major frontiers in artificial intelligence.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,72 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Αντετοκούνμπο: Παρουσιάστηκε από τους Μαϊάμι Χιτ",
-        "url": "https://www.gazzetta.gr/basketball/nba/2554894/antetokoynmpo-paroysiastike-apo-toys-maiami-hit",
-        "snippet": "Πραγματοποιήθηκε η επίσημη παρουσίαση του Γιάννη Αντετοκούνμπο από τους Μαϊάμι Χιτ.",
+        "title": "Αναστασίου: «Κοιτάμε και την αγορά της Κύπρου»",
+        "url": "https://www.gazzetta.gr/football/superleague/2554903/anastasioy-koitame-kai-tin-agora-tis-kyproy",
+        "snippet": "Ο Γιάννης Αναστασίου μίλησε στο ThemaSports μετά το φιλικό του Παναιτωλικού με την Ομόνοια και αναφέρθηκε τόσο στον αγώνα, όσο και στην... ενδιαφέρουσα αγορά της Κύπρου.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ρόκα - Ολυμπιακός: Από την Αθήνα στην Ολλανδία την Παρασκευή",
+          "url": "https://www.gazzetta.gr/football/superleague/2554902/roka-olympiakos-apo-tin-athina-stin-ollandia-tin-paraskeyi",
+          "snippet": "Ο νεαρός εξτρέμ, Γιοέλ Ρόκα, σύμφωνα με τις τελευταίες πληροφορίες θα μεταβεί την Παρασκευή από την Αθήνα στην Ολλανδία για το 2ο στάδιο της προετοιμασίας του Ολυμπιακού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σερβία-Ελλάδα 92-66: Ήττα και εκτός τετράδας η Νέων Ανδρών",
+          "url": "https://www.gazzetta.gr/basketball/2554901/serbia-ellada-92-66-itta-kai-ektos-tetradas-i-neon-andron",
+          "snippet": "Η Εθνική Νέων Ανδρών ηττήθηκε (92-66) από τη Σερβία και αποκλείστηκε από τα ημιτελικά του Ευρωμπάσκετ U20 που διεξάγεται στη Λουμπλιάνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Mundial 2026: O MVP εναντίον της καλύτερης ομάδας και του καλύτερου προπονητή, τι τελικός!",
+          "url": "https://www.gazzetta.gr/football/mundial/2554900/mundial-2026-o-mvp-enantion-tis-kalyteris-omadas-kai-toy-kalyteroy",
+          "snippet": "O Γιάννης Σερέτης γράφει για την τελική ευθεία του Μουντιάλ και έναν δίκαιο τελικό μεταξύ των ομάδων που αξίζουν περισσότερο το τρόπαιο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μποροβήλος: «Χωρίς καλά οικονομικά δεν μπορεί να βελτιωθεί το πρωτάθλημα»",
+          "url": "https://www.gazzetta.gr/football/superleague/2554899/mporobilos-horis-kala-oikonomika-den-mporei-na-beltiothei-protathlima",
+          "snippet": "Ο πρόεδρος του Αστέρα AKTOR, Γιώργος Μποροβήλος, μίλησε στη NOVA κατά την κλήρωση της Super League και στάθηκε στην ανάγκη των ομάδων για οικονομική ενίσχυση.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αντετοκούνμπο: Ο λόγος που πήγε στους Χιτ και η φανέλα με το 7",
+          "url": "https://www.gazzetta.gr/basketball/nba/2554898/antetokoynmpo-o-logos-poy-pige-stoys-hit-kai-i-fanela-me-7",
+          "snippet": "Ο Γιάννης Αντετοκούνμπο εξήγησε γιατί επέλεξε το Μαϊάμι και τους Χιτ για να συνεχίσει την καριέρα του και πως σχολίασε την επιλογή της φανέλας με το νούμερο 7.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Το προφίλ της Ντινάμο Κιέβου",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2554897/paok-profil-tis-ntinamo-kieboy",
+          "snippet": "Δείτε όσα πρέπει να ξέρετε για την Ντινάμο Κιέβου, που θα αντιμετωπίσει τον ΠΑΟΚ στον 2ο προκριματικό γύρο του Europa League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σπανός: «Ας έρθει ο Μέσι στον Ατρόμητο να βάλει και κάποια εκατομμύρια»",
+          "url": "https://www.gazzetta.gr/football/superleague/2554896/spanos-erthei-o-mesi-ston-atromito-na-balei-kai-kapoia-ekatommyria",
+          "snippet": "Ο ιδιοκτήτης του Ατρομήτου, Γιώργος Σπανός ήταν απολευστικός στο περιθώριο της κλήρωσης της Super League, λέγοντας μεταξύ άλλων πως ας έρθει στην ομάδα ο Λιονελ Μέσι να βάλει και κάποια εκατομμύρια.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πουρσανίδης: «Πρώτος στόχος το Super Cup, έχουμε από τους κορυφαίους προπονητές στην Ελλάδα»",
+          "url": "https://www.gazzetta.gr/football/superleague/2554895/poyrsanidis-protos-stohos-super-cup-ehoyme-apo-toys-koryfaioys",
+          "snippet": "Ο αντιπρόεδρος του ΟΦΗ, Ηλίας Πουρσανίδης, μίλησε στη NOVA κατά την κλήρωση της Super League τόσο για το νέο πρωτάθλημα, όσο και για την ερχόμενη χρονιά του κλαμπ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Costa Concordia: Ο «ναυτικός χαιρετισμός» που κόστισε 33 ζωές και γιατί ο καπετάνιος άλλαξε πορεία λίγο πριν από το ναυάγιο",
+          "url": "https://www.gazzetta.gr/plus/2554892/costa-concordia-i-sfyrihtra-poy-kostise-33-zoes-kai-giati-o-kapetanios-allaxe-poreia",
+          "snippet": "Το Netflix επαναφέρει την τραγωδία του Costa Concordia ασχολείται με το γιατί ο καπετάνιος εγκατέλειψε την εγκεκριμένη πορεία και τι ήταν ο «ναυτικός χαιρετισμός»",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αντετοκούνμπο: Παρουσιάστηκε από τους Μαϊάμι Χιτ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2554894/antetokoynmpo-paroysiastike-apo-toys-maiami-hit",
+          "snippet": "Πραγματοποιήθηκε η επίσημη παρουσίαση του Γιάννη Αντετοκούνμπο από τους Μαϊάμι Χιτ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπούρας: «Η Καλαμάτα θα είναι η έκπληξη του πρωταθλήματος, πιστεύω στις 10 Οκτωβρίου θα είναι έτοιμο το γήπεδο»",
           "url": "https://www.gazzetta.gr/football/superleague/2554893/mpoyras-i-kalamata-tha-einai-i-ekplixi-toy-protathlimatos-pisteyo-stis",
@@ -322,66 +382,6 @@
           "url": "https://www.gazzetta.gr/plus/2554888/ena-potiri-oyiski-kai-ena-tsigaro-o-nikitas-kaklamanis-ekplirose-tin-teleytaia",
           "snippet": "Λίγες ώρες πριν από την κηδεία της Μάρως Κοντού, ο Νικήτας Κακλαμάνης εκπλήρωσε την τελευταία επιθυμία της αφήνοντας ένα ποτήρι ουίσκι και ένα τσιγάρο στο αγαπημένο της στέκι.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ομόνοια - Παναιτωλικός 2-1: Φιλική ήττα με καλό πρώτο ημίχρονο",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2554890/omonoia-panaitolikos-2-1-itta-me-kalo-proto-imihrono",
-          "snippet": "Ο Παναιτωλικός στο πρώτο του φιλικό προετοιμασίας ηττήθηκε από την πρωταθλήτρια Ομόνοια στο ΓΣΠ με 2-1, έχοντας καλή εικόνα στο πρώτο μέρος.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Athens Open: Προκρίσεις για Κρεϊτσίκοβα και Τάουσον, το πρόγραμμα των προημιτελικών",
-          "url": "https://www.gazzetta.gr/tennis/wta/2554887/athens-open-prokriseis-gia-kreitsikoba-kai-taoyson-programma-ton-proimitelikon",
-          "snippet": "H Μπάρμπορα Κρεϊτσίκοβα και η Κλάρα Τάουσον έκλεισαν την οκτάδα στο Athens Open, το πρόγραμμα των προημιτελικών την Παρασκευή στο ΟΑΚΑ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Μεταλλικά κύματα» ύψους 100 μέτρων εντοπίστηκαν στον Άρη: Οι νέες εικόνες εντυπωσιάζουν",
-          "url": "https://www.gazzetta.gr/plus/2554864/metallika-kymata-ypsoys-100-metron-entopistikan-ston-ari-oi-nees-eikones-entyposiazoyn",
-          "snippet": "Ο δορυφόρος Mars Express κατέγραψε στον Άρη τεράστιους αμμόλοφους που μοιάζουν με μεταλλικά κύματα. Οι επιστήμονες βλέπουν και πιθανές ενδείξεις αρχαίου νερού",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπαρτσελόνα: Ο πρωτότυπος τρόπος που... ανακοινώθηκε ο νέος προπονητής",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2554886/mpartselona-o-prototypos-tropos-poy-anakoinothike-o-neos-proponitis",
-          "snippet": "Ο Αλεξάντερ Σέκουλιτς θα είναι ο νέος προπονητής της Μπαρτσελόνα, όπως αποκάλυψε ο ατζέντης του Όμπραντ Φίμιτς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League: Οι βραβεύσεις των καλύτερων",
-          "url": "https://www.gazzetta.gr/football/superleague/2554885/super-league-oi-brabeyseis-ton-kalyteron",
-          "snippet": "Στο περιθώριο της κλήρωσης της νέας Super League έγιναν και οι βραβεύσεις των καλύτερων της περασμένης χρονιάς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αλμύρας: Αστέρας Τρίπολης - Κλείνει στην Τζουγκάρντεν, συμφωνία άνω του 1 εκατ. ευρώ",
-          "url": "https://www.gazzetta.gr/football/superleague/2554884/almyras-asteras-tripolis-kleinei-stin-tzoygkarnten-symfonia-ano-toy-1",
-          "snippet": "Ο Αστέρας Τρίπολης είναι κοντά σε συμφωνία με την Τζουγκάρντεν για την πώληση του Χρήστου Αλμύρα αντί ποσού άνω του 1 εκατ. ευρώ!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Europa League: Προσωρινή διακοπή λόγω επεισοδίων στο Ντέρι-ΤΣΣΚΑ Σόφιας",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2554883/europa-league-prosorini-diakopi-logo-epeisodion-sto",
-          "snippet": "Η αναμέτρηση της Ντέρι με την ΤΣΣΚΑ Σόφιας για τα προκριματικά του Europa League διακόπηκε για σχεδόν 15 λεπτά λόγω επεισοδίων.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λυσάνδρου: «Η ΑΕΚ προετοιμάζεται για να διεκδικήσει οτιδήποτε βρίσκεται στον δρόμο της»",
-          "url": "https://www.gazzetta.gr/football/superleague/2554882/lysandroy-i-aek-proetoimazetai-gia-na-diekdikisei-otidipote-brisketai",
-          "snippet": "Οι δηλώσεις του CEO της ΑΕΚ, Μηνά Λυσάνδρου μετά την κλήρωση του προγράμματος της Super League για τους στόχους της Ένωσης τη νέα σεζόν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γιουβέντους: «Κλέβει» τον Τσελίκ από τη Ρόμα",
-          "url": "https://www.gazzetta.gr/football/serie/2554881/gioybentoys-klebei-ton-tselik-apo-ti-roma",
-          "snippet": "Όπως αναφέρει ο Φαμπρίτσιο Ρομάνο, η Γιουβέντους συμφώνησε με τον Τσελίκ, παρόλο που η Ρόμα βρισκόταν κοντά στην ανανέωση με τον Τούρκο διεθνή.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δημήτρης Τσιάμης: Ο 44χρονος άλτης πλησιάζει στο 8ο ευρωπαϊκό πρωτάθλημα της καριέρας του!",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2554880/dimitris-tsiamis-o-44hronos-altis-plisiazei",
-          "snippet": "Ο Δημήτρης Τσιάμης με άλμα στα 16,59μ. στο τριπλούν, σε μίτινγκ στην Αλεξάνδρεια, πλησίασε περισσότερο στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
-          "url": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
-          "snippet": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system.",
+          "title": "Will SpaceX’s 13th Test Flight of Starship Be Lucky?",
+          "url": "https://www.nytimes.com/2026/07/16/science/spacex-13th-test-flight-starship.html",
+          "snippet": "The 33 engines of the rocket’s booster stage had begun to ignite during Thursday’s launch attempt, but were then shut down. SpaceX will try again on another day.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Will SpaceX’s 13th Test Flight of Starship Be Lucky?",
-          "url": "https://www.nytimes.com/2026/07/16/science/spacex-13th-test-flight-starship.html",
-          "snippet": "The objectives remain largely the same as the last launch in May. The biggest difference is that the gargantuan rocket will deploy 20 functioning, next-generation Starlink internet satellites.",
+          "title": "Why Does Wildfire Smoke Turn the Sky Orange?",
+          "url": "https://www.nytimes.com/2026/07/16/weather/smoke-sky-orange-red.html",
+          "snippet": "It’s about how light scatters in our atmosphere.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Archaeologists Unearth a 2,400-Year-Old Sanctuary for the Worship of Odysseus",
-          "url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
-          "snippet": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
+          "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+          "url": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+          "snippet": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Meet Earth’s Newest Monkey. (And Check Out Its Orange Lips.)",
-          "url": "https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html",
-          "snippet": "It is only the fifth new African monkey identified as a new species in the past 75 years.",
+          "title": "Archaeologists Unearth a 2,400-Year-Old Sanctuary for the Worship of Odysseus",
+          "url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
+          "snippet": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof",
-          "url": "https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html",
-          "snippet": "A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom.",
+          "title": "Meet Earth’s Newest Monkey. (And Check Out Its Orange Lips.)",
+          "url": "https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html",
+          "snippet": "It is only the fifth new African monkey identified as a new species in the past 75 years.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "New Winged Robot Can Fly and Swim Like a Puffin",
-          "url": "https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html",
-          "snippet": "Inspired by the physical feats of diving birds, researchers have created a robot that can plunge into the water and flap back into the air.",
+          "title": "New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof",
+          "url": "https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html",
+          "snippet": "A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman",
-          "url": "https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html",
-          "snippet": "Physicists have debated which way a submerged sprinkler sucking in water would spin. Careful experiments provide an answer.",
+          "title": "New Winged Robot Can Fly and Swim Like a Puffin",
+          "url": "https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html",
+          "snippet": "Inspired by the physical feats of diving birds, researchers have created a robot that can plunge into the water and flap back into the air.",
           "source": "NYT Science"
         },
         {
