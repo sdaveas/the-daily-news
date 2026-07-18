@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-17T20:43:40.986821+00:00",
+  "updated": "2026-07-18T01:44:22.071527+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Μουντιάλ 2026: Ο Ντεσάν δεν θέλει να πει «αντίο» στην εθνική Γαλλίας με ήττα στον μικρό τελικό",
-        "url": "https://www.efsyn.gr/athlitismos/1430575/moyntial-2026-o-ntesan-den-thelei-na-pei-antio-stin-ethniki-gallias-me-itta-ston-mikro-teliko/",
-        "snippet": "Ο Ντιντιέ Ντεσάν καλείται να βρει τα κατάλληλα λόγια για να εμπνεύσει ξανά τους ποδοσφαιριστές του, ώστε να μην ολοκληρώσει τη 14ετή θητεία του στον πάγκο της εθνικής Γαλλίας με δεύτερη διαδοχική ήττα, στον μικρό τελικό του Μουντιάλ 2026 απέναντι στην Αγγλία, που θα διεξαχθεί τα ",
+        "title": "Ιταλία: Ζητά χάρη από τον ΠτΔ ο κοσμηματοπώλης που καταδικάσθηκε για τη δολοφονία δύο ληστών",
+        "url": "https://www.efsyn.gr/kosmos/1430579/italia-zita-hari-apo-ton-ptd-o-kosmimatopolis-poy-katadikasthike-gia-ti-dolofonia-dyo-liston/",
+        "snippet": "Η υπόθεση μετατρέπεται στην Ιταλία σε κύριο θέμα πολιτικής και κοινωνικής αντιπαράθεσης.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Μουντιάλ 2026: Ο Ντεσάν δεν θέλει να πει «αντίο» στην εθνική Γαλλίας με ήττα στον μικρό τελικό",
+          "url": "https://www.efsyn.gr/athlitismos/1430575/moyntial-2026-o-ntesan-den-thelei-na-pei-antio-stin-ethniki-gallias-me-itta-ston-mikro-teliko/",
+          "snippet": "Ο Ντιντιέ Ντεσάν καλείται να βρει τα κατάλληλα λόγια για να εμπνεύσει ξανά τους ποδοσφαιριστές του, ώστε να μην ολοκληρώσει τη 14ετή θητεία του στον πάγκο της εθνικής Γαλλίας με δεύτερη διαδοχική ήττα, στον μικρό τελικό του Μουντιάλ 2026 απέναντι στην Αγγλία, που θα διεξαχθεί τα ",
+          "source": "EfSyn"
+        },
         {
           "title": "Σαμοθράκη: Διασώθηκε ο πεζοπόρος που τραυματίστηκε μετά την πτώση του σε δύσβατη περιοχή",
           "url": "https://www.efsyn.gr/ellada/1430573/samothraki-diasothike-o-pezoporos-poy-traymatistike-meta-tin-ptosi-toy-se-dysvati-periohi/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/life/1430507/i-diasimi-aystrali-tenistria-ntaria-kasatkina-pantreytike-ti-syntrofo-tis-stin-athina-eikones/",
           "snippet": "Οι δυο κοπέλες αντάλλαξαν όρκους σε μια λιτή, ρομαντική τελετή σε παραθαλάσσιο προάστιο της Αθήνας και μάλιστα ακριβώς δίπλα στο κύμα, έχοντας στο πλευρό τους τις οικογένειές τους και τους πιο στενούς φίλους τους.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Έκθεση για το Κράτος Δικαίου: Τα εννέα κρυφά μηνύματα της Κομισιόν προς την κυβέρνηση",
-          "url": "https://www.efsyn.gr/politiki/1430509/ekthesi-gia-to-kratos-dikaioy-ta-ennea-kryfa-minymata-tis-komision-pros-tin-kyvernisi/",
-          "snippet": "Παρά την προσπάθεια της Κομισιόν να καλύψει πολιτικά την κατάσταση στην Ελλάδα, αν διαβάσει κανείς την έκθεση όχι ως κατάλογο μεταρρυθμίσεων αλλά ως πολιτικό και θεσμικό μήνυμα της Κομισιόν, υπάρχουν ορισμένα σημεία όπου η κριτική προς την Ελλάδα είναι ιδιαίτερα έντονη. Παρουσιάζ",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
+        "title": "Iran War Updates: Bridges and Water Plants Hit as Strikes Stretch to 7th Straight Day",
         "url": "https://www.nytimes.com/live/2026/07/17/world/iran-war-trump-hormuz",
         "snippet": "Overnight and into Friday, Iran reported U.S. strikes on infrastructure that can serve civilian purposes and has targeted similar sites in Gulf countries that host American bases. In the afternoon, the U.S. military announced a new round of attacks on Iran.",
         "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "War Between U.S. and Iran Expands, With Strikes Across the Region",
-          "url": "https://www.nytimes.com/2026/07/17/world/middleeast/us-iran-war-strikes-infrastructure-civilians.html",
-          "snippet": "Videos and reports in Iranian state media showed damage to bridges, railways and other infrastructure. U.S. allies in the region reported retaliatory strikes by Iran.",
+          "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
+          "url": "https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html",
+          "snippet": "The aid workers were on the frontline in the fight against the outbreak in the Democratic Republic of Congo and have shown no symptoms, their employer said.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,36 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Agility Robotics plants its flag in Tesla’s backyard",
-        "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-        "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+        "snippet": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no furt",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "snippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Zoom hack that says, ‘Don’t record me’",
+          "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+          "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California.",
+          "source": "TechCrunch"
+        },
         {
           "title": "AI-driven memory crunch jolts India’s smartphone market",
           "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
@@ -262,30 +286,6 @@
           "url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
           "snippet": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
-          "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
-          "snippet": "It’s not just you: AI startups are taking in a huge amount of seed funding, and in the process making things harder for anyone looking for funding even at a pre-seed stage. We’ve covered the trend in detail, and at this year’s TechCrunch Disrupt event, we want to help pre-seed fo",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Zoox issues software recall after a robotaxi got confused by heavy smoke",
-          "url": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-          "snippet": "The recall comes as the top automotive safety regulator in the U.S. has warned AV companies about their vehicles interfering with first responders.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-          "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-          "snippet": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco",
-          "url": "https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/",
-          "snippet": "In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,60 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Κάλεσμα Φουρνιέ για την μετακόμιση στη SUNEL Arena: «Ελπίζουμε να σας δούμε όλους εκεί»",
-        "url": "https://www.gazzetta.gr/basketball/euroleague/2555139/kalesma-foyrnie-gia-tin-metakomisi-sti-sunel-arena-elpizoyme-na-sas",
-        "snippet": "Ο Εβάν Φουρνιέ αναφέρθηκε στην προσωρινή έδρα της ομάδας του, τη SUNEL Arena καλώντας τον κόσμο να βρεθεί δίπλα στον ίδιο και τους συμπαίκτες του τη νέα σεζόν.",
+        "title": "Φαν Ντρόνγκελεν - Παναθηναϊκός: Έπεσαν οι υπογραφές για τον Ολλανδό στόπερ",
+        "url": "https://www.gazzetta.gr/football/superleague/2555160/fan-ntrongkelen-panathinaikos-epesan-oi-ypografes-gia-ton-ollando",
+        "snippet": "Ο Παναθηναϊκός είδε την προφορική συμφωνία που υπήρχε από το απόγευμα της Παρασκευής (17/07) να παίρνει γραπτή μορφή και πλέον περιμένει τον Ρικ Φαν Ντρόνγκελεν στην Αθήνα.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ: Η λίστα του για τα δύο ματς με τη Ντιναμό Κιέβου",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2555159/paok-i-lista-toy-gia-ta-dyo-mats-me-ti-ntinamo-kieboy",
+          "snippet": "Την «ευρωπαϊκή» λίστα του για τα δύο παιχνίδια εναντίον της Ντιναμό Κιέβου στο πλαίσιο του β' προκριματικού γύρου του Europa League δημοσιοποίησε ο ΠΑΟΚ, ο οποίος έχει συμπεριλάβει και τις τέσσερις μεταγραφές του.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "O ξεχασμένος αντι-ήρωας της Οδύσσειας που λάτρεψε η παγκόσμια λογοτεχνία",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Σε συνέντευξη του ο Αντετοκούνμπο την «έφερε» σε δημοσιογράφους απαντώντας στα ελληνικά σε ερώτηση που του τέθηκε από ελληνίδα ρεπόρτερ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ιταλία-Ελλάδα 66-77: Έβγαλε αντίδραση και κέρδισε – Ποιος είναι ο επόμενος αντίπαλος",
+          "url": "https://www.gazzetta.gr/basketball/2555158/italia-ellada-66-77-ebgale-antidrasi-kai-kerdise-poios-einai-o-epomenos",
+          "snippet": "Η Εθνική Εφήβων με αντεπίθεση στο δεύτερο ημίχρονο επιβλήθηκε (77-66) της οικοδέσποινας Ιταλίας στο τουρνουά «The Legend» - Επόμενος αντίπαλος το Σάββατο (18/7, 19:00) η Ισπανία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο τράπερ Yung Kapa καταγγέλλει ότι ξυλοκοπήθηκε από «9 άτομα»: Η ανάρτηση του Snik που φούντωσε τη συζήτηση",
+          "url": "https://www.gazzetta.gr/plus/2555156/o-traper-yung-kapa-kataggellei-oti-xylokopithike-apo-9-atoma-i-anartisi-toy-snik-kai",
+          "snippet": "Στο επίκεντρο της επικαιρότητας βρίσκεται ο Yung Kapa, μετά από βίντεο που δημοσίευσε στα social media, στο οποίο ισχυρίζεται ότι έπεσε θύμα ξυλοδαρμού από εννέα άτομα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τζόλης: Ο προπονητής της Μπριζ «ανακοίνωσε» τη μεταγραφή του στην Άρσεναλ",
+          "url": "https://www.gazzetta.gr/football/premier-league/2555155/tzolis-o-proponitis-tis-mpriz-anakoinose-ti-metagrafi-toy-stin",
+          "snippet": "Ο προπονητής της Κλαμπ Μπριζ, Ιβάν Λέκο, επί της ουσίας ανακοίνωσε τη μεταγραφή του Χρήστου Τζόλη στην Άρσεναλ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρενάτο Σάντσες: Προς πώληση από την Παρί Σεν Ζερμέν",
+          "url": "https://www.gazzetta.gr/football/ligue-1/2555154/renato-santses-pros-polisi-apo-tin-pari-sen-zermen",
+          "snippet": "Ο Ρενάτο Σάντσες δεν έχει θέση στα πλάνα της Παρί για τη νέα σεζόν μετά την επιστροφή του από τον Παναθηναϊκό κι έχει τεθεί προς πώληση από το γαλλικό κλαμπ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δίπλαρος: «Ο Προμηθέας γύρισε σελίδα και δε θα δώσει τίποτα εύκολο σε κανέναν»",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2555125/diplaros-o-promitheas-gyrise-selida-kai-de-tha-dosei-tipota-eykolo",
+          "snippet": "Ο Νίκος Δίπλαρος αναφέρθηκε στη νέα πρόκληση της καριέρας του με τον Προμηθέα, αλλά και στην απόφαση του να παίξει στην ομάδα της Πάτρας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κάλεσμα Φουρνιέ για την μετακόμιση στη SUNEL Arena: «Ελπίζουμε να σας δούμε όλους εκεί»",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2555139/kalesma-foyrnie-gia-tin-metakomisi-sti-sunel-arena-elpizoyme-na-sas",
+          "snippet": "Ο Εβάν Φουρνιέ αναφέρθηκε στην προσωρινή έδρα της ομάδας του, τη SUNEL Arena καλώντας τον κόσμο να βρεθεί δίπλα στον ίδιο και τους συμπαίκτες του τη νέα σεζόν.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Πάκσι: Βαριά ήττα με τεσσάρα πριν από το πρώτο ραντεβού με τον Παναθηναϊκό",
           "url": "https://www.gazzetta.gr/football/diethni-filika/2555138/paksi-baria-itta-me-tessara-prin-apo-proto-ranteboy-me-ton",
@@ -333,54 +381,6 @@
           "title": "Αντίο στην «κυρία με τα περιστέρια» του Home Alone 2: Η Brenda Fricker άφησε πίσω της μια σπουδαία κινηματογραφική παρακαταθήκη",
           "url": "https://www.gazzetta.gr/plus/2555130/antio-stin-kyria-me-ta-peristeria-toy-home-alone-2-i-brenda-fricker-afise-piso-tis-mia",
           "snippet": "Άλλο ένα κομμάτι της παιδικής μας ηλικίας σβήνει, καθώς έφυγε από τη ζωή η «κυρία με τα περιστέρια» του Home Alone 2, ένας χαρακτήρας που δίδαξε πως η καλοσύνη μπορεί να νικήσει την μοναξιά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Με Μυστακίδη η παρουσίαση του Όσμαν",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2555133/paok-me-mystakidi-i-paroysiasi-toy-osman",
-          "snippet": "Ο «ισχυρός άνδρας» του ΠΑΟΚ Αριστοτέλης Μυστακίδης θα βρεθεί στην PAOK Sports Arena τη Δευτέρα (20/7) στην επίσημη παρουσίαση του Τσέντι Όσμαν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Τηλεδιάσκεψη Σαββίδη με Λίσι και Μάτος",
-          "url": "https://www.gazzetta.gr/football/europa-league/2555132/paok-tilediaskepsi-sabbidi-me-lisi-kai-matos",
-          "snippet": "Ο ιδιοκτήτης του ΠΑΟΚ, Ιβάν Σαββίδης είχε τηλεδιάσκεψη με τον Αλέσιο Λίσι και τους συνεργάτες του και τον Λέο Μάτος και τα στελέχη του ποδοσφαιρικού τμήματος.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "O Κασσαβήτας στο δρόμο που χάραξε η Αντωνάτου, «ασημένιος» στο ευρωπαϊκό Κ18",
-          "url": "https://www.gazzetta.gr/stibos/2555131/o-kassabitas-sto-dromo-poy-haraxe-i-antonatoy-asimenios-sto-eyropaiko-k18",
-          "snippet": "Ο Πέτρος Κασσαβήτας λίγα λεπτά μετά την Αποστολία Αντωνάτου, κατέκτησε επίσης το ασημένιο μετάλλιο στη σφυροβολία στο ευρωπαϊκό Κ18 στο ευρωπαϊκό πρωτάθλημα Κ18 στο Ριέτι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Υπέγραψε ο γιος του Τζιοβάνι",
-          "url": "https://www.gazzetta.gr/football/superleague/2555129/olympiakos-ypegrapse-o-gios-toy-tziobani",
-          "snippet": "Όπως αναφέρει το ΑΠΕ - ΜΠΕ ο γιος του Τζιοβάνι, Τζουλιάνο Λόμπο ντε Ολιβέιρα, υπέγραψε στον Ολυμπιακό και θα ενταχθεί στη Β' ομάδα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Απόπειρα δολοφονίας Ουκρανού ολιγάρχη στο Μονακό: Βίντεο-ντοκουμέντο αποκαλύπτει καρέ καρέ την έκρηξη",
-          "url": "https://www.gazzetta.gr/plus/2555128/apopeira-dolofonias-oykranoy-oligarhi-sto-monako-binteo-ntokoymento-apokalyptei-kare",
-          "snippet": "Βίντεο-ντοκουμέντο αποκαλύπτει καρέ καρέ την απόπειρα δολοφονίας του Ουκρανού ολιγάρχη Βαντίμ Γερμολάγιεφ στο Μονακό και τις εξελίξεις στις έρευνες.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αντετοκούνμπο: Γεύμα με Πατ Ράιλι και Έρικ Σποέλστρα",
-          "url": "https://www.gazzetta.gr/basketball/nba/2555127/antetokoynmpo-geyma-me-pat-raili-kai-erik-spoelstra",
-          "snippet": "Στο περιθώριο της επίσημης παρουσίασης του Γιάννη Αντετοκούμπο από τους Μαϊάμι Χιτ ακολούθησε γεύμα με Πατ Ράιλι και Έρικ Σποέλστρα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός – Φορτούνα Σιτάρντ 3-1: Τα highlights της φιλικής νίκης των «ερυθρολεύκων»",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2555126/olympiakos-fortoyna-sitarnt-3-1-ta-highlights-tis-filikis-nikis-ton",
-          "snippet": "Ο Ολυμπιακός έχοντας ως μεγάλο πρωταγωνιστή τον Ζότα Σίλβα που πέτυχε χατ τρικ επικράτησε με 3-1 της Φορτούνα Σιτάρντ. Δείτε τις καλύτερες στιγμές της αναμέτρησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Η πρώτη «γεύση» από Ζότα Σίλβα ήταν φανταστική!",
-          "url": "https://www.gazzetta.gr/football/superleague/2555116/olympiakos-i-proti-agonistiki-geysi-apo-zota-silba-itan-fantastiki",
-          "snippet": "Ο Ζότα, το νέο απόκτημα του Ολυμπιακού έβαλε αρχικά 2 φανταστικά γκολ, έκανε χατ τρικ στο 2ο μέρος και έδωσε μία πρώτη πειστική εικόνα. Γράφει ο Δημήτρης Τομαράς.",
           "source": "Gazzetta"
         }
       ]
