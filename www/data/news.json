@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-18T01:44:22.071527+00:00",
+  "updated": "2026-07-18T05:57:46.256492+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ιταλία: Ζητά χάρη από τον ΠτΔ ο κοσμηματοπώλης που καταδικάσθηκε για τη δολοφονία δύο ληστών",
-        "url": "https://www.efsyn.gr/kosmos/1430579/italia-zita-hari-apo-ton-ptd-o-kosmimatopolis-poy-katadikasthike-gia-ti-dolofonia-dyo-liston/",
-        "snippet": "Η υπόθεση μετατρέπεται στην Ιταλία σε κύριο θέμα πολιτικής και κοινωνικής αντιπαράθεσης.",
+        "title": "Θεσσαλονίκη: Νεκρός οδηγός μηχανής μετά από σύγκρουση με Ι.Χ.",
+        "url": "https://www.efsyn.gr/ellada/1430640/thessaloniki-nekros-odigos-mihanis-meta-apo-sygkroysi-me-i-h/",
+        "snippet": "Τροχαίο σημειώθηκε το βράδυ της Παρασκευής στη Θεσσαλονίκη, στο ύψος της Σταυρούπολης, όταν μοτοσικλέτα συγκρούστηκε με επιβατικό αυτοκίνητο στην οδό Μίκη Θεοδωράκη. Ο οδηγός της μοτοσικλέτας τραυματίστηκε σοβαρά και στο σημείο έσπευσε άμεσα κινητή μονάδα του ΕΚΑΒ. Κατά τη διακομ",
         "source": "EfSyn"
       },
       "items": [
         {
+          "title": "Φέτα και ελαιόλαδο: Ξεπέρασε τα 2,1 δισ. ευρώ η συνολική αξία των εξαγωγών τους το 2025",
+          "url": "https://www.efsyn.gr/oikonomia/1430634/feta-kai-elaiolado-oi-dyo-ellinikoi-presveytes-xeperase-ta-21-dis-eyro-i-synoliki-axia-ton-exagogon-to-2025/",
+          "snippet": "Το 2025 η εγχώρια παραγωγή φέτας ανήλθε σε περίπου 152.700 τόνους, αντιπροσωπεύοντας σχεδόν το 64% της καταγεγραμμένης παραγωγής τυριών της χώρας, χωρίς να συνυπολογίζονται τα τυριά τυρογάλακτος.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μήπως απλώς κάνει τη δουλειά της;",
+          "url": "https://www.efsyn.gr/politiki/1430635/mipos-aplos-kanei-ti-doyleia-tis/",
+          "snippet": "Σύμφωνα με τον αρχηγό του καθεστώτος και των αυλικών του, η εισαγγελέας Κοβέσι παρεμβαίνει στον εσωτερικό κομματικό ανταγωνισμό. Γιατί το κάνει αυτό; Μήπως γιατί είναι επηρεασμένη από την ιδεολογική ηγεμονία της Αριστεράς; Μπορεί. Μήπως γιατί είναι όργανο των ακροαριστερών λαϊκισ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Δισκοκριτική: The Rolling Stones, Polymnia, Πάνος Βλάχος, Dismiss",
+          "url": "https://www.efsyn.gr/tehnes/1429427/diskokritiki-the-rolling-stones-polymnia-panos-vlahos-dismiss/",
+          "snippet": "Άλμπουμ νο25 για τους The Rolling Stones, μία μπάντα που αποτελεί τη ζωντανή ιστορία του rock &#8216;n&#8217; roll. Πολύ καλό ντεμπούτο άλμπουμ από τους POLYMNIA, δηλαδή τη Μυρτώ, τη Μελίνα και τη Γεωργία. Ο Πάνος Βλάχος κυκλοφόρησε το έβδομό του άλμπουμ, ενώ οι Αθηναίοι Dismiss ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πυρκαγιά στον Ξερόκαμπο Σητεία: Μήνυμα του 112 για ετοιμότητα των κατοίκων",
+          "url": "https://www.efsyn.gr/ellada/1430630/pyrkagia-ston-xerokampo-siteia-minyma-toy-112-gia-etoimotita-ton-katoikon/",
+          "snippet": "Πυρκαγιά ξέσπασε σε χαμηλή βλάστηση και αγροτοδασική έκταση στην περιοχή του Ξερόκαμπου, στον δήμο Σητείας της Περιφερειακής Ενότητας Λασιθίου. Αν και η φωτιά εκδηλώθηκε κοντά στον οικισμό, η πορεία της είναι προς αντίθετη κατεύθυνση από το χωριό, γεγονός που λειτουργεί υπέρ των ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σεισμός 5 Ρίχτερ στη νοτιοανατολική Τουρκία",
+          "url": "https://www.efsyn.gr/kosmos/1430625/seismos-5-rihter-sti-notioanatoliki-toyrkia/",
+          "snippet": "Δεν υπάρχουν αναφορές για θύματα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σε απόλυτη αποδρομή το ΕΣΥ: Χωρίς γιατρούς τα νησιά εν μέσω του καλοκαιριού",
+          "url": "https://www.efsyn.gr/ellada/1430591/se-apolyti-apodromi-to-esy-horis-giatroys-ta-nisia-en-meso-toy-kalokairioy/",
+          "snippet": "Σε απόλυτη αποδρομή βρίσκεται το ΕΣΥ, ειδικά όσον αφορά τα ελληνικά νησιά, που επιβαρύνονται σε ακραίο βαθμό από τον τουρισμό",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κομισιόν: Στήριξη στην Κοβέσι, κριτική-χάδι στην κυβέρνηση για το κράτος δικαίου",
+          "url": "https://www.efsyn.gr/politiki/1430587/komision-stirixi-stin-kovesi-kritiki-hadi-stin-kyvernisi-gia-to-kratos-dikaioy/",
+          "snippet": "Αιχμές για τη λειτουργία της Δικαιοσύνης και την ψηφιοποίηση συμπεριλαμβάνονται στην έκθεση για το κράτος δικαίου",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Ζέστη διαρκείας με πολύ υψηλές θερμοκρασίες – Νέο κύμα καύσωνα με 40άρια από αύριο",
+          "url": "https://www.efsyn.gr/ellada/1430614/kairos-zesti-diarkeias-me-poly-ypsiles-thermokrasies-neo-kyma-kaysona-me-40aria-apo-ayrio/",
+          "snippet": "Η θερμοκρασία ανεβαίνει τις επόμενες ημέρες, με τον υδράργυρο να αγγίζει τοπικά τους 41 βαθμούς",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΣΥΡΙΖΑ: Σήμερα η εκλογή προέδρου με μόνη υποψήφια τη Ρένα Δούρου – Το παρασκήνιο της απόσυρσης Πολάκη",
+          "url": "https://www.efsyn.gr/politiki/1430584/syriza-simera-i-eklogi-proedroy-me-moni-ypopsifia-ti-rena-doyroy-to-paraskinio-tis-aposyrsis-polaki/",
+          "snippet": "Πολλές «καυτές πατάτες» θα κληθεί να διαχειριστεί το παλαιό στέλεχος του κόμματος, που είναι πάντως μαθημένο στις μάχες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νύχτα τρόμου στη Μέση Ανατολή: Νεκροί και τραυματίες στο Ιράν – Η Τεχεράνη απαντά με επιθέσεις σε βάσεις των ΗΠΑ",
+          "url": "https://www.efsyn.gr/kosmos/1430609/nyhta-tromoy-sti-mesi-anatoli-nekroi-kai-traymaties-sto-iran-i-teherani-apanta-me-epitheseis-se-vaseis-ton-ipa/",
+          "snippet": "Οι εχθροπραξίες στη Μέση Ανατολή συνεχίστηκαν για έβδομη συνεχόμενη νύχτα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η πολιτιστική ατζέντα της εβδομάδας [19.07-25.07.26]",
+          "url": "https://www.efsyn.gr/nisides/1429404/i-politistiki-atzenta-tis-evdomadas-19-07-25-07-26/",
+          "snippet": "«Η Αρραβωνιαστικιά του Αχιλλέα» της Άλκης Ζέη, έπειτα από τρεις πολύ επιτυχημένες χρονιές στο θέατρο Μεταξουργείο, συνεχίζει την πορεία του σε επιλεγμένους χώρους σε Ελλάδα και εξωτερικό. Το μακροβιότερο συγκρότημα της ελληνικής ροκ σκηνής, οι Magic de Spell, συμπλήρωσε τα 45 χρό",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 18 Ιουλίου",
+          "url": "https://www.efsyn.gr/ellada/1430601/eortologio-poioi-giortazoyn-simera-18-ioylioy/",
+          "snippet": "Σήμερα Σάββατο, 18 Ιουλίου, σύμφωνα με το εορτολόγιο τιμάται, η μνήμη του Αγίου Αιμιλιανού μάρτυρος. Τα ονόματα που γιορτάζουν σήμερα είναι τα εξής: Αιμιλιανή, Αιμιλία, Έμμυ, Αιμιλιανός, Αιμίλιος. Άγιος Αιμιλιανός Ο Άγιος Αιμιλιανός γεννήθηκε στο Δορόστολο της Θρακικής Μοισίας, τ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιταλία: Ζητά χάρη από τον ΠτΔ ο κοσμηματοπώλης που καταδικάσθηκε για τη δολοφονία δύο ληστών",
+          "url": "https://www.efsyn.gr/kosmos/1430579/italia-zita-hari-apo-ton-ptd-o-kosmimatopolis-poy-katadikasthike-gia-ti-dolofonia-dyo-liston/",
+          "snippet": "Η υπόθεση μετατρέπεται στην Ιταλία σε κύριο θέμα πολιτικής και κοινωνικής αντιπαράθεσης.",
+          "source": "EfSyn"
+        },
+        {
           "title": "Μουντιάλ 2026: Ο Ντεσάν δεν θέλει να πει «αντίο» στην εθνική Γαλλίας με ήττα στον μικρό τελικό",
           "url": "https://www.efsyn.gr/athlitismos/1430575/moyntial-2026-o-ntesan-den-thelei-na-pei-antio-stin-ethniki-gallias-me-itta-ston-mikro-teliko/",
           "snippet": "Ο Ντιντιέ Ντεσάν καλείται να βρει τα κατάλληλα λόγια για να εμπνεύσει ξανά τους ποδοσφαιριστές του, ώστε να μην ολοκληρώσει τη 14ετή θητεία του στον πάγκο της εθνικής Γαλλίας με δεύτερη διαδοχική ήττα, στον μικρό τελικό του Μουντιάλ 2026 απέναντι στην Αγγλία, που θα διεξαχθεί τα ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σαμοθράκη: Διασώθηκε ο πεζοπόρος που τραυματίστηκε μετά την πτώση του σε δύσβατη περιοχή",
-          "url": "https://www.efsyn.gr/ellada/1430573/samothraki-diasothike-o-pezoporos-poy-traymatistike-meta-tin-ptosi-toy-se-dysvati-periohi/",
-          "snippet": "Οι πυροσβεστικές δυνάμεις τον προσέγγισαν και τον μετέφεραν σε ασφαλές σημείο.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νορβηγία: Πάνω από 100 σπίτια κάηκαν από πυρκαγιά – Εκατοντάδες κάτοικοι έφυγαν από τα σπίτια τους [βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1430567/norvigia-pano-apo-100-spitia-kaikan-apo-pyrkagia-ekatontades-katoikoi-efygan-apo-ta-spitia-toys-vinteo/",
-          "snippet": "Ισχυρές δυνάμεις της Πυροσβεστικής δίνουν μάχη με τις φλόγες, ενώ το έργο τους δυσχεραίνουν οι ισχυροί άνεμοι που πνέουν.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η Μπεσίκτας… πυροδοτεί τη «βόμβα» Σαλάχ",
-          "url": "https://www.efsyn.gr/athlitismos/1430561/i-mpesiktas-pyrodotei-ti-vomva-me-salah/",
-          "snippet": "Η Μπεσίκτας βρίσκεται πολύ κοντά στην ολοκλήρωση μιας μεταγραφής που θα προκαλέσει αίσθηση σε ολόκληρη την Ευρώπη, καθώς οι πληροφορίες από την Τουρκία και το εξωτερικό συγκλίνουν στο ότι έχει έρθει σε κατ&#8217; αρχήν συμφωνία με τον Μοχάμεντ Σαλάχ. Όπως αναφέρουν τα σχετικά δημ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Δούρου: Αποδέχεται η κυβέρνηση τις δηλώσεις Ρούμπιο περί «ακροαριστερής τρομοκρατίας» στην Ελλάδα;",
-          "url": "https://www.efsyn.gr/politiki/1430557/doyroy-apodehetai-i-kyvernisi-tis-diloseis-roympio-peri-akroaristeris-tromokratias-stin-ellada/",
-          "snippet": "«Άραγε ποια είναι η στάση της κυβέρνησης της ΝΔ απέναντι σε αυτή την προκλητική παρέμβαση;», ρωτάει η βουλεύτρια του ΣΥΡΙΖΑ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τροχαίο στην Πανεπιστημίου: Η στιγμή που το τρόλεϊ πέφτε πάνω στο λεωφορείο [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1430555/trohaio-stin-panepistimioy-i-stigmi-poy-to-trolei-pefte-pano-sto-leoforeio-vinteo/",
-          "snippet": "Από το τροχαίο ατύχημα τραυματίστηκαν ελαφρά 4 άτομα τα οποία μεταφέρθηκαν με ασθενοφόρα στο ΝΙΜΤΣ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κινήσεις κλιμάκωσης στο Ιράν: Οι ΗΠΑ στέλνουν δεκάδες αεροσκάφη ανεφοδιασμού – Πλησιάζει η «ώρα μηδέν» λέει η Τεχεράνη",
-          "url": "https://www.efsyn.gr/kosmos/1430525/kiniseis-klimakosis-sto-iran-oi-ipa-stelnoyn-dekades-aeroskafi-anefodiasmoy-plisiazei-i-ora-miden-leei-i-teherani/",
-          "snippet": "Ο Τραμπ δεν έχει λάβει ακόμη τελική απόφαση, αλλά φέρεται πρόθυμος να κλιμακώσει τον πόλεμο και να προκειμένου ισχυρό πλήγμα στην Τεχεράνη.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κίνα: Τουλάχιστον 8 νεκροί και 34 αγνοούμενοι σε κατολίσθηση [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1430536/kina-toylahiston-8-nekroi-kai-34-agnooymenoi-se-katolisthisi-eikones-vinteo/",
-          "snippet": "Εξαιτίας της κατολίσθησης, πολλά κτίρια κατέρρευσαν και οι αρμόδιοι απομάκρυναν περισσότερους από 1.000 κατοίκους από γειτονικές περιοχές.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ντεμπούτο με χατ-τρικ για Ζότα Σίλβα και 3-1 ο Ολυμπιακός τη Φορτούνα",
-          "url": "https://www.efsyn.gr/athlitismos/1430542/ntempoyto-me-hat-trik-gia-zota-silva-kai-3-1-o-olympiakos-ti-fortoyna/",
-          "snippet": "Καλύτερο ντεμπούτο (έστω κι ανεπίσημο) δεν θα μπορούσε να πραγματοποιήσει ο Ζότα Σίλβα με τη φανέλα του Ολυμπιακού. Ο Πορτογάλος μεσοεπιθετικός ήταν απολαυστικός στο φιλικό των «ερυθρόλευκων» με τη Φορτούνα Σιτάρντ (τρίτο των Πειραιωτών επί ολλανδικού εδάφους), σημειώνοντας και τ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η πρώτη μεγάλη έξοδος του καλοκαιριού: Χιλιάδες φεύγουν από τα λιμάνια – Στο «κόκκινο» ο οδικές έξοδοι της Αθήνας [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1430533/i-proti-megali-exodos-toy-kalokairioy-hiliades-feygoyn-apo-ta-limania-sto-kokkino-o-odikes-exodoi-tis-athinas-vinteo/",
-          "snippet": "Περισσότεροι από 100.000 επιβάτες είναι προγραμματισμένο να ταξιδέψουν από την Παρασκευή έως και την Κυριακή.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βριλήσσια: Συγκλόνισε ο 66χρονος μετά την επίθεση σκύλου – «Όρμηξε και έπνιξε το ζωάκι μου» [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1430504/vrilissia-sygklonise-o-66hronos-meta-tin-epithesi-skyloy-ormixe-kai-epnixe-to-zoaki-moy-vinteo/",
-          "snippet": "Ο άνδρας περιγράφει τις στιγμές τρόμου που έζησε το πρωί της Παρασκευής.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ρύθμιση οφειλών σε 72 δόσεις: Δημοσιεύτηκε η εγκύκλιος από την ΑΑΔΕ – Οι όροι υπαγωγής και οι εξαιρέσεις",
-          "url": "https://www.efsyn.gr/oikonomia/1430526/rythmisi-ofeilon-se-72-doseis-dimosieytike-i-egkyklios-apo-tin-aaade-poia-einai-i-diadikasia-gia-tin-ypovoli-aitisis/",
-          "snippet": "Η ρύθμιση αφορά οφειλές που είχαν καταστεί ληξιπρόθεσμες έως και τις 31 Δεκεμβρίου 2023.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Εύκολα η Σάκκαρη στα ημιτελικά του Athens Open [εικόνες-βίντεο]",
-          "url": "https://www.efsyn.gr/athlitismos/1430508/eykola-i-sakkari-sta-imitelika-toy-athens-open-eikones-vinteo/",
-          "snippet": "Στην επόμενη φάση της διοργάνωσης θα αντιμετωπίσει την Αλίνα Κορνέβα (Νο 90 στον κόσμο).",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η διάσημη Αυστραλή τενίστρια Ντάρια Κασάτκινα παντρεύτηκε τη σύντροφό της στην Αθήνα [εικόνες]",
-          "url": "https://www.efsyn.gr/life/1430507/i-diasimi-aystrali-tenistria-ntaria-kasatkina-pantreytike-ti-syntrofo-tis-stin-athina-eikones/",
-          "snippet": "Οι δυο κοπέλες αντάλλαξαν όρκους σε μια λιτή, ρομαντική τελετή σε παραθαλάσσιο προάστιο της Αθήνας και μάλιστα ακριβώς δίπλα στο κύμα, έχοντας στο πλευρό τους τις οικογένειές τους και τους πιο στενούς φίλους τους.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
-          "url": "https://www.nytimes.com/2026/07/17/world/africa/ebola-kenya-americans-quarantine.html",
-          "snippet": "The aid workers were on the frontline in the fight against the outbreak in the Democratic Republic of Congo and have shown no symptoms, their employer said.",
+          "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
+          "url": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
+          "snippet": "Tilman J. Fertitta, the U.S. ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,18 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
-        "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
-        "snippet": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no furt",
+        "title": "Neil Rimer thinks the AI money is coming back out",
+        "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+        "snippet": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Applications close in 48 hours — here’s everything Australian founders need to know about Stripe x Startup Battlefield",
+          "url": "https://techcrunch.com/2026/07/17/applications-close-in-48-hours-heres-everything-australian-founders-need-to-know-about-stripe-x-startup-battlefield/",
+          "snippet": "The window is almost shut. On August 19, eight startups will take the stage at Stripe Tour Sydney in front of investors, global press, and the Australian tech community. One startup walks away with automatic entry into TechCrunch Disrupt in San Francisco — no application, no furt",
+          "source": "TechCrunch"
+        },
         {
           "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
           "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
@@ -280,12 +286,6 @@
           "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
           "snippet": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone to actively block unauthorized AI training.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "reMarkable’s new Paper Pure is good. That’s why I wrote this review on it.",
-          "url": "https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/",
-          "snippet": "Remarkable's Paper Pure replaces Remarkable 2, and it is quite good.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Φαν Ντρόνγκελεν - Παναθηναϊκός: Έπεσαν οι υπογραφές για τον Ολλανδό στόπερ",
-        "url": "https://www.gazzetta.gr/football/superleague/2555160/fan-ntrongkelen-panathinaikos-epesan-oi-ypografes-gia-ton-ollando",
-        "snippet": "Ο Παναθηναϊκός είδε την προφορική συμφωνία που υπήρχε από το απόγευμα της Παρασκευής (17/07) να παίρνει γραπτή μορφή και πλέον περιμένει τον Ρικ Φαν Ντρόνγκελεν στην Αθήνα.",
+        "title": "Αλμέιδα για Πινέδα: «Τον ήθελα πολύ, του έδωσε πολλά και καλά πράγματα η ΑΕΚ»",
+        "url": "https://www.gazzetta.gr/football/superleague/2555198/pire-thesi-o-almeida-gia-pineda-panta-prospatho-na-ton-pairno-mazi-moy",
+        "snippet": "Ο Ματίας Αλμέιδα αναφέρθηκε στην επικείμενη μεταγραφή του Ορμπελίν Πινέδα από την ΑΕΚ στη Μοντερέι.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Απίστευτο κι όμως αληθινό: Στη Ρωσία νοικιάζουν «φίλους» για μπάρμπεκιου, μπύρα και ιστορίες",
+          "url": "https://www.gazzetta.gr/plus/2554015/apisteyto-ki-omos-alithino-sti-rosia-noikiazoyn-filoys-gia-mparmpekioy-mpyra-kai",
+          "snippet": "Μια νέα υπηρεσία στη Ρωσία επιτρέπει σε μοναχικούς λάτρεις του μπάρμπεκιου να νοικιάσουν παρέα για ψήσιμο, μπύρα και κουβέντα με κόστος έως 65 δολάρια.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σέρτζιο Σκαριόλο: Η Μάξιμα Ρόμα θέλει τον Ιταλό τεχνικό",
+          "url": "https://www.gazzetta.gr/basketball/eurocup/2555195/sertzio-skariolo-i-maxima-roma-thelei-ton-italo-tehniko",
+          "snippet": "Ο Σέρτζιο Σκαριόλο αποτέλεσε παρελθόν από τη Ρεάλ Μαδρίτης και ήδη αποτελεί διακαή πόθο ομάδας... έκπληξη από την Ιταλία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αθλητικές μεταδόσεις σήμερα: Το Γαλλία - Αγγλία και οι μάχες Τσιτσιπά και Σάκκαρη",
+          "url": "https://www.gazzetta.gr/football/mundial/2555194/athlitikes-metadoseis-simera-gallia-agglia-kai-oi-mahes-tsitsipa-kai",
+          "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης του μικρού τελικού του Παγκοσμίου Κυπέλλου, αλλά και των αναμετρήσεων του Στέφανου Τσιτσιπά και της Μαρίας Σάκκαρη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Κλείνει το πρώτο κομμάτι της προετοιμασίας με φιλικό κόντρα στη Χρόνινγκεν",
+          "url": "https://www.gazzetta.gr/football/superleague/2555161/aek-kleinei-proto-kommati-tis-proetoimasias-me-filiko-kontra-sti",
+          "snippet": "Τρίτο φιλικό τεστ για την ΑΕΚ στην Ολλανδία απέναντι στη Χρόνινγκεν (15:00) με το οποίο η Ένωση ολοκληρώνει την πρώτη φάση της προετοιμασίας της στο Άπελντορν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (18/7)",
+          "url": "https://www.gazzetta.gr/2555193/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-187",
+          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λεμπρόν: Κάλεσμα από Άντονι Έντουαρντς να πάει στη Μινεσότα",
+          "url": "https://www.gazzetta.gr/basketball/nba/2555190/lempron-kalesma-apo-antoni-entoyarnts-na-paei-sti-minesota",
+          "snippet": "Ο Λεμπρόν Τζέιμς παραμένει free agent και ο Άντονι Έντουαρντς απένειμε κάλεσμα να πάει στη Μινεσότα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μέσι: «Έχω ήδη τερματίσει το ''παιχνίδι'' στο προηγούμενο Μουντιάλ» (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2555191/mesi-eho-idi-teleiosei-paihnidi-sto-proigoymeno-moyntial-vid",
+          "snippet": "Ο Λιονέλ Μέσι σε δηλώσεις που παραχώρησε άφησε να εννοηθεί πως έχει πετύχει τα πάντα στην καριέρα του, μετά την κατάκτηση του Μουντιάλ το 2022.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γαλλία - Αγγλία: Η ώρα και το κανάλι μετάδοσης του μικρού τελικού",
+          "url": "https://www.gazzetta.gr/football/mundial/2554936/gallia-agglia-i-ora-kai-kanali-metadosis-toy-mikroy-telikoy",
+          "snippet": "Η ώρα και το κανάλι μετάδοσης του μικρού τελικού του φετινού Μουντιάλ ανάμεσα σε Γαλλία και Αγγλία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πουλακίδας: Νέα εξαιρετική εμφάνιση από τον Ελληνοαμερικανό γκαρντ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2555189/poylakidas-nea-exairetiki-emfanisi-apo-ton-ellinoamerikano-gkarnt",
+          "snippet": "Ο Τζον Πουλακίδας ήταν και πάλι από τους κορυφαίους των Ντάλας Μάβερικς στο Summer League του Λας Βέγκας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το «τάβλι» των Ρωμαίων: Αρχαίο επιτραπέζιο παιχνίδι «ζωντάνεψε» χάρη στην 3D εκτύπωση",
+          "url": "https://www.gazzetta.gr/plus/2553945/tabli-ton-romaion-arhaio-epitrapezio-paihnidi-zontanepse-hari-stin-3d-ektyposi",
+          "snippet": "Αρχαίο επιτραπέζιο παιχνίδι ανακαλύφθηκε σε ρωμαϊκό οχυρό αναπαράχθηκε με τη χρήση τρισδιάστατης σάρωσης και εκτύπωσης, επιτρέποντας στο κοινό να το παίξει για πρώτη φορά μετά από σχεδόν 2.000 χρόνια.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φαν Ντρόνγκελεν - Παναθηναϊκός: Έπεσαν οι υπογραφές για τον Ολλανδό στόπερ",
+          "url": "https://www.gazzetta.gr/football/superleague/2555160/fan-ntrongkelen-panathinaikos-epesan-oi-ypografes-gia-ton-ollando",
+          "snippet": "Ο Παναθηναϊκός είδε την προφορική συμφωνία που υπήρχε από το απόγευμα της Παρασκευής (17/07) να παίρνει γραπτή μορφή και πλέον περιμένει τον Ρικ Φαν Ντρόνγκελεν στην Αθήνα.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΠΑΟΚ: Η λίστα του για τα δύο ματς με τη Ντιναμό Κιέβου",
           "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2555159/paok-i-lista-toy-gia-ta-dyo-mats-me-ti-ntinamo-kieboy",
@@ -315,72 +381,6 @@
           "title": "Ιταλία-Ελλάδα 66-77: Έβγαλε αντίδραση και κέρδισε – Ποιος είναι ο επόμενος αντίπαλος",
           "url": "https://www.gazzetta.gr/basketball/2555158/italia-ellada-66-77-ebgale-antidrasi-kai-kerdise-poios-einai-o-epomenos",
           "snippet": "Η Εθνική Εφήβων με αντεπίθεση στο δεύτερο ημίχρονο επιβλήθηκε (77-66) της οικοδέσποινας Ιταλίας στο τουρνουά «The Legend» - Επόμενος αντίπαλος το Σάββατο (18/7, 19:00) η Ισπανία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο τράπερ Yung Kapa καταγγέλλει ότι ξυλοκοπήθηκε από «9 άτομα»: Η ανάρτηση του Snik που φούντωσε τη συζήτηση",
-          "url": "https://www.gazzetta.gr/plus/2555156/o-traper-yung-kapa-kataggellei-oti-xylokopithike-apo-9-atoma-i-anartisi-toy-snik-kai",
-          "snippet": "Στο επίκεντρο της επικαιρότητας βρίσκεται ο Yung Kapa, μετά από βίντεο που δημοσίευσε στα social media, στο οποίο ισχυρίζεται ότι έπεσε θύμα ξυλοδαρμού από εννέα άτομα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τζόλης: Ο προπονητής της Μπριζ «ανακοίνωσε» τη μεταγραφή του στην Άρσεναλ",
-          "url": "https://www.gazzetta.gr/football/premier-league/2555155/tzolis-o-proponitis-tis-mpriz-anakoinose-ti-metagrafi-toy-stin",
-          "snippet": "Ο προπονητής της Κλαμπ Μπριζ, Ιβάν Λέκο, επί της ουσίας ανακοίνωσε τη μεταγραφή του Χρήστου Τζόλη στην Άρσεναλ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρενάτο Σάντσες: Προς πώληση από την Παρί Σεν Ζερμέν",
-          "url": "https://www.gazzetta.gr/football/ligue-1/2555154/renato-santses-pros-polisi-apo-tin-pari-sen-zermen",
-          "snippet": "Ο Ρενάτο Σάντσες δεν έχει θέση στα πλάνα της Παρί για τη νέα σεζόν μετά την επιστροφή του από τον Παναθηναϊκό κι έχει τεθεί προς πώληση από το γαλλικό κλαμπ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δίπλαρος: «Ο Προμηθέας γύρισε σελίδα και δε θα δώσει τίποτα εύκολο σε κανέναν»",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2555125/diplaros-o-promitheas-gyrise-selida-kai-de-tha-dosei-tipota-eykolo",
-          "snippet": "Ο Νίκος Δίπλαρος αναφέρθηκε στη νέα πρόκληση της καριέρας του με τον Προμηθέα, αλλά και στην απόφαση του να παίξει στην ομάδα της Πάτρας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κάλεσμα Φουρνιέ για την μετακόμιση στη SUNEL Arena: «Ελπίζουμε να σας δούμε όλους εκεί»",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2555139/kalesma-foyrnie-gia-tin-metakomisi-sti-sunel-arena-elpizoyme-na-sas",
-          "snippet": "Ο Εβάν Φουρνιέ αναφέρθηκε στην προσωρινή έδρα της ομάδας του, τη SUNEL Arena καλώντας τον κόσμο να βρεθεί δίπλα στον ίδιο και τους συμπαίκτες του τη νέα σεζόν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάκσι: Βαριά ήττα με τεσσάρα πριν από το πρώτο ραντεβού με τον Παναθηναϊκό",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2555138/paksi-baria-itta-me-tessara-prin-apo-proto-ranteboy-me-ton",
-          "snippet": "Συντριβή για την Πάσκι σε φιλική αναμέτρηση, καθώς η Αούστρια Βιέννης τη διέλυσε 4-1 λίγες ημέρες πριν από το πρώτο ματς των Ούγγρων κόντρα στον Παναθηναϊκό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Athens Kallithea: Ενίσχυση στην επίθεση με τον Κάντας Φιόγκμπε",
-          "url": "https://www.gazzetta.gr/football/superleague/2555137/athens-kallithea-enishysi-stin-epithesi-me-ton-kantas-fiogkmpe",
-          "snippet": "Η Athens Kallithea ανακοίνωσε την απόκτηση του 21χρονου επιθετικού από το Μπενίν, Κάντας Φιόγκμπε, από την Αταλάντα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ο φόργουορντ που ψάχνει",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2555078/olympiakos-o-forgoyornt-poy-psahnei",
-          "snippet": "Ο Δημήτρης Κατσιώνης - γνωστός σε όλους μας Hoopfellas - γράφει για τα χαρακτηριστικά των παικτών που ψάχνει ο πρωταθλητής Ευρώπης Ολυμπιακός για τη θέση των φόργουορντ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα-Ρουμανία 68-55: Φιλική νίκη για τις Κορασίδες",
-          "url": "https://www.gazzetta.gr/basketball/2555136/ellada-roymania-68-55-filiki-niki-gia-tis-korasides",
-          "snippet": "Η Εθνική Κορασίδων επιβλήθηκε (68-55) της Ρουμανίας σε φιλικό παιχνίδι που διεξήχθη στην Πορταριά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ζότα Σίλβα: «Θα παίξω όπου μου ζητηθεί»",
-          "url": "https://www.gazzetta.gr/football/superleague/2555135/zota-silba-tha-paixo-opoy-moy-zitithei",
-          "snippet": "Ο Ζότα Σίλβα μίλησε στους απεσταλμένους του Τύπου στην Ολλανδία για το ανεπίσημο ντεμπούτο του στον Ολυμπιακό και απάντησε σε ερώτηση του Gazzetta για τη θέση που τον βολεύει να αγωνίζεται.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αντίο στην «κυρία με τα περιστέρια» του Home Alone 2: Η Brenda Fricker άφησε πίσω της μια σπουδαία κινηματογραφική παρακαταθήκη",
-          "url": "https://www.gazzetta.gr/plus/2555130/antio-stin-kyria-me-ta-peristeria-toy-home-alone-2-i-brenda-fricker-afise-piso-tis-mia",
-          "snippet": "Άλλο ένα κομμάτι της παιδικής μας ηλικίας σβήνει, καθώς έφυγε από τη ζωή η «κυρία με τα περιστέρια» του Home Alone 2, ένας χαρακτήρας που δίδαξε πως η καλοσύνη μπορεί να νικήσει την μοναξιά.",
           "source": "Gazzetta"
         }
       ]
