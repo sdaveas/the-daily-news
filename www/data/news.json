@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-18T20:38:37.071846+00:00",
+  "updated": "2026-07-19T01:52:36.744292+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ηχηρό «απαγορευτικό» στον Μιλέι: Το Ανώτατο Δικαστήριο της Βραζιλίας τού απαγόρευσε να δει τον Μπολσονάρο",
-        "url": "https://www.efsyn.gr/kosmos/1431022/ihiro-apagoreytiko-ston-milei-to-anotato-dikastirio-tis-vrazilias-toy-apagoreyse-na-dei-ton-mpolsonaro/",
-        "snippet": "Ο 71χρονος Μπολσονάρο έχει καταδικαστεί με ποινή κάθειρξης 27 ετών, επειδή αποπειράθηκε να αποτρέψει την αναρρίχηση του διαδόχου του στην προεδρία, δηλαδή του Λούλα ντα Σίλβα.",
+        "title": "Αρβανίτης: Η κυβέρνηση της συγκάλυψης πανηγυρίζει για το Κράτος Δικαίου – «Μιλούν τα ίδια τα γεγονότα»",
+        "url": "https://www.efsyn.gr/politiki/1431028/arvanitis-i-kyvernisi-tis-sygkalypsis-panigyrizei-gia-to-kratos-dikaioy-miloyn-ta-idia-ta-gegonota/",
+        "snippet": "«Το πιο προκλητικό, όμως, είναι η προσπάθεια του πρωθυπουργού να βαφτίσει κάθε κριτική \"αντιπολιτευτική προπαγάνδα\"».",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ινφαντίνο: Ο Τραμπ τον «κάρφωσε» αλλά ο πρόεδρος της FIFA θα τη γλιτώσει για το σκάνδαλο Μπαλογκάν",
+          "url": "https://www.efsyn.gr/athlitismos/1431025/infantino-o-tramp-ton-karfose-alla-o-proedros-tis-fifa-tha-ti-glitosei-gia-to-skandalo-mpalogkan/",
+          "snippet": "Ο ισχυρός άντρας της παγκόσμιας ομοσπονδίας ποδοσφαίρου δεν αναμένεται να αντιμετωπίσει κυρώσεις από τη ΔΟΕ για τη «διαγραφή» της κόκκινης κάρτας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ηχηρό «απαγορευτικό» στον Μιλέι: Το Ανώτατο Δικαστήριο της Βραζιλίας τού απαγόρευσε να δει τον Μπολσονάρο",
+          "url": "https://www.efsyn.gr/kosmos/1431022/ihiro-apagoreytiko-ston-milei-to-anotato-dikastirio-tis-vrazilias-toy-apagoreyse-na-dei-ton-mpolsonaro/",
+          "snippet": "Ο 71χρονος Μπολσονάρο έχει καταδικαστεί με ποινή κάθειρξης 27 ετών, επειδή αποπειράθηκε να αποτρέψει την αναρρίχηση του διαδόχου του στην προεδρία, δηλαδή του Λούλα ντα Σίλβα.",
+          "source": "EfSyn"
+        },
         {
           "title": "Μουντιάλ 2026: Το αντίο του Μπαπέ στον Ντεσάν – «Έπρεπε να σου χαρίσουμε καλύτερο φινάλε»",
           "url": "https://www.efsyn.gr/athlitismos/1431019/moyntial-2026-to-antio-toy-mpape-ston-ntesan-eprepe-na-soy-harisoyme-kalytero-finale/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/stiles/1430684/thesmikos-logos-kai-dikastikes-apofaseis/",
           "snippet": "Στη γερμανική γραμματολογική παράδοση χρησιμοποιείται ο όρος «χαρακτηρισμός» (charakteristik στη γερμανική γλώσσα) για να περιγραφεί μια προσωπικότητα στις σχέσεις της με τον εαυτό της και τις κοινωνικές συνθήκες ζωής και στην αρχαιοελληνική γραμματολογική παράδοση επινοήθηκε η α",
           "source": "EfSyn"
-        },
-        {
-          "title": "Πρωταθλήτρια Ευρώπης η Ελένη Ιακωβάκη που συνέτριψε δύο πανελλήνια ρεκόρ",
-          "url": "https://www.efsyn.gr/athlitismos/1430973/protathlitria-eyropis-i-eleni-iakovaki-poy-synetripse-dyo-panellinia-rekor/",
-          "snippet": "Η 17χρονη, που φαίνεται να βαδίζει στα... χνάρια του πατέρα της, «ισοπέδωσε» τις προηγούμενες επιδόσεις στα 400μ., στις κατηγορίες Κ20 και Κ18.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Οι ΗΠΑ άνοιξαν τον ασκό του Αιόλου: Οργή και αντίποινα από Ιράν, για εγκλήματα πολέμου μιλούν κράτη του Κόλπου",
-          "url": "https://www.efsyn.gr/kosmos/1430940/oi-ipa-anoixan-ton-asko-toy-aioloy-orgi-kai-antipoina-apo-iran-gia-egklimata-polemoy-miloyn-krati-toy-kolpoy/",
-          "snippet": "Κατέρρευσε το Μνημόνιο Κατανόησης, παγκόσμια αγωνία για το τι πρόκεται να ακολουθήσει. Το «μέτωπο της αντίστασης» θα δώσει «αξέχαστα μαθήματα» στις ΗΠΑ, προειδοποιεί ο Χαμενεΐ.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,12 +101,24 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: 2 U.S. Soldiers Killed and 1 Service Member Missing in Iranian Attack on Jordan",
+        "title": "Iran War Live Updates: U.S. Launches Strikes After Iranian Attack Kills 2 American Soldiers",
         "url": "https://www.nytimes.com/live/2026/07/18/world/iran-war-strikes-trump-hormuz",
-        "snippet": "The soldiers were the first U.S. troops to die from hostile fire in the region since an early April truce. The deaths came as both sides expanded the scope and intensity of their attacks.",
+        "snippet": "The soldiers, killed in Jordan, were the first U.S. troops to die from hostile fire since an April truce. U.S. forces began retaliatory strikes early Sunday.",
         "source": "NYT World"
       },
       "items": [
+        {
+          "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
+          "url": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+          "snippet": "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen. Oleksandr Syrskyi.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities",
+          "url": "https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html",
+          "snippet": "Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.",
+          "source": "NYT World"
+        },
         {
           "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
           "url": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
@@ -165,18 +177,6 @@
           "title": "Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister",
           "url": "https://www.nytimes.com/2026/07/17/world/europe/burnham-labour-leader.html",
           "snippet": "At a time of political upheaval and economic stagnation, Andy Burnham will on Monday become the seventh prime minister in a decade.",
-          "source": "NYT World"
-        },
-        {
-          "title": "The 20-Somethings Running Ukraine’s War Machine",
-          "url": "https://www.nytimes.com/2026/07/17/world/europe/youth-ukraine-defense-innovation.html",
-          "snippet": "A new generation has been cutting red tape to speed weapons to the front. But the old guard pushed back, and now Ukraine’s young defense minister is out.",
-          "source": "NYT World"
-        },
-        {
-          "title": "‘Suddenly, I Was Free’: A Chinese Pastor’s Journey From Jail to the U.S.",
-          "url": "https://www.nytimes.com/2026/07/17/world/asia/ezra-jin-china-pastor-trump.html",
-          "snippet": "In his first interview since being released by China, Pastor Ezra Jin Mingri details his surprise release after a direct appeal by President Trump to Xi Jinping.",
           "source": "NYT World"
         },
         {
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Η πόλη που «φιλοξενεί» 1.500.000 νεκρούς και μόλις 1.385 ζωντανούς κατοίκους: Η απίστευτη ιστορία της Κόλμα",
-        "url": "https://www.gazzetta.gr/plus/2555349/i-poli-poy-filoxenei-1500000-nekroys-kai-molis-1385-zontanoys-katoikoys-i-apisteyti",
-        "snippet": "Πώς μια απόφαση του Σαν Φρανσίσκο δημιούργησε την πιο παράξενη πόλη της Αμερικής.",
+        "title": "Μικρός Τελικός Μουντιάλ 2026: Η απονομή των χάλκινων μεταλλίων στην Αγγλία",
+        "url": "https://www.gazzetta.gr/football/mundial/2555376/mikros-telikos-moyntial-2026-i-aponomi-ton-halkinon-metallion-stin-agglia",
+        "snippet": "Δείτε την απονομή των χάλκινων μεταλλίων του Παγκοσμίου Κυπέλλου στην Αγγλία.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Καρδίτσα: Τι είπαν Μπιλάλης και Ρούμογλου για τη νέα πρόκληση",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2555347/karditsa-ti-eipan-mpilalis-kai-roymogloy-gia-ti-nea-proklisi",
-          "snippet": "Ο Κωνσταντίνος Μπιλάλης και ο Απόστολος Ρούμογλου μίλησαν στην εκπομπή «Άμεσο Ριπλέι» για την επιλογή τους να συνεχίσουν την καριέρα τους στην Καρδίτσα.",
+          "title": "Γαλλία - Αγγλία 4-6: Τα highlights του αγώνα",
+          "url": "https://www.gazzetta.gr/football/mundial/2555375/gallia-agglia-4-6-ta-highlights-toy-agona",
+          "snippet": "Δείτε γκολ και φάσεις από το απίθανο 6-4 της Αγγλίας στον μικρό τελικό του Παγκοσμίου Κυπέλλου με τη Γαλλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Πετάμε 200 τόνους ρύζι τον χρόνο στους ελληνικούς γάμους - Η λύση που αλλάζει ένα έθιμο αιώνων",
-          "url": "https://www.gazzetta.gr/plus/2555344/petame-200-tonoys-ryzi-ton-hrono-stoys-ellinikoys-gamoys-i-lysi-poy-allazei-ena-ethimo",
-          "snippet": "Περίπου 54.000 γάμοι τον χρόνο, εκατοντάδες τόνοι ρυζιού και ένα έθιμο αιώνων που αναζητά νέο δρόμo.",
+          "title": "Μουντιάλ 2026: Πρώτος σκόρερ ο Μπαπέ, πώς τον περνάει ο Μέσι",
+          "url": "https://www.gazzetta.gr/football/mundial/2555374/moyntial-2026-protos-skorer-o-mpape-pos-ton-pernaei-o-mesi",
+          "snippet": "Ο Κιλιάν Μπαπέ σκαρφάλωσε στην κορυφή της λίστας των σκόρερ του Παγκοσμίου Κυπέλλου, και για φέτος, και συνολικά.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ελλάδα-Ρουμανία 71-61: Παρουσίασε δυο πρόσωπα",
-          "url": "https://www.gazzetta.gr/basketball/2555346/ellada-roymania-71-61-paroysiase-dyo-prosopa",
-          "snippet": "Η Εθνική Κορασίδων έκανε το «2 στα 2» στα φιλικά προετοιμασίας κερδίζοντας (71-61) και τη Ρουμανία.",
+          "title": "Γαλλία - Αγγλία 4-6: Πήρε το χάλκινο σε ματσάρα με δέκα γκολ!",
+          "url": "https://www.gazzetta.gr/football/mundial/2555373/gallia-agglia-4-6-pire-halkino-se-matsara-me-deka-gkol",
+          "snippet": "Σε ένα ονειρικό ματς, η Αγγλία νίκησε 6-4 τη Γαλλία στον μικρό τελικό του Παγκοσμίου Κυπέλλου, με τις δύο ομάδες να έχουν από ένα ημίχρονο.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τέλος στις ενέσεις αδυνατίσματος; Εγκρίθηκε στην Ευρώπη το πρώτο χάπι GLP-1 για απώλεια βάρους",
-          "url": "https://www.gazzetta.gr/plus/2555342/telos-stis-eneseis-adynatismatos-egkrithike-stin-eyropi-proto-hapi-glp-1-gia-apoleia",
-          "snippet": "Τι πρέπει να γνωρίζουν όσοι σκέφτονται θεραπείες τύπου Wegovy και Ozempic.",
+          "title": "Γαλλία - Αγγλία: Το δεύτερο γκολ του Μπαπέ για το 3-4, έφτασε τα 22",
+          "url": "https://www.gazzetta.gr/football/mundial/2555372/gallia-agglia-deytero-gkol-toy-mpape-gia-3-4-eftase-22-gkol",
+          "snippet": "Ακόμη ένα γκολ του Μπαπέ, στο 66', έφερε τη μείωση του σκορ σε 4-3 για τη Γαλλία απέναντι στην Αγγλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ματσάν: Υπέγραψε σε ομάδα του MLS",
-          "url": "https://www.gazzetta.gr/football/superleague/2555341/matsan-ypegrapse-se-omada-toy-mls",
-          "snippet": "Μετά την αποχώρηση του από τον Παναιτωλικό ο Αλεξάντρου Ματσάν επιστρέφει στο MLS για λογαριασμό της St. Louis City.",
+          "title": "Γαλλία - Αγγλία: Τα γκολ των Μπαπέ και Μπαρκολά",
+          "url": "https://www.gazzetta.gr/football/mundial/2555371/gallia-agglia-ta-gkol-ton-mpape-kai-mparkola",
+          "snippet": "Η Γαλλία μείωσε σε 4-2 ενάντια στην Αγγλία με τέρματα των Μπαπέ (48') και Μπαρκολά (54').",
           "source": "Gazzetta"
         },
         {
-          "title": "Ελλάδα-Βουλγαρία 87-55: Άνετη επικράτηση για τις Νεάνιδες",
-          "url": "https://www.gazzetta.gr/basketball/2555340/ellada-boylgaria-87-55-aneti-epikratisi-gia-tis-neanides",
-          "snippet": "Η Εθνική Νεανίδων διέλυσε (87-55) τη Βουλγαρία σε φιλικό παιχνίδι στο Κλειστό της Γέφυρας, στη Θεσσαλονίκη.",
+          "title": "Μικρός Τελικός Μουντιάλ 2026: Και το 1994 στις ΗΠΑ ήταν 4-0 ημίχρονο",
+          "url": "https://www.gazzetta.gr/football/mundial/2555370/mikros-telikos-moyntial-2026-kai-1994-stis-ipa-itan-4-0-imihrono",
+          "snippet": "Όπως και φέτος, έτσι και το 1994 στις ΗΠΑ, ο μικρός τελικός του Παγκοσμίου Κυπέλλου έληξε 4-0 στο ημίχρονο!",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Έχει λόγους να χαμογελά παρά την ήττα από τον Άγιαξ",
-          "url": "https://www.gazzetta.gr/football/superleague/2555329/olympiakos-ehei-logoys-na-hamogela-para-tin-itta-apo-ton-agiax",
-          "snippet": "Σε ένα στάδιο μονταρίσματος της ομάδας και με άλλα νέα πρόσωπα να είναι να πιάσουν Λιμάνι ο Ολυμπιακός είχε τουλάχιστον 3 λόγους να είναι ιδιαίτερα ευχαριστημένος. Γράφει ο Δημήτρης Τομαράς.",
+          "title": "Γαλλία - Αγγλία: Τέσσερα γκολ πριν το ημίχρονο",
+          "url": "https://www.gazzetta.gr/football/mundial/2555358/gallia-agglia-tessera-gkol-prin-imihrono",
+          "snippet": "Η Αγγλία έχει κάνει... σμπαράλια τη Γαλλία και προηγήθηκε 4-0 στο πρώτο μέρος του μικρού τελικού του Παγκοσμίου Κυπέλλου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μικρός Τελικός Μουντιάλ 2026: Το σπάνιο επίτευγμα που μπορούν να σημειώσουν τρεις Γάλλοι",
-          "url": "https://www.gazzetta.gr/football/mundial/2555339/mikros-telikos-moyntial-2026-spanio-epiteygma-poy-mporoyn-na-simeiosoyn",
-          "snippet": "Αν η Γαλλία νικήσει την Αγγλία, τρεις ποδοσφαιριστές θα μπουν στο κλειστό κλαμπ των παικτών που έχουν όλα τα μετάλλια στο Παγκόσμιο Κύπελλο.",
+          "title": "Γαλλία - Αγγλία: «Άρχοντας» των αιθέρων ο Κόνσα και 2-0 οι Άγγλοι (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2555357/gallia-agglia-arhontas-ton-aitheron-o-konsa-kai-2-0-oi-aggloi-vid",
+          "snippet": "Η Αγγλία μπήκε φορτσάτη στην αναμέτρηση απέναντι στη Γαλλία και πέτυχε και δεύτερο γκολ στο 18΄από κεφαλιά του Κόνσα για το 2-0.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λορέντζο Καριέρε: Συγκλόνισε ο επικήδειος του γιου του - «Μου είχες υποσχεθεί ότι θα κακομάθεις τα εγγόνια σου»",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Σε συνέντευξη του ο Αντετοκούνμπο την «έφερε» σε δημοσιογράφους απαντώντας στα ελληνικά σε ερώτηση που του τέθηκε από ελληνίδα ρεπόρτερ.",
+          "title": "Ιός Δυτικού Νείλου: Τι συμβαίνει εάν σας τσιμπήσει κουνούπι;",
+          "url": "https://www.gazzetta.gr/plus/2555356/ios-dytikoy-neiloy-ti-symbainei-ean-sas-tsimpisei-koynoypi",
+          "snippet": "Οι περισσότερες λοιμώξεις του Δυτικού Νείλου είναι ήπιες, αλλά μερικές γίνονται επικίνδυνες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χουάντσο Ερνανγκόμεθ: Tι χρήματα έχει βγάλει από το μπάσκετ",
-          "url": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
-          "snippet": "Πόσο πλούσιος είναι o «Μπο Κρουζ».",
+          "title": "Τελικός Μουντιάλ 2026: Οι παίκτες που πρέπει να αποσυρθούν αν νικήσουν",
+          "url": "https://www.gazzetta.gr/football/mundial/2555355/telikos-moyntial-2026-oi-paiktes-poy-prepei-na-aposyrthoyn-nikisoyn",
+          "snippet": "Ένας ποδοσφαιριστής θα πρέπει, αν θέλει να θεωρείται αξιόπιστος, να αποσυρθεί από την εθνική του ομάδα μετά τον τελικό του Παγκοσμίου Κυπέλλου.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ: Επίθεση... αγάπης και από συμπαίκτες του Πινέδα κάτω από το «αντίο» του",
-          "url": "https://www.gazzetta.gr/football/superleague/2555337/aek-epithesi-agapis-kai-apo-sympaiktes-toy-pineda-kato-apo-antio-toy",
-          "snippet": "Ο Ορμπελίν Πινέδα ανέβασε το αποχαιρετιστήριο μήνυμά του στο Instagram εισπράττοντας πολλά σχόλια οπαδών της ΑΕΚ, αλλά και συμπαικτών του, που εξέφραζαν την αγάπη τους στον «Μαγίτο».",
+          "title": "Σάκκαρη: Με την Κρεϊτσίκοβα στον τελικό του Athens Open",
+          "url": "https://www.gazzetta.gr/tennis/wta/2555354/sakkari-me-tin-kreitsikoba-ston-teliko-toy-athens-open",
+          "snippet": "Η Μαρία Σάκκαρη θα βρεθεί απέναντι στην Μπάρμπορα Κρεϊτσίκοβα στον τελικό του Vanda Pharmaceuticals Athens Open, ο οποίος θα πραγματοποιηθεί την Κυριακή (19/7, 20:00).",
           "source": "Gazzetta"
         },
         {
-          "title": "«Μπράβο! Μπράβο!»: Το ξέσπασμα του Κωνσταντίνου Μητσοτάκη μετά το σπουδαίο μπρέικ της Σάκκαρη (vid)",
-          "url": "https://www.gazzetta.gr/plus/2555338/mprabo-mprabo-xespasma-toy-konstantinoy-mitsotaki-meta-spoydaio-mpreik-tis-sakkari-vid",
-          "snippet": "Ο γιος του πρωθυπουργού βρέθηκε στο box της Μαρίας Σάκκαρη και το πανηγύρισε με την ψυχή του.",
+          "title": "Γαλλία - Αγγλία: Ο Ράις άνοιξε από νωρίς το σκορ με σουτάρα (vid)",
+          "url": "https://www.gazzetta.gr/football/mundial/2555353/gallia-agglia-o-rais-anoixe-apo-noris-skor-me-soytara-vid",
+          "snippet": "Γρήγορο προβάδισμα για την Αγγλία στον μικρό τελικό, καθώς ο Ντέκλαν Ράις έγραψε το 1-0 κόντρα στη Γαλλία με τρομερό σουτ έξω από την περιοχή (3΄).",
           "source": "Gazzetta"
         },
         {
-          "title": "Εθνική Εφήβων: Γνώρισε την ήττα από την Ισπανία",
-          "url": "https://www.gazzetta.gr/basketball/2555334/ethniki-efibon-gnorise-tin-itta-apo-tin-ispania",
-          "snippet": "Η Εθνική Εφήβων γνώρισε την ήττα από την Ισπανία με 77-64 στο τουρνουά «The Legend».",
+          "title": "ΠΑΟΚ: Η σύντροφος του Όσμαν είπε «αντίο» στην Αθήνα",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2555352/paok-i-syntrofos-toy-osman-eipe-antio-stin-athina",
+          "snippet": "Ο Τσέντι Όσμαν θα συνεχίσει την καριέρα του στον ΠΑΟΚ και η σύντροφος του Έμπρου Σάχιν μ' ένα story στο Instagram είπε «αντίο» στην Αθήνα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Φαν Ντρόνγκελεν: Παναθηναϊκός - Στην Αθήνα ο Ολλανδός στόπερ",
-          "url": "https://www.gazzetta.gr/football/superleague/2555333/fan-ntrogkelen-panathinaikos-stin-athina-o-ollandos-stoper",
-          "snippet": "Στην Αθήνα προσγειώθηκε ο Ρικ Φαν Ντρόνγκελεν και την Κυριακή θα υπογράψει το συμβόλαιό του και θ' ανακοινωθεί από τον Παναθηναϊκό.",
+          "title": "Η πόλη που «φιλοξενεί» 1.500.000 νεκρούς και μόλις 1.385 ζωντανούς κατοίκους: Η απίστευτη ιστορία της Κόλμα",
+          "url": "https://www.gazzetta.gr/plus/2555349/i-poli-poy-filoxenei-1500000-nekroys-kai-molis-1385-zontanoys-katoikoys-i-apisteyti",
+          "snippet": "Πώς μια απόφαση του Σαν Φρανσίσκο δημιούργησε την πιο παράξενη πόλη της Αμερικής.",
           "source": "Gazzetta"
         }
       ]
