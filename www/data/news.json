@@ -1,16 +1,46 @@
 {
-  "updated": "2026-07-19T20:38:26.238049+00:00",
+  "updated": "2026-07-20T02:10:16.128541+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Μουντιάλ 2026: Σακίρα, Μαντόνα, Μπίμπερ και BTS έλαμψαν στο σόου του ημιχρόνου [εικόνες-βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1431216/moyntial-2026-sakira-mantona-mpimper-kai-bts-elampsan-sto-sooy-toy-imihronoy-toy-megaloy-telikoy-eikones-vinteo/",
-        "snippet": "Για πρώτη φορά σε τελικό Παγκοσμίου Κυπέλλου διεξήχθη ημίχρονο-σόου διάρκειας περίπου 20 λεπτών, στα πρότυπα του Super Bowl.",
+        "title": "Μουντιάλ 2026: Μετά τον τελικό ο Γιαμάλ πήγε στον Μέσι και τον αγκάλιασε [βίντεο]",
+        "url": "https://www.efsyn.gr/athlitismos/1431304/moyntial-2026-meta-ton-teliko-o-giamal-pige-ston-mesi-kai-ton-agkaliase-vinteo/",
+        "snippet": "Ο Αργεντίνος σούπερ σταρ ήταν από τους κορυφαίους της διοργάνωσης.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Μουντιάλ 2026: Πρωταθλήτρια κόσμου η Ισπανία που «εξαφάνισε» την Αργεντινή – Το χρυσό γκολ ο Τόρες [εικόνες-βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1431274/moyntial-2026-protathlitria-kosmoy-i-ispania-itan-poly-anoteri-apo-tin-argentini-ti-lytrose-o-tores-eikones-vinteo/",
+          "snippet": "Η κανονική διάρκεια της αναμέτρησης ολοκληρώθηκε στο 0-0, με την Αργεντινή να αγωνίζεται στην παράταση με 10 παίκτες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Δήμος Αθηναίων: Μέτρα για τον καύσωνα – Ανοίγουν κλιματιζόμενοι χώροι, φροντίδα για τις ευάλωτες ομάδες",
+          "url": "https://www.efsyn.gr/ellada/1431269/dimos-athinaion-metra-gia-ton-kaysona-anoigoyn-klimatizomenoi-horoi-frontida-gia-tis-eyalotes-omades/",
+          "snippet": "Ο Δήμος θα βρίσκεται σε αυξημένη επιχειρησιακή ετοιμότητα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Γουιάνα: Tεράστιο κύμα ανέτρεψε φεριμπότ στον Ατλαντικό – Αγνοούνται 66 άνθρωποι",
+          "url": "https://www.efsyn.gr/kosmos/1431266/goyiana-terastio-kyma-anetrepse-ferimpot-ston-atlantiko-agnooyntai-66-anthropoi/",
+          "snippet": "«Κοιμόμασταν όλοι όταν το πλοίο ανατράπηκε», δήλωσε 18χρονος που διασώθηκε.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η αφιέρωση της Μαρίας Σάκκαρη στον Κωνσταντίνο Μητσοτάκη: «Αγάπη μου, Κωνσταντίνε μου, σε ευχαριστώ» [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1431262/i-afierosi-tis-marias-sakkari-ston-konstantino-mitsotaki-agapi-moy-konstantine-moy-se-eyharisto-vinteo/",
+          "snippet": "«Με κάνεις καλύτερη κάθε μέρα... Δεν περίμενα ποτέ πως θα αγαπήσω κάποιον σαν και σένα...»», είπε η Ελληνίδα πρωταθλήτρια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μουντιάλ 2026: Σακίρα, Μαντόνα, Μπίμπερ και BTS έλαμψαν στο σόου του ημιχρόνου [εικόνες-βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1431216/moyntial-2026-sakira-mantona-mpimper-kai-bts-elampsan-sto-sooy-toy-imihronoy-toy-megaloy-telikoy-eikones-vinteo/",
+          "snippet": "Για πρώτη φορά σε τελικό Παγκοσμίου Κυπέλλου διεξήχθη ημίχρονο-σόου διάρκειας περίπου 20 λεπτών, στα πρότυπα του Super Bowl.",
+          "source": "EfSyn"
+        },
         {
           "title": "Σάκκαρη: Έχασε στις λεπτομέρειες από την Κρεϊτσίκοβα στον τελικό του Athens Open [βίντεο]",
           "url": "https://www.efsyn.gr/athlitismos/1431247/sakkari-ehase-stis-leptomereies-apo-tin-kreitsikova-ston-teliko-toy-athens-open-vinteo/",
@@ -60,39 +90,9 @@
           "source": "EfSyn"
         },
         {
-          "title": "Μουντιάλ 2026: Σε εξέλιξη ο μεγάλος τελικός ανάμεσα σε Αργεντινή και Ισπανία – Ισόπαλες χωρίς σκορ οι δύο ομάδες",
+          "title": "Μουντιάλ 2026: Παράταση στον μεγάλο τελικό – Προηγείται 1-0 η Ισπανία, με 10 παίκτες αγωνίζεται η Αργεντινή",
           "url": "https://www.efsyn.gr/athlitismos/1431204/moyntial-2026-i-ora-toy-megaloy-telikoy-anamesa-se-argentini-kai-ispania-oi-arhikes-11ades-ton-omadon/",
           "snippet": "Η Αργεντινή διεκδικεί να κερδίσει έναν δεύτερο συνεχόμενο τίτλο, ενώ η Ισπανία επιστρέφει σε τελικό μετά το 2010.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΔΥΠΑ, e-ΕΦΚΑ: Πότε θα γίνουν οι πληρωμές για την περίοδο 20-24 Ιουλίου",
-          "url": "https://www.efsyn.gr/oikonomia/1431210/dypa-e-efka-pote-tha-ginoyn-oi-pliromes-gia-tin-periodo-20-ioylioy-eos-24-ioylioy/",
-          "snippet": "Κατά την περίοδο 20 Ιουλίου έως 24 Ιουλίου, θα καταβληθούν 68.624.793,37 ευρώ σε 80.169 δικαιούχους, στο πλαίσιο των προγραμματισμένων καταβολών του e- ΕΦΚΑ και της Δημόσιας Υπηρεσίας Απασχόλησης. 1. Ειδικότερα από τον e-ΕΦΚΑ: • Στις 21 Ιουλίου θα καταβληθούν 14.824.793,37 ευρώ σ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Ιron Mike» με χρυσή καρδιά!»",
-          "url": "https://www.efsyn.gr/stiles/1431206/iron-mike-me-hrysi-kardia/",
-          "snippet": "Στις 15 Ιουλίου 1980 ο Μιχάλης Ζαμπίδης γεννήθηκε για να διδάξει πως η σιδερένια δύναμη οφείλει να γίνεται -και- δημιουργία...",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΗΠΑ-Ιράν: Το χτύπημα στο πυρηνικό εργοστάσιο και τα «ατυχήματα» στο Ορμούζ – Σε πολεμική ετοιμότητα το Ισραήλ",
-          "url": "https://www.efsyn.gr/kosmos/1431197/ipa-iran-to-htypima-sto-pyriniko-ergastasio-kai-ta-atyhimata-sto-ormoyz-se-polemiki-etoimotita-to-israil/",
-          "snippet": "Το Τελ Αβίβ επιβεβαίωσε πως ετοιμάζεται να λάβει και άλλα αμερικανικά αεροσκάφη ανεφοδιασμού.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θρίλερ στη θάλασσα: Τρία πτώματα σε προχωρημένη σήψη σε Τήλο, Κω και Κατερίνη",
-          "url": "https://www.efsyn.gr/ellada/1431201/thriler-sti-thalassa-tria-ptomata-se-prohorimeni-sipsi-se-tilo-ko-kai-katerini/",
-          "snippet": "Τα δύο από τα πτώματα ανήκουν σε άντρες, ενώ το τρίτο σε κορίτσι.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μεγάλοι αποκλεισμοί στον (μη) μόνιμο Προσωπικό Βοηθό",
-          "url": "https://www.efsyn.gr/ellada/1430878/megaloi-apokleismoi-ston-mi-monimo-prosopiko-voitho/",
-          "snippet": "Ηλικιακοί, οικονομικοί και άλλοι καταστροφικοί φραγμοί στο νομοσχέδιο, που μονιμοποιεί το μέχρι πρότινος πιλοτικό πρόγραμμα, χωρίς να εξασφαλίζει πόρους για τη μακροπρόθεσμη βιωσιμότητά του",
           "source": "EfSyn"
         }
       ]
@@ -101,9 +101,9 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as Two Sides Edge Toward Wider War",
+        "title": "Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands",
         "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz",
-        "snippet": "The Pentagon said a service member was killed in northern Iraq on Saturday while troops disposed of an Iranian drone. It also said “unidentified remains” had been found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
+        "snippet": "The Pentagon said a service member was killed in northern Iraq while troops disposed of an Iranian drone. It also said “unidentified remains” were found in Jordan, where an earlier attack had left two soldiers dead and another missing.",
         "source": "NYT World"
       },
       "items": [
@@ -180,15 +180,15 @@
           "source": "NYT World"
         },
         {
-          "title": "Iran shipped billions in oil during its cease-fire with the U.S.",
-          "url": "https://www.nytimes.com/live/2026/07/19/world/iran-war-strikes-trump-hormuz/iran-shipped-billions-in-oil-during-its-cease-fire-with-the-us",
-          "snippet": "",
+          "title": "Tears in Argentina for Lionel Messi’s ‘Last Tango’",
+          "url": "https://www.nytimes.com/2026/07/19/world/americas/messi-argentina-buenos-aires-last-tango.html",
+          "snippet": "There were still fireworks and smoke bombs, but the nation was disappointed for its soccer star after he lost in his likely last World Cup.",
           "source": "NYT World"
         },
         {
-          "title": "Earthquake in Peru Kills 6 and Displaces Hundreds",
-          "url": "https://www.nytimes.com/2026/07/19/world/americas/peru-earthquake.html",
-          "snippet": "Peru is prone to frequent quakes, but the 5.5-magnitude temblor was the biggest to strike the central highlands area in more than 50 years.",
+          "title": "Did This World Cup Change Soccer Forever?",
+          "url": "https://www.nytimes.com/2026/07/19/world/europe/fifa-world-cup-final.html",
+          "snippet": "With a wartime host nation, a referee deported and a ban overturned after a call from the White House, the 2026 tournament tested FIFA like no other.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-        "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-        "snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+        "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
+        "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
+        "snippet": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "What to watch for after Jensen Huang’s Japan visit",
+          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "snippet": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+          "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
+          "source": "TechCrunch"
+        },
         {
           "title": "TechCrunch Mobility: The battle over robotaxi rules",
           "url": "https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
           "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "The Zoom hack that says, ‘Don’t record me’",
-          "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-          "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Agility Robotics plants its flag in Tesla’s backyard",
-          "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-          "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τελικός Μουντιάλ 2026: Το μεγαλύτερο σε διάρκεια ημίχρονο στην ιστορία του θεσμού",
-        "url": "https://www.gazzetta.gr/football/mundial/2555562/telikos-moyntial-2026-megalytero-se-diarkeia-imihrono-stin-istoria-toy",
-        "snippet": "Το ημίχρονο του μεγάλου τελικού στο Μουντιάλ 2026 ανάμεσα σε Ισπανία και Αργεντινή ήταν το μεγαλύτερο σε διάρκεια στην ιστορία των Παγκοσμίων Κυπέλλων.",
+        "title": "Σκαλόνι: Δεν κατάφερε να ολοκληρώσει τη συνέντευξη Τύπου, ανοιχτό να φύγει",
+        "url": "https://www.gazzetta.gr/football/mundial/2555590/skaloni-den-katafere-na-oloklirosei-ti-synenteyxi-typoy-anoihto-na-fygei",
+        "snippet": "Ο Λιονέλ Σκαλόνι έβαλε τα κλάματα και δεν κατάφερε να ολοκληρώσει τη συνέντευξη Τύπου μετά την ήττα της Αργεντινής από την Ισπανία.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Τελικός Μουντιάλ 2026: Ο Τεντ Λάσο έριξε στην αρένα τον Τζάστιν Μπίμπερ",
-          "url": "https://www.gazzetta.gr/football/mundial/2555561/telikos-moyntial-2026-o-tent-laso-erixe-stin-arena-ton-tzastin-mpimper",
-          "snippet": "Φοβερά σκηνικά στο half time show του τελικού του Παγκοσμίου Κυπέλλου, με τον... Τεντ Λάσο να φέρνει τον Τζάστιν Μπίμπερ στο γήπεδο.",
+          "title": "Τελικός Μουντιάλ 2026: Δεν έλεγε να φύγει από την απονομή ο Τραμπ",
+          "url": "https://www.gazzetta.gr/football/mundial/2555589/telikos-moyntial-2026-den-elege-na-fygei-apo-tin-aponomi-o-tramp",
+          "snippet": "Ο Ντόναλντ Τραμπ τράβηξε τα βλέμματα για τους λάθος λόγους στην απονομή του τροπαίου του Παγκοσμίου Κυπέλλου στην Ισπανία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ισπανία - Αργεντινή: Στον τελικό ο «Οδυσσέας» Ματ Ντέιμον, ο Μικ Τζάγκερ και ο Εϊντριεν Μπρόντι",
-          "url": "https://www.gazzetta.gr/football/mundial/2555560/ispania-argentini-ston-teliko-o-odysseas-mat-nteimon-o-mik-tzagker-kai-o",
-          "snippet": "Στο γήπεδο του τελικού του Μουντιάλ μεταξύ της Ισπανίας και της Αργεντινής βρέθηκαν πολλοί παγκόσμιοι αστέρες, όπως οι Ματ Ντέιμον, Μικ Τζάγκερ και Εϊντριεν Μπρόντι.",
+          "title": "Τελικός Μουντιάλ 2026: Ισπανοί είδαν τον τελικό δίπλα στην πρεσβεία στην Αθήνα",
+          "url": "https://www.gazzetta.gr/football/mundial/2555588/telikos-moyntial-2026-ispanoi-eidan-ton-teliko-dipla-stin-presbeia-stin",
+          "snippet": "Ισπανοί φίλαθλοι είδαν την ομάδα τους να νικά την Αργεντινή στον τελικό του Παγκοσμίου Κυπέλλου από μαγαζί δίπλα στην ισπανική πρεσβεία στην Αθήνα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τελικός Μουντιάλ 2026: Ο Αντετοκούνμπο στις σουίτες για τον μεγάλο τελικό",
-          "url": "https://www.gazzetta.gr/basketball/mundial/2555559/telikos-moyntial-2026-o-antetokoynmpo-stis-soyites-gia-ton-megalo-teliko",
-          "snippet": "Ο Γιάννης Αντετοκούνμπο δίνει το «παρών» στον μεγάλο τελικό του Μουντιάλ 2026 παρακολουθώντας δια ζώσης την αναμέτρηση Ισπανία-Αργεντινή.",
+          "title": "Φεράν Τόρες: «Δέχτηκα κριτική αλλά ήταν γραφτό να νικήσουμε»",
+          "url": "https://www.gazzetta.gr/football/mundial/2555587/feran-tores-dehtika-kritiki-alla-itan-grafto-na-nikisoyme",
+          "snippet": "Δείτε όσα ανέφερε ο Φεράν Τόρες μετά την κατάκτηση του Παγκοσμίου Κυπέλλου με την Ισπανία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τελικός Μουντιάλ 2026: Η Αργεντινή ολοκλήρωσε το ημίχρονο χωρίς τελική!",
-          "url": "https://www.gazzetta.gr/football/mundial/2555558/telikos-moyntial-2026-i-argentini-oloklirose-imihrono-horis-teliki",
-          "snippet": "Καμία απειλή για την Αργεντινή στο πρώτο ημίχρονο, με την Αλμπισελέστε να γίνεται μόλις η δεύτερη ομάδα στην ιστορία χωρίς τελική σε πρώτο μέρος τελικού Μουντιάλ.",
+          "title": "Τελικός Μουντιάλ 2026: Η Ισπανία έγραψε ιστορία και το ρεκόρ της... ζαλίζει!",
+          "url": "https://www.gazzetta.gr/football/mundial/2555586/telikos-moyntial-2026-i-ispania-egrapse-istoria-kai-rekor-tis-zalizei",
+          "snippet": "Η Ισπανία κατέκτησε το Μουντιάλ, έφτασε τα 38 συνεχόμενα ματς χωρίς ήττα και επιβεβαίωσε πως η ποδοσφαιρική της φιλοσοφία παραμένει οδηγός επιτυχίας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Σλοβενία - Σερβία 84-65: Πρωταθλήτρια Ευρώπης στο Eurobasket U20",
-          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2555556/slobenia-serbia-84-65-protathlitria-eyropis-sto-eurobasket-u20",
-          "snippet": "Η Σλοβενία επικράτησε εύκολα της Σερβίας στον τελικό του Eurobasket U20 με 84-65 και στέφθηκε Πρωταθλήτρια Ευρώπης!",
+          "title": "Τελικός Μουντιάλ 2026: Τα χρήματα που έλαβε η πρωταθλήτρια Ισπανία",
+          "url": "https://www.gazzetta.gr/football/mundial/2555585/telikos-moyntial-2026-ta-hrimata-poy-elabe-i-protathlitria-ispania",
+          "snippet": "Η Ισπανία πήρε το δεύτερο Μουντιάλ της ιστορίας της νικώντας την Αργεντινή με 1-0 και μαζί εξασφάλισε περίπου 44 εκατ. ευρώ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η συντριβή κόστισε την ζωή σε 92 άτομα και αποκάλυψε το πιο… κρυφό μυστικό των ΗΠΑ",
-          "url": "https://www.gazzetta.gr/plus/2555530/i-syntribi-poy-apokalypse-pio-kryfo-mystiko-ton-ipa-kai-kostise-tin-zoi-se-92-atoma",
-          "snippet": "Η τραγωδία της πτήσης TWA 514 το 1974 κόστισε 92 ζωές, άλλαξε τους κανόνες της αεροπορικής ασφάλειας και αποκάλυψε κατά λάθος ένα από τα πιο απόρρητα καταφύγια των ΗΠΑ.",
+          "title": "Τελικός Μουντιάλ 2026: Η Ισπανία είχε δεκαπλάσιες τελικές από την Αργεντινή",
+          "url": "https://www.gazzetta.gr/football/mundial/2555584/telikos-moyntial-2026-i-ispania-eihe-dekaplasies-telikes-apo-tin-argentini",
+          "snippet": "Τουλάχιστον εντυπωσιακή η διαφορά στα στατιστικά της Ισπανίας και της Αργεντινής στον τελικό του Παγκοσμίου Κυπέλλου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Σύνταξη πριν τα 62 έτη: Ποιοι προλαβαίνουν ακόμη τις ευνοϊκές διατάξεις",
-          "url": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
-          "snippet": "Τι ισχύει για Δημόσιο, ΔΕΚΟ, τράπεζες.",
+          "title": "Τελικός Μουντιάλ 2026: Αποδοκιμασίες για Τραμπ πριν από την απονομή",
+          "url": "https://www.gazzetta.gr/football/mundial/2555583/telikos-moyntial-2026-apodokimasies-gia-tramp-prin-apo-tin-aponomi",
+          "snippet": "Στο στόχαστρο του κόσμου που βρέθηκε στον τελικό του Μουντιάλ βρέθηκε ο Ντόναλντ Τραμπ, ο οποίος τα... άκουσε από μερίδα του κόσμου πριν από την απονομή της Ισπανίας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χοσέλου: ΠΑΟΚ - Προτάθηκε ο Ισπανός φορ, σύμφωνα με Ιταλό δημοσιογράφο",
-          "url": "https://www.gazzetta.gr/football/superleague/2555541/hoseloy-paok-protathike-o-ispanos-symfona-me-italo-dimosiografo",
-          "snippet": "Ο 36χρονος διεθνής Ισπανός φορ Χοσέλου, ο οποίος έχει παίξει και στη Ρεάλ Μαδρίτης, φέρεται να έχει προταθεί στον ΠΑΟΚ.",
+          "title": "Τελικός Μουντιάλ 2026: Η απονομή του τροπαίου στην Ισπανία από τον Τραμπ",
+          "url": "https://www.gazzetta.gr/football/mundial/2555582/telikos-moyntial-2026-i-aponomi-toy-tropaioy-stin-ispania-apo-ton-tramp",
+          "snippet": "Η Ισπανία λύγισε στην παράταση με 1-0 την Αργεντινή στον τελικό του Νιού Τζέρσει και μετά το φινάλε σήκωσαν το τρόπαιο ως οι νέοι παγκόσμιοι πρωταθλητές δια χειρός... Ντόναλντ Τραμπ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τελικός Μουντιάλ 2026: Η θήκη Louis Vuitton και o Τραμπ",
-          "url": "https://www.gazzetta.gr/football/mundial/2555539/telikos-moyntial-2026-i-thiki-louis-vuitton-kai-o-tramp",
-          "snippet": "Ο τρόπαιο του Παγκοσμίου Κυπέλλου είχε την τιμητική του πριν τον τελικό ανάμεσα σε Ισπανία και Αργεντινή.",
+          "title": "Τελικός Μουντιάλ 2026: Έκλαψε ο Λιονέλ Μέσι μετά την ήττα",
+          "url": "https://www.gazzetta.gr/football/mundial/2555581/telikos-moyntial-2026-eklapse-o-lionel-mesi-meta-tin-itta",
+          "snippet": "Ο Λιονέλ Μέσι λύγισε και εθεάθη να κλαίει μετά την ήττα της Αργεντινής από την Ισπανία στον τελικό του Παγκοσμίου Κυπέλλου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Στο γήπεδο η Μελάνια και ο Ντόναλντ Τραμπ: Ο εθνικός ύμνος των ΗΠΑ και το στιγμιότυπο με τον Ρονάλντο",
-          "url": "https://www.gazzetta.gr/plus/2555536/sto-gipedo-i-melania-kai-o-ntonalnt-tramp-o-ethnikos-ymnos-ton-ipa-prin-apo-ton-teliko",
-          "snippet": "Με την ανάκρουση του εθνικού ύμνου των ΗΠΑ ξεκίνησε ο τελικός Ισπανία - Αργεντινή, παρουσία του Ντόναλντ Τραμπ και της Μελάνια Τραμπ στις εξέδρες.",
+          "title": "Τελικός Μουντιάλ 2026: Κορυφαίος ο Ρόδρι, χρυσά γάντια στον Σιμόν, βραβείο στον Κουμπαρσί!",
+          "url": "https://www.gazzetta.gr/football/mundial/2555580/telikos-moyntial-2026-koryfaios-o-rodri-hrysa-gantia-ston-simon-brabeio",
+          "snippet": "Η Ισπανία κατέκτησε την κορυφή του κόσμου και ο Ρόδρι αναδείχθηκε ο MVP της διοργάνωσης με τις εντυπωσιακές του εμφανίσεις. Χρυσά Γάντια στον Ουνάι Σιμόν, βραβείο και στον Κουμπαρσί.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τελικός Μουντιάλ 2026: Το φαντασμαγορικό σκηνικό πριν την έναρξη (vid)",
-          "url": "https://www.gazzetta.gr/football/mundial/2555535/telikos-moyntial-2026-fantasmagoriko-skiniko-prin-tin-enarxi-vid",
-          "snippet": "Η Ισπανία αντιμετωπίζει την Αργεντινή στον μεγάλο τελικό του Μουντιάλ 2026 και εξέχουσες προσωπικότητες έκλεψαν την παράσταση πριν την έναρξη.",
+          "title": "Τελικός Μουντιάλ 2026: MVP του αγώνα ο σκόρερ Φεράν Τόρες",
+          "url": "https://www.gazzetta.gr/football/mundial/2555579/telikos-moyntial-2026-mvp-toy-agona-o-skorer-feran-tores",
+          "snippet": "Ο Φεράν Τόρες πέτυχε στο 106' το «χρυσό» γκολ της Ισπανίας στον τελικό του Μουντιάλ 2026 απέναντι στην Αργεντινή (1-0, 0-0 κ.δ) και βραβεύτηκε με το βραβείο του MVP του τελικού.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ελλάδα-Γαλλία 51-57: Ήττα στο φινάλε του διεθνούς τουρνουά",
-          "url": "https://www.gazzetta.gr/basketball/2555534/ellada-gallia-51-57-itta-sto-finale-toy-diethnoys-toyrnoya",
-          "snippet": "Η Εθνική Εφήβων ηττήθηκε στο φινάλε από την Γαλλία στο διεθνές τουρνουά «The Legend» που διεξήχθη στην Αγρόπολη της Ιταλίας.",
+          "title": "Τελικός Μουντιάλ 2026: Η εμβληματική αγκαλιά Μέσι - Γιαμάλ μετά το φινάλε",
+          "url": "https://www.gazzetta.gr/football/mundial/2555578/telikos-moyntial-2026-i-emblimatiki-agkalia-mesi-giamal-meta-finale",
+          "snippet": "Λιονέλ Μέσι και Λαμίν Γιαμάλ μοιράστηκαν μια συγκινητική αγκαλιά μετά το φινάλε του τελικού του Μουντιάλ, σε ένα κλικ που αποτυπώνει την επικείμενη αλλαγή των εποχών.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άρης: Ο Ρίτσαρντ Σιάο απολαμβάνει τον τελικό του Παγκοσμίου Κυπέλλου",
-          "url": "https://www.gazzetta.gr/football/basket-league/2555532/aris-o-ritsarnt-siao-apolambanei-ton-teliko-toy-pagkosmioy-kypelloy",
-          "snippet": "Ο Ρίτσαρντ Σιάο έχει πάρει θέση στο Metlife της Νέας Υόρκης και θα παρακολουθήσει από κοντά τον τελικό του Παγκοσμίου Κυπέλλου.",
+          "title": "Τελικός Μουντιάλ 2026: Τα highlights του αγώνα",
+          "url": "https://www.gazzetta.gr/football/mundial/2555577/telikos-moyntial-2026-ta-highlights-toy-agona",
+          "snippet": "Δείτε τις σημαντικότερες φάσεις από το 1-0 της Ισπανίας στον τελικό του Παγκοσμίου Κυπέλλου με την Αργεντινή.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κάνγκουα: AEK - Το προφίλ του χαφ που απασχολεί τους πρωταθλητές",
-          "url": "https://www.gazzetta.gr/football/superleague/2555533/kangkoya-aek-profil-toy-haf-poy-apasholei-toys-protathlites",
-          "snippet": "Η καριέρα και τα χαρακτηριστικά του Κινγκς Κάνγουα, τον οποίο η ΑΕΚ προσπαθεί να αποκτήσει για την ενίσχυση της στη μεσαία γραμμή.",
+          "title": "Μουντιάλ 2026: Πρώτος σκόρερ για δεύτερη συνεχόμενη φορά ο Μπαπέ",
+          "url": "https://www.gazzetta.gr/football/mundial/2555576/moyntial-2026-protos-skorer-gia-deyteri-synehomeni-fora-o-mpape",
+          "snippet": "Όπως και το 2022, έτσι και φέτος, ο Κιλιάν Μπαπέ βγήκε πρώτος σκόρερ στο Παγκόσμιο Κύπελλο.",
           "source": "Gazzetta"
         }
       ]
@@ -389,9 +389,9 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "It’s a Crowded and Contested World Cup Halftime Show",
-        "url": "https://www.nytimes.com/2026/07/18/arts/music/world-cup-halftime-show.html",
-        "snippet": "Madonna, Justin Bieber, Shakira, BTS and more will perform in a new tournament festivity. Soccer purists aren’t singing praises.",
+        "title": "First World Cup Halftime Show: Lots of Stars, Little Purpose",
+        "url": "https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html",
+        "snippet": "The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled.",
         "source": "NYT Arts"
       },
       "items": [
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
-          "url": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
-          "snippet": "Christopher Nolan’s adaptation of Homer’s epic poem has monster battles, a sorceress and dozens of thirsty suitors. Here’s a primer.",
+          "title": "How Kerry Washington and Whitney White Are Honoring Whoopi Goldberg Through Theater",
+          "url": "https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html",
+          "snippet": "The actress Kerry Washington and the director Whitney White want to honor Goldberg’s theatrical legacy by revisiting her acclaimed portraits of humanity.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Has the World Cup Turned Me Into … a Sports Guy?",
-          "url": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
-          "snippet": "The pleasures of watching the TV show of the summer as a bandwagon fan.",
+          "title": "Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend",
+          "url": "https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html",
+          "snippet": "Christopher Nolan’s nearly three-hour epic was No. 1 over the weekend, with about $124.5 million in ticket sales in the United States and Canada.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Lindsay Hubbard Prefers a Long-Distance Boyfriend",
-          "url": "https://www.nytimes.com/2026/07/18/arts/television/lindsay-hubbard-in-the-city-interview.html",
-          "snippet": "The “Summer House” cast member once yelled at a boyfriend, “How many sandwiches have you made for me?” These days, she’s enjoying her space.",
+          "title": "What to Know Before Seeing ‘The Odyssey’: Plot, Characters and More",
+          "url": "https://www.nytimes.com/2026/07/18/movies/the-odyssey-plot-characters-trojan-war.html",
+          "snippet": "Christopher Nolan’s adaptation of Homer’s epic poem has monster battles, a sorceress and dozens of thirsty suitors. Here’s a primer.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "X and Music Publishers Retreat From Lawsuits",
-          "url": "https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html",
-          "snippet": "Elon Musk’s social media platform and the music companies agreed to dismiss dueling claims, from 2023 and 2026. They have not said why.",
+          "title": "Has the World Cup Turned Me Into … a Sports Guy?",
+          "url": "https://www.nytimes.com/2026/07/17/arts/television/world-cup.html",
+          "snippet": "The pleasures of watching the TV show of the summer as a bandwagon fan.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Blockbuster Summer Movies for the Hottest Summer Ever",
-          "url": "https://www.nytimes.com/2026/07/18/arts/hottest-summer-blockbuster-movies-sketch.html",
-          "snippet": "“Iron Man 4: Age of Air Con” coming to theaters? With record-setting heat projected for 2026, our cartoonist imagines a cool slate of films.",
+          "title": "Lindsay Hubbard Prefers a Long-Distance Boyfriend",
+          "url": "https://www.nytimes.com/2026/07/18/arts/television/lindsay-hubbard-in-the-city-interview.html",
+          "snippet": "The “Summer House” cast member once yelled at a boyfriend, “How many sandwiches have you made for me?” These days, she’s enjoying her space.",
           "source": "NYT Arts"
         }
       ]
