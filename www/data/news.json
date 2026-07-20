@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-20T17:27:34.057119+00:00",
+  "updated": "2026-07-20T17:32:33.653271+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Υπουργείο Εργασίας: Υποχρεωτικά τα μέτρα προστασίας των εργαζομένων λόγω καύσωνα",
-        "url": "https://www.efsyn.gr/ellada/1432071/ypoyrgeio-ergasias-ypohreotika-ta-metra-prostasias-ton-ergazomenon-logo-kaysona/",
-        "snippet": "«Ακόμη και παύση εργασιών όπου απαιτείται», αναφέρει η εγκύκλιος.",
+        "title": "Άντι Μπέρναμ: Οι 7+1 προκλήσεις για τον νέο πρωθυπουργό της Βρετανίας",
+        "url": "https://www.efsyn.gr/kosmos/1431947/anti-mpernam-oi-71-prokliseis-gia-ton-neo-prothypoyrgo-tis-vretanias/",
+        "snippet": "Ο 7ος πρωθυπουργός μέσα σε μία δεκαετία αναλαμβάνει τα ηνία της Βρετανίας σε μια κρίσιμη συγκυρία, καθώς πρέπει να πάρει αποφάσεις για την ακρίβεια, την άμυνα, τις σχέσεις με την ΕΕ και τις ΗΠΑ.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΚΚΕ για τις δηλώσεις Μητσοτάκη: Κοινή συνισταμένη όλων τους, είναι το να λογίζονται ως “κόστος” οι ανάγκες του λαού",
+          "url": "https://www.efsyn.gr/politiki/1432079/kke-gia-tis-diloseis-mitsotaki-koini-synistameni-olon-toys-einai-to-na-logizontai-os-kostos-oi-anagkes-toy-laoy/",
+          "snippet": "«Προκειμένου να πιάνονται τα ματωμένα πλεονάσματα, να εξασφαλίζεται η τήρηση των δημοσιονομικών κανόνων της ΕΕ, και να διαιωνίζεται η φοροασυλία του κεφαλαίου».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Υπουργείο Εργασίας: Υποχρεωτικά τα μέτρα προστασίας των εργαζομένων λόγω καύσωνα",
+          "url": "https://www.efsyn.gr/ellada/1432071/ypoyrgeio-ergasias-ypohreotika-ta-metra-prostasias-ton-ergazomenon-logo-kaysona/",
+          "snippet": "«Ακόμη και παύση εργασιών όπου απαιτείται», αναφέρει η εγκύκλιος.",
+          "source": "EfSyn"
+        },
         {
           "title": "Κύπελλα Ευρώπης: Το μονοπάτι για Παναθηναϊκό και ΠΑΟΚ – Ποιοι είναι οι πιθανοί αντίπαλοι",
           "url": "https://www.efsyn.gr/athlitismos/1432061/kypella-eyropis-to-monopati-gia-panathinaiko-kai-paok-poioi-einai-oi-pithanoi-antipaloi/",
@@ -81,18 +93,6 @@
           "title": "Μεσίστιο παρόν. Μέλλον;",
           "url": "https://www.efsyn.gr/stiles/1431598/mesistio-paron-mellon/",
           "snippet": "Στον ΣΥΡΙΖΑ θα το παλέψουν, θα δοκιμάσουν την τύχη τους και θα κριθούν στις κάλπες. Όμως αυτό με το ενωτικό ψηφοδέλτιο τι είναι;",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Καύσωνας: Ποιες περιοχές «ψήθηκαν» σήμερα – Καμίνι η ηπειρωτική χώρα",
-          "url": "https://www.efsyn.gr/ellada/1432013/kaysonas-poies-periohes-psithikan-simera-kamini-i-ipeirotiki-hora/",
-          "snippet": "Λαγουβάρδος: «Πολλές περιοχές της χώρας, σχεδόν όλες δηλαδή με εξαίρεση τα νησιά, είχαν θερμοκρασίες που ξεπέρασαν τους 37 βαθμούς».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ιωάννινα: Ανάδειξη μνημείων που ανοίγουν νέες προοπτικές",
-          "url": "https://www.efsyn.gr/ellada/1431715/ioannina-anadeixi-mnimeion-poy-anoigoyn-nees-prooptikes/",
-          "snippet": "Η απόδοση στο κοινό του Τζαμιού της Καλούτσιανης και του Οθωμανικού Λουτρού αποτελεί μια πρόκληση για τη βιώσιμη ανάπτυξη της πόλης.",
           "source": "EfSyn"
         }
       ]
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τελεσίγραφο Τραμπ: «Δεν θα έχουν γέφυρες και σταθμούς, θα χρειαστούν 100 χρόνια για να την ανοικοδομήσουν»",
-        "url": "https://www.gazzetta.gr/plus/2555780/telesigrafo-tramp-den-tha-ehoyn-gefyres-kai-stathmoys-tha-hreiastoyn-100-hronia-gia-na",
-        "snippet": "Ο Ντόναλντ Τραμπ έστειλε αυστηρό τελεσίγραφο στην Τεχεράνη, απειλώντας με καταστροφή των βασικών υποδομών της χώρας αν δεν υπάρξει άμεση υποχώρηση.",
+        "title": "Ολυμπιακός: Η επιστροφή του Ταρέμι και το «θέλω» του Ελ Καμπί (vid)",
+        "url": "https://www.gazzetta.gr/football/superleague/2555708/proetoimasia-olympiakoy-ta-teleytaia-proponitika-nea-tis-omadas-vid",
+        "snippet": "Ο απεσταλμένος του Gazzetta στην Ολλανδία, Δημήτρης Τομαράς, μεταδίδει τα τελευταία νέα μετά και την άφιξη του Ταρέμι.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Τελεσίγραφο Τραμπ: «Δεν θα έχουν γέφυρες και σταθμούς, θα χρειαστούν 100 χρόνια για να την ανοικοδομήσουν»",
+          "url": "https://www.gazzetta.gr/plus/2555780/telesigrafo-tramp-den-tha-ehoyn-gefyres-kai-stathmoys-tha-hreiastoyn-100-hronia-gia-na",
+          "snippet": "Ο Ντόναλντ Τραμπ έστειλε αυστηρό τελεσίγραφο στην Τεχεράνη, απειλώντας με καταστροφή των βασικών υποδομών της χώρας αν δεν υπάρξει άμεση υποχώρηση.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Όσμαν: Η χειραψία με τον Μυστακίδη",
           "url": "https://www.gazzetta.gr/basketball/basket-league/2555779/osman-i-heirapsia-me-ton-mystakidi",
@@ -375,12 +381,6 @@
           "title": "Παναθηναϊκός: Ο Ντεόσα μετακομίζει στη Βραζιλία",
           "url": "https://www.gazzetta.gr/football/superleague/2555766/panathinaikos-o-nteosa-metakomizei-sti-brazilia",
           "snippet": "Ο Κολομβιανός μέσος Νέλσον Ντεόσα εξετάστηκε σοβαρά από τον Παναθηναϊκό και τώρα οι Βραζιλιάνοι αναφέρουν ότι είναι μία ανάσα από τη Βάσκο ντα Γκάμα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Όσμαν: Παρέλαβε τη φανέλα του από τα χέρια του Μπάνε Πρέλεβιτς",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2555765/osman-parelabe-ti-fanela-toy-apo-ta-heria-toy-mpane-prelebits",
-          "snippet": "Ο Μπάνε Πρέλεβιτς ήταν ο άνθρωπος που παρέδωσε στον Τσέντι Όσμαν τη φανέλα που θα φοράει στον ΠΑΟΚ με το νούμερο 6.",
           "source": "Gazzetta"
         }
       ]
