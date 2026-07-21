@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-21T01:52:19.501946+00:00",
+  "updated": "2026-07-21T06:22:23.470560+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πυρκαγιά σε δασική έκταση στο Πήλιο – Επιχειρούν ισχυρές δυνάμεις κατάσβεσης",
-        "url": "https://www.efsyn.gr/ellada/1432157/pyrkagia-se-dasiki-ektasi-sto-pilio-epiheiroyn-ishyres-dynameis-katasvesis/",
-        "snippet": "Συμμετέχουν 48 πυροσβέστες, τρεις ομάδες πεζοπόρων τμημάτων και 13 πυροσβεστικά οχήματα.",
+        "title": "Μπλόκο της Αθήνας στις κυρώσεις κατά της Μόσχας για μια ελληνική εταιρεία",
+        "url": "https://www.efsyn.gr/politiki/1432261/mploko-tis-athinas-stis-kyroseis-kata-tis-moshas-gia-mia-elliniki-etaireia/",
+        "snippet": "Η αντίρρηση της ελληνικής πλευράς αφορά επί της ουσίας το 19ο πακέτο των κυρώσεων που εγκρίθηκε τον περασμένο Νοέμβριο.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Ιράν: Νέο κύμα αμερικανικών επιθέσεων – «Στόχος να μη χτυπά η Τεχεράνη τα εμπορικά πλοία στο Ορμούζ»",
-          "url": "https://www.efsyn.gr/kosmos/1432155/iran-neo-kyma-amerikanikon-epitheseon-stohos-na-mi-htypa-i-teherani-ta-emporika-ploia-sto-ormoyz/",
-          "snippet": "Αμερικανικές ένοπλες δυνάμεις εξαπέλυσαν το βράδυ της Δευτέρας, νέες επιθέσεις εναντίον του Ιράν, όπως ανακοίνωσε το διοικητήριο που είναι αρμόδιο για την περιοχή της Μέσης Ανατολής (U.S. Central Command ή CENTCOM). Σε ενημέρωση της CENTCOM μέσω Χ αναφέρεται ότι «στις 4:00 μ.μ. (",
+          "title": "KKE: Όχι στην άρση της μονιμότητας στο Δημόσιο",
+          "url": "https://www.efsyn.gr/politiki/1432254/kke-ohi-stin-arsi-tis-monimotitas-sto-dimosio/",
+          "snippet": "Κάθετα αντίθετοι ο Δημήτρης Κουτσούμπας και η ΑΔΕΔΥ με τα κυβερνητικά σχέδια για το Δημόσιο εν όψει συνταγματικής αναθεώρησης.",
           "source": "EfSyn"
         },
         {
-          "title": "Ουκρανικό: Φονικές επιθέσεις απο Μόσχα και Κίεβο – Τουλάχιστον 14 νεκροί",
-          "url": "https://www.efsyn.gr/kosmos/1432151/oykraniko-fonikes-epitheseis-apo-mosha-kai-kievo-toylahiston-14-nekroi/",
-          "snippet": "Ουκρανικά χτυπήματα σε λεωφορείο και πλυντήριο αυτοκινήτων, ρωσικό πλήγμα σε εγκαταστάσεις επιχείρησης.",
+          "title": "ΣΥΡΙΖΑ: Από την πτώση στη σταθεροποίηση – Επιχείρηση ανασυγκρότησης μετά τις αποχωρήσεις",
+          "url": "https://www.efsyn.gr/politiki/1432248/syriza-apo-tin-ptosi-sti-statheropoiisi-epiheirisi-anasygkrotisis-meta-tis-apohoriseis/",
+          "snippet": "Στόχος στην Κουμουνδούρου να κλείσουν τις πληγές και να περάσουν στην επόμενη φάση της ανασυγκρότησης, γνωρίζοντας όμως ότι οι δυσκολίες παραμένουν μεγάλες.",
           "source": "EfSyn"
         },
         {
-          "title": "Μουντιάλ 2026: Ξέφρενο πάρτι στη Μαδρίτη για την κατάκτηση του τροπαίου από την Ισπανία [εικόνες-βίντεο]",
-          "url": "https://www.efsyn.gr/athlitismos/1432126/moyntial-2026-xefreno-parti-stin-madriti-gia-tin-kataktisi-toy-tropaioy-apo-tin-ispania-eikones-vinteo/",
-          "snippet": "Ολόκληρη η χώρα γιορτάζει την κατάκτηση του Παγκοσμίου Κυπέλλου.",
+          "title": "Θεσσαλονίκη: 60χρονος χτύπησε με βαριοπούλα 42χρονο σεκιούριτι στο αμαξοστάσιο του ΟΑΣΘ",
+          "url": "https://www.efsyn.gr/ellada/1432260/thessaloniki-60hronos-htypise-me-variopoyla-42hrono-sekioyriti-sto-amaxostasio-toy-oasth/",
+          "snippet": "Το επεισόδιο σημειώθηκε το απόγευμα της Δευτέρας (20/7).",
           "source": "EfSyn"
         },
         {
-          "title": "Συντάξεις χηρείας: Κατατέθηκε στη Βουλή η τροπολογία που καταργεί τις περικοπές",
-          "url": "https://www.efsyn.gr/ellada/1432121/syntaxeis-hireias-katatethike-sti-voyli-i-tropologia-poy-katargei-tis-perikopes/",
-          "snippet": "Η τροπολογία ήταν πολυαναμενόμενη καθώς μέσω αυτής αναμένεται να λυθεί μια πολυετής εκκρεμότητα για συνταξιούχους οι οποίοι, σύμφωνα με πηγές του Υπουργείου Εργασίας, υπολογίζονται σε περίπου 75.000.",
+          "title": "Star Wars: Η εξωφρενική τιμή που πουλήθηκε το θρυλικό φωτόσπαθο του Λουκ Σκαϊγουόκερ",
+          "url": "https://www.efsyn.gr/life/1432220/star-wars-i-exofreniki-timi-poy-poylithike-to-thryliko-fotospatho-toy-loyk-skaigoyoker/",
+          "snippet": "Το φωτόσπαθο συνδέεται με μία από τις πιο ιστορικές σκηνές του κινηματογράφου.",
           "source": "EfSyn"
         },
         {
-          "title": "Μητσοτάκης: Βάζει στο συρτάρι την πρόταση για το ασυμβίβαστο βουλευτή και υπουργού",
-          "url": "https://www.efsyn.gr/politiki/1432115/mitsotakis-vazei-sto-syrtari-tin-protasi-gia-to-asymvivasto-voyleyti-kai-ypoyrgoy/",
-          "snippet": "Αναδίπλωση του πρωθυπουργού μετά τη διαφοροποίηση βουλευτών της Ν.Δ.",
+          "title": "Το «Καλημέρα Ηλιε», το πανέρι και η 13η σύνταξη",
+          "url": "https://www.efsyn.gr/politiki/1432253/to-kalimera-ilie-to-paneri-kai-i-13i-syntaxi/",
+          "snippet": "Με το «Καλημέρα Ηλιε» soundtrack, ο Νίκος Ανδρουλάκης επισκέφθηκε χθες τη λαϊκή αγορά των Συκεών.",
           "source": "EfSyn"
         },
         {
-          "title": "ΗΠΑ: Δικαστική απόφαση «φρενάρει» την εξαγορά της WBD από την Paramount Skydance",
-          "url": "https://www.efsyn.gr/oikonomia/1432114/ipa-dikastiki-apofasi-frenarei-tin-exagora-tis-wbd-apo-tin-paramount-skydance/",
-          "snippet": "Τονίζεται ότι η ένωση των δύο ομίλων «θα προκαλέσει μη αναστρέψιμη ζημιά», εάν υλοποιηθεί πριν εξεταστεί επί της ουσίας η υπόθεση.",
+          "title": "Ο… «Σελεσάο» της αυτοδιοίκησης με 8 νίκες σερί",
+          "url": "https://www.efsyn.gr/politiki/1432240/o-selesao-tis-aytodioikisis-me-8-nikes-seri/",
+          "snippet": "Με ποδοσφαιρικό αέρα μπήκε ο Νίκος Ανδρουλάκης στη Θεσσαλονίκη.",
           "source": "EfSyn"
         },
         {
-          "title": "Motor Oil: Εξαγοράζει το 50% της Nova ICT έναντι 60,5 εκατ. ευρώ",
-          "url": "https://www.efsyn.gr/oikonomia/1432089/motor-oil-exagorazei-to-50-tis-nova-ict-enanti-605-ekat-eyro/",
-          "snippet": "Μέσω της θυγατρικής της, IREON Technologies.",
+          "title": "Ανδρουλάκης: «Το πολιτικό δίδυμο Μητσοτάκη – Τσίπρα για μια δεκαετία πήγε τη χώρα πίσω»",
+          "url": "https://www.efsyn.gr/politiki/1432218/androylakis-to-politiko-didymo-mitsotaki-tsipra-gia-mia-dekaetia-pige-ti-hora-piso/",
+          "snippet": "Καρφιά από τον πρόεδρο του ΠΑΣΟΚ για τον νυν και τον πρώην πρωθυπουργό και προτροπές στους πολίτες να επιλέξουν «αλλαγή σελίδας με αξιοπιστία και χωρίς εξαρτήσεις».",
           "source": "EfSyn"
         },
         {
-          "title": "Σάλος στη Γαλλία με αυτοκτονία 21χρονου Αλγερινού – Η οικογένεια καταγγέλλει ότι ήταν θύμα ρατσιστικών επιθέσεων",
-          "url": "https://www.efsyn.gr/kosmos/1432105/salos-sti-gallia-me-aytoktonia-21hronoy-algerinoy-kataggelies-tis-oikogeneias-oti-itan-thyma-ratsistikon-epitheseon/",
-          "snippet": "Σύμφωνα με γαλλικά ΜΜΕ που επικαλούνται μαρτυρίες, οι συγγενείς του κατέθεσαν ότι ο Ζορίς δέχθηκε ρατσιστικές προσβολές και δημόσιο εξευτελισμό κατά τη διάρκεια του φεστιβάλ, στις 30 Ιουνίου.",
+          "title": "Πώς την… πάτησαν οι δύο «γαλάζιοι» βουλευτές",
+          "url": "https://www.efsyn.gr/politiki/1432234/pos-tin-patisan-oi-dyo-galazioi-voyleytes/",
+          "snippet": "Φαίνεται πως οι δύο βουλευτές δεν είχαν τσεκάρει τα κινητά τους.",
           "source": "EfSyn"
         },
         {
-          "title": "Γουιάνα: Ανασύρθηκαν 10 πτώματα μετά το ναυάγιο – Αγνοούνται δεκάδες άνθρωποι",
-          "url": "https://www.efsyn.gr/kosmos/1432106/goyiana-anasyrthikan-10-ptomata-meta-to-nayagio-agnooyntai-dekades-anthropoi/",
-          "snippet": "Οκτώ πτώματα ανασύρθηκαν σήμερα από την περιοχή του ναυαγίου του MV Barima, το οποίο βυθίστηκε τη νύχτα του Σαββάτου προς Κυριακή, στα ανοικτά των ακτών της Γουιάνας, ανεβάζοντας σε δέκα τον προσωρινό απολογισμό της τραγωδίας, σύμφωνα με νεότερη ενημέρωση από την κυβέρνηση της λα",
+          "title": "ΕΛΑΣ για τα ιδιωτικά πανεπιστήμια: «Δεν θα τα είχαμε ιδρύσει, αλλά δεν θα τα καταργήσουμε»",
+          "url": "https://www.efsyn.gr/ellada/1432208/elas-gia-ta-idiotika-panepistimia-den-tha-ta-eihame-idrysei-alla-den-tha-ta-katargisoyme/",
+          "snippet": "Η θέση της Ελληνικής Αριστερής Συμπαράταξης για τα ιδιωτικά πανεπιστήμια προβλέπει αποδοχή της de facto κατάστασης και, σε αντιστάθμισμα, έλεγχο και λογοδοσία για τις άδειες και στήριξη του δημόσιου Πανεπιστημίου.",
           "source": "EfSyn"
         },
         {
-          "title": "Πιερία: 16χρονος πήγε να κάνει το καλό και του βγήκε σε κακό – Τραυματίστηκε σε καυγά",
-          "url": "https://www.efsyn.gr/ellada/1432096/pieria-16hronos-pige-na-kanei-to-kalo-kai-toy-vgike-se-kako-traymatistike-se-kayga/",
-          "snippet": "Ο ανήλικος φαίνεται να δέχτηκε μαχαιριά στο πόδι την ώρα που πήγε να χωρίσει κάποιους που καυγάδιζαν.",
+          "title": "Επίθεση με μαχαίρι στην Ακρόπολη – Ανδρας τραυμάτισε δύο Ελληνοαμερικανούς τουρίστες και συνελήφθη",
+          "url": "https://www.efsyn.gr/ellada/1432227/epithesi-me-mahairi-stin-akropoli-traymatistikan-dyo-amerikanoi-toyristes/",
+          "snippet": "Η έρευνα για το περιστατικό βρίσκεται σε εξέλιξη.",
           "source": "EfSyn"
         },
         {
-          "title": "Μουντιάλ 2026: Ο πόνος του Μέσι μετά τον χαμένο τελικό – «Θα χρειαστεί χρόνος για να επουλωθεί η πληγή»",
-          "url": "https://www.efsyn.gr/athlitismos/1432092/moyntial-2026-o-ponos-toy-mesi-meta-ton-hameno-teliko-tha-hreiastei-hronos-gia-na-epoylothei-i-pligi/",
-          "snippet": "Ο Αργεντινός σούπερ σταρ έστειλε ταυτόχρονα μήνυμα ενότητας για την ομάδα και τον λαό του.",
+          "title": "Ο ΣΥΡΙΖΑ έχει έναν παραπάνω βουλευτή από τον Βελόπουλο",
+          "url": "https://www.efsyn.gr/politiki/1432224/o-syriza-ehei-enan-parapano-voyleyti-apo-ton-velopoylo/",
+          "snippet": "Ο Συμεών Κεδίκογλου είναι ο τρίτος βουλευτής που εγκατέλειψε τη βουλευτική του έδρα, μετά την Κατερίνα Νοτοπούλου και τον Γιώργο Καραμέρο.",
           "source": "EfSyn"
         },
         {
-          "title": "Δικαστικά χάδια στην αστυνομική βία και αυθαιρεσία – Από τη δολοφονία Καλτεζά έως τον 20χρονο στο Άργος",
-          "url": "https://www.efsyn.gr/ellada/1431704/dikastika-hadia-stin-astynomiki-via-kai-aythairesia-apo-ti-dolofonia-kalteza-eos-ton-20hrono-sto-argos/",
-          "snippet": "Για την ανεξέλεγκτη χρήση του όπλου εναντίον άοπλων παιδιών επικαλούνται πάντα τον φόβο, την έκπληξη, την ταραχή και τον εποστρακισμό. Το άρθρο 23 έχει γίνει ψωμοτύρι στα επιχειρήματα των συνηγόρων και οδηγεί σε σκανδαλώδεις απαλλαγές από τη Δικαιοσύνη. Σπάνια περίπτωση ο Επαμειν",
+          "title": "Το Ιράν απαντά στις ΗΠΑ με νέες επιθέσεις στον Κόλπο: «Να ετοιμάζονται για κύμα drones και πυραύλων»",
+          "url": "https://www.efsyn.gr/kosmos/1432213/to-iran-apanta-stis-ipa-me-nees-epitheseis-ston-kolpo-na-etoimazontai-gia-kyma-drones-kai-pyraylon/",
+          "snippet": "Παράλληλα, οι Φρουροί της Επανάστασης ανακοίνωσαν ότι σταμάτησαν άλλα δυο πετρελαιοφόρα στα Στενά του Ορμούζ.",
           "source": "EfSyn"
         },
         {
-          "title": "Διπλωματικό «επεισόδιο» Τεχεράνης – Παρισιού: Γάλλοι διπλωμάτες συνελήφθησαν επί ώρες από την ιρανική ασφάλεια",
-          "url": "https://www.efsyn.gr/kosmos/1432091/diplomatiko-epeisodio-teheranis-parisioy-galloi-diplomates-synelifthisan-epi-ores-apo-tin-iraniki-asfaleia/",
-          "snippet": "Ο ΥΠΕΞ Ζαν Νοέλ Μπαρό δήλωσε: «Ενημέρωσα τον υπουργό Εξωτερικών του Ιράν ότι αυτές οι εξαιρετικά σοβαρές και απαράδεκτες παραβιάσεις της ακεραιότητας των υπαλλήλων μας δεν θα μπορούσαν να μείνουν χωρίς συνέπειες».",
+          "title": "Press Point: Όσο κοστίζει ένα τριάρι διαμέρισμα, ρετιρέ",
+          "url": "https://www.efsyn.gr/stiles/1432201/press-point-oso-kostizei-ena-triari-diamerisma-retire/",
+          "snippet": "Δεν είναι μόνο ο ΟΠΕΚΕΠΕ, το επόμενο διάστημα σκάει και νέο σκάνδαλο που ψάχνει η Ευρωπαϊκή Εισαγγελία, αυτό που αφορά τα «σπιτάκια ανακύκλωσης». Είναι τα γνωστά πράσινα σπιτάκια που βλέπουμε σε πολλές συνοικίες της Αθήνας αλλά και σε πόλεις της επαρχίας, σπιτάκια που πληρώθηκαν ",
           "source": "EfSyn"
         },
         {
-          "title": "Απειλές Τραμπ κατά του Ιράν: «Κάθε φορά που σκοτώνετε Αμερικανό στρατιώτη θα πληρώνετε πολλαπλάσιο τίμημα»",
-          "url": "https://www.efsyn.gr/kosmos/1432082/apeiles-tramp-kata-toy-iran-kathe-fora-poy-skotonete-amerikano-stratioti-tha-plironete-pollaplasio-timima/",
-          "snippet": "Αντιφατικά μηνύματα Τραμπ, καθώς η Ουάσιγκτον δηλώνει ανοιχτή σε εκεχειρία και ο ίδιος απειλεί το Ιράν.",
+          "title": "Μυστήριο στην Καλαμπάκα: Γυναίκα εντοπίστηκε νεκρή σε κλειστό τμήμα του Ε65",
+          "url": "https://www.efsyn.gr/ellada/1432200/kalampaka-ilikiomeni-vrethike-nekri-mesa-se-kleisto-tmima-toy-neoy-aytokinitodromoy-e65/",
+          "snippet": "Φως στα αίτια του θανάτου αναμένεται να ρίξει η νεκροψία-νεκροτομή.",
           "source": "EfSyn"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Φώτης Ιωαννίδης: Επέστρεψε με γκολ έπειτα από πέντε μήνες",
-        "url": "https://www.gazzetta.gr/football/diethni-filika/2555808/fotis-ioannidis-epestrepse-me-gkol-epeita-apo-pente-mines",
-        "snippet": "Ο διεθνής φορ Φώτης Ιωαννίδης αγωνίστηκε στο φιλικό της Σπόρτινγκ με τη Στρασμπούρ και σημείωσε το 7-0!",
+        "title": "Η νύχτα που ο Νίκος Σεργιανόπουλος βρέθηκε νεκρός",
+        "url": "https://www.gazzetta.gr/plus/2555844/i-nyhta-poy-o-nikos-sergianopoylos-brethike-nekros",
+        "snippet": "Από τις πιο χαρακτηριστικές μορφές της ελληνικής τηλεόρασης, ο Νίκος Σεργιανόπουλος άφησε ανεξίτηλο το στίγμα του στην υποκριτική, μέχρι που η τραγική του δολοφονία το 2008 συγκλόνισε ολόκληρη τη χώρα",
         "source": "Gazzetta"
       },
       "items": [
         {
+          "title": "Συναγερμός έξω από την Ακρόπολη: Επίθεση με μαχαίρι σε δύο Αμερικανούς τουρίστες",
+          "url": "https://www.gazzetta.gr/plus/2555846/synagermos-exo-apo-tin-akropoli-epithesi-me-mahairi-se-dyo-amerikanoys-toyristes",
+          "snippet": "Συναγερμός σήμανε το πρωί της Τρίτης έξω από την Ακρόπολη, όταν άνδρας με μαχαίρι επιτέθηκε σε δύο Αμερικανούς τουρίστες, τραυματίζοντάς τους ελαφρά.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τόκιο: Η αχανής πόλη που “διαστέλλεται” συνεχώς",
+          "url": "https://www.gazzetta.gr/plus/2555840/tokio-i-ahanis-poli-poy-diastelletai-synehos",
+          "snippet": "Η πρωτεύουσα της Ιαπωνίας είναι ένα οικονομικό, διοικητικό και πολιτιστικό μέγεθος που δύσκολα συγκρίνεται με οτιδήποτε άλλο στον κόσμο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Προετοιμασία Ολυμπιακού: Γιατί ο Ζότα «υποκλίθηκε» στον Τζολάκη",
+          "url": "https://www.gazzetta.gr/football/superleague/2555725/proetoimasia-olympiakoy-giati-o-zota-ypoklithike-ston-tzolaki",
+          "snippet": "Ο Ζότα Σίλβα έσπευσε να αγκαλιάσει και να συγχαρεί τον Κωνσταντή Τζολάκη στην προπόνηση της Δευτέρας και υπήρχε λόγος για αυτό. ΟΛΛΑΝΔΙΑ - ΠΡΟΕΤΟΙΜΑΣΙΑ: ΔΗΜΗΤΡΗΣ ΤΟΜΑΡΑΣ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χεζόνια: Τι ισχύει με την περίπτωσή του και το... παράθυρο που αφήνει ανοιχτό την EuroLeague",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2555845/hezonia-ti-ishyei-me-tin-periptosi-toy-kai-parathyro-poy-afinei",
+          "snippet": "Ο Μάριο Χεζόνια ενεργοποίησε τη ρήτρα που του επιτρέπει να αποχωρήσει για το NBA, όμως αυτό δεν σημαίνει ότι θα αγωνίζεται στην αντίπερα όχθη του Ατλαντικού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αρχαιολόγοι ανακάλυψαν έναν δρόμο ηλικίας 7.000 ετών κρυμμένο κάτω από τα νερά της Αδριατικής",
+          "url": "https://www.gazzetta.gr/plus/2555842/arhaiologoi-anakalypsan-enan-dromo-ilikias-7000-eton-krymmeno-kato-apo-ta-nera-tis",
+          "snippet": "Η εντυπωσιακή ανακάλυψη έγινε στον βυθισμένο αρχαιολογικό χώρο Soline, έναν από τους σημαντικότερους προϊστορικούς υποθαλάσσιους οικισμούς της Μεσογείου",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πινέδα: «Είμαι πάντα ευγνώμων για τον Αλμέιδα»",
+          "url": "https://www.gazzetta.gr/football/superleague/2555843/pineda-eimai-panta-eygnomon-gia-ton-almeida",
+          "snippet": "Ο Ορμπελίν Πινέδα έφτασε στο Μοντερέι κι έκανε τις πρώτες του δηλώσεις ως ποδοσφαιριστής της τοπικής ομάδας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Ποιος είναι ο 16χρονος Ιάσωνας Βαρβαρίτης μέσω του οποίου χτίζεται τη νέα γενιά",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2555839/panathinaikos-poios-einai-o-16hronos-iasonas-barbaritis-meso-toy",
+          "snippet": "Μετά τις κινήσεις για τους Μακαρατζή, Μουτάφη και Παναγιωτόπουλο, ο Παναθηναϊκός βρίσκεται κοντά στην απόκτηση του 16χρονου Ιάσωνα Βαρβαρίτη, ενός από τα μεγαλύτερα πρότζεκτ της γενιάς του.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το ψηφιακό μας αποτύπωμα που δεν σβήνει ποτέ",
+          "url": "https://www.gazzetta.gr/plus/2555838/psifiako-mas-apotypoma-poy-den-sbinei-pote",
+          "snippet": "Οι αναρτήσεις στα μέσα κοινωνικής δικτύωσης, τα σχόλια, ακόμα και οι παλιές φωτογραφίες μας μπορούν να επηρεάσουν την επαγγελματική μας προοπτική περισσότερο από όσο φανταζόμαστε.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Θέλεις να γίνεις πιο έξυπνος; Ακολούθησε τις 9 καθημερινές συνήθειες όσων έχουν πολύ υψηλό IQ.",
+          "url": "https://www.gazzetta.gr/plus/2555835/theleis-na-gineis-pio-exypnos-akoloythise-tis-9-kathimerines-synitheies-oson-ehoyn",
+          "snippet": "Αν θέλεις να ενισχύσεις τις νοητικές σου ικανότητες, γνωρίζουμε ποιες αλλαγές πρέπει να κάνεις στην καθημερινότητά σου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (21/7)",
+          "url": "https://www.gazzetta.gr/2555836/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-217",
+          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κλιμακώνεται η ένταση στα Στενά του Ορμούζ: Νέα νυχτερινά πλήγματα στο Ιράν από τις ΗΠΑ για 10η συνεχόμενη νύχτα",
+          "url": "https://www.gazzetta.gr/plus/2555834/klimakonetai-i-entasi-sta-stena-toy-ormoyz-nea-nyhterina-pligmata-sto-iran-apo-tis-ipa",
+          "snippet": "Οι ΗΠΑ ανακοίνωσαν ότι πραγματοποίησαν νέα πλήγματα στο Ιράν για 10η συνεχόμενη νύχτα, στοχεύοντας στρατιωτικές εγκαταστάσεις και δυνατότητες της Τεχεράνης στα Στενά του Ορμούζ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "32 προϊστορικά σύμβολα σε σπήλαια της Ευρώπης ίσως αποτελούν το αρχαιότερο σύστημα επικοινωνίας",
+          "url": "https://www.gazzetta.gr/plus/2554071/32-proistorika-symbola-se-spilaia-tis-eyropis-isos-apoteloyn-arhaiotero-systima",
+          "snippet": "Μια έρευνα σε περισσότερα από 350 προϊστορικά σπήλαια αποκάλυψε 32 επαναλαμβανόμενα σύμβολα, που ίσως συνθέτουν ένα από τα αρχαιότερα συστήματα επικοινωνίας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φώτης Ιωαννίδης: Επέστρεψε με γκολ έπειτα από πέντε μήνες",
+          "url": "https://www.gazzetta.gr/football/diethni-filika/2555808/fotis-ioannidis-epestrepse-me-gkol-epeita-apo-pente-mines",
+          "snippet": "Ο διεθνής φορ Φώτης Ιωαννίδης αγωνίστηκε στο φιλικό της Σπόρτινγκ με τη Στρασμπούρ και σημείωσε το 7-0!",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Ελλάδα-Σερβία 77-79: Έχασαν στην παράταση οι Νεάνιδες",
           "url": "https://www.gazzetta.gr/basketball/2555807/ellada-serbia-77-79-ehasan-stin-paratasi-oi-neanides",
           "snippet": "Στην παράταση λύγισε (79-77) η Εθνική Νεανίδων κόντρα στη Σερβία σε φιλικό παιχνίδι που διεξήχθη στο κλειστό της Γέφυρας στη Θεσσαλονίκη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τελικός Μουντιάλ 2026: Η FIFA ανοίγει φάκελο για την Αργεντινή μετά τον τελικό",
-          "url": "https://www.gazzetta.gr/football/mundial/2555806/telikos-moyntial-2026-i-fifa-anoigei-fakelo-gia-tin-argentini-meta-ton",
-          "snippet": "Η FIFA αναμένεται να ανοίξει πειθαρχική έρευνα για τα γεγονότα που ακολούθησαν τον τελικό του Παγκοσμίου Κυπέλλου 2026 ανάμεσα στην Αργεντινή και την Ισπανία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο Κίγκαν δεν κυνήγησε αγάλματα...",
-          "url": "https://www.gazzetta.gr/football/premier-league/2555805/o-kigkan-den-kynigise-agalmata",
-          "snippet": "Ο Κέβιν Κίγκαν έφυγε από τη ζωή στα 75 του χρόνια, αφήνοντας πίσω του μια διαδρομή γεμάτη πάθος και ανεκτίμητες ποδοσφαιρικές στιγμές. Μακριά από τη λάμψη, άφησε το δικό του ανεξίτηλο σημάδι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Όχι» 13 εκατ. ευρώ από 86χρονο αγρότη: Αρνήθηκε να γίνει η γη του κέντρο δεδομένων τεχνητής νοημοσύνης",
-          "url": "https://www.gazzetta.gr/plus/2555798/ohi-13-ekat-eu-apo-86hrono-agroti-arnithike-na-ginei-i-gi-toy-kentro-dedomenon",
-          "snippet": "86χρονος αγρότης στην Πενσυλβάνια αρνήθηκε προσφορά 13 εκατ. ευρώ για την κατασκευή κέντρου δεδομένων τεχνητής νοημοσύνης, προτιμώντας να διατηρήσει την οικογενειακή του γη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Aργεντινή: Εχασε σαν μικρή ομάδα στο μουντιαλικό φινάλε του τεράστιου",
-          "url": "https://www.gazzetta.gr/football/mundial/2555799/argentini-ehase-san-mikri-omada-sto-moyntialiko-finale-toy-terastioy",
-          "snippet": "Ο Γιάννης Σερέτης γράφει για την πολύ «λίγη» εμφάνιση της Παγκόσμιας Πρωταθλήτριας και τη δίκαιη επικράτηση της Ισπανίας στον τελικό που θα θυμόμαστε για τον Μέσι και το «ταμπούρι με διπλό πούλμαν» του Σκαλόνι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μουντιάλ 2026: Εκατομμύρια Ισπανοί υποδέχτηκαν τους πρωταθλητές κόσμου",
-          "url": "https://www.gazzetta.gr/football/mundial/2555804/moyntial-2026-ekatommyria-ispanoi-ypodehtikan-toys-protathlites-kosmoy",
-          "snippet": "Σχεδόν δύο εκατομμύρια Ισπανοί βγήκαν στους δρόμους της Μαδρίτης για να υποδεχτούν τους πρωταθλητές κόσμου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναιτωλικός: «Ανάσες» και αποφόρτιση μέχρι την Παρασκευή",
-          "url": "https://www.gazzetta.gr/football/superleague/2555803/panaitolikos-anases-kai-apofortisi-mehri-tin-paraskeyi",
-          "snippet": "Ο Γιάννης Αναστασίου έδωσε άδεια στους παίκτες του Παναιτωλικού μέχρι την ερχόμενη Παρασκευή (24/7) και από το Σάββατο θα γεμίσει ξανά το «Emileon».",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Χουάνγκ: Νέα αλλαγή ομάδας, τον πήρε η Πόρτο σε τιμή ευκαιρίας",
-          "url": "https://www.gazzetta.gr/football/primeira-liga/2555802/hoyangk-nea-allagi-omadas-ton-pire-i-porto-se-timi-eykairias",
-          "snippet": "Την απόκτηση του Ίνμπομ Χουάνγκ από τη Φέγενορντ ανακοίνωσε η Πόρτο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βόλος: Ξεμούδιασμα με επτάρα",
-          "url": "https://www.gazzetta.gr/football/superleague/2555801/bolos-xemoydiasma-me-eptara",
-          "snippet": "Ο Βόλος στην πρώτη του φιλική αναμέτρηση νίκησε 7-0 τον Σαρακηνό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Super League 2: Αντωνόπουλος και Χριστοφιλέας οι κορυφαίοι προπονητές της σεζόν",
-          "url": "https://www.gazzetta.gr/football/superleague/2555800/super-league-2-antonopoylos-kai-hristofileas-oi-koryfaioi-proponites",
-          "snippet": "Ο Γιώργος Αντωνόπουλος και ο Παναγιώτης Χριστοφιλέας αναδείχθηκαν οι κορυφαίοι προπονητές των δυο Ομίλων της περσινής Super League 2.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λεσόρ: Αποχαιρέτησε τον Όσμαν",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2555797/lesor-apohairetise-ton-osman",
-          "snippet": "Ο Ματίας Λεσόρ μέσω ενός story στο Instagram, αποχαιρέτησε τον Τσέντι Όσμαν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ο ΠΑΟΚ δεν παρουσίασε απλώς τον Όσμαν, αλλά το όραμα της νέας εποχής!",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2555794/o-paok-den-paroysiase-aplos-ton-osman-alla-orama-tis-neas-epohis",
-          "snippet": "Η μεγαλύτερη μεταγραφή στη σύγχρονη ιστορία του ΠΑΟΚ, ο Τσέντι Όσμαν, δεν ήταν θέμα τύχης, αλλά πίστης από έναν σπουδαίο παίκτη σ' ένα μεγάλο σχέδιο. Όσα συνέβησαν στην PAOK Sports Arena στην παρουσίαση του Τούρκου φόργουορντ απέδειξαν ότι ο «δικέφαλος» δεν θέλει πλέον να θυμάται",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κροατία: Τσέχοι τουρίστες βρήκαν τσάντα Louis Vuitton με 45.300 ευρώ, κράτησαν τα χρήματα και κατέληξαν στη φυλακή",
-          "url": "https://www.gazzetta.gr/plus/2555787/kroatia-tsehoi-toyristes-brikan-tsanta-louis-vuitton-me-45300-eyro-kratisan-ta-hrimata",
-          "snippet": "Δύο 27χρονοι Τσέχοι συνελήφθησαν στην Κροατία, όταν βρήκαν μια πολύτιμη τσάντα με δεκάδες χιλιάδες ευρώ και αρνήθηκαν να την παραδώσουν στις αρχές.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Έφυγαν την πρώτη μέρα 2.836 διαρκείας",
-          "url": "https://www.gazzetta.gr/football/superleague/2555796/paok-efygan-tin-proti-mera-2836-diarkeias",
-          "snippet": "Το μήνυμα της ΠΑΕ ΠΑΟΚ μετά την πρώτη μέρα διάθεσης των διαρκείας.",
           "source": "Gazzetta"
         }
       ]
