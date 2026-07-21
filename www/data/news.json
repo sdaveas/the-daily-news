@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T21:02:23.509312+00:00",
+  "updated": "2026-07-21T01:52:19.501946+00:00",
   "sections": [
     {
       "id": "greek",
@@ -114,7 +114,7 @@
           "source": "NYT World"
         },
         {
-          "title": "Burnham’s Day 1 as Prime Minister: A Homeless Shelter, a Palace and Downing Street",
+          "title": "Inside Andy Burnham’s 1st Day as U.K. Prime Minister",
           "url": "https://www.nytimes.com/2026/07/20/world/europe/andy-burnham-uk.html",
           "snippet": "As Andy Burnham became Britain’s seventh leader in a decade on Monday, he tried to show that he will govern differently.",
           "source": "NYT World"
@@ -126,9 +126,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Israel’s Ambassador to U.N. Lashes Out at Mamdani Over Netanyahu Arrest Threats",
+          "title": "Trump Says Netanyahu Will Not Be Arrested in the U.S.",
           "url": "https://www.nytimes.com/2026/07/20/world/middleeast/israel-un-mamdani-netanyahu-arrest.html",
-          "snippet": "The “threat is empty,” the ambassador, Danny Danon, said in an address to the U.N. General Assembly.",
+          "snippet": "New York’s mayor, Zohran Mamdani, told The New York Times, he was looking into whether he could arrest Prime Minister Benjamin Netanyahu when he comes to New York for the U.N. General Assembly.",
           "source": "NYT World"
         },
         {
@@ -180,15 +180,15 @@
           "source": "NYT World"
         },
         {
-          "title": "Epidemics and Rage",
-          "url": "https://www.nytimes.com/2026/07/20/world/epidemics-rage-ebola-first-responders.html",
-          "snippet": "Societies have always struggled with hostile reactions to health care workers during epidemics. Why?",
+          "title": "At Least 27 Dead in Guyana After Ferry Capsizes",
+          "url": "https://www.nytimes.com/2026/07/20/world/americas/guyana-ferry-sinking-barima.html",
+          "snippet": "Dozens of others are feared dead as crews scour for bodies after the vessel sank on its way to a gold-mining outpost in the South American country.",
           "source": "NYT World"
         },
         {
-          "title": "Evacuees of Ontario’s Wildfires Wait and Worry",
-          "url": "https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html",
-          "snippet": "Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.",
+          "title": "Daniel Ortega, President of Nicaragua, Says He Plans to Abolish Elections",
+          "url": "https://www.nytimes.com/2026/07/20/world/americas/nicaragua-ortega-abolish-elections.html",
+          "snippet": "Daniel Ortega has been accused of rigging recent elections in Nicaragua. Now, the authoritarian leader says the nation won’t even hold a vote.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,36 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "AI’s most important protocol is getting a little bit easier to use",
-        "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-        "snippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, in",
+        "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "snippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Colossal Biosciences reportedly in talks to raise new capital at $20B–$30B valuation",
+          "url": "https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/",
+          "snippet": "The de-extinction startup is looking to double or triple its previous valuation, according to the report.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump’s latest AI czar has already resigned",
+          "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+          "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI’s most important protocol is getting a little bit easier to use",
+          "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+          "source": "TechCrunch"
+        },
         {
           "title": "X relaunches a rebuilt Android app after year-long effort",
           "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -262,30 +286,6 @@
           "url": "https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/",
           "snippet": "Flock Safety sits right at the center of the debate over where the line should be drawn between privacy and public safety. That’s why we’re bringing Flock’s founder and CEO Garrett Langley to the stage to speak about those very issues.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Hugging Face confirms breach affected internal datasets and credentials, urges users to take action",
-          "url": "https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/",
-          "snippet": "Hugging Face is urging users to rotate any access tokens stored on the platform and review account activity.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "StrictlyVC returns to New York City September 10 to celebrate a huge year for the city’s startup community",
-          "url": "https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/",
-          "snippet": "For the first time since 2024, StrictlyVC is coming back to New York City — and we're bringing the kind of access you’d expect from an under-wraps event to the whole startup, VC, and dealmaking community.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Netflix paid $587M for Ben Affleck’s AI filmmaking startup",
-          "url": "https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/",
-          "snippet": "Netflix revealed that it paid $587 million in cash for InterPositive, a startup co-founded by Ben Affleck.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "What to watch for after Jensen Huang’s Japan visit",
-          "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-          "snippet": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ελλάδα-Σερβία 77-79: Έχασαν στην παράταση οι Νεάνιδες",
-        "url": "https://www.gazzetta.gr/basketball/2555807/ellada-serbia-77-79-ehasan-stin-paratasi-oi-neanides",
-        "snippet": "Στην παράταση λύγισε (79-77) η Εθνική Νεανίδων κόντρα στη Σερβία σε φιλικό παιχνίδι που διεξήχθη στο κλειστό της Γέφυρας στη Θεσσαλονίκη.",
+        "title": "Φώτης Ιωαννίδης: Επέστρεψε με γκολ έπειτα από πέντε μήνες",
+        "url": "https://www.gazzetta.gr/football/diethni-filika/2555808/fotis-ioannidis-epestrepse-me-gkol-epeita-apo-pente-mines",
+        "snippet": "Ο διεθνής φορ Φώτης Ιωαννίδης αγωνίστηκε στο φιλικό της Σπόρτινγκ με τη Στρασμπούρ και σημείωσε το 7-0!",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ελλάδα-Σερβία 77-79: Έχασαν στην παράταση οι Νεάνιδες",
+          "url": "https://www.gazzetta.gr/basketball/2555807/ellada-serbia-77-79-ehasan-stin-paratasi-oi-neanides",
+          "snippet": "Στην παράταση λύγισε (79-77) η Εθνική Νεανίδων κόντρα στη Σερβία σε φιλικό παιχνίδι που διεξήχθη στο κλειστό της Γέφυρας στη Θεσσαλονίκη.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τελικός Μουντιάλ 2026: Η FIFA ανοίγει φάκελο για την Αργεντινή μετά τον τελικό",
           "url": "https://www.gazzetta.gr/football/mundial/2555806/telikos-moyntial-2026-i-fifa-anoigei-fakelo-gia-tin-argentini-meta-ton",
@@ -376,12 +382,6 @@
           "url": "https://www.gazzetta.gr/football/superleague/2555796/paok-efygan-tin-proti-mera-2836-diarkeias",
           "snippet": "Το μήνυμα της ΠΑΕ ΠΑΟΚ μετά την πρώτη μέρα διάθεσης των διαρκείας.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Χεζόνια: Αφήνει τη Ρεάλ Μαδρίτης και επιστρέφει στο NBA",
-          "url": "https://www.gazzetta.gr/basketball/nba/2555795/hezonia-afinei-ti-real-madritis-kai-epistrefei-sto-nba",
-          "snippet": "Ο Μάριο Χεζόνια φαίνεται ότι αποφάσισε να αφήσει τη Ρεάλ Μαδρίτης και να συνεχίσει στο NBA.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "A Mathematical Tribute to the Soccer Ball",
-          "url": "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html",
-          "snippet": "As the World Cup final approaches, take a moment to appreciate the beautiful symmetries of humanity’s favorite truncated icosahedron.",
+          "title": "The Sewer Knows What You Ate",
+          "url": "https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html",
+          "snippet": "During the Covid-19 pandemic, wastewater testing became a virus warning system. Now, scientists are using the approach to understand how communities eat.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
-          "url": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
-          "snippet": "They’re less dense than cotton candy, and they will help astrophysicists better understand the most unusual ways giant planets can form.",
+          "title": "A Mathematical Tribute to the Soccer Ball",
+          "url": "https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html",
+          "snippet": "As the World Cup final approaches, take a moment to appreciate the beautiful symmetries of humanity’s favorite truncated icosahedron.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Why Does Wildfire Smoke Turn the Sky Orange?",
-          "url": "https://www.nytimes.com/2026/07/16/weather/smoke-sky-orange-red.html",
-          "snippet": "It’s about how light scatters in our atmosphere.",
+          "title": "Rare Pair of Improbably Light ‘Super-Puff’ Planets Is Discovered",
+          "url": "https://www.nytimes.com/2026/07/17/science/space/two-super-puff-planets-discovered.html",
+          "snippet": "They’re less dense than cotton candy, and they will help astrophysicists better understand the most unusual ways giant planets can form.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
-          "url": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
-          "snippet": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system.",
+          "title": "Why Does Wildfire Smoke Turn the Sky Orange?",
+          "url": "https://www.nytimes.com/2026/07/16/weather/smoke-sky-orange-red.html",
+          "snippet": "It’s about how light scatters in our atmosphere.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Archaeologists Unearth a 2,400-Year-Old Sanctuary for the Worship of Odysseus",
-          "url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
-          "snippet": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
+          "title": "Astronomers Find an Atmosphere on a Nearby Earthlike Planet",
+          "url": "https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html",
+          "snippet": "It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Meet Earth’s Newest Monkey. (And Check Out Its Orange Lips.)",
-          "url": "https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html",
-          "snippet": "It is only the fifth new African monkey identified as a new species in the past 75 years.",
+          "title": "Archaeologists Unearth a 2,400-Year-Old Sanctuary for the Worship of Odysseus",
+          "url": "https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html",
+          "snippet": "The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.",
           "source": "NYT Science"
         },
         {
