@@ -1,16 +1,34 @@
 {
-  "updated": "2026-07-21T20:58:40.786984+00:00",
+  "updated": "2026-07-22T01:51:22.921899+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Λίβερπουλ: Ινδός δισεκατομμυριούχος επιθυμεί να αγοράσει πακέτο μετοχών του συλλόγου",
-        "url": "https://www.efsyn.gr/athlitismos/1432869/liverpoyl-indos-disekatommyrioyhos-epithymei-na-agorasei-paketo-metohon-toy-syllogoy/",
-        "snippet": "Εάν η συμφωνία ολοκληρωθεί, η συνολική αξία της Λίβερπουλ θα ξεπεράσει τα 5,25 δισ. ευρώ.",
+        "title": "Γνωστός ποινικολόγος βρέθηκε νεκρός στο γραφείο του – Έρευνες για εγκληματική ενέργεια",
+        "url": "https://www.efsyn.gr/ellada/1432878/gnostos-poinikologos-vrethike-nekros-sto-grafeio-toy-ereynes-gia-egklimatiki-energeia/",
+        "snippet": "Σύμφωνα με πληροφορίες, τον δικηγόρο εντόπισαν, θανάσιμα τραυματισμένο, τα παιδιά του.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ουκρανία: Ο Ζελένσκι απομάκρυνε τον αρχηγό του γενικού επιτελείου στρατού Σίρσκι μετά τις αντιδράσεις",
+          "url": "https://www.efsyn.gr/kosmos/1432875/oykrania-o-zelenski-apomakryne-ton-arhigo-toy-genikoy-epiteleioy-stratoy-sirski-meta-tis-antidraseis/",
+          "snippet": "Ο 60χρονος Σίρσκι επικρινόταν από μερίδα της κοινής γνώμης, πολιτικούς και στρατιωτικούς ότι αδιαφορούσε για τις απώλειες ζωών.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Βουλή: Ψηφίστηκαν η τροπολογία για τις συντάξεις χηρείας και οι ρυθμίσεις για τα ηλεκτρονικά πατίνια",
+          "url": "https://www.efsyn.gr/politiki/1432872/voyli-psifistikan-i-tropologia-gia-tis-syntaxeis-hireias-kai-oi-rythmiseis-gia-ta-ilektronika-patinia/",
+          "snippet": "Στο Εθνικό Τυπογραφείο οδεύει, μετά την ψήφισή του -κατά πλειοψηφία- από την ολομέλεια της Βουλής, το νομοσχέδιο του υπουργείου Κοινωνικής Συνοχής και Οικογένειας, με τίτλο «Προσωπικός Βοηθός, Πρώιμη Παρέμβαση και λοιπές ενεργητικές πολιτικές για άτομα με αναπηρία, ρυθμίσεις στεγ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Λίβερπουλ: Ινδός δισεκατομμυριούχος επιθυμεί να αγοράσει πακέτο μετοχών του συλλόγου",
+          "url": "https://www.efsyn.gr/athlitismos/1432869/liverpoyl-indos-disekatommyrioyhos-epithymei-na-agorasei-paketo-metohon-toy-syllogoy/",
+          "snippet": "Εάν η συμφωνία ολοκληρωθεί, η συνολική αξία της Λίβερπουλ θα ξεπεράσει τα 5,25 δισ. ευρώ.",
+          "source": "EfSyn"
+        },
         {
           "title": "Τουρκία: Ο Οζγκιούρ Οζέλ παραιτήθηκε από το CHP – Ανακοίνωσε την ίδρυση νέου κόμματος",
           "url": "https://www.efsyn.gr/kosmos/1432867/toyrkia-o-ozgkioyr-ozel-paraitithike-apo-to-chp-anakoinose-tin-idrysi-neoy-kommatos/",
@@ -75,24 +93,6 @@
           "title": "La La Land: Άλλαξε η αφίσα της ταινίας 10 χρόνια μετά – Η διάσημη πόζα του Γκόσλινγκ που ο ίδιος δεν αγάπησε ποτέ",
           "url": "https://www.efsyn.gr/life/1432835/la-la-land-allaxe-i-afisa-tis-tainias-10-hronia-meta-i-diasimi-poza-toy-gkoslingk-poy-o-idios-den-agapise-pote/",
           "snippet": "Το δημοφιλές μιούζικαλ επιστρέφει στη μεγάλη οθόνη με διορθωμένο το χέρι του Ράιαν Γκόσλινγκ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πρωτοδικείο Αθηνών: Απορρίφθηκε η αγωγή του Γρηγόρη Δημητριάδη κατά του Θανάση Κουκάκη",
-          "url": "https://www.efsyn.gr/ellada/1432808/protodikeio-athinon-aporrifthike-i-agogi-toy-grigori-dimitriadi-kata-toy-thanasi-koykaki/",
-          "snippet": "Ο πρώην γενικός γραμματέας του πρωθυπουργού είχε κινηθεί νομικά για δημόσιες τοποθετήσεις και αναρτήσεις του δημοσιογράφου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά σε εγκαταλελειμμένο κτίριο κοντά στο Ολυμπιακό Χωριό",
-          "url": "https://www.efsyn.gr/ellada/1432826/pyrkagia-se-egkataleleimmeno-ktirio-konta-sto-olympiako-horio/",
-          "snippet": "Η φωτιά καίει κυρίως απορρίμματα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στο κόκκινο η χώρα την Τετάρτη για καύσωνα και πυρκαγιές: Ποιες περιοχές μπαίνουν σε κατάσταση συναγερμού – Όλα τα μέτρα",
-          "url": "https://www.efsyn.gr/ellada/1432798/sto-kokkino-i-hora-tin-tetarti-gia-kaysona-kai-pyrkagies-poies-periohes-mpainoyn-se-katastasi-synagermoy-ola-ta-metra/",
-          "snippet": "Απαγόρευση της κυκλοφορίας λόγω κινδύνου πυρκαγιάς και μέτρα για τους εργαζόμενους.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Water Plants Under Fire in the Gulf Are Crucial to Civilians",
-          "url": "https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html",
-          "snippet": "Several days of airstrikes have hit water and energy plants in Kuwait, a nation that relies on desalination for 90 percent of its drinking water.",
+          "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
+          "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
+          "snippet": "President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.",
           "source": "NYT World"
         }
       ]
@@ -197,15 +197,27 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "These are the countries moving to ban social media for children",
-        "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
-        "snippet": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+        "title": "Dimension Capital’s $800M third fund shows the intersection of science and compute is booming",
+        "url": "https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/",
+        "snippet": "The four-year-old firm's latest fund is 60% larger than its second vehicle announced 18 months ago.",
         "source": "TechCrunch"
       },
       "items": [
         {
-          "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+          "title": "Meta is testing an AI bedtime story app for people with no imagination",
+          "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+          "snippet": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "These are the countries moving to ban social media for children",
+          "url": "https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/",
+          "snippet": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI says Hugging Face was breached by its pre-release models",
+          "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
           "snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
           "source": "TechCrunch"
         },
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
           "snippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Light made a flip phone — it’s colorful and it’s cheap",
-          "url": "https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/",
-          "snippet": "Light co-founder Kaiwei Tang helped create the Motorola Razr, and he's as surprised as anyone that over 20 years later, the flip phone is relevant again.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After TikTok, Snap settles social media addiction case",
-          "url": "https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/",
-          "snippet": "TikTok recently settled its portion of the case with the plaintiff ahead of a jury trial that starts next week in Los Angeles. YouTube has also reached a deal, leaving Meta as the only remaining defendant.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΑΕΚ: Ο Κάνγκουα σκόραρε στην ήττα της Μπερ Σεβά στην Ισλανδία",
-        "url": "https://www.gazzetta.gr/football/champions-league/2556019/aek-o-kangkoya-skorare-stin-itta-tis-mper-seba-stin-islandia",
-        "snippet": "Ο Κινγκς Κάνγκουα που απασχολεί την ΑΕΚ χρίστηκε σκόρερ στην ήττα της Χάποελ Μπερ Σεβά από τη Βίκινγκουρ με 2-1.",
+        "title": "Τσέλσι: Ρότζερς και με τη... βούλα στο Λονδίνο (vid)",
+        "url": "https://www.gazzetta.gr/football/premier-league/2556024/tselsi-rotzers-kai-me-ti-boyla-sto-londino-vid",
+        "snippet": "Ο Μόργκαν Ρότζερς είναι παίκτης της Τσέλσι με κάθε επισημότητα. Οι Μπλε αγόρασαν τον 24χρονο από την Άστον Βίλα έναντι ενός ποσού που αγγίζει τα 140 εκατ. ευρώ.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Champions League: Τα πεπραγμένα των αντιπάλων που ενδιαφέρουν την ΑΕΚ",
+          "url": "https://www.gazzetta.gr/football/champions-league/2556023/champions-league-ta-pepragmena-ton-antipalon-poy-endiaferoyn-tin",
+          "snippet": "Οι αγώνες του δεύτερου προκριματικού γύρου του Champions League άρχισαν και τα τέσσερα ζευγάρια που ενδιαφέρουν άμεσα την ΑΕΚ έδωσαν τους πρώτους αγώνες τους.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΟΦΗ: «Ο Κωστούλας στη λίστα των Κολόμπους Κρου και Σπάρτα Ρότερνταμ»",
+          "url": "https://www.gazzetta.gr/football/superleague/2556022/ofi-o-kostoylas-sti-lista-ton-kolompoys-kroy-kai-sparta-roterntam",
+          "snippet": "Μεταγραφικό σενάριο για τον Κωνσταντίνο Κωστούλα του ΟΦΗ από τον Ιταλό ρεπόρτερ Νίκολο Σκίρα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τελικός Ισπανία - Αργεντινή: Βάσκοι αυτονομιστές επιτέθηκαν σε Ισπανούς στρατιώτες",
+          "url": "https://www.gazzetta.gr/football/mundial/2556020/telikos-ispania-argentini-baskoi-ethnikistes-epitethikan-se-ispanoys",
+          "snippet": "Σοβαρό επεισόδιο σημειώθηκε στην πόλη Ναβάρα όταν Βάσκοι αυτονομιστές φέρονται να επιτέθηκαν σε Ισπανούς στρατιώτες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Ο Κάνγκουα σκόραρε στην ήττα της Μπερ Σεβά στην Ισλανδία",
+          "url": "https://www.gazzetta.gr/football/champions-league/2556019/aek-o-kangkoya-skorare-stin-itta-tis-mper-seba-stin-islandia",
+          "snippet": "Ο Κινγκς Κάνγκουα που απασχολεί την ΑΕΚ χρίστηκε σκόρερ στην ήττα της Χάποελ Μπερ Σεβά από τη Βίκινγκουρ με 2-1.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Παναθηναϊκός: Οι τρεις καλοκαιρινές παγίδες και... «να θυμάσαι τη Βιέννη»",
           "url": "https://www.gazzetta.gr/football/superleague/2556018/panathinaikos-oi-treis-kalokairines-pagides-kai-na-thymasai-ti-bienni",
@@ -358,30 +382,6 @@
           "url": "https://www.gazzetta.gr/basketball/nba/2556009/kari-protos-en-energeia-nbaer-me-ekthesi-sto-hall-fame",
           "snippet": "Ο Στεφ Κάρι έγινε ο πρώτος εν ενεργεία παίκτης του NBA, που έχει τη δική του έκθεση στο Hall of fame.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Κανείς περιορισμός στο ΟΑΚΑ για τη ρεβάνς με την Πάκσι",
-          "url": "https://www.gazzetta.gr/2556008/panathinaikos-kaneis-periorismos-sto-oaka-gia-ti-rebans-me-tin-paksi",
-          "snippet": "Ο Παναθηναϊκός θα έχει σχεδόν όλο το ΟΑΚΑ διαθέσιμο στη ρεβάνς με την Πάκσι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βόλος: «Τσέκαρε τον Ζε Κάρλος, ο παίκτης προτιμάει Championship»",
-          "url": "https://www.gazzetta.gr/football/superleague/2556007/bolos-tsekare-ton-ze-karlos-o-paiktis-protimaei-championship",
-          "snippet": "Σύμφωνα με δημοσίευμα στο εξωτερικό ο Βόλος εξέτασε την υπόθεση του δεξιού μπακ Ζε Κάρλος.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σάμερβιλ: Κοντά στην Αλ Χιλάλ με ηγεμονικό ποσό ο Ολλανδός",
-          "url": "https://www.gazzetta.gr/football/2556006/samerbil-konta-stin-al-hilal-me-igemoniko-symbolaio-o-ollandos",
-          "snippet": "Σύμφωνα με τον Ντέιβιντ Όρνσταϊν, η Αλ Χιλάλ συμφώνησε με τη Γουεστ Χαμ για την απόκτηση του Κρισένσιο Σάμερβιλ, προσφέροντας «γη και ύδωρ» στον αγγλικό σύλλογο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Champions League: Επεισόδια στο Φενέρμπαχτσε - Γκόρνικ Ζάμπρζε",
-          "url": "https://www.gazzetta.gr/football/champions-league/2556005/champions-league-epeisodia-sto-fenermpahtse-gkornik-zamprze",
-          "snippet": "Οι οπαδοί της Γκόρνικ Ζάμπρζε συγκρούστηκαν με την τουρκική αστυνομία πριν τη σέντρα στο ματς με τη Φενέρμπαχτσε.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Like It or Not, Summer Means Storytime at Ballet Theater",
-          "url": "https://www.nytimes.com/2026/07/21/arts/dance/american-ballet-theater-summer-dancer-standouts.html",
-          "snippet": "The company wrapped up its Met season of safe war horses with multiple debuts and a slew of promotions, including the onstage appointment of three principals.",
+          "title": "Whitney Cummings’s Trump Joke at Kennedy Center Is Cut From Netflix Special",
+          "url": "https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html",
+          "snippet": "At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Les Misérables’ in Concert and More: A Show’s Never-Ending Life",
-          "url": "https://www.nytimes.com/2026/07/21/theater/les-miserables-valjean-javert.html",
-          "snippet": "Concert versions and touring productions keep the spirit of 19th-century French revolutionaries alive.",
+          "title": "Like It or Not, Summer Means Storytime at Ballet Theater",
+          "url": "https://www.nytimes.com/2026/07/21/arts/dance/american-ballet-theater-summer-dancer-standouts.html",
+          "snippet": "The company wrapped up its Met season of safe war horses with multiple debuts and a slew of promotions, including the onstage appointment of three principals.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "When Listening to Music Was a Team Sport",
-          "url": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
-          "snippet": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
+          "title": "‘Les Misérables’ in Concert and More: A Show’s Never-Ending Life",
+          "url": "https://www.nytimes.com/2026/07/21/theater/les-miserables-valjean-javert.html",
+          "snippet": "Concert versions and touring productions keep the spirit of 19th-century French revolutionaries alive.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Seth Meyers Calls Trump ‘The Sports Reaper’",
-          "url": "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html",
-          "snippet": "The late-night host joked that the president’s sports curse had struck again after he backed Lionel Messi of Argentina, which then lost the World Cup final to Spain.",
+          "title": "When Listening to Music Was a Team Sport",
+          "url": "https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html",
+          "snippet": "An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Cinephiles Took Their Own Journeys to See ‘The Odyssey’ in IMAX 70mm",
-          "url": "https://www.nytimes.com/2026/07/20/movies/odyssey-imax-70mm-theaters.html",
-          "snippet": "To see Christopher Nolan’s interpretation of an epic journey in his preferred IMAX 70mm format, admirers packed their bags and took out their passports.",
+          "title": "Seth Meyers Calls Trump ‘The Sports Reaper’",
+          "url": "https://www.nytimes.com/2026/07/21/arts/television/late-night-trump-soccer-fifa-curse.html",
+          "snippet": "The late-night host joked that the president’s sports curse had struck again after he backed Lionel Messi of Argentina, which then lost the World Cup final to Spain.",
           "source": "NYT Arts"
         }
       ]
