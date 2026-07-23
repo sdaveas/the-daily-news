@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-22T20:56:08.115779+00:00",
+  "updated": "2026-07-23T01:58:54.223796+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Χαλκιδική: 57χρονος τουρίστας τραυματίστηκε στο κεφάλι έπειτα από βουτιά σε θαλάσσιο πάρκο αναψυχής",
-        "url": "https://www.efsyn.gr/ellada/1433682/halkidiki-57hronos-toyristas-traymatistike-sto-kefali-epeita-apo-voytia-se-thalassio-parko-anapsyhis/",
-        "snippet": "Διακομίστηκε στο Κέντρο Υγείας Αγίου Νικολάου και ακολούθως στο Γενικό Νοσοκομείο Χαλκιδικής για ιατρική περίθαλψη.",
+        "title": "Ισπανία: Αναζωπυρώθηκε η μεγάλη πυρκαγιά – Εκκενώθηκαν κοινότητες κοντά στη Μαδρίτη",
+        "url": "https://www.efsyn.gr/kosmos/1433684/ispania-anazopyrothike-i-megali-pyrkagia-ekkenothikan-koinotites-konta-sti-madriti/",
+        "snippet": "Η χειρότερη δασική πυρκαγιά της Ισπανίας από τις αρχές του έτους έχει κάψει, σύμφωνα με εκτιμήσεις, 320.000 στρέμματα στην περιφέρεια της Γκουανταλαχάρα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Χαλκιδική: 57χρονος τουρίστας τραυματίστηκε στο κεφάλι έπειτα από βουτιά σε θαλάσσιο πάρκο αναψυχής",
+          "url": "https://www.efsyn.gr/ellada/1433682/halkidiki-57hronos-toyristas-traymatistike-sto-kefali-epeita-apo-voytia-se-thalassio-parko-anapsyhis/",
+          "snippet": "Διακομίστηκε στο Κέντρο Υγείας Αγίου Νικολάου και ακολούθως στο Γενικό Νοσοκομείο Χαλκιδικής για ιατρική περίθαλψη.",
+          "source": "EfSyn"
+        },
         {
           "title": "Ιράν: Με απειλές απαντά στις απειλές Τραμπ ο Αραγτσί – «Οφθαλμός αντί οφθαλμού»",
           "url": "https://www.efsyn.gr/kosmos/1433677/iran-me-apeiles-apanta-o-aragtsi-stis-apeiles-tramp-ofthalmos-anti-ofthalmoy/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1433620/vinteo-ntokoymento-o-st-georgioy-pigainei-sto-grafeio-toy-ligo-prin-ti-dolofonia-toy-konta-toy-yparhei-deytero-atomo/",
           "snippet": "Οι αρχές συνεχίζουν να συλλέγουν βιντεοληπτικό υλικό από κάμερες ασφαλείας σε ολόκληρη την περιοχή, ενώ λαμβάνουν καταθέσεις από κατοίκους και επαγγελματίες.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Libération: Παγίδα για τους τουρίστες η Ακρόπολη – «Χωρίς τουαλέτες, σκιά και δυνατότητα αγοράς νερού»",
-          "url": "https://www.efsyn.gr/ellada/1433609/liberation-pagida-gia-toys-toyristes-i-akropoli-horis-toyaletes-horis-skia-horis-dynatotita-agoras-neroy/",
-          "snippet": "Ρεπορτάζ της γαλλικής εφημερίδας αποκαλύπτει μια «κόλαση» για τουρίστες και εργαζόμενους λόγω των ιδιωτικοποιήσεων και της εμπορευματοποίησης. «Αναγκάζονται να ουρούν ανάμεσα στα μάρμαρα».",
-          "source": "EfSyn"
         }
       ]
     },
@@ -146,7 +146,7 @@
         {
           "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
           "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-          "snippet": "President Trump said the United States would target a bridge or power plant if Iran fired on ships in the Strait of Hormuz. Iran’s foreign minister repeated his nation’s position of an “eye for an eye.”",
+          "snippet": "Early Thursday in the Middle East, the U.S. Central Command said it was carrying out a new wave strikes on Iran, a 12th consecutive day of attacks. Iranian state media said the province that is home to Iran’s only operating nuclear power plant had been hit in a missile strike.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "American troops, seriously wounded in recent strikes, were flown to Germany for help.",
-          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/american-troops-seriously-wounded-in-recent-strikes-were-flown-to-germany-for-help",
-          "snippet": "",
+          "title": "Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event",
+          "url": "https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html",
+          "snippet": "The actress wore earrings to an event for “The Odyssey” that a London gallery has said were made from an ancient artifact.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-        "snippet": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3.",
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "snippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Google justifies its massive AI spending with a booming cloud business",
+          "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "snippet": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+          "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "snippet": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Tesla spending skyrockets as Cybercab, Semi, Megapack production timeline slips",
           "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
           "snippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s AI spending spree has ballooned to $750B",
-          "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-          "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "If you pay a hacker’s ransom, chances are that they’ll come back for more",
-          "url": "https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/",
-          "snippet": "The long-held understanding among security researchers and network defenders is that it's impossible to negotiate in good faith with an extortion racket because there's no incentive for the other side to actually walk away.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΜακΙντάιρ: Τα «κλικς» από την άφιξή του στην Ελλάδα",
-        "url": "https://www.gazzetta.gr/basketball/euroleague/2556153/makintair-ta-kliks-apo-tin-afixi-toy-stin-ellada",
-        "snippet": "Δείτε τις πρώτες φωτογραφίες του Κόντι Μίλερ-ΜακΙντάιρ, από την άφιξή του στην Ελλάδα για λογαριασμό του Ολυμπιακού.",
+        "title": "ΟΦΗ: Άλλαξε ημέρα το φιλικό με την Μπρέντα",
+        "url": "https://www.gazzetta.gr/football/superleague/2556238/ofi-allaxe-imera-filiko-me-tin-mprenta",
+        "snippet": "Το δεύτερο φιλικό του βασικού σταδίου προετοιμασίας του ΟΦΗ, με αντίπαλο την Μπρέντα, θα γίνει μία ημέρα νωρίτερα από ότι είχε οριστεί, ήτοι στις 28 αντί για τις 29 Ιουλίου.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "ΜακΙντάιρ: Τα «κλικς» από την άφιξή του στην Ελλάδα",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556153/makintair-ta-kliks-apo-tin-afixi-toy-stin-ellada",
+          "snippet": "Δείτε τις πρώτες φωτογραφίες του Κόντι Μίλερ-ΜακΙντάιρ, από την άφιξή του στην Ελλάδα για λογαριασμό του Ολυμπιακού.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μίλερ-ΜακΙντάιρ: Η high-fashion φανέλα των 800 ευρώ με την οποία έφτασε στην Αθήνα για λογαριασμό του Ολυμπιακού!",
           "url": "https://www.gazzetta.gr/basketball/euroleague/2556237/miler-makintair-i-high-fashion-fanela-ton-800-eyro-me-tin-opoia",
@@ -376,12 +382,6 @@
           "url": "https://www.gazzetta.gr/basketball/euroleague/2556227/hezonia-einai-ekprothesmos-den-plirose-ti-ritra-kai-paramenei-paiktis",
           "snippet": "Η προθεσμία για την ενεργοποίηση του NBA out παρήλθε χωρίς ο Μάριο Χεζόνια να καταβάλει τη ρήτρα αποδέσμευσης ύψους περίπου 850.000 ευρώ, με την «AS» να αναφέρει πως ο Κροάτης παραμένει πλέον κανονικά παίκτης της Ρεάλ Μαδρίτης.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Γκρεγκόριο Παλτρινιέρι: «Στον Σηκουάνα κολυμπούσαμε σε λύματα και νεκρές γάτες»",
-          "url": "https://www.gazzetta.gr/kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2556226/gkregkorio-paltrinieri-ston-sikoyana",
-          "snippet": "Ο Γκρεγκόριο Παλτρινιέρι θα είναι από τα μεγάλα ονόματα στο open water στα νερά του Σηκουάνα στο ευρωπαϊκό πρωτάθλημα του Παρισιού και ο Ιταλός ολυμπιονίκης θυμήθηκε την εμπειρία των Ολυμπιακών Αγώνων.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,7 +396,7 @@
       },
       "items": [
         {
-          "title": "Trump Administration to Announce Deal That Could Let Saudis Enrich Nuclear Fuel",
+          "title": "Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel",
           "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
           "snippet": "U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.",
           "source": "NYT Science"
