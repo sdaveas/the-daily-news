@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-23T06:24:24.149318+00:00",
+  "updated": "2026-07-23T10:12:39.873543+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Press Point: Κατάπιαν την «απαγόρευση» των social media στους ανήλικους",
-        "url": "https://www.efsyn.gr/stiles/1433788/press-point-katapian-tin-apagoreysi-ton-social-media-stoys-anilikoys/",
-        "snippet": "Η κυβέρνηση της επικοινωνίας και της παπάτζας. Ανακοινώνουν διάφορα, επικοινωνιακά κατά βάση που όμως είναι αχρείαστα και ανεφάρμοστα, αποθεώνονται από τα φιλοκυβερνητικά ΜΜΕ, αλλά μετά δεν συμβαίνει τίποτε. Παράδειγμα πρώτο αυτό που παρουσίασε θριαμβευτικά πριν από έναν μήνα ο π",
+        "title": "Ε.Ε.: Διπλό πρόστιμο 890 εκατομμυρίων στην Google – Τι οδήγησε στην απόφαση",
+        "url": "https://www.efsyn.gr/kosmos/1434042/e-e-diplo-prostimo-stin-google-ypsoys-890-ekatommyrion-ti-odigise-stin-apofasi/",
+        "snippet": "Είναι το τρίτο πρόστιμο με τον ευρωπαϊκό Νόμο για τις Ψηφιακές Αγορές (DMA) - τα προηγούμενα αφορούσαν την Apple (500 εκατ.) και τη META (200 εκατ.).",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Ο Σακελλαρίδης βλέπει «σημαντικά εμπόδια» στη συνεργασία με τον ΣΥΡΙΖΑ",
-          "url": "https://www.efsyn.gr/politiki/1433784/o-sakellaridis-vlepei-simantika-empodia-sti-synergasia-me-ton-syriza/",
-          "snippet": "Η συγκρότηση πόλου της Αριστεράς και της Οικολογίας που θα διεκδικήσει κοινοβουλευτική εκπροσώπηση, «χωρίς όμως να θυσιάσει την αξιοπιστία του σε εργαλειακές και χρησιμοθηρικές συμφωνίες» είναι ο στόχος της Νέας Αριστεράς ενόψει εκλογών. Οσοι πάντως εκτίμησαν ότι η αλλαγή φρουράς",
+          "title": "Μουντιάλ 2026: Η ΕΡΤ έδωσε στην Choose 623.000 ευρώ για post στα social media – Τι προέβλεπε η συμφωνία",
+          "url": "https://www.efsyn.gr/politiki/1433908/ti-prosefere-i-choose-gia-ta-623-000-eyro-tis-ert/",
+          "snippet": "Επανήλθε στην επιφάνεια το ζήτημα που ανέδειξε προ 40 ημερών η «Εφ.Συν.» με τη σκανδαλώδη σύμβαση της ΕΡΤ για τις μουντιαλικές αναρτήσεις στα social media.",
           "source": "EfSyn"
         },
         {
-          "title": "Ακραίος καύσωνας στην Ιαπωνία: Ρεκόρ εισαγωγών σε νοσοκομεία του Τόκιο από το 2010 – Ένας νεκρός",
-          "url": "https://www.efsyn.gr/kosmos/1433789/akraios-kaysonas-stin-iaponia-rekor-eisagogon-se-nosokomeia-toy-tokio-apo-to-2010-enas-nekros/",
-          "snippet": "Το πυροσβεστικό σώμα της πρωτεύουσας ανέφερε πως 453 άνθρωποι διακομίστηκαν και εισήχθησαν σε νοσοκομεία χθες στο σύνολο της νομαρχίας του Τόκιο.",
+          "title": "Πράσινο φως από το ΚΥΣΕΑ για την «Ασπίδα του Αχιλλέα» και τα εξοπλιστικά 4,2 δισ. ευρώ",
+          "url": "https://www.efsyn.gr/ellada/1434020/prasino-fos-apo-to-kysea-gia-tin-aspida-toy-ahillea-kai-ta-exoplistika-42-dis-eyro/",
+          "snippet": "Κατά τη συνεδρίαση του ΚΥΣΕΑ εγκρίθηκε επίσης η Εθνική Στρατηγική για την Ανθεκτικότητα των Κρίσιμων Οντοτήτων (2026-2030), η οποία αφορά την προστασία κρίσιμων υποδομών και λειτουργιών της χώρας.",
           "source": "EfSyn"
         },
         {
-          "title": "Θεσσαλονίκη: Φίδι έκανε βόλτα στο κέντρο της πόλης – Αιφνιδιάστηκαν περαστικοί και επιβάτες λεωφορείου [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1433785/thessaloniki-fidi-ekane-volta-sto-kentro-tis-polis-aifnidiastikan-perastikoi-kai-epivates-leoforeioy-vinteo/",
-          "snippet": "Στο βίντεο φαίνεται το φίδι να κινείται στο σημείο, προκαλώντας έκπληξη σε όσους βρίσκονταν εκείνη τη στιγμή στην περιοχή.",
+          "title": "Κίνα: Ιστορικό ρεκόρ παραγωγής πετρελαίου εν μέσω πολέμου",
+          "url": "https://www.efsyn.gr/oikonomia/1434017/kina-istoriko-rekor-paragogis-petrelaioy-en-meso-polemoy/",
+          "snippet": "Η Κίνα καταγράφει ρεκόρ παραγωγής πετρελαίου 420 εκατομμυρίων τόνων ισοδύναμου πετρελαίου το 2025, ενισχύοντας την ενεργειακή της ανεξαρτησία εν μέσω παγκόσμιων προκλήσεων.",
           "source": "EfSyn"
         },
         {
-          "title": "Το φάντασμα της Novartis πάνω από το Μαξίμου: Ο Σαλμάς βγάζει από το αρχείο την εμπλοκή Γεωργιάδη",
-          "url": "https://www.efsyn.gr/politiki/1433751/to-fantasma-tis-novartis-pano-apo-to-maximoy-o-salmas-vgazei-apo-to-arheio-tin-emploki-georgiadi/",
-          "snippet": "Σύσσωμη η αντιπολίτευση ζητά να ανοίξει πάλι ο φάκελος της Νovartis ●«Σήμερα θα αποδείξω πώς ο κ. Γεωργιάδης έχει σχέση με τη διαπλοκή...», ισχυρίστηκε ο νυν ανεξάρτητος βουλευτής. Ο Μάριος Σαλμάς δήλωσε σε ετοιμότητα να καταθέσει στις αρμόδιες αρχές τα στοιχεία που διαθέτει.",
+          "title": "Δολοφονία Σταύρου Γεωργίου: Ο 28χρονος τον χτυπούσε τόσο δυνατά, που τραυματίστηκε στο χέρι και πήγε σε νοσοκομείο",
+          "url": "https://www.efsyn.gr/ellada/1434025/dolofonia-stayroy-georgioy-o-28hronos-ton-htypoyse-toso-dynata-poy-traymatistike-sto-heri-pige-se-nosokomeio-vinteo/",
+          "snippet": "Όπως τόνισε η εκπρόσωπος Τύπου της ΕΛ.ΑΣ., οι αστυνομικοί αναζήτησαν τον δράστη σε αρκετές οικίες στο κέντρο και τελικά συνελήφθη στον δρόμο.",
           "source": "EfSyn"
         },
         {
-          "title": "Η συγκινητική ανάρτηση του Νίκου Παπαθανάση για την κόρη του",
-          "url": "https://www.efsyn.gr/politiki/1433770/nikos-papathanasis-i-kori-toy-anakiryhthike-didaktor-toy-panepistimioy-peiraios-i-sygkinitiki-toy-anartisi/",
-          "snippet": "Όπως ανέφερε, «καμία διάκριση δεν χαρίζεται», τονίζοντας ότι κάθε βήμα της κόρης του ήταν αποτέλεσμα σκληρής δουλειάς και πίστης στις δυνατότητές της.",
+          "title": "Δημήτρης Κοργιαλάς και Φωτεινή Ψυχίδου βάφτισαν τον 9χρονο γιο τους στη Ναύπακτο",
+          "url": "https://www.efsyn.gr/life/1434004/dimitris-korgialas-kai-foteini-psyhidoy-vaftisan-ton-9hrono-gio-toys-sti-naypakto/",
+          "snippet": "Το πρώην ζευγάρι επέλεξε να τελέσει το μυστήριο την Τετάρτη 22 Ιουλίου.",
           "source": "EfSyn"
         },
         {
-          "title": "Μάτι: Οκτώ χρόνια από την πυρκαγιά με τους 104 νεκρούς – «Για εμάς δεν έχουν περάσει ούτε οκτώ λεπτά»",
-          "url": "https://www.efsyn.gr/ellada/1433748/mati-okto-hronia-apo-ti-foniki-pyrkagia-me-toys-104-nekroys-gia-emas-den-ehoyn-perasei-oyte-8-lepta/",
-          "snippet": "Στις 23 Ιουλίου 2018, η πυρκαγιά στο Μάτι Αττικής προκάλεσε 104 θανάτους και εκτεταμένες καταστροφές λόγω της ταχύτατης εξάπλωσης και της έλλειψης οργανωμένου σχεδίου εκκένωσης.",
+          "title": "Επικοινωνία Δούρου – Κοτζιά: Στο επίκεντρο ο διάλογος των «προοδευτικών δυνάμεων»",
+          "url": "https://www.efsyn.gr/politiki/1434007/epikoinonia-doyroy-kotzia-sto-epikentro-o-dialogos-ton-proodeytikon-dynameon/",
+          "snippet": "Οι δυο τους συζήτησαν για την ανάγκη ενίσχυσης και συνεργασίας των προοδευτικών δυνάμεων ενάντια στην κυβέρνηση Μητσοτάκη.",
           "source": "EfSyn"
         },
         {
-          "title": "Να, Λόλα, μια ωραία ακτή!",
-          "url": "https://www.efsyn.gr/nisides/1433747/na-lola-mia-oraia-akti/",
-          "snippet": "Η παλίρροια δεν ξέβρασε κάποιο μπουκάλι που μέσα του παραχωμένο βρισκόταν ένα μήνυμα από κάποιον εραστή ή ναυαγό. Η παλίρροια ξέβρασε τα σκουπίδια της αναπτυγμένης Δύσης που πλέουν στους ωκεανούς και στις θάλασσες και καταλήγουν να επικαλύπτουν τις κάποτε όμορφες αμμώδεις παραλίε",
+          "title": "Η ΕΛΑΣ ζητά την απομάκρυνση Γεωργιάδη μετά τις καταγγελίες Σαλμά για Novartis: «Η θεωρία περί σκευωρίας κατέπεσε»",
+          "url": "https://www.efsyn.gr/politiki/1433978/i-elas-zita-tin-apomakrynsi-georgiadi-meta-tis-kataggelies-salma-gia-novartis-i-theoria-peri-skeyorias-katepese/",
+          "snippet": "«Μπορεί ο Υπουργός Υγείας να ασκεί απερίσπαστος τα καθήκοντά του τη στιγμή που εκκρεμούν σε βάρος του τόσο σοβαρές καταγγελίες;»",
           "source": "EfSyn"
         },
         {
-          "title": "Μετωπική ΠΑΣΟΚ με ΝΔ για τις συντάξεις: «Φτηνές δικαιολογίες» Μητσοτάκη",
-          "url": "https://www.efsyn.gr/politiki/1433745/metopiki-pasok-me-nd-gia-tis-syntaxeis-ftines-dikaiologies-mitsotaki/",
-          "snippet": "Κατηγορίες για τον Κυριάκο Μητσοτάκη, ότι οι υποσχέσεις του μένουν επί εφτά χρόνια ανεκπλήρωτες και ότι πριν αναλάβει τη διακυβέρνηση «έταζε λαγούς με πετραχήλια»",
+          "title": "Guardian: Η Ευρώπη «στεγνώνει» από τους ακραίους καύσωνες – Προβλήματα σε καλλιέργειες και ενέργεια",
+          "url": "https://www.efsyn.gr/kosmos/1433967/i-eyropi-stegnonei-apo-toys-akraioys-kaysones-kai-tin-xirasia-provlimata-se-kalliergeies-kai-energeia/",
+          "snippet": "Οι επιστήμονες της κοινοπραξίας World Weather Attribution (WWA) διαπίστωσαν ότι οι ακραίες θερμοκρασίες που καταγράφηκαν στην Ευρώπη ενίσχυσαν δραματικά την εξάτμιση νερού από το έδαφος, τα ποτάμια και τις λίμνες.",
           "source": "EfSyn"
         },
         {
-          "title": "«Στάρμπορντ»: Η ποιητική χαρτογράφηση του έρωτα και της σύγχρονης ζωής από τον Γιάννη Σκορδά",
-          "url": "https://www.efsyn.gr/nisides/1433740/starmpornt-i-poiitiki-hartografisi-toy-erota-kai-tis-syghronis-zois-apo-ton-gianni-skorda/",
-          "snippet": "Πρόκειται για μια ποίηση εξομολογητική, μια χαρτογράφηση προσωπικής γεωγραφίας με όχημα τον έρωτα –ή έστω με αυτόν ως καύσιμο.",
+          "title": "Έφυγε από τη ζωή σε ηλικία 79 ετών ο συνθέτης Γιώργος Σταυριανός",
+          "url": "https://www.efsyn.gr/ellada/1433983/efyge-apo-ti-zoi-se-ilikia-79-eton-o-synthetis-giorgos-stayrianos/",
+          "snippet": "Ήταν γνωστός από τραγούδια όπως το «Ήσουνα Φεγγάρι».",
           "source": "EfSyn"
         },
         {
-          "title": "Νέα ανάφλεξη στη Μέση Ανατολή: Οι Χούθι χτύπησαν σαουδαραβικά τάνκερ – Πλήγματα των ΗΠΑ στο Ιράν",
-          "url": "https://www.efsyn.gr/kosmos/1433724/nea-anaflexi-sti-mesi-anatoli-oi-hoythi-htypisan-saoydaravika-tanker-pligmata-ton-ipa-sto-iran/",
-          "snippet": "Τα πλοία που αποτέλεσαν στόχο ήταν τα Encelia και Layla, ενώ οι αντάρτες υποστήριξαν πως ανάγκασαν ακόμη δέκα πλοία να αλλάξουν πορεία και να απομακρυνθούν από την περιοχή.",
+          "title": "Πανελλαδικές 2026: Πρώτη στην Ιατρική Αθηνών η Μαρία – Μιχαέλα Χαιρέτη -«Η αξία δεν μετριέται μόνο με τα μόρια»",
+          "url": "https://www.efsyn.gr/ellada/1433975/panelladikes-2026-proti-stin-iatriki-athinon-i-maria-mihaela-haireti-i-axia-den-metrietai-mono-me-ta-moria/",
+          "snippet": "«Είναι η μεγαλύτερη επιτυχία που θα μπορούσα να έχω ουσιαστικά, ύψιστη ικανοποίηση».",
           "source": "EfSyn"
         },
         {
-          "title": "H ΕΛΑΣ στο στόχαστρο πρώην συντρόφων: «Δεν μας ενδιαφέρουν οι συνεργασίες»",
-          "url": "https://www.efsyn.gr/politiki/1433732/h-elas-sto-stohastro-proin-syntrofon-den-mas-endiaferoyn-oi-synergasies/",
-          "snippet": "Απανωτές εξηγήσεις από το κόμμα για την ανώτατη παιδεία, μετά τις αντιδράσεις στον χώρο της Αριστεράς για τα ιδιωτικά πανεπιστήμια",
+          "title": "Τσουκαλάς κατά Φλωρίδη για την παραπομπή Τριαντόπουλου: Τώρα ποιος είναι «για τα μπάζα»;",
+          "url": "https://www.efsyn.gr/politiki/1433969/tsoykalas-kata-floridi-gia-tin-parapompi-triantopoyloy-tora-poios-einai-gia-ta-mpaza/",
+          "snippet": "«Ο κ. Φλωρίδης έλεγε ότι όσοι μιλούν για αλλοίωση του πεδίου είναι για τα μπάζα. Μετά την εισαγγελική πρόταση τί έχει να πει;».",
           "source": "EfSyn"
         },
         {
-          "title": "Ανοίγει ο δρόμος για τις έξυπνες συσκευασίες τροφίμων!",
-          "url": "https://www.efsyn.gr/nisides/1433726/anoigei-o-dromos-gia-tis-exypnes-syskeyasies-trofimon/",
-          "snippet": "Συντονιστής του έργου NanoBioPack ήταν η εταιρεία Nanotypos και εταίροι το Ινστιτούτο Ηλεκτρονικής Δομής και Laser του Ιδρύματος Τεχνολογίας ΙΤΕ/FORTH, το Πανεπιστήμιο Θεσσαλίας, το Ελληνικό Μεσογειακό Πανεπιστήμιο, η Αμερικανική Γεωργική Σχολή και η Αλλαντοποιία Καρδίτσας Τσιανά",
+          "title": "Aktor: Αντλεί 650 εκατ. ευρώ από την ΑΜΚ – Ξεκινά επαφές με επενδυτές για το ομόλογο των 300 εκατ.",
+          "url": "https://www.efsyn.gr/oikonomia/1433955/aktor-antlei-650-ekat-eyro-apo-tin-amk-xekina-epafes-me-ependytes-gia-to-omologo-ton-300-ekat/",
+          "snippet": "Mετά το κλείσιμο του βιβλίου προσφορών για την ΑΜΚ, η διοίκηση της Αktor όρισε στα 11,25 ευρώ την τιμή διάθεσης των νέων μετοχών.",
           "source": "EfSyn"
         },
         {
-          "title": "Χαλκιδική: Τραυματίστηκε τουρίστας σε θαλάσσιο πάρκο – Έπεσε με το κεφάλι στη θάλασσα",
-          "url": "https://www.efsyn.gr/ellada/1433721/halkidiki-traymatistike-toyristas-se-thalassio-parko-epese-me-to-kefali-sti-thalassa/",
-          "snippet": "Επιχείρησε βουτιά στη θάλασσα από την εγκατάσταση του πάρκου.",
+          "title": "Παναθηναϊκός: Με στόχο τη νίκη στη πρεμιέρα των προκριματικών του Conference League",
+          "url": "https://www.efsyn.gr/athlitismos/1433922/panathinaikos-me-stoho-ti-niki-sti-premiera-ton-prokrimatikon-toy-conference-league/",
+          "snippet": "Ο Παναθηναϊκός δεν θέλει να βρει... εκπλήξεις σήμερα από την Πάκσι στην Ουγγαρία.",
           "source": "EfSyn"
         },
         {
-          "title": "Φωτιά τα ξημερώματα στο πρώην στρατόπεδο Καρατάσιου στη Θεσσαλονίκη – Τέθηκε άμεσα υπό πλήρη έλεγχο [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1433715/fotia-ta-ximeromata-sto-proin-stratopedo-karatasioy-sti-thessaloniki-tethike-amesa-ypo-pliri-elegho-vinteo/",
-          "snippet": "Οι πυροσβεστικές δυνάμεις οριοθέτησαν την πυρκαγιά μέσα σε μία ώρα και στη συνέχεια την έθεσαν υπό πλήρη έλεγχο",
+          "title": "Εκτακτο δελτίο από την ΕΜΥ: Ερχονται καταιγίδες, κεραυνοί και άνεμοι – Οι περιοχές με «κόκκινη προειδοποίηση»",
+          "url": "https://www.efsyn.gr/ellada/1433948/ektakto-deltio-apo-tin-emy-erhontai-kataigides-kai-halazi-oi-periohes-me-kokkini-proeidopoiisi/",
+          "snippet": "Οι περιοχές της χώρα που θα επηρεαστούν.",
           "source": "EfSyn"
         }
       ]
@@ -101,12 +101,60 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Israeli Banks Threaten to Cut Off Palestinian Economy",
-        "url": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
-        "snippet": "Two Israeli financial firms have long served as partners to Palestinian banks, handling transactions that make possible the West Bank’s imports and exports.",
+        "title": "‘We Will All Die From Ebola Here’: Virus Stalks Crowded Camps in Congo",
+        "url": "https://www.nytimes.com/2026/07/23/world/africa/ebola-camps-congo-water-aid.html",
+        "snippet": "There are a million people displaced by violence in the epicenter. They live in dangerous conditions and are fighting the virus with very little clean water.",
         "source": "NYT World"
       },
       "items": [
+        {
+          "title": "Why I Sought Out a Taliban Commander I Had Fought",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
+          "snippet": "First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It’s Going Nuclear.",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
+          "snippet": "The world’s largest exporter of crude oil stands to benefit from diversifying its energy sources — and freeing up more oil to sell.",
+          "source": "NYT World"
+        },
+        {
+          "title": "A New Target for Ukraine’s Long-Range Attacks: Russia’s Version of Amazon",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/russia-ukraine-wildberries-attacks.html",
+          "snippet": "Kyiv is escalating its air war by striking commercial warehouses, trying to bring the conflict closer to home for ordinary Russians.",
+          "source": "NYT World"
+        },
+        {
+          "title": "A Russian Spy, Suddenly Cast Into the Spotlight, Flees Japan",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/russian-spy-flees-japan.html",
+          "snippet": "The military intelligence officer left the country after The Times reported that he was using the Aeroflot airline office in Tokyo to conduct espionage.",
+          "source": "NYT World"
+        },
+        {
+          "title": "U.S.-Saudi Deal Prompts Fears of a Nuclear Arms Race",
+          "url": "https://www.nytimes.com/2026/07/23/world/europe/us-saudi-deal-nuclear-hedging.html",
+          "snippet": "In Europe, Asia and the Middle East, countries seek nuclear capabilities to hedge against aggressive neighbors and a receding Washington, potentially creating a more freewheeling era.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Japan’s Leader Invokes Her Hero, Shinzo Abe, to Drive Nationalist Agenda",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/japan-sanae-takaichi-shinzo-abe.html",
+          "snippet": "Prime Minister Sanae Takaichi is leveraging her ties to Mr. Abe, the slain Japanese leader, as she pushes to reshape defense and the economy.",
+          "source": "NYT World"
+        },
+        {
+          "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
+          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
+          "snippet": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Israeli Banks Threaten to Cut Off Palestinian Economy",
+          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/israeli-banks-palestinian-economy.html",
+          "snippet": "Two Israeli financial firms have long served as partners to Palestinian banks, handling transactions that make possible the West Bank’s imports and exports.",
+          "source": "NYT World"
+        },
         {
           "title": "Dubai Firm Cuts Deal for New Port to Bypass Strait of Hormuz",
           "url": "https://www.nytimes.com/2026/07/22/world/dubai-cuts-deal-for-new-port-to-bypass-strait-of-hormuz.html",
@@ -138,57 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Daniel Siad, Model Scout Who Connected Women to Epstein, Is Found Dead in France",
-          "url": "https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html",
-          "snippet": "Daniel Siad, who was found dead on Monday, repeatedly introduced Jeffrey Epstein to young women, according to messages he exchanged with Mr. Epstein. Mr. Siad had denied wrongdoing.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Iran War Live Updates: Iran Digs In After Latest Trump Threat on Civilian Targets",
-          "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
-          "snippet": "The U.S. military said it had struck Iran for a 12th consecutive day. The Iranian military said it had launched strikes on American targets in Kuwait.",
-          "source": "NYT World"
-        },
-        {
-          "title": "U.S.-Saudi Nuclear Deal Stokes Israeli Concerns of Mideast Arms Race",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html",
-          "snippet": "An Israeli minister sought to downplay the agreement, while critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.",
-          "source": "NYT World"
-        },
-        {
-          "title": "A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.",
-          "url": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
-          "snippet": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Ukraine’s New Military Chief Faces a Monumental Test",
-          "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
-          "snippet": "Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Japan Is Startled by Prime Minister’s Grueling Sleep Schedule",
-          "url": "https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html",
-          "snippet": "Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Coveted U.S. Nuclear Deal Is a Coup for Saudi Crown Prince",
-          "url": "https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html",
-          "snippet": "Saudi Arabia has for years sought a deal to obtain American nuclear technology. The agreement, signed on Wednesday, could deepen U.S.-Saudi ties for decades to come.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Firing of Ukraine’s Top General Signals the End of an Era",
-          "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
-          "snippet": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
-          "source": "NYT World"
-        },
-        {
-          "title": "U.S. Military Presence in Jordan Makes It Iranian Target",
-          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/jordan-iran-us-forces.html",
-          "snippet": "Relying heavily on U.S. aid and protection, Jordan is unlikely to restrict the American military presence there, despite escalating Iranian airstrikes.",
+          "title": "Here’s the latest.",
+          "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump/heres-the-latest",
+          "snippet": "",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τζόλης - Άρσεναλ: Σήμερα (23/7) η ανακοίνωση, ποιο νούμερο επέλεξε",
-        "url": "https://www.gazzetta.gr/football/premier-league/2556277/tzolis-arsenal-simera-237-i-anakoinosi-poio-noymero-epelexe",
-        "snippet": "Ο Χρήστος Τζόλης αναμένεται εντός της ημέρας (23/7) να ανακοινωθεί από την Άρσεναλ. Ποιο νούμερο διάλεξε.",
+        "title": "Φύτευε δέντρα επί 40 χρόνια σε μια άγονη αμμουδιά: Τώρα είναι ένα «ατελείωτο» δάσος και καταφύγιο ζώων",
+        "url": "https://www.gazzetta.gr/plus/2556305/fyteye-dentra-epi-40-hronia-se-mia-agoni-ammoydia-tora-einai-ena-ateleioto-dasos-kai",
+        "snippet": "Ινδός αφιέρωσε περισσότερα από 40 χρόνια της ζωής του φυτεύοντας δέντρα σε μια υποβαθμισμένη έκταση, καταφέρνοντας να δημιουργήσει μόνος του ένα ολόκληρο δάσος.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Έριξαν 60.000 λίτρα χλωρίνης και χρωστικής στις ακτές των ΗΠΑ: Ένα χρόνο μετά, το πείραμα έφερε καλά νέα",
-          "url": "https://www.gazzetta.gr/plus/2556269/erixan-60000-litra-hlorinis-kai-hrostikis-stis-aktes-ton-ipa-ena-hrono-meta-peirama",
-          "snippet": "Ερευνητές στις ΗΠΑ πραγματοποίησαν πείραμα στον Ατλαντικό, χρησιμοποιώντας υδροξείδιο του νατρίου για την εξουδετέρωση της οξύτητας και την απορρόφηση του διοξειδίου του άνθρακα.",
+          "title": "PlayStation Plus: Διαθέσιμα τα Avatar και Rise of the Ronin στο Game Catalogue",
+          "url": "https://www.gazzetta.gr/plus/2556320/playstation-plus-diathesima-ta-avatar-kai-rise-ronin-sto-game-catalogue",
+          "snippet": "Οι συνδρομητές Extra και Premium θα περάσουν «ζεστό» καλοκαίρι!",
           "source": "Gazzetta"
         },
         {
-          "title": "MLS: Ο Σουάρες νίκησε τον Λεβαντόφσκι, γκολ ο Γκριζμάν στο ντεμπούτο του (vid)",
-          "url": "https://www.gazzetta.gr/football/mls/2556274/mls-o-soyares-nikise-ton-lebantofski-gkol-o-gkrizman-sto-ntempoyto-toy-vid",
-          "snippet": "Ο Λουίς Σουάρες ήταν ο μεγάλος νικητής στη μάχη με τον Ρόμπερτ Λεβαντόφσκι, ενώ ο Αντουάν Γκριζμάν σκόραρε στο ντεμπούτο του στο MLS.",
+          "title": "ΠΑΟΚ, Παναθηναϊκός: Οι πιθανότητες πρόκρισης στον επόμενο γύρο των ευρωπαϊκών διοργανώσεων",
+          "url": "https://www.gazzetta.gr/football/europa-league/2556321/paok-panathinaikos-oi-pithanotites-prokrisis-ston-epomeno-gyro-ton",
+          "snippet": "Ο υπερυπολογιστής του Football Meets Data δίνει τις πιθανότητες πρόκρισης για ΠΑΟΚ και Παναθηναϊκό στον επόμενο γύρο Europa και Conference League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κρις Μπος: «Αν ήμουν ο Λεμπρόν θα επέστρεφα στους Μαϊάμι Χιτ»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2556272/kris-mpos-imoyn-o-lempron-tha-epestrefa-stoys-maiami-hit",
-          "snippet": "Ο Κρις Μπος τοποθετήθηκε για το μέλλον του Λεμπρόν Τζέιμς παρουσιάζοντας την επιστροφή στο Μαϊάμι ως την ιδανικότερη λύση.",
+          "title": "Παναθηναϊκός: Η καλύτερη επίθεση της Ουγγαρίας, Πάκσι και ο βασικός κίνδυνος για το «τριφύλλι»",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2556319/panathinaikos-i-kalyteri-epithesi-tis",
+          "snippet": "Πώς η Πάκσι κατάφερε να είναι πρώτη στην επίθεση στο ουγγρικό πρωτάθλημα και τι πρέπει να προσέξει ο Παναθηναϊκός. Αποστόλη στην Ουγγαρία: Σωτήρης Μυκονίου",
           "source": "Gazzetta"
         },
         {
-          "title": "Μα, τι στο καλό; Μετά τον Γιαμάλ, άλλο ένα μωρό που φωτογραφήθηκε με τον Μέσι έγινε παγκόσμιος πρωταθλητής",
+          "title": "Μπράντον Ντέιβις: Ανακοίνωσε την απόσυρσή του από την ενεργό δράση",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556318/mpranton-nteibis-anakoinose-tin-aposyrsi-toy-apo-tin-energo-drasi",
+          "snippet": "Ο Μπράντον Ντέιβις γνωστοποίησε πως αποσύρεται από την ενεργό δράση έπειτα σε ηλικία 34 ετών, ύστερα από μια μακροχρόνια καριέρα σε NBA και Ευρώπη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βόλος: Με Χέρενφεν το τελευταίο τεστ στην Ολλανδία",
+          "url": "https://www.gazzetta.gr/football/superleague/2556317/bolos-me-herenfen-teleytaio-test-stin-ollandia",
+          "snippet": "Αλλαγή υπήρξε στα φιλικά του Βόλου στην Ολλανδία, καθώς όπως έγινε γνωστό με ανακοίνωση τους, οι «κυανέρυθροι» θα αντιμετωπίσουν τη Χέρενφεν αντί της Χέρακλες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Galacticos LIVE by Interwetten: Η πρεμιέρα για ΠΑΟ - ΠΑΟΚ και οι μεταγραφικές εκκρεμότητες του Big 4",
+          "url": "https://www.gazzetta.gr/football/superleague/2556316/galacticos-live-interwetten-i-premiera-gia-pao-paok-kai-oi",
+          "snippet": "Συντονιστείτε στις 14:00 στους Galacticos Live by Interwetten για όλα τα μεταγραφικά νέα των ομάδων του BIG 4, αλλά και για την ευρωπαϊκή πρεμιέρα ΠΑΟΚ και Παναθηναϊκού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γιάννης Πλούταρχος & Κατερίνα στο Κατράκειο Θέατρο Νίκαιας",
+          "url": "https://www.gazzetta.gr/plus/2556315/giannis-ploytarhos-katerina-sto-katrakeio-theatro-nikaias",
+          "snippet": "Ο Γιάννης Πλούταρχος και η Κατερίνα σε μια μοναδική συναυλία στο Κατράκειο, στις 4 Σεπτεμβρίου 2026.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Έβγαλε 19.710 μόρια και μπήκε πρώτη στη σχολή της - Δεν ξάφνιασε κανέναν η επιλογή",
           "url": "https://www.gazzetta.gr/2543496/reader-article-2",
           "snippet": "Δεν είχε βγάλει μόνο ο Λαμίν Γιαμάλ φωτογραφία με τον Λιονέλ Μέσι, όταν ήταν ακόμα βρέφος. Άλλος ένας παίκτης της Ισπανίας αποκάλυψε ότι έχει ανάλογο καρέ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η οικονομία της προτεραιότητας: Όταν η αναμονή αποκτά τιμή",
-          "url": "https://www.gazzetta.gr/plus/2556271/i-oikonomia-tis-proteraiotitas-otan-i-anamoni-apokta-timi",
-          "snippet": "wfewfw",
+          "title": "MLS: Ξεκίνησε η έρευνα για τη μεταγραφή του Κασεμίρο στην Ίντερ Μαϊάμι",
+          "url": "https://www.gazzetta.gr/football/mls/2556314/mls-xekinise-i-ereyna-gia-ti-metagrafi-toy-kasemiro-stin-inter-maiami",
+          "snippet": "Το MLS διέταξε επίσημη έρευνα για τη μεταγραφή του Κασεμίρο στην Ίντερ Μαϊάμι, καθώς εντάχθηκε στην ομάδα της Φλόριντα, παρά το γεγονός ότι τα δικαιώματα του ανήκαν στους ΛΑ Γκάλαξι.",
           "source": "Gazzetta"
         },
         {
-          "title": "Προετοιμασία Ολυμπιακού: Το «φροντιστήριο» του Μεντιλίμπαρ σε Μασούρα",
-          "url": "https://www.gazzetta.gr/football/superleague/2556138/proetoimasia-olympiakoy-frontistirio-toy-mentilimpar-se-masoyra",
-          "snippet": "Ανεβάζει ημέρα με την ημέρα τις απαιτήσεις του ο κόουτς Χοσέ Λουίς Μεντιλίμπαρ σε σχέση με τους παίκτες του. ΟΛΛΑΝΔΙΑ – ΠΡΟΕΤΟΙΜΑΣΙΑ: ΔΗΜΗΤΡΗΣ ΤΟΜΑΡΑΣ.",
+          "title": "Μπετανκόρ: Επίσημα στη Λας Πάλμας",
+          "url": "https://www.gazzetta.gr/football/2556313/mpetankor-episima-sti-las-palmas",
+          "snippet": "Με τη βούλα παίκτης της Λας Πάλμας είναι ο Χεφτέ Μπετανκόρ, με τον Ισπανικό σύλλογο να ανακοινώνει την επιστροφή του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μακάμπι Τελ Αβίβ: Συνεχίζει στο Ισραήλ ο Ίφε Λούντμπεργκ",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2556268/makampi-tel-abib-synehizei-sto-israil-o-ife-loyntmpergk",
-          "snippet": "Την κοινή τους συμπόρευση θα συνεχίσουν όπως όλα δείχνουν η Μακάμπι Τελ Αβίβ και ο Ίφε Λούντμπεργκ για τα επόμενα δύο χρόνια.",
+          "title": "Τα βαριά εξοπλιστικά του ΚΥΣΕΑ, οι λεπτές ισορροπίες με Βλάχο και η απορία της Προεδρίας για τη Δούρου",
+          "url": "https://www.gazzetta.gr/plus/2556311/ta-baria-exoplistika-toy-kysea-oi-leptes-isorropies-me-blaho-kai-i-aporia-tis",
+          "snippet": "Η επίμαχη συνεδρίαση του ΚΥΣΕΑ, οι λεπτές ισορροπίες για τα σπιτάκια ανακύκλωσης και οι μουσικές καρέκλες στον ΣΥΡΙΖΑ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αθλητικές μεταδόσεις σήμερα: Οι Galacticos, το Gazz Floor και οι μάχες Παναθηναϊκου και ΠΑΟΚ στην Ευρώπη",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2556267/athlitikes-metadoseis-simera-oi-galacticos-gazz-floor-kai",
-          "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης των εκπομπών του Gazzetta, αλλά και των σημαντικότερων αναμετρήσεων της ημέρας.",
+          "title": "Oδική ασφάλεια: Eκστρατεία ενημέρωσης στους τουριστικούς προορισμούς",
+          "url": "https://www.gazzetta.gr/gmotion/2556290/odiki-asfaleia-ekstrateia-enimerosis-stoys-toyristikoys-proorismoys",
+          "snippet": "Με επίκεντρο μια ψηφιακή εφαρμογή σε επτά γλώσσες και τη χρήση QR codes στα γραφεία ενοικίασης οχημάτων, η δράση της ΟΔ.Υ.Σ.Ε.ΑΣ. εστιάζει στην πρόληψη των τροχαίων ατυχημάτων κατά τους καλοκαιρινούς μήνες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Στο άψε σβήσε: Η στιγμή που εκρήξεις σε καλώδια του ΔΕΔΔΗΕ προκάλεσαν φωτιά στον Εύοσμο (vid)",
-          "url": "https://www.gazzetta.gr/plus/2556266/sto-apse-sbise-i-stigmi-poy-ekrixeis-se-kalodia-toy-deddie-prokalesan-fotia-ston",
-          "snippet": "Μέσα σε μόλις λίγα δευτερόλεπτα άρπαξε φωτιά στον Εύοσμο από βραχυκύκλωμα καλωδίων ηλεκτροφόρας κεραίας, μετά την ξηρική κακοκαιρία που πέρασε απ' την περιοχή.",
+          "title": "Άρης: Οι ευχές του στον Νίκο Γκάλη",
+          "url": "https://www.gazzetta.gr/basketball/2556312/aris-oi-eyhes-toy-ston-niko-gkali",
+          "snippet": "Ο Άρης ευχήθηκε «χρόνια πολλά» στον «Θεό» του ελληνικού μπάσκετ, Νίκο Γκάλη, που συμπληρώνει 69 χρόνια ζωής.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ: Το κομβικό στάδιο του χτισίματος και οι μεταγραφές",
-          "url": "https://www.gazzetta.gr/football/superleague/2556242/aek-kombiko-stadio-toy-htisimatos-kai-oi-metagrafes",
-          "snippet": "Ο Δημήτρης Βέργος γράφει από το Άπελντορν της Ολλανδίας για το δεύτερο στάδιο προετοιμασίας της ΑΕΚ που ξεκινάει και για τα μεταγραφικά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παρτίζαν: Ανακοίνωσε τον Λαμάρ Στίβενς",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2556265/partizan-anakoinose-ton-lamar-stibens",
-          "snippet": "Κάτοικος Βελιγραδίου θα είναι για τα επόμενα δύο χρόνια ο Λαμάρ Στίβενς, όπως ανακοίνωσε με κάθε επισημότητα η Παρτίζαν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "VAR: Τι ισχύει για τα προκριματικά των ελληνικών ομάδων",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2556230/var-ti-ishyei-gia-ta-prokrimatika-ton-ellinikon-omadon",
-          "snippet": "Τι ισχύει με τη χρήση του VAR στους αγώνες των πέντε εκπροσώπων του ελληνικού ποδοσφαίρου στις διοργανώσεις της UEFA.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ντιναμό Κιέβου - ΠΑΟΚ: Το κανάλι και η ώρα μετάδοσης του αγώνα",
-          "url": "https://www.gazzetta.gr/football/europa-league/2556264/ntinamo-kieboy-paok-kanali-kai-i-ora-metadosis-toy-agona",
-          "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης της αναμέτρησης του ΠΑΟΚ με τη Ντιναμό Κιέβου για τον δεύτερο γύρο των προκριματικών του Europa League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (23/7)",
-          "url": "https://www.gazzetta.gr/2556263/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-237",
-          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
+          "title": "Έκτακτο δελτίο ΕΜΥ: Ραγδαία επιδείνωση του καιρού με βροχές, καταιγίδες και κεραυνούς (vid)",
+          "url": "https://www.gazzetta.gr/plus/2556310/ektakto-deltio-emy-ragdaia-epideinosi-toy-kairoy-me-brohes-kataigides-kai-keraynoys",
+          "snippet": "Αλλάζει ριζικά ο καιρός από το μεσημέρι της Πέμπτης (23/7), με βροχές, καταιγίδες και χαλάζι να κάνουν την εμφάνισή τους.",
           "source": "Gazzetta"
         }
       ]
@@ -389,9 +389,9 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "He’s the Last Great Land Artist You’ve Never Heard Of",
-        "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-        "snippet": "Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?",
+        "title": "In Artwork Across the Ages, Odysseus’ Myth Keeps Entrancing Audiences",
+        "url": "https://www.nytimes.com/2026/07/23/arts/design/odyssey-nolan-art-met-museum-getty.html",
+        "snippet": "Loved Christopher Nolan’s “The Odyssey”? Find more images inspired by the man of many twists and turns at these U.S. museums.",
         "source": "NYT Arts"
       },
       "items": [
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Oskar Eustis Is Stepping Down From the Public Theater",
-          "url": "https://www.nytimes.com/2026/07/22/theater/oskar-eustis-public-theater.html",
-          "snippet": "Eustis has been the Public Theater’s artistic director for 21 years, stewarding Free Shakespeare in the Park, nurturing “Hamilton” and navigating the coronavirus pandemic.",
+          "title": "The Devotion of Willow Smith",
+          "url": "https://www.nytimes.com/2026/07/23/arts/music/willow-smith-interview.html",
+          "snippet": "The daughter of a Hollywood power couple, she has gone above and beyond to prove herself. Virtuosity and spiritual aspirations fill her latest, “The Thread.”",
           "source": "NYT Arts"
         },
         {
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Six Years After a Reckoning, Criterion Puts ‘Cinematic Blackness’ in Focus",
-          "url": "https://www.nytimes.com/2026/07/22/movies/criterion-collection-black-film.html",
-          "snippet": "Adding a curator, the Criterion Collection expanded its offerings and its vision of Black film. But auteurs continue to push the company on what inclusion means.",
+          "title": "A ‘Big Bang Theory’ Supporting Actor Takes the Lead",
+          "url": "https://www.nytimes.com/2026/07/23/arts/television/stuart-fails-to-save-the-universe-kevin-sussman.html",
+          "snippet": "Kevin Sussman started as just a guest star on the hit sitcom. Now he has his own zany spinoff, “Stuart Fails to Save the Universe.”",
           "source": "NYT Arts"
         },
         {
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Kenneth Blume Steps Out of Kenny Beats’s Shadow",
-          "url": "https://www.nytimes.com/2026/07/22/arts/music/kenneth-blume-kenny-beats-geese.html",
-          "snippet": "The hitmaker formerly known as Kenny Beats was behind breakthrough albums for Geese, Vince Staples, Idles and Fcukers. On a new solo project, he turns his focus inward.",
+          "title": "‘Hadestown: The Musical’ Review: A Theatrical Triumph, Onscreen",
+          "url": "https://www.nytimes.com/2026/07/23/movies/hadestown-the-musical-review.html",
+          "snippet": "The director Brett Sullivan gives viewers the best seat in the house, with delicate camerawork that moves with the rhythms of Anaïs Mitchell’s soulful score.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Marlboro Music: Where Artists Have Time to Chase Perfection",
-          "url": "https://www.nytimes.com/2026/07/22/arts/music/marlboro-music-festival-75.html",
-          "snippet": "The Marlboro Music Festival, now in its 75th summer, allows artists to practice for however long they’d like, with no pressure to perform.",
+          "title": "Keith David Doesn’t Know What You Saw Him in",
+          "url": "https://www.nytimes.com/2026/07/23/arts/television/keith-david-president-curtis.html",
+          "snippet": "The prolific actor and narrator is adding another credit to his résumé with “President Curtis,” a spinoff of the animated hit “Rick and Morty.”",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "This French Ballet Star Wants You to Know He Really Cares",
-          "url": "https://www.nytimes.com/2026/07/22/arts/dance/hugo-marchand-paris-opera-ballet-new-york-city-center.html",
-          "snippet": "Hugo Marchand, an étoile at Paris Opera Ballet, brings his intensity and some high-wattage friends to New York City Center’s Artists at the Center.",
+          "title": "Tate’s New Director Knows Its Glory Days. Can She Bring Them Back?",
+          "url": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
+          "snippet": "Jessica Morgan was at Tate before Brexit, the pandemic and steep cuts to the arts. Her work at Dia Art Foundation since then suggests that she is an optimistic appointment for the British museum group.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Fire Ravaged the Glasgow School of Art. It May Cost Too Much to Restore It.",
-          "url": "https://www.nytimes.com/2026/07/22/arts/design/glasgow-school-of-art-fire.html",
-          "snippet": "Designed by Charles Rennie Mackintosh, the Glasgow School of Art is one of Britain’s most famous buildings. The school says it can’t undertake a planned “faithful restoration” alone.",
+          "title": "Your Scary Summer of Movies, Graveyards and Horror Clubs",
+          "url": "https://www.nytimes.com/2026/07/23/movies/summer-horror-movies-theater-nyc.html",
+          "snippet": "Summertime is a ripe time for terror. Our horror expert picks a night at the drive-in for a slasher double feature, an amble through a cemetery and more.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘The Vampire Lestat’ Was a Dissonant Viewing Experience",
-          "url": "https://www.nytimes.com/2026/07/22/arts/television/the-vampire-lestat-season-finale.html",
-          "snippet": "This season of “The Vampire Lestat” featured an outstanding lead performance but an unrecognizable title character.",
+          "title": "‘Motor City’ Review: Some Rage and Quiet",
+          "url": "https://www.nytimes.com/2026/07/23/movies/motor-city-review.html",
+          "snippet": "Set in Detroit in the 1970s, this revenge movie tells its story with almost no dialogue.",
           "source": "NYT Arts"
         }
       ]
