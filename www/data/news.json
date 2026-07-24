@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-23T20:52:59.328896+00:00",
+  "updated": "2026-07-24T01:54:28.710911+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Κουβέιτ: Ιρανική επίθεση με πυραύλους και drones",
-        "url": "https://www.efsyn.gr/kosmos/1434512/koyveit-iraniki-epithesi-me-pyrayloys-kai-drones/",
-        "snippet": "Οι εκρήξεις που ακούστηκαν ήταν αποτέλεσμα αναχαιτίσεων, ανέφεραν οι τοπικές αρχές.",
+        "title": "Κροατικά ΜΜΕ: Ο Λιβάκοβιτς «κλείνει» στον Ολυμπιακό",
+        "url": "https://www.efsyn.gr/athlitismos/1434522/kroatika-mme-o-livakovits-kleinei-ston-olympiako/",
+        "snippet": "Η ελληνική ομάδα φέρεται διατεθειμένη να δώσει 4-5 εκατ. ευρώ στη Φενέρ για να τον κάνει δικό της.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Τουρκία: Συνελήφθη influencer για «προσβολή θρησκευτικών αξιών» και «δημοσίευση άσεμνου υλικού»",
+          "url": "https://www.efsyn.gr/kosmos/1434519/toyrkia-synelifthi-influencer-gia-prosvoli-thriskeytikon-axion-kai-dimosieysi-asemnoy-ylikoy/",
+          "snippet": "Τα μέτρα των αρχών ήταν δικαιολογημένα, δήλωσε σύμβουλος της τουρκικής προεδρίας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κουβέιτ: Ιρανική επίθεση με πυραύλους και drones",
+          "url": "https://www.efsyn.gr/kosmos/1434512/koyveit-iraniki-epithesi-me-pyrayloys-kai-drones/",
+          "snippet": "Οι εκρήξεις που ακούστηκαν ήταν αποτέλεσμα αναχαιτίσεων, ανέφεραν οι τοπικές αρχές.",
+          "source": "EfSyn"
+        },
         {
           "title": "Πυρκαγιά στη Θεσσαλονίκη: Ολονύχτια μάχη με τις φλόγες στον δήμο Θέρμης",
           "url": "https://www.efsyn.gr/ellada/1434509/pyrkagia-sti-thessaloniki-olonyhtia-mahi-me-tis-floges-ston-dimo-thermis/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1434450/voyvos-thrinos-sto-mati-epizontes-kai-syggeneis-thymaton-poreytikan-pros-ton-topo-tis-tragodias-eikones-vinteo/",
           "snippet": "Στο μέσο της διαδρομής, έκαναν μια στάση στον Νέο Βουτζά, στο σημείο όπου έχουν φυτέψει 17 κυπαρίσσια για τους ανθρώπους που έχασαν τις ζωές τους στο συγκεκριμένο σημείο.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Έρευνα Pulse: Κυρίαρχο πρόβλημα η ακρίβεια για το 83% των πολιτών – Ανησυχία για τις τιμές στα βασικά αγαθά",
-          "url": "https://www.efsyn.gr/ellada/1434448/ereyna-pulse-kyriarho-provlima-i-akriveia-gia-to-83-ton-politon-anisyhia-gia-tis-times-sta-vasika-agatha/",
-          "snippet": "Η οικονομική πίεση αποτυπώνεται και στον προγραμματισμό των θερινών διακοπών. Ανάγκη άμεσων μέτρων για την αντιμετώπιση των υψηλών τιμών και την ενίσχυση της κοινωνίας.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυκνώνει το μυστήριο στη Σύρο: Σύλληψη ζευγαριού για το φονικό – Ο καβγάς που οδήγησε στο μαχαίρωμα της 42χρονης",
-          "url": "https://www.efsyn.gr/ellada/1434452/pyknonei-to-mystirio-gia-to-foniko-sti-syro-42-eton-i-nekri-dyo-prosagoges-gia-ton-thanato-tis/",
-          "snippet": "Η 42χρονη φέρεται να λογομάχησε με άλλη γυναίκα, της οποίας ο σύζυγος τη μαχαίρωσε • Τι υποστηρίζει το ζευγάρι που έχει συλληφθεί.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,9 +101,9 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: Red Sea Turmoil Pushes Oil Past $100 a Barrel",
+        "title": "Iran War Live Updates: Iran Rejected a U.S. Cease-Fire Offer Delivered by Iraq, Officials Say",
         "url": "https://www.nytimes.com/live/2026/07/23/world/iran-war-strikes-oil-trump",
-        "snippet": "The price of Brent crude soared after Iran’s Houthi allies in Yemen claimed strikes on two Saudi tankers. The House cast a second vote to rein in President Trump’s war powers, but Republicans in the Senate later blocked the measure from passing.",
+        "snippet": "The prime minister of Iraq, who recently visited the White House, carried the proposal to Tehran. The U.S. military said it conducted a 13th consecutive night of strikes on Iran in the early hours of Friday local time.",
         "source": "NYT World"
       },
       "items": [
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "What to Know About Iran and the Houthis",
-          "url": "https://www.nytimes.com/2026/07/23/world/middleeast/what-to-know-iran-houthis.html",
-          "snippet": "The Yemeni militant group appeared to open a new front in the conflict between its backer, Iran, and the United States, by attacking ships and announcing a blockade on a strategic waterway.",
+          "title": "Prominent Indian Activist Breaks Hunger Strike After 26 Days",
+          "url": "https://www.nytimes.com/2026/07/23/world/asia/sonam-wangchuk-india-hunger-strike-protests-modi.html",
+          "snippet": "The activist, Sonam Wangchuk, said that he had broken his fast “after long negotiations” with officials and “in view of possible violence in the country.”",
           "source": "NYT World"
         }
       ]
@@ -197,22 +197,40 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "AMD takes on Nvidia with its Helios AI rack scale system",
-        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-        "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+        "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
         "source": "TechCrunch"
       },
       "items": [
         {
-          "title": "Patreon lays off off 20% of its workforce",
+          "title": "Meet the judges who will crown Australia’s next breakout startup",
+          "url": "https://techcrunch.com/2026/07/23/meet-the-judges-who-will-crown-australias-next-breakout-startup/",
+          "snippet": "TechCrunch Startup Battlefield is coming to Australia — and we're partnering with Stripe to find the country's most exciting early-stage startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Mobileye CEO Amnon Shashua to step aside as company pushes into robotaxis, robotics",
+          "url": "https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/",
+          "snippet": "Shashua has been invited to take the chairman of the board seat.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Patreon lays off 20% of its workforce",
           "url": "https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/",
-          "snippet": "In a memo to staff that was posted online, Conte the company's core business is strong, but that the platform has to respond to market changes and adjust its cost structure to remain stable.",
+          "snippet": "In a memo to staff that was posted online, Conte said the company's core business is strong, but the platform has to respond to market changes and adjust its cost structure to remain stable.",
           "source": "TechCrunch"
         },
         {
           "title": "Insurance startup Corgi reportedly raised more money at $4B — its third round in 8 weeks",
           "url": "https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/",
-          "snippet": "Corgi had announced a B1 round of $106 million at a $2.6 billion valuation at the end of May.",
+          "snippet": "In the AI-funding frenzy, many startups are raising back-to-back rounds at ever-increasing valuations — but even by those standards, Corgi stands out.",
           "source": "TechCrunch"
         },
         {
@@ -268,24 +286,6 @@
           "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
           "snippet": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Google will now let you sign in to your account with a selfie video",
-          "url": "https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/",
-          "snippet": "The tech giant says selfie videos give users more options to sign in if they're ever locked out or don't have access to their usual phone or computer.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-          "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-          "snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Edtech platform raises $4.5M to help teach students how to vibe code",
-          "url": "https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/",
-          "snippet": "Imagi announced a $4.5 million seed round, with investors including Brighteye Ventures, Day One Capital, and artist Will.i.am.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Πήγαν να ανοίξουν μπαρ και οι τοίχοι αποκάλυψαν ένα μυστικό που έμενε κρυφό για πάνω από 100 χρόνια",
-        "url": "https://www.gazzetta.gr/plus/2556454/pigan-na-anoixoyn-mpar-kai-oi-toihoi-apokalypsan-ena-mystiko-poy-emene-kryfo-gia-pano",
-        "snippet": "Κατά την ανακαίνιση κτιρίου 115 ετών στις ΗΠΑ, ιδιοκτήτης ανακάλυψε δύο γιγάντιες τοιχογραφίες του 1915, κρυμμένες πίσω από σοβά για πάνω από έναν αιώνα.",
+        "title": "Οι μεταγραφές της ημέρας: Λονδρέζος ο Τζόλης, πρώτη άφιξη για Νότιγχαμ",
+        "url": "https://www.gazzetta.gr/football/2556449/oi-metagrafes-tis-imeras-londrezos-o-tzolis-proti-afixi-gia-notigham",
+        "snippet": "Δείτε τον μεταγραφικό απολογισμό της Πέμπτης (23/7), όπου ξεχώρισε η μετακίνηση του Χρήστου Τζόλη στην Άρσεναλ.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μοντερέι - Κάιπερς: Και επίσημα στην ομάδα του Αλμέιδα και του Πινέδα",
+          "url": "https://www.gazzetta.gr/football/2556471/monterei-kaipers-kai-episima-stin-omada-toy-almeida-kai-toy-pineda",
+          "snippet": "Η Μοντερέι ολοκλήρωσε τη μεταγραφή του Ούγκο Κάιπερς από τη Σικάγο Φάιαρ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χάιντουκ Σπλιτ - Πάφος 2-0: Την πάτησε και τώρα τρέχει",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2556470/haintoyk-split-pafos-2-0-tin-patise-kai-tora-trehei",
+          "snippet": "Η Πάφος ηττήθηκε 2-0 από τη Χάιντουκ Σπλιτ εκτός έδρας και έχει ένα... βουνό να ανέβει στη ρεβάνς.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Μπαλτσερόφσκι στην Μπαρτσελόνα και οι άλλοι",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556468/oi-metagrafes-tis-imeras-sto-mpasket-o-mpaltserofski-stin-mpartselona",
+          "snippet": "Η Μπαρτσελόνα ανακοίνωσε την απόκτηση του Αλεξάντερ Μπαλτσερόφσκι, οι δυο αποκτήσεις της Παρτίζαν, ο ΝΒΑερ της Βαλένθια και οι κινήσεις των ομάδων της Stoiximan GBL.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πήγαν να ανοίξουν μπαρ και οι τοίχοι αποκάλυψαν ένα μυστικό που έμενε κρυφό για πάνω από 100 χρόνια",
+          "url": "https://www.gazzetta.gr/plus/2556454/pigan-na-anoixoyn-mpar-kai-oi-toihoi-apokalypsan-ena-mystiko-poy-emene-kryfo-gia-pano",
+          "snippet": "Κατά την ανακαίνιση κτιρίου 115 ετών στις ΗΠΑ, ιδιοκτήτης ανακάλυψε δύο γιγάντιες τοιχογραφίες του 1915, κρυμμένες πίσω από σοβά για πάνω από έναν αιώνα.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Έκανε το πρώτο βήμα ο Παναθηναϊκός αλλά μπορούσε κι έπρεπε να... σκοτώσει την Πάξι!",
           "url": "https://www.gazzetta.gr/football/superleague/2556469/ekane-proto-bima-o-panathinaikos-alla-mporoyse-ki-eprepe-na-skotosei",
@@ -357,30 +381,6 @@
           "title": "Σαντίνο Αντίνο: «Χαρούμενος για την απόδοσή μου»",
           "url": "https://www.gazzetta.gr/football/europa-conference-league/2556460/santino-antino-haroymenos-gia-tin-apodosi-moy",
           "snippet": "Ο Σαντίνο Αντίνο είχε κάθε λόγο να είναι χαρούμενος για το πρώτο του ευρωπαϊκό γκολ με τον Παναθηναϊκό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αστέρας Τρίπολης - VVCS 1-0: Με το «δεξί» στα φιλικά",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2556459/asteras-tripolis-vvcs-1-0-me-dexi-sta-filika",
-          "snippet": "Ο Αστέρας AKTOR στο πρώτο φιλικό προετοιμασίας ενόψει τη νέας σεζόν νίκησε την VVCS με 1-0 χάρη σε γκολ του Αντριάν Ριέρα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Έτσι κέρδισε την ΑΕΚ το «τριφύλλι» για τον Κάνγκουα λένε οι Ισραηλινοί",
-          "url": "https://www.gazzetta.gr/football/superleague/2556417/panathinaikos-etsi-kerdise-tin-aek-trifylli-gia-ton-kangkoya-lene-oi",
-          "snippet": "Ισραηλινό ρεπορτάζ εξηγεί τους λόγους που ο Κινγκς Κάνγκουα φαίνεται να καταλήγει στον Παναθηναϊκό και όχι στην ΑΕΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάκσι - Παναθηναϊκός 1-2: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2556458/paksi-panathinaikos-1-2-ta-highlights-toy-agona",
-          "snippet": "Τα γκολ και οι καλύτερες φάσεις της νίκης του Παναθηναϊκού επί της Πάκσι με 2-1.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βαθμολογία UEFA: Με το δεξί η Ελλάδα!",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2556457/bathmologia-uefa-me-dexi-i-ellada",
-          "snippet": "Η Ελλάδα ξεκίνησε ιδανικά την ευρωπαϊκή σεζόν, με ΠΑΟΚ και Παναθηναϊκό να φέρνουν 400 βαθμούς.",
           "source": "Gazzetta"
         }
       ]
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Tate’s New Director Knows Its Glory Days. Can She Bring Them Back?",
-          "url": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
-          "snippet": "Jessica Morgan was at Tate before Brexit, the pandemic and steep cuts to the arts. Her work at Dia Art Foundation since then suggests that she is an optimistic appointment for the British museum group.",
+          "title": "‘The Odyssey’ Hired Their Viking Ship. They Say It Came Back Damaged.",
+          "url": "https://www.nytimes.com/2026/07/23/movies/the-odyssey-viking-ship-sweden.html",
+          "snippet": "A Swedish Viking center said its vessel was used in the filming of Christopher Nolan’s epic but needed repairs when it was returned. Now, the center is seeking compensation.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "She Championed Pollock and Rothko. Now Her Art Is on the Museum Walls.",
-          "url": "https://www.nytimes.com/2026/07/23/arts/design/betty-parsons-review-bard-sillman-pollock-rothko.html",
-          "snippet": "Betty Parsons, who showed the “great big shots” in her gallery starting in the 1940s, is the focus of a survey at Bard College, designed by the artist Amy Sillman.",
+          "title": "Tate’s New Director Knows Its Glory Days. Can She Bring Them Back?",
+          "url": "https://www.nytimes.com/2026/07/23/arts/jessica-morgan-tate-dia.html",
+          "snippet": "Jessica Morgan was at Tate before Brexit, the pandemic and steep cuts to the arts. Her work at Dia Art Foundation since then suggests that she is an optimistic appointment for the British museum group.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘A Sad and Beautiful World’ Review: A Love to Overcome Fear",
-          "url": "https://www.nytimes.com/2026/07/23/movies/a-sad-and-beautiful-world-review.html",
-          "snippet": "In Lebanon, a lush romance in uncertain times asks what keeps us human.",
+          "title": "She Championed Pollock and Rothko. Now Her Art Is on the Museum Walls.",
+          "url": "https://www.nytimes.com/2026/07/23/arts/design/betty-parsons-review-bard-sillman-pollock-rothko.html",
+          "snippet": "Betty Parsons, who showed the “great big shots” in her gallery starting in the 1940s, is the focus of a survey at Bard College, designed by the artist Amy Sillman.",
           "source": "NYT Arts"
         }
       ]
