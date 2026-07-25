@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T20:55:42.629253+00:00",
+  "updated": "2026-07-25T01:53:51.390617+00:00",
   "sections": [
     {
       "id": "greek",
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
+        "title": "Iran War Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes",
         "url": "https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil",
         "snippet": "The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel. Across the region, Iran and the United States continued to trade attacks.",
         "source": "NYT World"
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Waymo reportedly mulling a breakup with Uber",
-        "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
-        "snippet": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+        "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+        "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+        "snippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "SpaceX launches new V3 Starlink satellites but suffers another booster failure",
+          "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
+          "snippet": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
+          "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
+          "snippet": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same",
+          "url": "https://techcrunch.com/2026/07/24/social-media-ban-children-countries-list/",
+          "snippet": "Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Waymo reportedly mulling a breakup with Uber",
+          "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
+          "snippet": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
           "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
@@ -212,7 +242,7 @@
         {
           "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-          "snippet": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief t",
+          "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
           "source": "TechCrunch"
         },
         {
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/",
           "snippet": "Sam Altman's side project — which seeks to scan the world's eyeballs and turn them into unique digital identifiers — has raised some fresh cash through a crypto sale.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-          "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-          "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Rivian sues the US government for ‘full refund’ of Trump tariffs",
-          "url": "https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/",
-          "snippet": "The automaker joins a long line of companies seeking such refunds. In April, Rivian CFO Claire McDonough said she expected the company stood to reap a refund in the \"tens of millions of dollars.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-          "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-          "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Midjourney acquired the astrology app Co-Star",
-          "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-          "snippet": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-          "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-          "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,16 +293,40 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ιταλία-Ελλάδα 79-86: Φιλική νίκη για τους Παίδες, αποχώρησε τραυματίας ο Σπανούλης",
-        "url": "https://www.gazzetta.gr/basketball/2556706/italia-ellada-79-86-filiki-niki-gia-toys-paides-apohorise-traymatias-o-spanoylis",
-        "snippet": "Η Εθνική Παίδων κυριάρχησε (86-79) της Ιταλίας στο πρώτο παιχνίδι του διεθνούς τουρνουά στο Μπασάνο, αποχώρησε στο ξεκίνημα του δευτέρου ημιχρόνου ο Θανάσης Σπανούλης, λόγω ενοχλήσεων στον αστράγαλο.",
+        "title": "Σα - Ολυμπιακός: Φουλάρει για την απόκτησή του",
+        "url": "https://www.gazzetta.gr/football/superleague/2556718/sa-olympiakos-foylarei-gia-tin-apoktisi-toy",
+        "snippet": "Η επικείμενη πώληση του Τζολάκη στη Χαλ επισπεύδει τις διαδικασίες απόκτησης του Ζοσέ Σα, για τον οποίο έχετε ήδη ενημερωθεί από το Gazzetta.",
         "source": "Gazzetta"
       },
       "items": [
         {
+          "title": "Ομεονγκά: Η Νίκη Βόλου έκανε «Σουπερλιγκάτη» μεταγραφή",
+          "url": "https://www.gazzetta.gr/football/superleague-2/2556707/omeongka-i-niki-boloy-ekane-soyperligkati-metagrafi",
+          "snippet": "Η Νίκη Βόλου ανακοίνωσε την απόκτηση του Βέλγου χαφ Στεφάν Ομεονγκά, ο οποίος αποχώρησε από τον Πανσερραϊκό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το παραδεισένιο νησί 2 ώρες από την Αθήνα που έχει γλιτώσει από τον μαζικό τουρισμό (vid)",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Ένας 66χρονος Σέρβος οδηγούσε εντελώς μεθυσμένος στο αντίθετο ρεύμα του Περιφερειακού. Τράκαρε με ταξί και συνελήφθη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο ΛεΜπρον αποφάσισε Σίξερς, ο Τολιόπουλος στον Άρη και οι άλλες κινήσεις",
+          "url": "https://www.gazzetta.gr/basketball/nba/2556702/oi-metagrafes-tis-imeras-sto-mpasket-o-lempron-apofasise-sixers-o",
+          "snippet": "Ο ΛεΜπρον Τζέιμς έκανε «σεισμό» με την απόφαση του να πάει στους Σίξερς, ο Βασίλης Τολιόπουλος ανακοινώθηκε από τον Άρη, ενώ Μπαρτσελόνα και Αρμάνι Μιλάνο ενισχύθηκαν, όπως και οι ομάδες της Stoiximan GBL.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ιταλία-Ελλάδα 79-86: Φιλική νίκη για τους Παίδες, αποχώρησε τραυματίας ο Σπανούλης",
+          "url": "https://www.gazzetta.gr/basketball/2556706/italia-ellada-79-86-filiki-niki-gia-toys-paides-apohorise-traymatias-o-spanoylis",
+          "snippet": "Η Εθνική Παίδων κυριάρχησε (86-79) της Ιταλίας στο πρώτο παιχνίδι του διεθνούς τουρνουά στο Μπασάνο, αποχώρησε στο ξεκίνημα του δευτέρου ημιχρόνου ο Θανάσης Σπανούλης, λόγω ενοχλήσεων στον αστράγαλο.",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Κάνγκουα: Παναθηναϊκός - Το ποσοστό μεταπώλησης που κράτησε η Χάποελ, σύμφωνα με τους Ισραηλινούς",
           "url": "https://www.gazzetta.gr/football/superleague/2556705/kangkoya-panathinaikos-pososto-metapolisis-poy-kratise-i-hapoel",
-          "snippet": "Σύμφωνα με δημοσίευμα του «Sport5» το deal του Παναθηναϊκού με την Χάποελ Μπερ Σεβά για τον Κινγκς Κάνγκουα προβλέπει ποσοστό μεταπώλησης της τάξης του 25% για τους Ισραηλινούς.",
+          "snippet": "Σύμφωνα με δημοσίευμα του «Sport5» το deal του Παναθηναϊκού με την Χάποελ Μπερ Σεβά για τον Κινγκς Κάνγκουα προβλέπει ποσοστό μεταπώλησης της τάξης του 25%.",
           "source": "Gazzetta"
         },
         {
@@ -358,30 +382,6 @@
           "url": "https://www.gazzetta.gr/football/superleague/2556638/panathinaikos-o-ntesers-einai-kleidi-gia-ena-poly-dynato-trifylli",
           "snippet": "Ο Σίριλ Ντέσερς μετράει αντίστροφα για την επιστροφή του κι από τη δική του εικόνα και τα γκολ θα κριθούν πολλά για τον Παναθηναϊκό.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Τότεναμ: Προφορική συμφωνία με την Τσέλσι για τον Πέδρο Νέτο",
-          "url": "https://www.gazzetta.gr/football/premier-league/2556696/totenam-proforiki-symfonia-me-tin-tselsi-gia-ton-pedro-neto",
-          "snippet": "Σύμφωνα με το Athletic, η Τότεναμ ήρθε σε προφορική συμφωνία με την Τσέλσι για την απόκτηση του Πορτογάλου διεθνή Πέδρο Νέτο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Αδύνατον να τη σβήσουμε» και «πυρκαγιά XXL»: Απαρηγόρητοι οι πυροσβέστες σε Γαλλία-Ισπανία",
-          "url": "https://www.gazzetta.gr/plus/2556695/adynaton-na-ti-sbisoyme-kai-pyrkagia-xxl-aparigoritoi-oi-pyrosbestes-se-gallia-ispania",
-          "snippet": "Οι πυροσβέστες - ήρωες παλεύουν ασταμάτητα για να σταματήσουν την πύρινη λαίλαπα σε Ισπανία και Γαλλία. Τα πράγματα εκτροχιάζονται αντί να καλυτερεύουν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Με ΟΦΗ στη League Phase του Conference οι προβλέψεις, στο 2ο pot το τριφύλλι, 5ο οι Κρητικοί",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2556683/panathinaikos-me-ofi-sti-league-phase-sto-2o-pot-trifylli",
-          "snippet": "Οι προβλέψεις για τον Παναθηναϊκό και τον ΟΦΗ είναι συμμετοχή στο δεύτερο pot της League Phase του Conference League. Ποιες ομάδες ξεχωρίζουν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τάχα Άλι: Αγωνία στον ΠΑΟΚ, το Σάββατο οι εξετάσεις",
-          "url": "https://www.gazzetta.gr/football/superleague/2556694/taha-ali-agonia-ston-paok-sabbato-oi-exetaseis",
-          "snippet": "Ο Τάχα Άλι θα υποβληθεί το Σάββατο σε εξετάσεις για να διαπιστωθεί το μέγεθος της ζημιάς.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "Can This New Enzyme Turn Back the Clock in Bodily Tissues?",
-          "url": "https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html",
-          "snippet": "In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.",
+          "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
+          "url": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
+          "snippet": "It was the 13th test overall of Starship. The success is a boon to NASA’s moon plans and SpaceX’s hopes to deploy a million data centers in orbit.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
-          "url": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
-          "snippet": "A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.",
+          "title": "Can This New Enzyme Turn Back the Clock in Bodily Tissues?",
+          "url": "https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html",
+          "snippet": "In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Health Care Agency Discontinues Dozens of Active Research Awards",
-          "url": "https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html",
-          "snippet": "The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.",
+          "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+          "url": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+          "snippet": "A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
-          "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
-          "snippet": "The awards are bestowed only once every four years to mathematicians under the age of 40.",
+          "title": "Health Care Agency Discontinues Dozens of Active Research Awards",
+          "url": "https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html",
+          "snippet": "The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California",
-          "url": "https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html",
-          "snippet": "Jackie found an online audience through a webcam pointed at her nest in California. She was rescued last week after a fight with other eagles, officials said.",
+          "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
+          "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
+          "snippet": "The awards are bestowed only once every four years to mathematicians under the age of 40.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "What Were the Lotus-Eaters Eating in Homer’s ‘Odyssey’?",
-          "url": "https://www.nytimes.com/2026/07/22/science/odyssey-lotus-eaters-opium.html",
-          "snippet": "In Homer’s epic, Odysseus’s men eat something so powerful that they forget about home. Which plants could have produced such a soporific, narcotic and amnesiac effect?",
+          "title": "Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California",
+          "url": "https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html",
+          "snippet": "Jackie found an online audience through a webcam pointed at her nest in California. She was rescued last week after a fight with other eagles, officials said.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "He’s the Last Great Land Artist You’ve Never Heard Of",
-          "url": "https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html",
-          "snippet": "Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?",
+          "title": "What Were the Lotus-Eaters Eating in Homer’s ‘Odyssey’?",
+          "url": "https://www.nytimes.com/2026/07/22/science/odyssey-lotus-eaters-opium.html",
+          "snippet": "In Homer’s epic, Odysseus’s men eat something so powerful that they forget about home. Which plants could have produced such a soporific, narcotic and amnesiac effect?",
           "source": "NYT Science"
         },
         {
