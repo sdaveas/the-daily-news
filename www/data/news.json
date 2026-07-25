@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-25T16:47:12.887168+00:00",
+  "updated": "2026-07-25T20:41:13.089937+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ελληνες επιχειρηματίες: Βλέπουν ευκαιρία στην Πληροφορική",
-        "url": "https://www.efsyn.gr/oikonomia/1435446/ellines-epiheirimaties-vlepoyn-eykairia-stin-pliroforiki/",
-        "snippet": "Κεφάλαια από τη ναυτιλία και τη στεριά παίρνουν θέσεις σε εταιρείες Πληροφορικής ● Ποιοι επενδύουν εκατομμύρια στο νέο «Ελντοράντο»",
+        "title": "Πτώση 2χρονου σε πισίνα στην Κρήτη: Έμεινε στον πυθμένα επί περίπου δύο λεπτά – Η γιατρός μητέρα του το επανέφερε με ΚΑΡΠΑ",
+        "url": "https://www.efsyn.gr/ellada/1435725/ptosi-2hronoy-se-pisina-stin-kriti-emeine-ston-pythmena-epi-peripoy-dyo-lepta-i-giatros-mitera-toy-to-epanefere-me-karpa/",
+        "snippet": "Η γιατρός έδωσε μάχη για να κρατήσει τον γιο της στη ζωή.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Πύρινος εφιάλτης σε Γαλλία και Ισπανία: Ενώθηκαν τα δύο σύννεφα καπνού – Συνεχείς εκκενώσεις οικισμών [εικόνες – βίντεο]",
+          "title": "Ζελένσκι: Η Ρωσία θέλει να στρατολογήσει 30.000 Βορειοκορεάτες κατά της Ουκρανίας",
+          "url": "https://www.efsyn.gr/kosmos/1435720/zelenski-i-rosia-thelei-na-stratologisei-30-000-voreiokoreates-kata-tis-oykranias/",
+          "snippet": "Ανέφερε μάλιστα ότι το Κρεμλίνο ετοιμάζεται ήδη να τους υποδεχτεί.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η Θεσσαλονίκη τίμησε τη Μαρία Φαραντούρη για την προσφορά της στον αντιδικτατορικό αγώνα",
+          "url": "https://www.efsyn.gr/tehnes/1435708/i-thessaloniki-timise-ti-maria-farantoyri-gia-tin-prosfora-tis-ston-antidiktatoriko-agona/",
+          "snippet": "«Έθεσε την τέχνη και τη φωνή της στην υπηρεσία της δημοκρατίας και της ελευθερίας, μεταφέροντας σε ολόκληρο τον κόσμο το μήνυμα αντίστασης του ελληνικού λαού και αναδεικνύοντας, μέσα από το έργο της, τη δύναμη του πολιτισμού απέναντι στην καταπίεση»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ο Καραλής «πέταξε» στα 5,80 μέτρα και κατέκτησε τον 6ο σερί τίτλο του [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1435679/o-karalis-petaxe-sta-580-metra-kai-katektise-ton-6o-seri-titlo-toy-vinteo/",
+          "snippet": "Ο Έλληνας πρωταθλητής, που προερχόταν από το άλμα στα 5,95 μ. στο Diamond League του Λονδίνου, άλλον έναν τίτλο του στο αγώνισμα, στο οποίο κυριαρχεί από το 2021.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Δολοφονία Σταύρου Γεωργίου: Στο μικροσκόπιο το κινητό και το πορτοφόλι του δικηγόρου – Εντοπίστηκαν στο γραφείο του",
+          "url": "https://www.efsyn.gr/ellada/1435669/dolofonia-stayroy-georgioy-sto-mikroskopio-kinito-kai-portofoli-toy-dikigoroy-entopistikan-sto-grafeio-toy/",
+          "snippet": "Από την πρώτη στιγμή οι αρχές αναζητούσαν το κινητό τηλέφωνο του δικηγόρου καθώς και το πορτοφόλι του, εξετάζοντας όλα τα ενδεχόμενα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πέθανε ο πρώην πρόεδρος της FIBA Οράσιο Μουρατόρε",
+          "url": "https://www.efsyn.gr/athlitismos/1435654/pethane-o-proin-proedros-tis-fiba-orasio-moyratore/",
+          "snippet": "Γεννημένος στην Αργεντινή, ο Μουρατόρε βρέθηκε στην προεδρία της παγκόσμιας ομοσπονδίας από το 2014 έως το 2019.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πανελλήνιο Ανοιχτού Στίβου – 100 μέτρα: Σπανουδάκη και Εμμανουηλίδου «μοιράστηκαν» το χρυσό",
+          "url": "https://www.efsyn.gr/athlitismos/1435656/panellinio-anoihtoy-stivoy-100-metra-spanoydaki-kai-emmanoyilidoy-moirastikan-to-hryso-metallio/",
+          "snippet": "Αμφότερες έδειξαν πως βρίσκονται σε εξαιρετική κατάσταση ενόψει του κορυφαίου γεγονότος της χρονιάς, του Ευρωπαϊκού Πρωταθλήματος στο Μπέρμιγχαμ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ενας αντι-σταρ στην κορυφή του κόσμου",
+          "url": "https://www.efsyn.gr/stiles/1435458/enas-anti-star-stin-koryfi-toy-kosmoy/",
+          "snippet": "Στις 19/7/2015, επί ελληνικού εδάφους ξεκίνησε η νικηφόρα πορεία του στα νεανικά κλιμάκια της Ισπανίας. Ποιος να του το ’λεγε ότι ακριβώς την ίδια ημερομηνία, έντεκα χρόνια αργότερα στην άλλη άκρη της Γης, θα κατακτούσε το Μουντιάλ με παίκτες που ανδρώθηκαν στα χέρια του...",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Δημοσκόπηση Marc: Στις 14 μονάδες η διαφορά ΝΔ και ΕΛΑΣ – Το ΠΑΣΟΚ στην 3η θέση, απώλειες για την Καρυστιανού",
+          "url": "https://www.efsyn.gr/politiki/1435649/dimoskopisi-marc-stis-14-monades-i-diafora-nd-kai-elas-to-pasok-stin-3i-thesi-apoleies-gia-tin-karystianoy/",
+          "snippet": "Τα ποσοστά που κατέγραψε για κάθε κόμμα η έρευνα, στο ερώτημα της εκτίμησης εκλογικού αποτελέσματος.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Οταν η τριγωνική διαπλοκή γίνεται κανονικότητα",
+          "url": "https://www.efsyn.gr/media/1435452/otan-i-trigoniki-diaploki-ginetai-kanonikotita/",
+          "snippet": "Eρωτήματα από την παραδοχή του Αδωνη Γεωργιάδη ότι μεσολάβησε σε επιχειρηματία για να δοθούν χρήματα (μέσω διαφήμισης) σε δημοσιογράφο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νεκρός εντοπίστηκε 80χρονος στο Γαλάτσι – Εξετάζεται το ενδεχόμενο εγκληματικής ενέργειας",
+          "url": "https://www.efsyn.gr/ellada/1435644/nekros-entopistike-80hronos-sto-galatsi-exetazetai-to-endehomeno-egklimatikis-energeias/",
+          "snippet": "Ο ηλικιωμένος έφερε τραύμα στο λαιμό, το σπίτι όμως δεν έφερε ίχνη παραβίασης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ανδρουλάκης: Το ΠΑΣΟΚ καλεί στους πολίτες να αναφέρουν σε πλατφόρμα, τις ακριβές τιμές ακτοπλοϊκών εισιτηρίων",
+          "url": "https://www.efsyn.gr/politiki/1435642/ekdilosi-toy-pasok-gia-ti-naytilia-sti-hio-me-omilia-toy-n-androylaki-live/",
+          "snippet": "Σύμφωνα με όσα είπε, η πλατφόρμα θα μπορεί να δέχεται τις αναφορές των πολιτών από μεθαύριο Δευτέρα 27 Ιουλίου.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΕΛΑΣ για τους Patriot στην Σαουδική Αραβία: «Επικίνδυνη εμπλοκή της Ελλάδας σε πολεμικές συγκρούσεις»",
+          "url": "https://www.efsyn.gr/politiki/1435635/elas-gia-toys-ellinikoys-patriot-stin-saoydiki-aravia-epikindyni-emploki-tis-elladas-se-polemikes-sygkroyseis/",
+          "snippet": "«Ο Αλέξης Τσίπρας, είχε εκφράσει την αντίθεσή του για την συμφωνία με την Σαουδική Αραβία για τους Patriot από το 2021».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ελληνες επιχειρηματίες: Βλέπουν ευκαιρία στην Πληροφορική",
+          "url": "https://www.efsyn.gr/oikonomia/1435446/ellines-epiheirimaties-vlepoyn-eykairia-stin-pliroforiki/",
+          "snippet": "Κεφάλαια από τη ναυτιλία και τη στεριά παίρνουν θέσεις σε εταιρείες Πληροφορικής ● Ποιοι επενδύουν εκατομμύρια στο νέο «Ελντοράντο»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πύρινος εφιάλτης σε Γαλλία και Ισπανία: Ενώθηκαν τα δύο σύννεφα καπνού – Ένας νεκρός στη Βαλένθια [εικόνες – βίντεο]",
           "url": "https://www.efsyn.gr/kosmos/1435620/pyrinos-efialtis-se-gallia-kai-ispania-enothikan-ta-dyo-synnefa-kapnoy-syneheis-ekkenoseis-oikismon-eikones-vinteo/",
           "snippet": "Οι διαδοχικοί καύσωνες στη γηραιά ήπειρο έχουν μετατρέψει τα δάση και τις θαμνώδεις εκτάσεις σε εκτάσεις έτοιμες να αναφλεγούν ανά πάσα στιγμή.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σαουδική Αραβία: Ένα ακόμα drone της Υεμένης κατέρριψαν οι ελληνικοί Patriot",
-          "url": "https://www.efsyn.gr/kosmos/1435617/saoydiki-aravia-ena-akoma-drone-tis-yemenis-katerripsan-oi-ellinikoi-patriot/",
-          "snippet": "Η επίθεση της Υεμένης φέρεται να είχε ως στόχο μία κρισιμή εγκατάσταση διυλιστηρίων στην περιοχή Γιανμπού, όπου είναι ανεπτυγμένη η ελληνική πυροβολαρχία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Με «δύο πρόσωπα» ο Ολυμπιακός στην πρόβα τζενεράλε – Ηττήθηκε 3-2 από την Aλκμάαρ",
-          "url": "https://www.efsyn.gr/athlitismos/1435614/me-dyo-prosopa-o-olympiakos-stin-prova-tzenerale-ittithike-3-2-apo-tin-alkmaar/",
-          "snippet": "Ο Ολυμπιακός ολοκλήρωσε τα φιλικά προετοιμασίας του επί ολλανδικού εδάφους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο «χάρτης» των πληρωμών από e-ΕΦΚΑ και ΔΥΠΑ μέχρι και τις 31 Ιουλίου",
-          "url": "https://www.efsyn.gr/oikonomia/1435612/o-hartis-ton-pliromon-apo-e-efka-kai-dypa-mehri-kai-tis-31-ioylioy/",
-          "snippet": "Πότε θα πληρωθούν οι δικαιούχοι, καθεμιάς από τις προγραμματισμένες παροχές.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νέα Αριστερά: Η προσπάθεια «επανεκκίνησης», η νέα πολιτική καμπάνια και οι προτάσεις που θα διατυπωθούν στη ΔΕΘ",
-          "url": "https://www.efsyn.gr/politiki/1435443/nea-aristera-i-prospatheia-epanekkinisis-i-nea-politiki-kampania-kai-oi-protaseis-poy-tha-diatypothoyn-sti-deth/",
-          "snippet": "Οι τέσσερις άξονες του πλαισίου που θα θέσει και οι παράλληλες εκδηλώσεις στη Θεσσαλονίκη για στεγαστικό και οικονομία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γεωργιάδης: Τη Δευτέρα διορίζω προσωρινή Διοικούσα στον Πανελλήνιο Ιατρικό Σύλλογο για να πράξει «τα δέοντα προβλεπόμενα»",
-          "url": "https://www.efsyn.gr/politiki/1435608/georgiadis-ti-deytera-diorizo-prosorini-dioikoysa-ston-panellinio-iatriko-syllogo-gia-na-praxei-ta-deonta-provlepomena/",
-          "snippet": "«Δεν μπορώ να χάσω ούτε μία μέρα διότι το απερχόμενο και εκλεγέν προ 8 ετών ΔΣ, αποφάσισε παρά τω νόμω να συγκληθεί την Τρίτη».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Γιάννης Αμανατίδης στην «Εφ.Συν.»: «Επιστρέφουμε στην κοινωνία με θέσεις και λύσεις»",
-          "url": "https://www.efsyn.gr/politiki/1435435/o-giannis-amanatidis-stin-ef-syn-epistrefoyme-stin-koinonia-me-theseis-kai-lyseis/",
-          "snippet": "Μίνιμουμ εκλογικός στόχος είναι η καθαρή και ισχυρή κοινοβουλευτική παρουσία. Από την άλλη, ο πολίτης θα μας ψηφίσει μόνο εάν πιστέψει ότι μπορούμε να τον υπερασπιστούμε",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Αύγουστος κάνει «ποδαρικό» με υψηλές θερμοκρασίες – Η πρόγνωση του Σάκη Αρναούτογλου",
-          "url": "https://www.efsyn.gr/ellada/1435605/o-aygoystos-kanei-podariko-me-ypsiles-thermokrasies-i-prognosi-toy-saki-arnaoytogloy/",
-          "snippet": "Πώς εκτιμά ο γνωστός μετεωρολόγος ότι θα διαμορφωθούν οι καιρικές συνθήκες στις αρχές του επόμενου μήνα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νομοσχέδιο – ταφόπλακα για τον πολιτισμό μετά από επτά χρόνια συστηματικής εμπορευματοποίησης",
-          "url": "https://www.efsyn.gr/tehnes/1435430/nomoshedio-tafoplaka-gia-ton-politismo-meta-apo-epta-hronia-systimatikis-emporeymatopoiisis/",
-          "snippet": "Σύσσωμη η αντιπολίτευση απέναντι στο πολυνομοσχέδιο που ψηφίζεται την Τρίτη στην Ολομέλεια της Βουλής και παραδίδει στα χέρια των ιδιωτών τη διαχείριση της κινητής και ακίνητης περιουσίας του υπουργείου Πολιτισμού",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αντίδραση από τη Νέα Αριστερά για τους ελληνικούς patriot στη Σαουδική Αραβία",
-          "url": "https://www.efsyn.gr/politiki/1435601/antidrasi-apo-ti-nea-aristera-gia-toys-ellinikoys-patriot-sti-saoydiki-aravia/",
-          "snippet": "«Η ΕΛΔΥΣΑ, οι στρατιωτικοί της και το αμυντικό υλικό, πρέπει να επιστρέψουν άμεσα στην Ελλάδα».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κρήτη: Παιδί 2 ετών ανασύρθηκε από πισίνα χωρίς τις αισθήσεις του – Νοσηλεύεται σε σοβαρή κατάσταση",
-          "url": "https://www.efsyn.gr/ellada/1435588/kriti-paidi-2-eton-anasyrthike-apo-pisina-horis-tis-aisthiseis-toy-to-epaneferan-oi-diasostes/",
-          "snippet": "Στο σημείο μετέβη ασθενοφόρο του ΕΚΑΒ, με τους διασώστες να καταβάλλουν υπεράνθρωπες προσπάθειες ανάνηψης. Τελικά, κατάφεραν να επαναφέρουν το παιδί στη ζωή.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: Να επιστρέψουν οι ελληνικοί Patriot από τη Σαουδική Αραβία",
-          "url": "https://www.efsyn.gr/politiki/1435584/syriza-na-epistrepsoyn-oi-ellinikoi-patriot-apo-ti-saoydiki-aravia/",
-          "snippet": "«Πέρα από τους κινδύνους που συνεπάγεται η αποστολή για το στρατιωτικό προσωπικό, η εμπλοκή στη διαμάχη δεν εξυπηρετεί ούτε την ασφάλεια ούτε τα συνολικότερα συμφέροντα της χώρας και του ελληνικού λαού».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συνταγματικός πληθωρισμός",
-          "url": "https://www.efsyn.gr/stiles/1435403/syntagmatikos-plithorismos/",
-          "snippet": "Στην Ελλάδα η Δικαιοσύνη είναι εφοδιασμένη με ισχυρή θεσμική θωράκιση και οι δικαστές είναι οι δημόσιοι λειτουργοί με την ισχυρότερη θεσμική προστασία. Φαίνεται, όμως, ότι δεν έχει κατακτηθεί η αναγκαία ισορροπία μεταξύ των αρχών του κράτους δικαίου και της εφαρμογής τους",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πρωτοβουλία σε διαλυμένο τοπίο",
-          "url": "https://www.efsyn.gr/stiles/1435409/protovoylia-se-dialymeno-topio/",
-          "snippet": "Ο Γκουτέρες θέλει να δοκιμάσει να πείσει τους Κυπρίους να ξαναδούν το μέλλον τους διαφορετικά. Η διχοτόμηση βαθαίνει, η στασιμότητα δεν είναι εγγύηση σταθερότητας και ηρεμίας",
           "source": "EfSyn"
         }
       ]
@@ -122,7 +122,7 @@
         {
           "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
           "url": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
-          "snippet": "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.",
+          "snippet": "Colombia’s president-elect, a lawyer, represented accused drug traffickers, among others. While living in Miami, he himself was investigated by U.S. authorities, though never charged.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "‘There have always been wildfires here, but never like this.’",
-          "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations/there-have-always-been-wildfires-here-but-never-like-this",
-          "snippet": "",
+          "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
+          "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
+          "snippet": "Brazilian authorities refused to grant visas to two senior U.S. officials out of concern they planned to sow doubt about the security of the country’s voting systems.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
-        "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
-        "snippet": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+        "title": "The hacker who humiliated spyware makers and was never caught",
+        "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+        "snippet": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
+          "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
+          "snippet": "Elon Musk's tunneling startup is reportedly in talks for a major new funding round.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary",
+          "url": "https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/",
+          "snippet": "Kalshi claims the trailer is “defamatory” and contains “both fabricated documents and false and misleading statements.”",
+          "source": "TechCrunch"
+        },
         {
           "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
           "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
           "snippet": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Build in public, fail in public: what it’s like to be a founder under 20 right now",
-          "url": "https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-          "snippet": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic launches Opus 5",
-          "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-          "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Χουσάνοφ: Ανανέωσε με τη Μάντσεστερ Σίτι έως το 2031",
-        "url": "https://www.gazzetta.gr/football/premier-league/2556872/hoysanof-ananeose-me-ti-mantsester-siti-eos-2031",
-        "snippet": "Ο Αμπντουκοντίρ Χουσάνοφ ανανέωσε το συμβόλαιό του με τη Μάντσεστερ Σίτι έως το 2031, όπως ανακοίνωσε επίσημα ο αγγλικός σύλλογος.",
+        "title": "Μιούρα: Ο Ιάπωνας φορ σκόραρε σε ηλικία 60 ετών!",
+        "url": "https://www.gazzetta.gr/football/2556923/mioyra-o-iaponas-skorare-se-ilikia-60-eton",
+        "snippet": "Ο Ιάπωνας φορ Καζογιούσι Μιούρα συνεχίζει να σκοράρει, ενώ πλησιάζει τα 60 του χρόνια.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Ντε Γκράαφσαπ - Κηφισιά 4-2: Φιλική ήττα στο δεύτερο «τεστ»",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2556871/nte-gkraafsap-kifisia-4-2-filiki-itta-gia-tin-omada-toy-leto",
-          "snippet": "Η Κηφισιά στο δεύτερο φιλικό της επί ολλανδικού εδάφους ηττήθηκε από την Ντε Γκράαφσαπ με 4-2.",
+          "title": "Athens Finals 2026: Ντάλλας, Χατζηνικολάου και Παπαδημητρίου, Ιωαννίδης θα διεκδικήσουν το πρωτάθλημα Ελλάδας στην πλατεία Συντάγματος",
+          "url": "https://www.gazzetta.gr/mpits-bolei/2556918/athens-finals-2026-ntallas-hatzinikolaoy-kai-papadimitrioy-ioannidis-tha",
+          "snippet": "Το τρίτο πρωτάθλημα στην καριέρα τους και δεύτερο συνεχόμενο θα διεκδικήσουν το βράδυ της Κυριακής (26/7, 21.50 ΕΡΤ-2 ΣΠΟΡ) ο Δημήτρης Χατζηνικολάου με τον Σταύρο Ντάλλα και απέναντί τους θα βρουν τον πεντάκις πρωταθλητή Ελλάδας Θοδωρή Παπαδημητρίου μαζί με τον Παναγιώτη Ιωαννίδη",
           "source": "Gazzetta"
         },
         {
-          "title": "Η επιστροφή του «Αυτοκράτορα»",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2556829/i-epistrofi-toy-aytokratora",
-          "snippet": "Ο Δημήτρης Κατσιώνης (Hoopfellas) γράφει για την επιστροφή του αυτοκράτορα Άρη, με τον Βασίλη Σπανούλη να είναι έτοιμος να τον οδηγήσει και πάλι στις δοξασμένες ημέρες.",
+          "title": "Λιβάκοβιτς: Ολυμπιακός - «Καμία πρόταση», λέει η Φενέρμπαχτσε",
+          "url": "https://www.gazzetta.gr/football/superleague/2556912/libakobits-olympiakos-kamia-protasi-leei-i-fenermpahtse",
+          "snippet": "Η Φενέρμπαχτσε ενημέρωσε επίσημα ότι δεν έχει πρόταση από τον Ολυμπιακό για τον Λιβάκοβιτς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπολόνια - Ηρακλής 2-0: Φιλική ήττα του γηραιού, έπαιξε ο Οκάκα",
-          "url": "https://www.gazzetta.gr/football/superleague/2556870/mpolonia-iraklis-2-0-filiki-itta-toy-giraioy-epaixe-o-okaka",
-          "snippet": "Ο Ηρακλής στον πρώτο του φιλικό αγώνα ηττήθηκε από τη Μπολόνια με 2-0.",
+          "title": "Ολυμπιακός: Το ντόμινο των Γουόκαπ και Ντόρσεϊ",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556895/olympiakos-ntomino-ton-goyokap-kai-ntorsei",
+          "snippet": "Οι «ερυθρόλευκοι» κρατούν σκληρή στάση στην υπόθεση του Τόμας Γουόκαπ, συζητούν την προοπτική νέας συμφωνίας με τον Τάιλερ Ντόρσεϊ και γνωρίζουν καλά ότι η εξέλιξη της μίας υπόθεσης θα επηρεάσει πιθανότατα την άλλη.",
           "source": "Gazzetta"
         },
         {
-          "title": "F1, Νόρις: «Είχα αυτοπεποίθηση και ρίσκαρα, είμαι πολύ χαρούμενος»",
-          "url": "https://www.gazzetta.gr/gmotion/2556867/f1-noris-eiha-aytopepoithisi-kai-riskara-eimai-poly-haroymenos",
-          "snippet": "Έπειτα από μία συγκλονιστική μάχη στο τέλος του Q3, o Λάντο Νόρις εμφανίστηκε έτοιμος για την αυριανή μάχη στο Grand Prix Ουγγαρίας.",
+          "title": "Μπασκόνια: Κλείνει τον Έι Τζέι Λόσον",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556910/mpaskonia-kleinei-ton-ei-tzei-loson",
+          "snippet": "Η Μπασκόνια είναι κοντά σε συμφωνία με τον ΝΒΑερ Έι Τζέι Λόσον, όπως αναφέρει ο Ισπανός δημοσιογράφος Τσέμα Ντε Λούκας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γκόου Αχέντ Ιγκλς - ΟΦΗ 4-0: Ανταγωνιστικός για ένα ημίχρονο, «κατέρρευσε» στο δεύτερο",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2556869/gkooy-ahent-igkls-ofi-4-0-antagonistikos-gia-ena-imihrono",
-          "snippet": "Ο ΟΦΗ ήταν ανταγωνιστικός για ένα ημίχρονο κόντρα στην Γκόου Αχέντ Ιγκλς της Eredivisie, όμως εν τέλει έχασε 4-0, καθώς δέχτηκε όλα τα γκολ στο δεύτερο μέρος.",
+          "title": "Από την εποχή των παγετώνων μέχρι σήμερα: Η σπηλιά των 25.000 ετών με τα ίχνη αρχαίων τελετουργιών",
+          "url": "https://www.gazzetta.gr/plus/2556906/apo-tin-epohi-ton-pagetonon-mehri-simera-i-spilia-ton-25000-eton-me-ta-ihni-arhaion",
+          "snippet": "Μια σπηλιά στην Αυστραλία κρύβει τα ίχνη τελετουργιών που συνεχίστηκαν επί 25.000 χρόνια, από την εποχή των παγετώνων έως τους νεότερους χρόνους",
           "source": "Gazzetta"
         },
         {
-          "title": "Ματσάρι: Ηρακλής - Με ηλεκτρονικό τσιγάρο ο Ιταλός τεχνικός στον πάγκο",
-          "url": "https://www.gazzetta.gr/football/superleague/2556868/matsari-iraklis-me-ilektroniko-tsigaro-o-italos-tehnikos-ston-pagko",
-          "snippet": "Ο τεχνικός του Ηρακλή Βάλτερ Ματσάρι εμφανίστηκε στον πάγκο στο φιλικό με τη Μπολόνια με ηλεκτρονικό τσιγάρο.",
+          "title": "Ρεάλ Μαδρίτης: Συμφώνησε προφορικά με τον Ντιομαντέ",
+          "url": "https://www.gazzetta.gr/football/la-liga/2556909/real-madritis-symfonise-proforika-me-ton-ntiomante",
+          "snippet": "Σύμφωνα με τον Φαμπρίτσιο Ρομάνο, η Ρεάλ Μαδρίτης ήρθε σε προφορική συμφωνία με τον Γιαν Ντιομαντέ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τα δίδυμα που ξεπέρασαν σοβαρό πρόβλημα υγείας και πέρασαν πρώτοι στο πανεπιστήμιο Πατρών",
-          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "snippet": "Ο Γιάννης και ο Σπύρος Παπαδάτος, παρά το πρόβλημα υγείας τους και τη δύσκολη σχολική χρονιά που πέρασαν, κατάφεραν να σαρώσουν στις Πανελλήνιες Εξετάσεις.",
+          "title": "Στον τελικό του Athens Finals 2026 οι Σιρίνινα/Ζαφειρίου",
+          "url": "https://www.gazzetta.gr/mpits-bolei/2556908/ston-teliko-toy-athens-finals-2026-oi-sirininazafeirioy",
+          "snippet": "Στον μεγάλο τελικό του Athens Final 2026 προκρίθηκε το δίδυμο Σιρίνινα/Ζαφειρίου, εκεί όπου θα αντιμετωπίσουν τις Μαναβή/Στράντζαλη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Θανατηφόρο ατύχημα στο Ηράκλειο: Νεκρός 25χρονος σε σύγκρουση μοτοσικλέτας με ΙΧ στις Γούρνες",
-          "url": "https://www.gazzetta.gr/plus/2556866/thanatiforo-atyhima-sto-irakleio-nekros-25hronos-se-sygkroysi-motosikletas-me-ih-stis",
-          "snippet": "Θανατηφόρο τροχαίο σημειώθηκε στις Γούρνες Ηρακλείου, όπου ένας 25χρονος έχασε τη ζωή του μετά από σύγκρουση μοτοσικλέτας με άλλο όχημα.",
+          "title": "Πανελλήνιο Πρωτάθλημα: Εντυπωσιακός ο Φρανκς με 45.52 στα 400μ. στον Βόλο",
+          "url": "https://www.gazzetta.gr/stibos/2556907/panellinio-protathlima-entyposiakos-o-franks-me-4552-sta-400m-ston-bolo",
+          "snippet": "Ο Γιώργος Φρανκς ήρθε πριν από μερικές ημέρες στην Ελλάδα από τις ΗΠΑ και ο πρωταθλητής του Μεσσηνιακού προσέφερε μια όμορφη παράσταση στα 400μ. στο πανελλήνιο πρωτάθλημα στο Πανθεσσαλικό Στάδιο.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άρσεναλ: Τα πεπραγμένα του Τζόλη στην πρώτη εμφάνιση με τους Gunners",
-          "url": "https://www.gazzetta.gr/football/premier-league/2556865/arsenal-ta-pepragmena-toy-tzoli-stin-proti-emfanisi-me-toys-gunners",
-          "snippet": "Ο Χρήστος Τζόλης έκανε ντεμπούτο στο πρώτο φιλικό της Άρσεναλ ενόψει της νέας αγωνιστικής περιόδου.",
+          "title": "Σλοβενία-Ελλάδα 74-87: Φιλική νίκη χωρίς τον Σπανούλη για τους Παίδες",
+          "url": "https://www.gazzetta.gr/basketball/2556905/slobenia-ellada-74-87-filiki-niki-horis-ton-spanoyli-gia-toys-paides",
+          "snippet": "Η Εθνική Παίδων επιβλήθηκε (87-74) της Σλοβενίας στο Μπασάνο της Ιταλίας χωρίς τον Θανάση Σπανούλη, που τραυματίστηκε στον αστράγαλο και αποχώρησε από το πρώτο φιλικό με την Ιταλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μαρούσι: Δεν το... κουνάει από το «ζωγραφιστό» ο Σαλάς",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2556864/maroysi-den-koynaei-apo-zografisto-o-salas",
-          "snippet": "Ο Μαξίμ Σαλάς θα είναι στη διάθεση του Ηλία Παπαθεοδώρου και τη νέα χρονιά στο Μαρούσι, καθώς δεσμεύεται με συμβόλαιο.",
+          "title": "Γκιουλέρ για Μουρίνιο: «Είναι μια εξαιρετική ευκαιρία να συνεργαστώ με έναν θρύλο σαν και αυτόν»",
+          "url": "https://www.gazzetta.gr/football/la-liga/2556904/gkioyler-gia-moyrinio-einai-mia-exairetiki-eykairia-na-synergasto-me-enan",
+          "snippet": "Ο Αρντά Γκιουλέρ έσταξε... μέλι μιλώντας για τον Ζοσέ Μουρίνιο και την ευκαιρία να συνεργαστεί μαζί του στη Ρεάλ Μαδρίτης.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Η «πρώτη» του Σάλιακα ως βασικός που έδωσε υποσχέσεις και οι στατικές φάσεις",
-          "url": "https://www.gazzetta.gr/football/superleague/2556863/olympiakos-i-proti-toy-saliaka-os-basikos-poy-edose-yposheseis-kai-oi",
-          "snippet": "Ο έμπειρος δεξιός μπακ έπαιξε πρώτη φορά βασικός απέναντι σε μία επιθετικογενή ομάδα από την Ολλανδία και έδειξε ιδιαίτερα καλά στοιχεία: και αμυντικά και τακτικά αλλά και επιθετικά.",
+          "title": "Εθνική Ελλάδας: Επιστροφή στην αλάνα με τη «γαλανόλευκη» οικογένεια!",
+          "url": "https://www.gazzetta.gr/football/2556903/ethniki-elladas-epistrofi-stin-alana-me-ti-galanoleyki-oikogeneia",
+          "snippet": "Η αναπτυξιακή δράση της ΕΠΟ στη Χαλκιδική παρουσία των Γκαγκάτση, Γιοβάνοβιτς, Τοροσίδη, Σαλπιγγίδη, Ζαγοράκη και Χατζηπαναγή.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γκρόνινγκεν - Βόλος 0-0: Όρθια στο πρώτο φιλικό η ομάδα της Μαγνησίας",
-          "url": "https://www.gazzetta.gr/football/superleague/2556860/gkroningken-bolos-0-0-orthia-sto-proto-filiko-i-omada-tis-magnisias",
-          "snippet": "Ο Βόλος ήρθε ισόπαλος 0-0 στο πρώτο του φιλικό με τη Γκρόνινγκεν.",
+          "title": "«Είμαστε γυναίκες και είμαστε ελεύθερες»: Η 20χρονη Γαλλίδα απαντά στο viral βίντεο που της χάρισε 50.000 νέους followers σε μία ημέρα",
+          "url": "https://www.gazzetta.gr/plus/2556900/eimaste-gynaikes-kai-eimaste-eleytheres-i-20hroni-gallida-apanta-sto-viral-binteo-poy",
+          "snippet": "Ένα βίντεο 13 δευτερολέπτων από ένα πάρτι έκανε τη Γαλλίδα Océane viral, με χιλιάδες νέους followers και εκείνη βρήκε την αφορμή να στείλει το δικό της μήνυμα αυτοπεποίθησης.",
           "source": "Gazzetta"
         },
         {
-          "title": "O Παγώνης κατέκτησε τον τίτλο στο Kitz Rising U15 της Αυστρίας",
-          "url": "https://www.gazzetta.gr/tennis/2556859/o-pagonis-katektise-ton-titlo-sto-kitz-rising-u15-tis-aystrias",
-          "snippet": "Ο Ραφαήλ Παγώνης κατέκτησε τον τίτλο στο Kitz Rising U15 της Αυστρίας, που έγινε στο Κιτζμπούχελ, προσθέτοντας άλλη μια σημαντική επιτυχία στο ενεργητικό του.",
+          "title": "Κολοσσός: Συμφώνησε με τον Σι Τζέι Χάρις",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2556902/kolossos-symfonise-me-ton-si-tzei-haris",
+          "snippet": "Μόνο τα τυπικά απομένουν για την ανακοίνωση της συμφωνίας του Κολοσσού με τον Σι Τζέι Χάρις, σύμφωνα με πληροφορίες του Gazzetta.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ: «Πρεμιέρα» για την τέταρτη εμφάνιση",
-          "url": "https://www.gazzetta.gr/football/superleague/2556858/ofi-premiera-gia-tin-tetarti-emfanisi",
-          "snippet": "Ο ΟΦΗ παρουσίασε την τέταρτη φανέλα του για τη σεζόν 2026-27 και την χρησιμοποίησε στο φιλικό με την Γκόου Αχέντ Ιγκλς.",
+          "title": "Ολυμπιακός - Ναϊμέχεν: «Φαβορί οι Έλληνες, έχουν ποιότητα», λένε στην ολλανδική ομάδα",
+          "url": "https://www.gazzetta.gr/football/champions-league/2556901/olympiakos-naimehen-fabori-oi-ellines-ehoyn-poiotita-lene-stin",
+          "snippet": "Οι δηλώσεις του φορ της Ναϊμέχεν Κάι Σιρχάους και του προπονητή της ολλανδικής ομάδας Ντικ Σρόιντερ για τις κόντρες με τον Ολυμπιακό.",
           "source": "Gazzetta"
         }
       ]
