@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-26T13:01:24.445979+00:00",
+  "updated": "2026-07-26T16:50:43.983687+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Παγκόσμιο πρωτάθλημα κωπηλασίας Κ23: Πρώτη δύναμη η Ελλάδα με έξι μετάλλια",
-        "url": "https://www.efsyn.gr/athlitismos/1435962/pagkosmio-protathlima-kopilasias-k23-proti-dynami-i-ellada-me-exi-metallia/",
-        "snippet": "Ακόμη τέσσερα μετάλλια κατέκτησαν σήμερα (26/7) οι Ελληνες κωπηλάτες στο Παγκόσμιο Πρωτάθλημα Κ23, που διεξήχθη στην πόλη Ντούϊσμπουργκ της Γερμανίας, με την εθνική Ελλάδας να κατακτά την πρώτη θέση στον σχετικό πίνακα της διοργάνωσης με τέσσερα χρυσά και δύο αργυρά μετάλλια. Μετ",
+        "title": "Μοτοσικλετιστής νεκρός στην Πάτρα μετά από μετωπική σύγκρουση με ΙΧ",
+        "url": "https://www.efsyn.gr/ellada/1436023/motosikletistis-nekros-stin-patra-meta-apo-metopiki-sygkroysi-me-ih/",
+        "snippet": "Από τη σφοδρή σύγκρουση, ο οδηγός του δικύκλου τραυματίστηκε θανάσιμα και στο σημείο επικράτησε αναστάτωση.",
         "source": "EfSyn"
       },
       "items": [
         {
+          "title": "Η «ιστορία τρόμου» που διηγούνται τα ομόλογα",
+          "url": "https://www.efsyn.gr/oikonomia/1435711/i-istoria-tromoy-poy-diigoyntai-ta-omologa/",
+          "snippet": "Τι κρύβεται πίσω από το γενικό ξεπούλημα στις αγορές κρατικών ομολόγων και γιατί πρέπει να το εκλαμβάνουμε σαν σοβαρό «καμπανάκι» για την παγκόσμια οικονομία",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εθνική πόλο: Η συγκινητική στιγμή της απονομής του World Cup υπό τους ήχους του Εθνικού Ύμνου [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1436018/ethniki-polo-i-sygkinitiki-stigmi-tis-aponomis-toy-world-cup-ypo-toys-ihoys-toy-ethnikoy-ymnoy-vinteo/",
+          "snippet": "Ο εθνικός ύμνος ακούστηκε στο Σίδνεϊ, επισφραγίζοντας τη μεγαλύτερη επιτυχία στην ιστορία του ελληνικού πόλο ανδρών.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σίντνεϊ Γκοβού: Εμοιαζε μποέμ, αλλά…",
+          "url": "https://www.efsyn.gr/athlitismos/1435707/sintnei-gkovoy-emoiaze-mpoem-alla/",
+          "snippet": "Ο, γεννημένος στις 27/7/1979, Σίντνεϊ Γκοβού ήταν κλασική περίπτωση ποδοσφαιριστή-πολέμιου της αξίας του…",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Βιβλικές καταστροφές σε Γαλλία και Ισπανία: Οι φλόγες πλέον έξω από το Μπορντό – Τεράστιες εκτάσεις έγιναν κρανίου τόπος",
+          "url": "https://www.efsyn.gr/kosmos/1436009/vivlikes-katastrofes-se-gallia-kai-ispania-oi-floges-pleon-exo-apo-to-mpornto-terasties-ektaseis-eginan-kranioy-topos/",
+          "snippet": "Στην περιοχή του Μπορντό, που είναι παγκοσμίως γνωστή για τους αμπελώνες της, είναι «πολύ πιθανό» να βρίσκεται σε εξέλιξη η μεγαλύτερη επιχείρηση απομάκρυνσης πολιτών που έχει πραγματοποιηθεί ποτέ στη Γαλλία σε καιρό ειρήνης, σύμφωνα με τη γαλλική κυβέρνηση.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μείωση της «πλαστικής» ρύπανσης σε ελάχιστες ελληνικές παραλίες καταγράφει έρευνα του WWF",
+          "url": "https://www.efsyn.gr/ellada/1435700/meiosi-tis-plastikis-rypansis-se-elahistes-ellinikes-paralies-katagrafei-ereyna-toy-wwf/",
+          "snippet": "Αισιόδοξες μειώσεις σε ορισμένα είδη πλαστικών καταγράφει το πρόγραμμα «Υιοθέτησε μια παραλία» του WWF Ελλάς, ωστόσο η ρύπανση κινείται αισθητά πάνω από τα όρια που θέτει το ευρωπαϊκό πλαίσιο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θεσσαλονίκη: Φωτιά στο Ωραιόκαστρο – Σηκώθηκαν εναέρια μέσα",
+          "url": "https://www.efsyn.gr/ellada/1436000/thessaloniki-fotia-kai-sto-oraiokastro-sikothikan-enaeria-mesa/",
+          "snippet": "Η πυρκαγιά καίει σε χαμηλή βλάστηση στην περιοχή Μονόλοφος.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Οδηγός έτρεχε στην Εθνική Αθηνών – Κορίνθου με 208 χλμ. την ώρα – Συνελήφθη από την Τροχαία",
+          "url": "https://www.efsyn.gr/ellada/1435998/odigos-etrehe-stin-ethniki-athinon-korinthoy-me-208-hlm-tin-ora-synelifthi-apo-tin-trohaia/",
+          "snippet": "Σε βάρος του 29χρονου σχηματίστηκε δικογραφία για επικίνδυνη οδήγηση, σύμφωνα με τις προβλέψεις του Κώδικα Οδικής Κυκλοφορίας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πυρ ομαδόν της αντιπολίτευσης για την ανάρτηση Μητσοτάκη: «”Πόθεν έσχες” τα χρήματα για τη μείωση στα καύσιμα»;",
+          "url": "https://www.efsyn.gr/politiki/1435980/pyr-omadon-tis-antipoliteysis-gia-tin-kyriakatiki-anartisi-mitsotaki-pothen-eshes-ta-hrimata-gia-ti-meiosi/",
+          "snippet": "Τα κόμματα της αντιπολίτευσης «κατακεραύνωσαν» τις πρωθυπουργικές εξαγγελίες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Φωτιά στην Πυλαία Θεσσαλονίκης: Εκκενώνεται μέρος της περιοχής – Επιχειρούν 7 εναέρια μέσα [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1435987/fotia-stin-pylaia-thessalonikis-ekkenonetai-meros-tis-periohis-epiheiroyn-7-enaeria-mesa/",
+          "snippet": "Η πυρκαγιά εκδηλώθηκε σε χαμηλή βλάστηση και η περιοχή είναι αραιοκατοικημένη, η εστία όμως βρίσκεται κοντά σε σπίτια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Όποια πέτρα κι αν σηκώσεις, θα βρεις σκάνδαλο: Ποιες υποθέσεις ερευνά η Ευρωπαϊκή Εισαγγελία",
+          "url": "https://www.efsyn.gr/ellada/1435696/oles-oi-ypotheseis-poy-ereyna-i-eyropaiki-eisaggelia-opoia-petra-ki-an-sikoseis-tha-vreis-skandalo/",
+          "snippet": "Η υπόθεση των υπερκοστολογημένων οικίσκων ανακύκλωσης είναι μία από τις πάμπολλες ελληνικές υποθέσεις διαφθοράς που έχουν μπει στο μικροσκόπιο της EPPO • Δεκάδες μικροί... ΟΠΕΚΕΠΕ παντού!",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Βερολίνο – Επίθεση στο Pride: Για τρομοκρατική ενέργεια μιλά ο Γερμανός υπουργός Εσωτερικών",
+          "url": "https://www.efsyn.gr/kosmos/1435970/verolino-epithesi-sto-pride-gia-tromokratiki-energeia-mila-o-germanos-ypoyrgos-esoterikon/",
+          "snippet": "Τα ομόσπονδα κρατίδια έχουν λάβει οδηγίες να ενισχύσουν τα μέτρα ασφαλείας σε όλες τις μεγάλες αντίστοιχες εκδηλώσεις στη Γερμανία, υπό τον φόβο ο δράστης της επίθεσης να βρει και άλλους μιμητές.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η κρίση στέγης «παγώνει» τις γεννήσεις στην Ελλάδα – Τα αποκαλυπτικά στοιχεία της Eurostat",
+          "url": "https://www.efsyn.gr/oikonomia/1435687/stoiheia-tis-eurostat-i-krisi-stegis-pagonei-tis-genniseis-stin-ellada/",
+          "snippet": "Πώς το δυσβάστακτο κόστος στέγασης πιέζει τον δείκτη γονιμότητας και εξηγεί τη διαφορά της Ελλάδας από την Ευρώπη",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Παγκόσμιο πρωτάθλημα κωπηλασίας Κ23: Πρώτη δύναμη η Ελλάδα με έξι μετάλλια",
+          "url": "https://www.efsyn.gr/athlitismos/1435962/pagkosmio-protathlima-kopilasias-k23-proti-dynami-i-ellada-me-exi-metallia/",
+          "snippet": "Ακόμη τέσσερα μετάλλια κατέκτησαν σήμερα (26/7) οι Ελληνες κωπηλάτες στο Παγκόσμιο Πρωτάθλημα Κ23, που διεξήχθη στην πόλη Ντούϊσμπουργκ της Γερμανίας, με την εθνική Ελλάδας να κατακτά την πρώτη θέση στον σχετικό πίνακα της διοργάνωσης με τέσσερα χρυσά και δύο αργυρά μετάλλια. Μετ",
+          "source": "EfSyn"
+        },
+        {
           "title": "Τζένη Καρέζη: Στο φως αδημοσίευτη φωτογραφία πριν από 65 χρόνια – 34 χρόνια χωρίς τη μεγάλη σταρ",
           "url": "https://www.efsyn.gr/life/1435960/tzeni-karezi-sto-fos-adimosieyti-fotografia-prin-apo-65-hronia-34-hronia-horis-ti-megali-star/",
           "snippet": "Σήμερα συμπληρώνονται 34 χρόνια από τον θάνατο της σπουδαίας Τζένης Καρέζη, μιας από τις πιο εμβληματικές ηθοποιούς της χρυσής εποχής του ελληνικού σινεμά και όχι μόνο. Για να τιμήσει τη μνήμα της το Στούντιο Κλεισθένης έδωσε στη δημοσιότητα για πρώτη φορά μια φωτογραφία από το μ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κάμπινγκ: Μια χαμένη αναπτυξιακή ευκαιρία για την Ελλάδα – Κενά στις υποδομές, καχυποψία και αδιαφορία",
-          "url": "https://www.efsyn.gr/ellada/1435678/kampingk-mia-hameni-anaptyxiaki-eykairia-gia-tin-ellada-kena-stis-ypodomes-kahypopsia-kai-adiaforia/",
-          "snippet": "Την ώρα που σε πολλές ευρωπαϊκές χώρες ο κατασκηνωτικός τουρισμός αντιμετωπίζεται πλέον ως στρατηγικός κλάδος ανάπτυξης, η Ελλάδα εξακολουθεί να τον προσεγγίζει με αμηχανία, θεσμικά κενά και συχνά τιμωρητική διάθεση.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στενά του Ορμούζ: Πετρελαιοφόρο προσέκρουσε σε νάρκη και εξερράγη",
-          "url": "https://www.efsyn.gr/kosmos/1435951/stena-toy-ormoyz-ekrixi-se-tanker-to-opoio-htypise-se-naytiki-narki/",
-          "snippet": "Ένα σοβαρό επεισόδιο φαίνεται πως είναι σε εξέλιξη στα Στενά του Ορμούζ, καθώς, όπως μεταδίδουν ιρανικά ΜΜΕ, ένα πετρελαιοφόρο πλοίο εξερράγη ενώ περνούσε από το σημείο. Το πλοίο, όπως μεταδίδεται, χτύπησε πάνω σε ναυτική νάρκη, ενώ είχε βγει από τη διαδρομή που έχει ορίσει το Ιρ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μετρό: Ποιος είναι ο 30χρονος που μπήκε σε σήραγγα στην Αγία Παρασκευή και προκάλεσε διακοπή κυκλοφορίας",
-          "url": "https://www.efsyn.gr/ellada/1435948/metro-poios-einai-o-30hronos-poy-mpike-se-siragga-stin-agia-paraskeyi-kai-prokalese-diakopi-kykloforias/",
-          "snippet": "Το απόγευμα της Παρασκευής και λίγο πριν ξεσπάσει η μεγάλη μπόρα στην Αττική προκλήθηκαν σημαντικά προβλήματα στη λειτουργία της Γραμμής 3 του μετρό. Αιτία ήταν το γεγονός πως ένας άνδρας κατέβηκε στις γραμμές και μπήκε στη σήραγγα, με αποτέλεσμα τα δρομολόγια να διεξάγονται για ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πλημμύρα σάρωσε τη βορειοδυτική Κίνα: Δέκα νεκροί και συναγερμός για τον τυφώνα Νουλ",
-          "url": "https://www.efsyn.gr/kosmos/1435942/plimmyra-sarose-ti-voreiodytiki-kina-deka-nekroi-kai-synagermos-gia-ton-tyfona-noyl/",
-          "snippet": "Δέκα άνθρωποι έχασαν τη ζωή τους και δεκάδες άλλοι τραυματίσθηκαν σήμερα από ξαφνική πλημμύρα σε τουριστική περιοχή στη βορειοδυτική Κίνα, μετέδωσαν τα κρατικά μέσα ενημέρωσης. «Ορμητικός χείμαρρος που προκλήθηκε από σύντομης διάρκειας, καταρρακτώδεις βροχοπτώσεις σε τουριστική π",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Οριοθετήθηκε η πυρκαγιά σε δασική έκταση στο Καλλίδρομο Φθιώτιδας",
-          "url": "https://www.efsyn.gr/ellada/1435938/oriothetithike-i-pyrkagia-se-dasiki-ektasi-sto-kallidromo-fthiotidas/",
-          "snippet": "Οριοθετήθηκε η πυρκαγιά που ξέσπασε σε δασική έκταση στο όρος Καλλίδρομο του Δήμου Ελάτειας -Αμφίκλειας Φθιώτιδας. Σύμφωνα με την Πυροσβεστική η φωτιά εκδηλώθηκε περίπου στις 12:30 σε δύσβατο σημείο που δυσχέραινε την προσέγγισή της με οχήματα. Ωστόσο, δεν υπάρχουν κοντά στην περ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Με τι καιρό θα μπει ο Αύγουστος: Σταδιακή άνοδος της θερμοκρασίας – Οι προβλέψεις για το επόμενο 15ημερο",
-          "url": "https://www.efsyn.gr/ellada/1435935/me-ti-kairo-tha-mpei-o-aygoystos-stadiaki-anodos-tis-thermokrasias-oi-provlepseis-gia-to-epomeno-15imero/",
-          "snippet": "Οι πρόσφατες βροχοπτώσεις έφεραν μια μικρή πτώση της θερμοκρασίας στη χώρα, όμως από σήμερα είναι εμφανές πως ο υδράργυρος ξεκινάει σιγά σιγά να τραβάει ξανά&#8230; την ανηφόρα. Μπορεί να μην υπάρχει αυτή τη στιγμή πρόβλεψη για κάποιο σημαντικό κύμα καύσωνα, όμως ο Αύγουστο θεωρε",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πόλεμος στη Μέση Ανατολή: Πρώτη ημέρα χωρίς χτυπήματα από ΗΠΑ και Ιράν μετά από εβδομάδες",
-          "url": "https://www.efsyn.gr/kosmos/1435931/polemos-sti-mesi-anatoli-proti-imera-horis-htypimata-apo-ipa-kai-iran-meta-apo-evdomades/",
-          "snippet": "Μια περίεργη ηρεμία επικρατεί τις τελευταίες ώρες στις περισσότερες περιοχές της Μέσης Ανατολής, η οποία ξύπνησε, σήμερα, με την απουσία επιθέσεων και χτυπημάτων από τις ΗΠΑ και το Ιράν. Οι αμερικανικές δυνάμεις δεν πραγματοποίησαν αεροπορικά πλήγματα στο Ιράν την περασμένη νύχτα",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΣΥΡΙΖΑ: «Ο πρωθυπουργός των σκανδάλων πρόκειται να ξεφύγει από τη λογοδοσία»",
-          "url": "https://www.efsyn.gr/politiki/1435929/syriza-o-prothypoyrgos-ton-skandalon-prokeitai-na-xefygei-apo-ti-logodosia/",
-          "snippet": "«Η αλήθεια δεν κρύβεται πίσω από καλογραμμένες αναρτήσεις» σημειώνει ο ΣΥΡΙΖΑ σχολιάζοντας τις κυριακάτικες ανακοινώσεις του πρωθυπουργού και τη νέα έκπτωση 10 λεπτά ανά λίτρο στο πετρέλαιο κίνησης. Η Κουμουνδούρου στην κριτική της αναδεικνύει την κυβερνητική άρνηση να μειώσει το",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Δημήτρης Μπιάγκης στην «Εφ.Συν.»: «Ο στόχος μας είναι πάντα η πρωτιά»",
-          "url": "https://www.efsyn.gr/politiki/1435673/o-dimitris-mpiagkis-stin-ef-syn-o-stohos-mas-einai-panta-i-protia/",
-          "snippet": "«Η απόφαση να μη συγκυβερνήσουμε με τη Νέα Δημοκρατία είναι σαφής»",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γιάννης Μανιάτης: «Για μια νέα ολοκληρωμένη εθνική Θαλάσσια Στρατηγική με την Ελλάδα στην πρωτοπορία της Ευρώπης»",
-          "url": "https://www.efsyn.gr/politiki/1435916/gianni-maniatis-gia-mia-nea-olokliromeni-ethniki-thalassia-stratigiki-me-tin-ellada-stin-protoporia-tis-eyropis/",
-          "snippet": "Τη δυνατότητα της Ελλάδας να αξιοποιήσει τη νέα ευρωπαϊκή στρατηγική για τη ναυτιλία και να ενισχύσει τον παραγωγικό, βιομηχανικό και γεωπολιτικό της ρόλο ανέδειξε ο Ευρωβουλευτής του ΠΑΣΟΚ–Κινήματος Αλλαγής και Αντιπρόεδρος των Ευρωπαίων Σοσιαλιστών και Δημοκρατών, Γιάννης Μανιά",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η βία συνεχίζεται στη Δυτική Όχθη: Ισραηλινοί έποικοι επιτέθηκαν σε παλαιστινιακά χωριά κι έπαψαν δύο τζαμιά",
-          "url": "https://www.efsyn.gr/kosmos/1435911/i-via-synehizetai-sti-dytiki-ohthi-israilinoi-epoikoi-epitethikan-se-palaistiniaka-horia-ki-epapsan-dyo-tzamia/",
-          "snippet": "Ισραηλινοί έποικοι επέδραμαν κατά παλαιστινιακών χωριών στην κατεχόμενη βόρεια Δυτική Οχθη κατά την διάρκεια της χθεσινής νύκτας, πυρπόλησαν δύο τεμένη και έγραψαν ρατσιστικά συνθήματα στους τοίχους κτιρίων, ανακοίνωσαν παλαιστίνιοι αξιωματούχοι. Στην Κούσρα, νότια της Ναμπλούς, ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά σε δασική έκταση στο Καλλίδρομο Φθιώτιδας – Ενισχύονται οι δυνάμεις πυρόσβεσης",
-          "url": "https://www.efsyn.gr/ellada/1435909/pyrkagia-se-dasiki-ektasi-sto-kallidromo-fthiotidas/",
-          "snippet": "Ενισχύθηκαν οι πυροσβεστικές δυνάμεις που επιχειρούν στην πυρκαγιά που εκδηλώθηκε σε δασική έκταση στο όρος Καλλίδρομο του Δήμου Ελάτειας -Αμφίκλειας Φθιώτιδας. Στο σημείο επιχειρούν 55 πυροσβέστες με 2 ομάδες πεζοπόρων τμημάτων της 4ης ΕΜΟΔΕ και 19 οχήματα, ενώ για την αεροπυρόσ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συγχαρητήρια της πολιτειακής και πολιτικής ηγεσίας στην εθνική ανδρών πόλο για το χρυσό μετάλλιο",
-          "url": "https://www.efsyn.gr/politiki/1435905/sygharitiria-tis-politeiakis-kai-politikis-igesias-stin-ethniki-andron-polo-gia-to-hryso-metallio/",
-          "snippet": "Ο πρόεδρος της Δημοκρατίας, ο πρωθυπουργός, πολιτικοί αρχηγοί και κόμματα στέλνουν τα δικά τους συγχαρητήρια στην εθνική ανδρών πόλο για την κατάκτηση του χρυσού μεταλλίου στο World Cup. Κωνσταντίνος Τασούλας Η Εθνική ομάδα υδατοσφαίρισης μάς έχει χαρίσει πολλές σπουδαίες διακρίσ",
           "source": "EfSyn"
         }
       ]
@@ -120,15 +120,21 @@
           "source": "NYT World"
         },
         {
-          "title": "Berlin Police Search for Suspect in Fatal Attack on Pride Parade",
+          "title": "Officials Call Attack Near Berlin Pride Celebration a ‘Terror Attack’",
           "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html",
-          "snippet": "The hunt for a 21-year-old man with links to local Islamic groups began early Sunday. The police said they were investigating the attack as a possible act of terrorism.",
+          "snippet": "The hunt for a 21-year-old man began early Sunday, in what officials called a likely act of Islamist terrorism.",
           "source": "NYT World"
         },
         {
           "title": "20 Years After Its Own Outbreak, an Ugandan Town Beats Back Ebola",
           "url": "https://www.nytimes.com/2026/07/26/world/africa/ebola-uganda-congo-border.html",
           "snippet": "The Bundibugyo Ebola virus takes its name from this small town, where it was first discovered in 2007. Now, the species has returned to eastern Congo, halting life on a busy border.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Berlin Pride Attack: What We Know About the Suspected Act of Terrorism",
+          "url": "https://www.nytimes.com/2026/07/26/world/europe/berlin-pride-car-attack.html",
+          "snippet": "The Berlin police said they were searching for a 21-year-old man with links to local Islamist groups, and investigating the crime as a possible act of terrorism.",
           "source": "NYT World"
         },
         {
@@ -162,21 +168,15 @@
           "source": "NYT World"
         },
         {
-          "title": "What to Know About the Wildfires Raging in Western Europe",
+          "title": "What to Know About the Deadly Wildfires Raging in Western Europe",
           "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
-          "snippet": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+          "snippet": "Hundreds of thousands of people in France and Spain have been forced to evacuate from huge blazes fueled by soaring temperatures and tinder-dry conditions.",
           "source": "NYT World"
         },
         {
           "title": "What’s Left of the Cease-Fire Agreement Between the U.S. and Iran?",
           "url": "https://www.nytimes.com/2026/07/25/world/middleeast/us-iran-cease-fire-deal-violations.html",
           "snippet": "Nearly all of the agreement’s 14 points have been violated.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Who Are the People Protesting in India?",
-          "url": "https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html",
-          "snippet": "Some of the young demonstrators who forced out the country’s education minister described their deep-seated anger, frustration and desires that drove them into the streets.",
           "source": "NYT World"
         },
         {
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "TechCrunch Mobility: Uber bets on its former CEO",
+          "url": "https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/",
+          "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
           "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/24/waymo-reportedly-mulling-a-breakup-with-uber/",
           "snippet": "The contract between the two companies ends in May 2028, Uber told TechCrunch.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Volkswagen engineers charged with insider trading tied to Rivian joint venture",
-          "url": "https://techcrunch.com/2026/07/24/volkswagen-engineers-charged-with-insider-trading-tied-to-rivian-joint-venture/",
-          "snippet": "The indictment, which was unsealed Friday, alleges the Volkswagen engineers used confidential insider information to buy stock in Rivian.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-          "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-          "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Παγκόσμιο Κωπηλασίας Κ23: Χρυσό και οι Κοντού, Γιαννούλης, πρώτη δύναμη η Ελλάδα στο Ντούισμπουργκ",
-        "url": "https://www.gazzetta.gr/kopilasia/2557024/pagkosmio-kopilasias-k23-hryso-kai-oi-kontoy-giannoylis-proti-dynami-i-ellada-sto",
-        "snippet": "Οι Μηλένα Κοντού και Κωνσταντίνος Γιαννούλης με το χρυσό μετάλλιο στο διπλό μεικτό, ολοκλήρωσαν τον θρίαμβο της εθνικής ομάδας, που αναδείχθηκε πρώτη δύναμη στο παγκόσμιο πρωτάθλημα κωπηλασία Κ23 στο Ντούισμπουργκ.",
+        "title": "72 δόσεις στον ΕΦΚΑ: Οι «κόφτες» που αφήνουν εκτός χιλιάδες οφειλέτες",
+        "url": "https://www.gazzetta.gr/2354311/poia-einai-i-nea-gek-terna-urban-services-poies-drastiriotites-perilambanei",
+        "snippet": "Πάνω από 2.500 οι αιτήσεις των οφειλετών.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Έβαλε τα πόδια στην πλάτη του μπροστινού της σε αγώνα μπέιζμπολ και εκείνος δεν αντέδρασε: Η ψυχραιμία του έγινε viral (vid)",
-          "url": "https://www.gazzetta.gr/plus/2557023/ebale-ta-podia-stin-plati-toy-mprostinoy-tis-se-agona-mpeizmpol-kai-ekeinos-den",
-          "snippet": "Αστυνομικοί χρειάστηκε να επέμβουν και να την απομακρύνουν από τις κερκίδες.",
+          "title": "Νίκολιτς: «Περιμένω δύο παίκτες τις επόμενες μέρες, χρειαζόμαστε μέσους»",
+          "url": "https://www.gazzetta.gr/football/superleague/2557067/nikolits-perimeno-dyo-paiktes-tis-epomenes-meres-hreiazomaste-mesoys",
+          "snippet": "Ο Μάρκο Νίκολιτς μετά το φιλικό με την Τσβόλε τόνισε πως περιμένει δύο μεταγραφές μέσα στις επόμενες μέρες που θα ενισχύσουν την ΑΕΚ με προτεραιότητα στη μεσαία γραμμή και στη συνέχεια ίσως περισσότερες προσθήκες. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
           "source": "Gazzetta"
         },
         {
-          "title": "Ούτε νάζια ούτε γατούλα: Η «Αλίκη Βουγιουκλάκη του TikTok» σε γκεστ εμφάνιση στην TV",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Όταν η «Αλίκη Βουγιουκλάκη του TikTok» έκανε γκεστ εμφάνιση στο Μπαμπά Σ'αγαπώ. Η ηθοποιός Δήμητρα Δερζέκου σε κόντρα ρόλο, χωρίς τα νάζια της εθνικής σταρ.",
+          "title": "Μεξικό: Οι ομάδες Β' κατηγορίας σταματούν να παίζουν για να επιστρέψει η άνοδος",
+          "url": "https://www.gazzetta.gr/football/2557071/mexiko-oi-omades-b-katigorias-stamatoyn-na-paizoyn-gia-na-epistrepsei-i-anodos",
+          "snippet": "Οι ομάδες της Liga de Expansion MX διαμαρτύρονται στον αγωνιστικό χώρο για την έλλειψη δυνατότητας να διεκδικήσουν την άνοδο στη Liga MX.",
           "source": "Gazzetta"
         },
         {
-          "title": "Το Φαρ Ουέστ της Θεσσαλίας: Η μοναδική ληστεία τρένου στην Ελλάδα είχε λεία 400.000 δραχμές",
-          "url": "https://www.gazzetta.gr/plus/2557021/far-oyest-tis-thessalias-i-monadiki-listeia-trenoy-stin-ellada-eihe-leia-400000",
-          "snippet": "Το 1924 εν μέσω πολιτικού αναβρασμού, στο Δοξαρά της Θεσσαλίας πραγματοποιείται η πρώτη και τελευταία ληστεία τρένου στη χώρα.",
+          "title": "Καιρός - Επιστροφή στην πραγματικότητα: Μετά τις βροχές έρχεται θερμική εισβολή με σκόνη",
+          "url": "https://www.gazzetta.gr/plus/2557070/kairos-epistrofi-stin-pragmatikotita-meta-tis-brohes-erhetai-thermiki-eisboli-me-skoni",
+          "snippet": "Νέα άνοδος της θερμοκρασίας αναμένεται από τις αρχές της εβδομάδας, με το θερμόμετρο να φτάνει έως και τους 39 βαθμούς Κελσίου πριν την ενίσχυση των μελτεμιών.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γουεμπανιάμα: Παίζει ποδόσφαιρο στο Χιούστον με μπλούζα της Παρί Σεν Ζερμέν",
-          "url": "https://www.gazzetta.gr/basketball/nba/2557020/goyempaniama-paizei-podosfairo-sto-hioyston-me-mployza-tis-pari-sen-zermen",
-          "snippet": "Ο Βίκτορ Γουεμπανιάμα βρήκε χρόνο και έβγαλε τα μπασκετικά του παπούτσια, προκειμένου να παίξει ποδόσφαιρο, φορώντας μπλούζα της Παρί Σεν Ζερμέν.",
+          "title": "Βόλος: Επεισοδιακό το φιλικό με τη Γκρόνινγκεν",
+          "url": "https://www.gazzetta.gr/football/superleague/2557069/bolos-epeisodiako-filiko-me-ti-gkroningken",
+          "snippet": "Το ESPN ανέβασε βίντεο με το επεισοδιακό φιλικό του Βόλου με τη Γκρόνινγκεν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Επίσημο: Η F1 επιστρέφει φέτος στη Μαλαισία",
-          "url": "https://www.gazzetta.gr/gmotion/2557019/episimo-i-f1-epistrefei-sti-malaisia",
-          "snippet": "Η πίστα της Σεπάνγκ μπαίνει στο καλεντάρι της Formula 1 τον Οκτώβριο, αντικαθιστώντας τον αγώνα του Μπαχρέιν λόγω των εξελίξεων στη Μέση Ανατολή.",
+          "title": "Ολυμπιακός: Πώς έκλεισε οριστικά το θέμα Γουόκαπ, ξεκάθαρη η στάση για Ντόρσεϊ",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557068/olympiakos-pos-ekleise-oristika-thema-goyokap-xekathari-i-stasi-gia",
+          "snippet": "Ο Ολυμπιακός απέρριψε και την τελική πρόταση της Ντουμπάι για τον Τόμας Γουόκαπ κλείνοντας πλέον οριστικά το θέμα, ενώ δεν ανοίγουν τουλάχιστον προσώρας θέμα αναπροσαρμογής του συμβολαίου του Τάιλερ Ντόρσεϊ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ: Νοκ-άουτ ο Τάχα Άλι, υπέστη τραυματικό εξάρθρημα στον ώμο",
-          "url": "https://www.gazzetta.gr/football/superleague/2557018/paok-nok-aoyt-o-taha-ali-ypesti-traymatiko-exarthrima-ston-omo",
-          "snippet": "Ο Τάχα Άλι έκανε εξετάσεις για τον τραυματισμό που αποκόμισε από το παιχνίδι με την Ντιναμό Κιέβου και δεν ήταν ευχάριστα τα νέα.",
+          "title": "Ο Τεντόγλου ξανά στα 8,66μ., ισοφάρισε το πανελλήνιο ρεκόρ!",
+          "url": "https://www.gazzetta.gr/stibos/2557066/o-tentogloy-xana-sta-866m-tora-isofarise-panellinio-rekor",
+          "snippet": "Ο Μίλτος Τεντόγλου στο Πανθεσσαλικό Στάδιο και στο πανελλήνιο πρωτάθλημα, έκανε τον κορυφαίο αγώνα της καριέρας του, μέχρι τον επόμενο. Έβγαλε δύο άλματα στα 8,66μ., ισοφαρίζοντας το πανελλήνιο ρεκόρ του Λούη Τσάτουμα, ενώ είχε άλματα στα 8,64μ. και στα 8,52μ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γρηγορίου: «Οι παίκτες ανταποκρίθηκαν σ’ αυτό που τους ζήτησα»",
-          "url": "https://www.gazzetta.gr/football/superleague/2557017/grigorioy-oi-paiktes-antapokrithikan-s-ayto-poy-toys-zitisa",
-          "snippet": "Ο Μιχάλης Γρηγορίου εξήγησε τη λογική του στη διαχείριση του υλικού στη φιλική νίκη επί της Κ23 της Αταλάντα.",
+          "title": "Το ταξίδι σε σιδερένιες ράγες που ένωσε μια ολόκληρη κοινωνία",
+          "url": "https://www.gazzetta.gr/plus/2557063/taxidi-se-siderenies-rages-poy-enose-mia-olokliri-koinonia",
+          "snippet": "Οι κάτοικοι της Μεσσηνίας διεκδικούν σταθερά και με επιμονή -εδώ και χρόνια- την επαναλειτουργία του σιδηροδρόμου. Σε τι σημείο βρισκόμαστε;",
           "source": "Gazzetta"
         },
         {
-          "title": "Τσβόλε - ΑΕΚ: Η ενδεκάδα του Δικεφάλου",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2557016/tsbole-aek-i-endekada-toy-dikefaloy",
-          "snippet": "Οι επιλογές του Μάρκο Νίκολιτς για την αρχική ενδεκάδα της ΑΕΚ στο φιλικό προετοιμασίας κόντρα στην Τσβόλε.",
+          "title": "F1, Νόρις: «Από τους καλύτερους αγώνες της καριέρας μου»",
+          "url": "https://www.gazzetta.gr/gmotion/2557057/f1-noris-apo-toys-kalyteroys-agones-tis-karieras-moy",
+          "snippet": "Εμφανώς κουρασμένος και χαρούμενος, ο Λάντο Νόρις αναφέρθηκε στο Grand Prix Ουγγαρίας και στην πρώτη του νίκη ως παγκόσμιος πρωταθλητής.",
           "source": "Gazzetta"
         },
         {
-          "title": "Nτίνος Γενηδουνιάς στο Gazzetta: «Αυτή να είναι η αρχή και για άλλα χρυσά μετάλλια»",
-          "url": "https://www.gazzetta.gr/polo/2557015/ntinos-genidoynias-sto-gazzetta-ayti-na-einai-i-arhi-kai-gia-alla-hrysa-metallia",
-          "snippet": "Nτίνος Γενηδουνιάς στο Gazzetta: «Αυτή να είναι η αρχή και για άλλα χρυσά μετάλλια» Ο αρχηγός της εθνικής ομάδας Ντίνος Γενηδουνιάς πρόσφατα «ντύθηκε» γαμπρός και δεν ταξίδεψε στο Σίδνεϊ, τι είπε στο Gazzetta μετά το χρυσό μετάλλιο στο World Cup.",
+          "title": "Ο Τεντόγλου με ευνοϊκό άνεμο στα 8,66μ. στο πανελλήνιο πρωτάθλημα",
+          "url": "https://www.gazzetta.gr/stibos/2557062/o-tentogloy-me-eynoiko-anemo-sta-866m-sto-panellinio-protathlima",
+          "snippet": "Ο Μίλτος Τεντόγλου έγραψε 8.66μ. στο 2ο άλμα του στον τελικό του μήκους, όμως ο άνεμος του στέρησε την ισοφάριση του πανελλήνιου ρεκόρ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ: Στο γήπεδο της Τσβόλε για το φιλικό η κιτρινόμαυρη αποστολή",
-          "url": "https://www.gazzetta.gr/football/superleague/2557014/aek-sto-gipedo-tis-tsbole-gia-filiko-i-kitrinomayri-apostoli",
-          "snippet": "Η ΑΕΚ αντιμετωπίζει στις 16:00 την Τσβόλε στο MAC3 Park, στο τέταρτο φιλικό της καλοκαιρινής της προετοιμασίας. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
+          "title": "Κουρασάο: Ο τερματοφύλακας που έκανε ρεκόρ στο Μουντιάλ, δέχτηκε γκολ από το κέντρο",
+          "url": "https://www.gazzetta.gr/football/2557061/koyrasao-o-termatofylakas-poy-ekane-rekor-sto-moyntial-dehtike-gkol-apo-kentro",
+          "snippet": "Ο Ελόι Ρουμ του Κουρασάο δέχτηκε γκολ από τη σέντρα σε αγώνα για το USL Championship.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η υπόγεια πόλη της Πολωνίας: 245 χιλιόμετρα σήραγγες κρύβουν μια εκκλησία από αλάτι 327 μέτρα κάτω από τη γη",
-          "url": "https://www.gazzetta.gr/plus/2557013/i-ypogeia-poli-tis-polonias-245-hiliometra-siragges-kryboyn-mia-ekklisia-apo-alati-327",
-          "snippet": "Η πόλη από αλάτι της Πολωνίας που δημιουργήθηκε μέσα σε 245 χιλιόμετρα στοών.",
+          "title": "ΠΑΟΚ: Περισσότερες από 12.000 ανανεώσεις διαρκείας, αρχίζει η ελεύθερη διάθεση",
+          "url": "https://www.gazzetta.gr/football/superleague/2557060/paok-perissoteres-apo-12000-oi-ananeoseis-ton-diarkeias",
+          "snippet": "Ο ΠΑΟΚ ανακοίνωσε ότι ανανεώθηκαν 12.372 εισιτήρια διαρκείας και τη Δευτέρα αρχίζει η ελεύθερη διάθεση.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Βραζιλιάνικο δημοσίευμα τον εμπλέκει ξανά με Νέλσον Ντεόσα",
-          "url": "https://www.gazzetta.gr/football/superleague/2557012/panathinaikos-brazilianiko-dimosieyma-ton-emplekei-me-nelson-nteosa",
-          "snippet": "Δημοσίευμα από τη Βραζιλία βάζει ξανά τον Παναθηναϊκό στο κόλπο της απόκτησης του Κολομβιάνου μέσου Νέλσον Ντεόσα που ανήκει στην Μπέτις.",
+          "title": "648.000 χλμ. και 196 χώρες: Πέθανε ο θρυλικός ποδηλάτης που γύρισε τον κόσμο σε 51 χρόνια (vid)",
+          "url": "https://www.gazzetta.gr/plus/2557055/648000-hlm-kai-196-hores-pethane-o-thrylikos-podilatis-poy-gyrise-ton-kosmo-se-51",
+          "snippet": "Ο θρυλικός Γερμανός ποδηλάτης, Heinz Stücke έφυγε από τη ζωή, έχοντας αφιερώσει 51 συνεχόμενα χρόνια ταξιδεύοντας σε κάθε γωνιά του πλανήτη πάνω στο ίδιο ποδήλατο.",
           "source": "Gazzetta"
         },
         {
-          "title": "F1, Ουγγαρία: Αυτές είναι οι πιθανές στρατηγικές του Grand Prix",
-          "url": "https://www.gazzetta.gr/gmotion/2557001/f1-oyggaria-aytes-einai-oi-pithanes-stratigikes-toy-grand-prix",
-          "snippet": "Ποιος είναι ο ορθός δρόμος που πρέπει να ακολουθήσουν οι οδηγοί της Formula 1 για να φτάσουν στη νίκη στη μάχη του Χανγκάρορινγκ; Ακολουθούν οι απαντήσεις.",
+          "title": "Ελλάδα-Αυστρία 81-53: Κυριαρχική με Ασημένιο η Εφήβων στο Ευρωμπάσκετ, ακολουθεί η Γαλλία",
+          "url": "https://www.gazzetta.gr/basketball/2557059/ellada-aystria-81-53-kyriarhiki-me-asimenio-i-efibon-sto-eyrompasket-akoloythei",
+          "snippet": "Η Εθνική Εφήβων επιβλήθηκε (81-53) της Αυστρίας στη 2η αγωνιστική του Ευρωμπάσκετ U18 και στη συνέχεια θα αναμετρηθεί τη Δευτέρα (27/7, 14:00) με την Γαλλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Σκουμπάκης: Η εκπληκτική εμφάνισή του με 5 γκολ",
-          "url": "https://www.gazzetta.gr/polo/2557010/skoympakis-i-ekpliktiki-emfanisi-toy-me-5-gkol",
-          "snippet": "Ο Δημήτρης Σκουμπάκης σημείωσε πέντε γκολ στον τελικό με την Ουγγαρία και συνέβαλε τα μέγιστα στο να πάρει η Εθνική Ομάδα το πρώτο της παγκόσμιο.",
+          "title": "Τεντόγλου: Aρχή με 8.52μ. στο πανελλήνιο πρωτάθλημα στον Βόλο",
+          "url": "https://www.gazzetta.gr/stibos/2557058/tentogloy-arhi-me-852m-sto-panellinio-protathlima-ston-bolo",
+          "snippet": "Ο Μίλτος Τεντόγλου μπήκε φουριόζος στον τελικό του μήκους και με άλμα στα 8.52μ. στο πανελλήνιο πρωτάθλημα του Βόλου.",
           "source": "Gazzetta"
         }
       ]
