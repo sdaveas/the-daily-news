@@ -1,16 +1,40 @@
 {
-  "updated": "2026-07-25T20:41:13.089937+00:00",
+  "updated": "2026-07-26T01:58:03.688402+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πτώση 2χρονου σε πισίνα στην Κρήτη: Έμεινε στον πυθμένα επί περίπου δύο λεπτά – Η γιατρός μητέρα του το επανέφερε με ΚΑΡΠΑ",
-        "url": "https://www.efsyn.gr/ellada/1435725/ptosi-2hronoy-se-pisina-stin-kriti-emeine-ston-pythmena-epi-peripoy-dyo-lepta-i-giatros-mitera-toy-to-epanefere-me-karpa/",
-        "snippet": "Η γιατρός έδωσε μάχη για να κρατήσει τον γιο της στη ζωή.",
+        "title": "Βερολίνο: Όχημα έπεσε πάνω σε πλήθος σε παρέλαση Pride – Ένας νεκρός και 15 τραυματίες",
+        "url": "https://www.efsyn.gr/kosmos/1435747/verolino-ohima-epese-pano-se-plithos-se-parelasi-pride-enas-nekros-kai-15-traymaties/",
+        "snippet": "Ο οδηγός, ο οποίος φέρεται να εγκατέλειψε το όχημα όταν αυτό προσέκρουσε σε δέντρο, διέφυγε και αναζητείται.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Γάζα: Τουλάχιστον 5 νεκροί από ισραηλινά πλήγματα – Ανάμεσά τους αξιωματικός αστυνομίας της Χαμάς",
+          "url": "https://www.efsyn.gr/kosmos/1435745/gaza-toylahiston-5-nekroi-apo-israilina-pligmata-anamesa-toys-axiomatikos-astynomias-tis-hamas/",
+          "snippet": "Το Ισραήλ έχει σκοτώσει δεκάδες μέλη της αστυνομίας της Χαμάς τους τελευταίους μήνες, λέγοντας ότι πολλοί από αυτούς ήταν μέλη της ένοπλης πτέρυγας της οργάνωσης και συνιστούσαν άμεση απειλή για τις ισραηλινές δυνάμεις.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Συρία: 35 νεκροί σε τροχαίο δυστύχημα – Συγκρούστηκαν δύο λεωφορεία καθ’ οδόν προς Δαμασκό [βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1435741/syria-35-nekroi-se-trohaio-dystyhima-sygkroystikan-dyo-leoforeia-kath-odon-pros-damasko-vinteo/",
+          "snippet": "Σύμφωνα με το συριακό υπουργείο Εσωτερικών, μέρος των επιβατών του ενός λεωφορείου ήταν μέλη των δυνάμεων εσωτερικής ασφαλείας, ενώ στο δεύτερο επέβαιναν πολίτες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Το πάρτυ στη Βουλιαγμένη – 25 Ιουλίου 1983: Πέρασαν 43 χρόνια από την θεαματική καλοκαιρινή συναυλία [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1435734/to-party-sti-voyliagmeni-25-ioylioy-1983-perasan-43-hronia-apo-tin-istoriki-kalokairini-synaylia-eikones-vinteo/",
+          "snippet": "Το πιο ιστορικό πάρτυ στη ιστορία της Αθήνας, ένα πάρτυ γεμάτο μουσική, καλοκαίρι, θάλασσα και ανεμελιά. · «Σκεφτόμουν πάντα ότι θα ήταν πολύ ωραίο να μαζευτούμε όλοι μια βραδιά με φεγγάρι, να ξαπλώσουμε στην αμμουδιά και να ακούμε μουσική όπου θα έρχεται από τη θάλασσα, να τα ψι",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πτώση 2χρονου σε πισίνα στην Κρήτη: Έμεινε στον πυθμένα επί περίπου δύο λεπτά – Η γιατρός μητέρα του το επανέφερε με ΚΑΡΠΑ",
+          "url": "https://www.efsyn.gr/ellada/1435725/ptosi-2hronoy-se-pisina-stin-kriti-emeine-ston-pythmena-epi-peripoy-dyo-lepta-i-giatros-mitera-toy-to-epanefere-me-karpa/",
+          "snippet": "Η γιατρός έδωσε μάχη για να κρατήσει τον γιο της στη ζωή.",
+          "source": "EfSyn"
+        },
         {
           "title": "Ζελένσκι: Η Ρωσία θέλει να στρατολογήσει 30.000 Βορειοκορεάτες κατά της Ουκρανίας",
           "url": "https://www.efsyn.gr/kosmos/1435720/zelenski-i-rosia-thelei-na-stratologisei-30-000-voreiokoreates-kata-tis-oykranias/",
@@ -70,30 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1435644/nekros-entopistike-80hronos-sto-galatsi-exetazetai-to-endehomeno-egklimatikis-energeias/",
           "snippet": "Ο ηλικιωμένος έφερε τραύμα στο λαιμό, το σπίτι όμως δεν έφερε ίχνη παραβίασης.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Ανδρουλάκης: Το ΠΑΣΟΚ καλεί στους πολίτες να αναφέρουν σε πλατφόρμα, τις ακριβές τιμές ακτοπλοϊκών εισιτηρίων",
-          "url": "https://www.efsyn.gr/politiki/1435642/ekdilosi-toy-pasok-gia-ti-naytilia-sti-hio-me-omilia-toy-n-androylaki-live/",
-          "snippet": "Σύμφωνα με όσα είπε, η πλατφόρμα θα μπορεί να δέχεται τις αναφορές των πολιτών από μεθαύριο Δευτέρα 27 Ιουλίου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΕΛΑΣ για τους Patriot στην Σαουδική Αραβία: «Επικίνδυνη εμπλοκή της Ελλάδας σε πολεμικές συγκρούσεις»",
-          "url": "https://www.efsyn.gr/politiki/1435635/elas-gia-toys-ellinikoys-patriot-stin-saoydiki-aravia-epikindyni-emploki-tis-elladas-se-polemikes-sygkroyseis/",
-          "snippet": "«Ο Αλέξης Τσίπρας, είχε εκφράσει την αντίθεσή του για την συμφωνία με την Σαουδική Αραβία για τους Patriot από το 2021».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ελληνες επιχειρηματίες: Βλέπουν ευκαιρία στην Πληροφορική",
-          "url": "https://www.efsyn.gr/oikonomia/1435446/ellines-epiheirimaties-vlepoyn-eykairia-stin-pliroforiki/",
-          "snippet": "Κεφάλαια από τη ναυτιλία και τη στεριά παίρνουν θέσεις σε εταιρείες Πληροφορικής ● Ποιοι επενδύουν εκατομμύρια στο νέο «Ελντοράντο»",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πύρινος εφιάλτης σε Γαλλία και Ισπανία: Ενώθηκαν τα δύο σύννεφα καπνού – Ένας νεκρός στη Βαλένθια [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1435620/pyrinos-efialtis-se-gallia-kai-ispania-enothikan-ta-dyo-synnefa-kapnoy-syneheis-ekkenoseis-oikismon-eikones-vinteo/",
-          "snippet": "Οι διαδοχικοί καύσωνες στη γηραιά ήπειρο έχουν μετατρέψει τα δάση και τις θαμνώδεις εκτάσεις σε εκτάσεις έτοιμες να αναφλεγούν ανά πάσα στιγμή.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -108,7 +108,7 @@
       },
       "items": [
         {
-          "title": "Live Updates: Hundreds of Thousands Flee as Fires Rage in Spain and France",
+          "title": "Hundreds of Thousands Flee as Fires Rage in Spain and France",
           "url": "https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations",
           "snippet": "Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.",
           "source": "NYT World"
@@ -150,15 +150,15 @@
           "source": "NYT World"
         },
         {
-          "title": "Iran War Live Updates: U.S. Strikes Abate, Even as Trump Considers Escalation",
+          "title": "Iran War Live Updates: U.S.-Iran Strikes Abate as War Enters Latest Crossroads",
           "url": "https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil",
-          "snippet": "U.S. forces did not announce new overnight attacks on southern Iran for the first time in about two weeks, but tensions remained high as the Houthis and Saudi-led forces in Yemen said they had traded strikes.",
+          "snippet": "The Trump administration pulled back from major escalation, in part because of concerns over the supply of munitions, said people familiar with the matter.",
           "source": "NYT World"
         },
         {
           "title": "Wildfire Smoke Chokes Skies in Spain and France",
           "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
-          "snippet": "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.",
+          "snippet": "Hundreds of thousands of people, residents as well as vacationers, were forced to evacuate or told to remain indoors.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Brazil Blocks Visit by U.S. Delegation Seeking to Question Election System",
-          "url": "https://www.nytimes.com/2026/07/25/world/americas/brazil-united-states-election-voting.html",
-          "snippet": "Brazilian authorities refused to grant visas to two senior U.S. officials out of concern they planned to sow doubt about the security of the country’s voting systems.",
+          "title": "Hundreds of Thousands Flee Fires in France and Spain as Help Pours In",
+          "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-france-spain-bordeaux-madrid.html",
+          "snippet": "Nearly 300,000 have been told to evacuate or take shelter as major fires edged closer to Madrid and Bordeaux.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "The hacker who humiliated spyware makers and was never caught",
-        "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
-        "snippet": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+        "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "snippet": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Warner Bros. lawsuit accuses Amazon of illegally poaching executives",
+          "url": "https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/",
+          "snippet": "The lawsuit will likely renew debates about whether term employment agreements are enforceable under California. law",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The hacker who humiliated spyware makers and was never caught",
+          "url": "https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/",
+          "snippet": "An awe-inspiring hacktivist who hacked two controversial government spyware makers may be the most prolific hacker to have never gotten caught. What do we know about Phineas Fisher?",
+          "source": "TechCrunch"
+        },
         {
           "title": "Elon Musk’s Boring Company reportedly raising funding at a $20 billion valuation",
           "url": "https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
           "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "US accuses American of allegedly wiping his phone using a ‘duress’ password during border search",
-          "url": "https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/",
-          "snippet": "A U.S. citizen has asked a court to throw out the government's claim that he gave over a passcode to border authorities that wiped his phone's data, opening up fresh questions about a person's constitutional rights at the U.S. border.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anduril reportedly in talks to raise funding at $100B valuation, more than 3x last year’s mark",
-          "url": "https://techcrunch.com/2026/07/24/anduril-reportedly-in-talks-to-raise-funding-at-100b-valuation-more-than-3x-last-years-mark/",
-          "snippet": "Anduril is said to be raising a new round of funding that may push its valuation up to about $100 billion, per Reuters.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,54 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Μιούρα: Ο Ιάπωνας φορ σκόραρε σε ηλικία 60 ετών!",
-        "url": "https://www.gazzetta.gr/football/2556923/mioyra-o-iaponas-skorare-se-ilikia-60-eton",
-        "snippet": "Ο Ιάπωνας φορ Καζογιούσι Μιούρα συνεχίζει να σκοράρει, ενώ πλησιάζει τα 60 του χρόνια.",
+        "title": "Σα - Ολυμπιακός: Νεα επαφή για να τον κλείσει",
+        "url": "https://www.gazzetta.gr/football/superleague/2556942/sa-olympiakos-nea-epafi-gia-na-ton-kleisei",
+        "snippet": "Ο Ολυμπιακός εντείνει και άλλο τις προσπάθειές του για να κλείσει τον Πορτογάλο Σα.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "O Τσιτσιπάς ξεκινά με τον Ντε Μινόρ στην Ουάσινγκτον",
+          "url": "https://www.gazzetta.gr/tennis/atp/2556930/o-tsitsipas-xekina-me-ton-nte-minor-stin-oyasingkton",
+          "snippet": "O Στέφανος Τσιτσιπάς αρχίζει τα τουρνουά στην Αμερική, με πρώτο σταθμό την Ουάσινγκτον και αντίπαλο τον Άλεξ ντε Μινόρ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: «Βαρομετρικό χαμηλό» στη EuroLeague, Χόρχλερ και Πόζογλου στη Stoiximan GBL",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2556929/oi-metagrafes-tis-imeras-sto-mpasket-barometriko-hamilo-sti",
+          "snippet": "Βαλένθια και Παρτίζαν προχώρησαν σε στοχευμένες κινήσεις, ενώ Ηρακλής και Βίκος Ιωαννίνων ενίσχυσαν τα ρόστερ τους ενόψει της νέας σεζόν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο καταγεγραμμένος βρυκόλακας που τρομοκράτησε τη Μύκονο (vid)",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Ένας 66χρονος Σέρβος οδηγούσε εντελώς μεθυσμένος στο αντίθετο ρεύμα του Περιφερειακού. Τράκαρε με ταξί και συνελήφθη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι ωκεανοί «διψούν» για οξυγόνο: Το αόρατο φαινόμενο που απειλεί τη θαλάσσια ζωή",
+          "url": "https://www.gazzetta.gr/plus/2556911/oi-okeanoi-dipsoyn-gia-oxygono-aorato-fainomeno-poy-apeilei-ti-thalassia-zoi",
+          "snippet": "Η απώλεια οξυγόνου σε ωκεανούς, ποτάμια και λίμνες αυξάνεται ανησυχητικά, απειλώντας χιλιάδες είδη και δημιουργώντας επικίνδυνες «νεκρές ζώνες».",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χεζόνια: Ο Κροάτης στο παρελθόν απέρριπτε κατηγορηματικά το NBA",
+          "url": "https://www.gazzetta.gr/basketball/nba/2556926/hezonia-o-kroatis-sto-parelthon-aperripte-katigorimatika-nba",
+          "snippet": "Ο Μάριο Χεζόνια αναιρεί τον ίδιο του τον... εαυτό, αφού στο παρελθόν δεν ήθελε να ακούει για την πιθανότητα επιστροφής του στο NBA, μιας επιστροφής που μοιάζει αρκετά πιθανή.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η Super League αρχίζει να παίζει μπάλα: Τα αποτελέσματα των φιλικών όλων των ομάδων της κατηγορίας",
+          "url": "https://www.gazzetta.gr/football/superleague/2556924/i-super-league-arhizei-na-paizei-mpala-ta-apotelesmata-ton-filikon",
+          "snippet": "Οι μισές ομάδες της Super League είχαν φιλικό παιχνίδι το Σάββατο (25/7) και μπαίνουμε σταδιακά σε ρυθμούς πρωταθλήματος ενόψει της νέας σεζόν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μιούρα: Ο Ιάπωνας φορ σκόραρε σε ηλικία 60 ετών!",
+          "url": "https://www.gazzetta.gr/football/2556923/mioyra-o-iaponas-skorare-se-ilikia-60-eton",
+          "snippet": "Ο Ιάπωνας φορ Καζογιούσι Μιούρα συνεχίζει να σκοράρει, ενώ πλησιάζει τα 60 του χρόνια.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Athens Finals 2026: Ντάλλας, Χατζηνικολάου και Παπαδημητρίου, Ιωαννίδης θα διεκδικήσουν το πρωτάθλημα Ελλάδας στην πλατεία Συντάγματος",
           "url": "https://www.gazzetta.gr/mpits-bolei/2556918/athens-finals-2026-ntallas-hatzinikolaoy-kai-papadimitrioy-ioannidis-tha",
@@ -340,48 +382,6 @@
           "url": "https://www.gazzetta.gr/mpits-bolei/2556908/ston-teliko-toy-athens-finals-2026-oi-sirininazafeirioy",
           "snippet": "Στον μεγάλο τελικό του Athens Final 2026 προκρίθηκε το δίδυμο Σιρίνινα/Ζαφειρίου, εκεί όπου θα αντιμετωπίσουν τις Μαναβή/Στράντζαλη.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Πανελλήνιο Πρωτάθλημα: Εντυπωσιακός ο Φρανκς με 45.52 στα 400μ. στον Βόλο",
-          "url": "https://www.gazzetta.gr/stibos/2556907/panellinio-protathlima-entyposiakos-o-franks-me-4552-sta-400m-ston-bolo",
-          "snippet": "Ο Γιώργος Φρανκς ήρθε πριν από μερικές ημέρες στην Ελλάδα από τις ΗΠΑ και ο πρωταθλητής του Μεσσηνιακού προσέφερε μια όμορφη παράσταση στα 400μ. στο πανελλήνιο πρωτάθλημα στο Πανθεσσαλικό Στάδιο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σλοβενία-Ελλάδα 74-87: Φιλική νίκη χωρίς τον Σπανούλη για τους Παίδες",
-          "url": "https://www.gazzetta.gr/basketball/2556905/slobenia-ellada-74-87-filiki-niki-horis-ton-spanoyli-gia-toys-paides",
-          "snippet": "Η Εθνική Παίδων επιβλήθηκε (87-74) της Σλοβενίας στο Μπασάνο της Ιταλίας χωρίς τον Θανάση Σπανούλη, που τραυματίστηκε στον αστράγαλο και αποχώρησε από το πρώτο φιλικό με την Ιταλία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γκιουλέρ για Μουρίνιο: «Είναι μια εξαιρετική ευκαιρία να συνεργαστώ με έναν θρύλο σαν και αυτόν»",
-          "url": "https://www.gazzetta.gr/football/la-liga/2556904/gkioyler-gia-moyrinio-einai-mia-exairetiki-eykairia-na-synergasto-me-enan",
-          "snippet": "Ο Αρντά Γκιουλέρ έσταξε... μέλι μιλώντας για τον Ζοσέ Μουρίνιο και την ευκαιρία να συνεργαστεί μαζί του στη Ρεάλ Μαδρίτης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική Ελλάδας: Επιστροφή στην αλάνα με τη «γαλανόλευκη» οικογένεια!",
-          "url": "https://www.gazzetta.gr/football/2556903/ethniki-elladas-epistrofi-stin-alana-me-ti-galanoleyki-oikogeneia",
-          "snippet": "Η αναπτυξιακή δράση της ΕΠΟ στη Χαλκιδική παρουσία των Γκαγκάτση, Γιοβάνοβιτς, Τοροσίδη, Σαλπιγγίδη, Ζαγοράκη και Χατζηπαναγή.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Είμαστε γυναίκες και είμαστε ελεύθερες»: Η 20χρονη Γαλλίδα απαντά στο viral βίντεο που της χάρισε 50.000 νέους followers σε μία ημέρα",
-          "url": "https://www.gazzetta.gr/plus/2556900/eimaste-gynaikes-kai-eimaste-eleytheres-i-20hroni-gallida-apanta-sto-viral-binteo-poy",
-          "snippet": "Ένα βίντεο 13 δευτερολέπτων από ένα πάρτι έκανε τη Γαλλίδα Océane viral, με χιλιάδες νέους followers και εκείνη βρήκε την αφορμή να στείλει το δικό της μήνυμα αυτοπεποίθησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κολοσσός: Συμφώνησε με τον Σι Τζέι Χάρις",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2556902/kolossos-symfonise-me-ton-si-tzei-haris",
-          "snippet": "Μόνο τα τυπικά απομένουν για την ανακοίνωση της συμφωνίας του Κολοσσού με τον Σι Τζέι Χάρις, σύμφωνα με πληροφορίες του Gazzetta.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Ναϊμέχεν: «Φαβορί οι Έλληνες, έχουν ποιότητα», λένε στην ολλανδική ομάδα",
-          "url": "https://www.gazzetta.gr/football/champions-league/2556901/olympiakos-naimehen-fabori-oi-ellines-ehoyn-poiotita-lene-stin",
-          "snippet": "Οι δηλώσεις του φορ της Ναϊμέχεν Κάι Σιρχάους και του προπονητή της ολλανδικής ομάδας Ντικ Σρόιντερ για τις κόντρες με τον Ολυμπιακό.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
-          "url": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
-          "snippet": "It was the 13th test overall of Starship. The success is a boon to NASA’s moon plans and SpaceX’s hopes to deploy a million data centers in orbit.",
+          "title": "‘OnlyMarms’: Marmots Are on OnlyFans to Raise Money for Research",
+          "url": "https://www.nytimes.com/2026/07/25/science/ucla-marmot-onlyfans-research-onlymarms.html",
+          "snippet": "A team of scientists uploaded videos of the squirrel-like rodents in the wild on the adult-content site OnlyFans to raise money amid government budget cuts.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Can This New Enzyme Turn Back the Clock in Bodily Tissues?",
-          "url": "https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html",
-          "snippet": "In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.",
+          "title": "On Second Test of Its Newest Starship Design, SpaceX Sticks the Landing",
+          "url": "https://www.nytimes.com/2026/07/24/science/spacex-starship-13th-test-flight.html",
+          "snippet": "It was the 13th test overall of Starship. The success is a boon to NASA’s moon plans and SpaceX’s hopes to deploy a million data centers in orbit.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
-          "url": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
-          "snippet": "A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.",
+          "title": "Can This New Enzyme Turn Back the Clock in Bodily Tissues?",
+          "url": "https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html",
+          "snippet": "In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Health Care Agency Discontinues Dozens of Active Research Awards",
-          "url": "https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html",
-          "snippet": "The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.",
+          "title": "Life of Alan Turing Emerges in Richer Detail From Short Story",
+          "url": "https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html",
+          "snippet": "A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
-          "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
-          "snippet": "The awards are bestowed only once every four years to mathematicians under the age of 40.",
+          "title": "Health Care Agency Discontinues Dozens of Active Research Awards",
+          "url": "https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html",
+          "snippet": "The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California",
-          "url": "https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html",
-          "snippet": "Jackie found an online audience through a webcam pointed at her nest in California. She was rescued last week after a fight with other eagles, officials said.",
+          "title": "Four Young Mathematicians Receive Prestigious Fields Medals",
+          "url": "https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html",
+          "snippet": "The awards are bestowed only once every four years to mathematicians under the age of 40.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "What Were the Lotus-Eaters Eating in Homer’s ‘Odyssey’?",
-          "url": "https://www.nytimes.com/2026/07/22/science/odyssey-lotus-eaters-opium.html",
-          "snippet": "In Homer’s epic, Odysseus’s men eat something so powerful that they forget about home. Which plants could have produced such a soporific, narcotic and amnesiac effect?",
+          "title": "Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California",
+          "url": "https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html",
+          "snippet": "Jackie found an online audience through a webcam pointed at her nest in California. She was rescued last week after a fight with other eagles, officials said.",
           "source": "NYT Science"
         },
         {
