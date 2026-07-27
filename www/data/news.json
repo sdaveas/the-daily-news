@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-26T20:47:20.086646+00:00",
+  "updated": "2026-07-27T02:05:41.798797+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ρωσία: Πέντε Βόσνιοι ορειβάτες πιστεύεται ότι σκοτώθηκαν στο βουνό Ελμπρούς της οροσειράς του Καυκάσου",
-        "url": "https://www.efsyn.gr/kosmos/1436098/rosia-pente-vosnioi-oreivates-pisteyetai-oti-skotothikan-sto-voyno-elmproys-tis-oroseiras-toy-kaykasoy/",
-        "snippet": "Το όρος Ελμπρούς, που φτάνει τα 5.642 μέτρα και βρίσκεται στα βόρεια των συνόρων της Ρωσίας με τη Γεωργία, είναι διαβόητο για τις απότομες αλλαγές του καιρού και τις δύσκολες συνθήκες αναρρίχησης.",
+        "title": "Κούβα: Ο πρόεδρος Ντίας-Κανέλ μιλά για πολιτική γενοκτονία από τις ΗΠΑ",
+        "url": "https://www.efsyn.gr/kosmos/1436103/koyva-o-proedros-ntias-kanel-mila-gia-politiki-genoktonia-apo-tis-ipa/",
+        "snippet": "«Ψάχνουν μια νέα δικαιολογία για να διατηρήσουν την πολιτική γενοκτονία εναντίον της Κούβας».",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Γάζα: Εγκρίθηκε από το Ισραήλ η είσοδος «Διεθνούς Δύναμης Σταθεροποίησης» στη Λωρίδα",
+          "url": "https://www.efsyn.gr/kosmos/1436100/gaza-egkrithike-apo-to-israil-i-eisodos-diethnoys-dynamis-statheropoiisis-sti-lorida/",
+          "snippet": "Μεγάλο μέρος της Γάζας παραμένει ερείπια έπειτα από δύο χρόνια πολέμου με αφορμή τις επιθέσεις της Χαμάς στο Ισραήλ, στις 7 Οκτωβρίου 2023.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ρωσία: Πέντε Βόσνιοι ορειβάτες πιστεύεται ότι σκοτώθηκαν στο βουνό Ελμπρούς της οροσειράς του Καυκάσου",
+          "url": "https://www.efsyn.gr/kosmos/1436098/rosia-pente-vosnioi-oreivates-pisteyetai-oti-skotothikan-sto-voyno-elmproys-tis-oroseiras-toy-kaykasoy/",
+          "snippet": "Το όρος Ελμπρούς, που φτάνει τα 5.642 μέτρα και βρίσκεται στα βόρεια των συνόρων της Ρωσίας με τη Γεωργία, είναι διαβόητο για τις απότομες αλλαγές του καιρού και τις δύσκολες συνθήκες αναρρίχησης.",
+          "source": "EfSyn"
+        },
         {
           "title": "Φρίκη στην Ιρλανδία: Εντοπίστηκαν 22 νέες σοροί βρεφών στο διαβόητο ίδρυμα του Τουαμ",
           "url": "https://www.efsyn.gr/kosmos/1436089/friki-stin-irlandia-entopistikan-22-nees-soroi-vrefon-sto-idryma-toyam/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1436037/epithesi-sto-verolino-nekros-apo-pyra-astynomikon-o-drastis/",
           "snippet": "Σύμφωνα με γερμανικό ΜΜΕ, ο 21χρονος Αμπντούλ Μπαλούτ σκοτώθηκε κατά τη διάρκεια αστυνομικής επιχείρησης στην περιοχή του Σπαντάου, στα βoρειοδυτικά όρια του Βερολίνου.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Ύποπτη εγκαταλελειμμένη βαλίτσα αναστάτωσε το Μοναστηράκι – Λήξη συναγερμού μετά τις έρευνες του ΤΕΕΜ",
-          "url": "https://www.efsyn.gr/ellada/1436030/ypopti-egkataleleimeni-valitsa-sto-monastiraki-sto-simeio-to-teem-gia-tin-exetasi-tis/",
-          "snippet": "Το αντικείμενο βρέθηκε στη συμβολή των οδών Ερμού και Αθηνάς.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Το δημόσιο ευχαριστώ της Κωνσταντοπούλου σε Ακρίτα και Αντωνοπούλου για τη στήριξή τους στην επίθεση Μητσοτάκη",
-          "url": "https://www.efsyn.gr/politiki/1436025/to-dimosio-eyharisto-tis-konstantopoyloy-se-akrita-kai-antonopoyloy-gia-ti-stirixi-toys-stin-epithesi-mitsotaki/",
-          "snippet": "Αιτία, οι δημόσιες καταδικαστικές τοποθετήσεις των δύο πολιτικών, σχετικά με την αναφορά περί «οίστρου» την οποία έκανε ο πρωθυπουργός Κυριάκος Μητσοτάκης για την κ. Κωνσταντοπούλου στο πλαίσιο της ομιλίας του στη Βουλή στη συζήτηση για τη Συνταγματική Αναθεώρηση.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Live Updates: Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
+        "title": "Extreme Heat and Strong Winds Fuel New Wildfires in France and Spain",
         "url": "https://www.nytimes.com/live/2026/07/26/world/france-spain-wildfires-evacutions",
         "snippet": "Firefighters are tackling fresh blazes while others have been contained, and hundreds of thousands of people have been forced to flee. A new heat wave forecast to hit Europe could make conditions worse.",
         "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Forced to Evacuate Amid Spain Wildfires, Residents Wonder if Their Homes Still Stand",
-          "url": "https://www.nytimes.com/2026/07/26/world/europe/spain-fires-evacuees-voices.html",
-          "snippet": "In central Spain, thousands of people sleep in shelters or in their cars, some of them evacuated multiple times ahead of the advancing flames, awaiting word on what they left behind.",
+          "title": "Flames Advance on Bordeaux, Where Evacuees Balance Dread and Hope",
+          "url": "https://www.nytimes.com/2026/07/26/world/europe/france-fires-bordeaux.html",
+          "snippet": "With surrounding towns in southwestern France evacuated and fire still spreading rapidly, several thousand are sheltering in the city, unsure what will become of their homes.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Making sense of the panic over Chinese AI",
-        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-        "snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "snippet": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Can Apple make smart glasses that aren’t a constant privacy threat?",
+          "url": "https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/",
+          "snippet": "As Apple prepares to launch its first smart glasses, the company may also be wrestling with how to address consumer privacy concerns.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Making sense of the panic over Chinese AI",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Inside one London founder house rewriting the founder-house rules",
           "url": "https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/24/spacex-launches-new-v3-starlink-satellites-but-suffers-another-booster-failure/",
           "snippet": "The company ticked off a few more boxes on the second Starship V3 flight, but appears to have had another issue relighting the booster's rocket engines.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-          "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-          "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Disrupt 2026’s new Smart Money Stage explores fintech, payments, AI, and everything between",
-          "url": "https://techcrunch.com/2026/07/24/techcrunch-disrupt-2026s-new-smart-money-stage-explores-fintech-payments-ai-and-everything-between/",
-          "snippet": "Money has evolved into far more than the cash in your wallet or your bank account. And at TechCrunch Disrupt 2026, we’re devoting an entire stage to that progression.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,48 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "659.000 τ.μ. με 9 πύργους και 4.200 γραφεία: Το μεγαλύτερο κτίριο γραφείων ξεπέρασε το αμερικανικό Πεντάγωνο (vid)",
-        "url": "https://www.gazzetta.gr/plus/2557100/659000-tm-me-9-pyrgoys-kai-4200-grafeia-megalytero-ktirio-grafeion-xeperase",
-        "snippet": "Το Surat Diamond Bourse στην Ινδία ξεπέρασε το αμερικανικό Πεντάγωνο ως το μεγαλύτερο κτίριο γραφείων στον κόσμο.",
+        "title": "ΟΦΗ: Ο Δημήτρης Μπούσης προανήγγειλε διπλό «χτύπημα» με Αϊτόρ και Νικολάου",
+        "url": "https://www.gazzetta.gr/football/superleague/2557110/ofi-o-dimitris-mpoysis-proaniggeile-diplo-htypima-me-aitor-kai",
+        "snippet": "Με ανάρτηση του ο Αντιπρόεδρος του ΟΦΗ, Δημήτρης Μπούσης, προανήγγειλε την ολοκλήρωση των μεταγραφών του Αϊτόρ και του Δημήτρη Νικολάου.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Λουίζ - Ολυμπιακός: Πουλήθηκε στο Κάνσας με 16+3.5 εκατ. ευρώ!",
+          "url": "https://www.gazzetta.gr/football/superleague/2557109/loyiz-olympiakos-poylithike-stin-kansas-siti-me-16535-ekat-eyro",
+          "snippet": "Ο εξτρέμ του Ολυμπιακού, Αντρέ Λουίζ, παραχωρείται τελικώς στον αμερικάνικο σύλλογο και θα γίνει η 3η πιο ακριβή μεταγραφή στην ιστορία του Πρωταθλήματος των ΗΠΑ!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τιτραουί - Ολυμπιακός: Ρώτησε για τον Αλγερινό χαφ",
+          "url": "https://www.gazzetta.gr/football/superleague/2557108/titraoyi-olympiakos-rotise-gia-ton-algerino-haf",
+          "snippet": "Πληροφορίες από το Βέλγιο αναφέρουν ότι ο Ολυμπιακός έχει ψάξει για τα καλά την περίπτωση του 23χρονου Αλγερινού μέσου της Σαρλερουά.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Athens Finals 2026: Πρωταθλητές Ελλάδας οι Παπαδημητρίου και Ιωαννίδης",
+          "url": "https://www.gazzetta.gr/mpits-bolei/2557106/athens-finals-2026-protathlites-elladas-oi-papadimitrioy-kai-ioannidis",
+          "snippet": "Ο Παπαδημητρίου και ο Ιωαννίδης κατέκτησαν το Πανελλήνιο Πρωτάθλημα Beach Volley 2026, επικρατώντας με 2-0 σετ των περσινών πρωταθλητών Ντάλλα και Χατζηνικολάου στον τελικό των Athens Finals.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Στέφαν Ορτέγκα - Ολυμπιακός: Στο τελικό στάδιο επαφών οι δυο πλευρές",
+          "url": "https://www.gazzetta.gr/football/superleague/2557105/stefan-ortegka-olympiakos-oi-germanoi-kanoyn-logo-gia-teliko-stadio",
+          "snippet": "Στη Γερμανία προέκυψε η πληροφορία ότι ο έμπειρος Γερμανός πορτιέρε, Στέφαν Ορτέγκα, είναι στις τελικές συζητήσεις με τον Ολυμπιακό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Χεζόνια επέστρεψε στο ΝΒΑ και ο Βιλντόσα στο Βελιγράδι",
+          "url": "https://www.gazzetta.gr/basketball/nba/2557101/oi-metagrafes-tis-imeras-sto-mpasket-o-hezonia-epestrepse-sto-nba-kai-o",
+          "snippet": "Η επιστροφή του Κροάτη φόργουορντ στον «μαγικό κόσμο» με τους Κλίβελαντ Καβαλίερς και του Αργεντίνου πόιντ γκαρντ στην Παρτίζαν ξεχώρισαν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "659.000 τ.μ. με 9 πύργους και 4.200 γραφεία: Το μεγαλύτερο κτίριο γραφείων ξεπέρασε το αμερικανικό Πεντάγωνο (vid)",
+          "url": "https://www.gazzetta.gr/plus/2557100/659000-tm-me-9-pyrgoys-kai-4200-grafeia-megalytero-ktirio-grafeion-xeperase",
+          "snippet": "Το Surat Diamond Bourse στην Ινδία ξεπέρασε το αμερικανικό Πεντάγωνο ως το μεγαλύτερο κτίριο γραφείων στον κόσμο.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός: Ο Μιλουτίνοφ πήγε στην Ουγγαρία για το GP της Formula 1",
           "url": "https://www.gazzetta.gr/basketball/euroleague/2557104/olympiakos-o-miloytinof-pige-stin-oyggaria-gia-gp-tis-formula-1",
@@ -345,42 +381,6 @@
           "title": "ΑΕΚ: Κερδίζει, θέλει λογικά δουλειά και ευτυχώς έχει τουλάχιστον... ενάμιση φορ!",
           "url": "https://www.gazzetta.gr/football/superleague/2557072/aek-kerdizei-thelei-logika-doyleia-kai-eytyhos-ehei-toylahiston",
           "snippet": "Ο Γιώργος Τσακίρης γράφει για τη νέα φιλική αναμέτρηση της πρωταθλήτριας, τη νίκη χάρη στον σούπερ Βάργκα και τη νοοτροπία Νίκολιτς - Χρειάζεται περισσότερα από Ζουμπκόφ και Κάιρινεν...",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πανελλήνιο Πρωτάθλημα Στίβου: Σπουδαία ατομικά η Γκόγκα και ο Τσίτσος",
-          "url": "https://www.gazzetta.gr/stibos/2557096/panellinio-protathlima-stiboy-spoydaia-atomika-i-gkogka-kai-o-tsitsos",
-          "snippet": "Όλα τα φώτα στη 2η μέρα του πανελληνίου πρωταθλήματος έπεσαν στον Μίλτο Τεντόγλου, όμως δεν έλειψαν τα ρεκόρ και ο έντονος συναγωνισμός στο Πανθεσσαλικό Στάδιο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρεάλ Μαδρίτης - Ντιομαντέ: Τα βρήκε με τη Λειψία η Βασίλισσα",
-          "url": "https://www.gazzetta.gr/football/la-liga/2557095/real-madritis-ntiomante-ta-brike-me-ti-leipsia-i-basilissa",
-          "snippet": "Η Ρεάλ Μαδρίτης κάνει δικό της τον Γιαν Ντιομαντέ, έχοντας έρθει σε συμφωνία με τη Λειψία έναντι ποσού άνω των 100 εκατομμυρίων ευρώ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Ο Τάντιτς αντίπαλος με τη φανέλα της Ναϊμέγκεν",
-          "url": "https://www.gazzetta.gr/football/champions-league/2557094/olympiakos-o-tantits-antipalos-me-ti-fanela-tis-naimegken",
-          "snippet": "Ο πολύπειρος Σέρβος μεσοεπιθετικός Ντούσαν Τάντιτς θα τεθεί αντιμέτωπος του Ολυμπιακού με τη φανέλα της Ναϊμέγκεν!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Γιατί ο Ομπράντοβιτς δεν προτιμά τα πολλά φιλικά προετοιμασίας",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2557093/panathinaikos-giati-o-omprantobits-den-protima-ta-polla-filika",
-          "snippet": "Η πρόωρη έναρξη της σεζόν και η ανάγκη για εμπέδωση της αγωνιστικής φιλοσοφίας του Ζέλικο Ομπράντοβιτς οδήγησαν τον Σέρβο τεχνικό στην επιλογή περισσότερων προπονήσεων και λιγότερων αγώνων.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έκοψαν το βουνό στα δύο: Κινέζοι μηχανικοί βρήκαν λύση για να φτιάξουν αυτοκινητόδρομο (vid)",
-          "url": "https://www.gazzetta.gr/plus/2557079/ekopsan-boyno-sta-dyo-kinezoi-mihanikoi-brikan-lysi-gia-na-ftiaxoyn-aytokinitodromo",
-          "snippet": "Κινέζοι μηχανικοί κατέφυγαν σε μια ριζοσπαστική λύση, κόβοντας βουνά στα δύο για τη δημιουργία ενός σύγχρονου αυτοκινητόδρομου που συνδέει απομονωμένες περιοχές.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα-Τουρκία 94-73: Ισοπεδωτική η Παίδων και αήττητη στο τουρνουά",
-          "url": "https://www.gazzetta.gr/basketball/2557089/ellada-toyrkia-94-73-isopedotiki-i-paidon-kai-aittiti-sto-toyrnoya",
-          "snippet": "Αήττητη ολοκλήρωσε την παρουσία της στο τουρνουά στο Μπασάνο της Ιταλίας η Εθνική Παίδων κερδίζοντας (94-73) και την Τουρκία.",
           "source": "Gazzetta"
         }
       ]
