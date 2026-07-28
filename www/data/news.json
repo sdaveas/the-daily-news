@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-27T21:03:26.733398+00:00",
+  "updated": "2026-07-28T01:47:26.678354+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΕΛΑΣ για εξωδικαστικό: Η ΝΔ άφησε 7 χρόνια τους πολίτες έκθετους στα funds, τώρα τον θεωρεί κοινωνική τομή",
-        "url": "https://www.efsyn.gr/politiki/1436874/elas-gia-exodikastiko-i-nd-afise-7-hronia-toys-polites-ekthetoys-sta-funds-tora-ton-theorei-koinoniki-tomi/",
-        "snippet": "«Έχουν υποβληθεί συνολικά 141.110 αιτήσεις για ρύθμιση, εκ των οποίων τα 42 δισ. ευρώ αφορούν ρύθμιση δανείων, και ρυθμίστηκαν μόνο 5 δισ. ευρώ. Ενώ για τις αναστολές πλειστηριασμών μόνο 584 αιτήσεις έγιναν δεκτές».",
+        "title": "Κρήτη: Λαγοκέφαλος με μήκος πάνω από 50 εκατοστά εμφανίστηκε σε πολυσύχναστη παραλία [βίντεο]",
+        "url": "https://www.efsyn.gr/ellada/1436877/kriti-lagokefalos-me-mikos-pano-apo-50-ekatosta-emfanistike-se-polysyhnasti-paralia-vinteo/",
+        "snippet": "Η παρουσία του τόσο κοντά στην ακτή προκαλεί προβληματισμό, καθώς ο λαγοκέφαλος έχει εξαπλωθεί τα τελευταία χρόνια στις ελληνικές θάλασσες.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΕΛΑΣ για εξωδικαστικό: Η ΝΔ άφησε 7 χρόνια τους πολίτες έκθετους στα funds, τώρα τον θεωρεί κοινωνική τομή",
+          "url": "https://www.efsyn.gr/politiki/1436874/elas-gia-exodikastiko-i-nd-afise-7-hronia-toys-polites-ekthetoys-sta-funds-tora-ton-theorei-koinoniki-tomi/",
+          "snippet": "«Έχουν υποβληθεί συνολικά 141.110 αιτήσεις για ρύθμιση, εκ των οποίων τα 42 δισ. ευρώ αφορούν ρύθμιση δανείων, και ρυθμίστηκαν μόνο 5 δισ. ευρώ. Ενώ για τις αναστολές πλειστηριασμών μόνο 584 αιτήσεις έγιναν δεκτές».",
+          "source": "EfSyn"
+        },
         {
           "title": "Άγρια συμπλοκή σε χωριό της Κρήτης – 24χρονος υπέστη επίθεση με μαχαίρι",
           "url": "https://www.efsyn.gr/ellada/1436872/agria-symploki-se-horio-tis-kritis-24hronos-ypesti-epithesi-me-mahairi/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1436812/i-pyrkagia-sti-gallia-apeilei-pyrinikes-kai-stratiotikes-egkatastaseis-i-katasvesi-mporei-na-diarkesei-mines/",
           "snippet": "Προ των πυλών νέο κύμα καύσωνα στη Δυτική Ευρώπη, γεγονός που θα δυσκολέψει ακόμη περισσότερο την κατάσβεση των ανεξέλεγκτων πυρκαγιών.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Washington Post: Σοβαρά εξασθενημένος ο Τζο Μπάιντεν λόγω της θεραπείας του για τον καρκίνο",
-          "url": "https://www.efsyn.gr/kosmos/1436816/washington-post-sovara-exasthenimenos-o-tzo-mpainten-logo-tis-therapeias-toy-gia-ton-karkino/",
-          "snippet": "Λεπτομέρειες για τη μάχη που δίνει ο πρώην πρόεδρος των ΗΠΑ με τον μεταστατικό καρκίνο μεταδίδει η αμερικανική εφημερίδα Washington Post. Σύμφωνα με το ρεπορτάζ ο Τζο Μπάιντεν έχει εξασθενήσει σοβαρά λόγω της θεραπείας στην οποία υποβάλλεται και τις συνέπειες που αυτή έχει. «Ωστό",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Wildfires Live Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
+        "title": "Europe Wildfires Updates: New Heat Wave Could Worsen France and Spain’s ‘Unprecedented’ Fire Season",
         "url": "https://www.nytimes.com/live/2026/07/27/world/france-spain-wildfires-evacutions",
         "snippet": "Firefighters and volunteers raced to contain wildfires on Monday. The crisis has forced hundreds of thousands to evacuate in central Spain and southwest France.",
         "source": "NYT World"
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
-        "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
-        "snippet": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+        "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "snippet": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+          "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "snippet": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Thea Energy lands $20M federal grant to build its magnets for fusion reactors",
+          "url": "https://techcrunch.com/2026/07/27/thea-energy-lands-20m-federal-grant-to-build-its-magnets-for-fusion-reactors/",
+          "snippet": "Fusion power startup Thea Energy snagged a $20 million award from ARPA-E to scale production of its high-temperature superconducting magnets.",
+          "source": "TechCrunch"
+        },
         {
           "title": "As rivals chase acquisitions, Peacock bets on bundles through a new deal with YouTube",
           "url": "https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
           "snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Snapchat now lets you share what you’re listening to in real time",
-          "url": "https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/",
-          "snippet": "Starting with Spotify, Snapchat users will be able to link their accounts, choose who can see their listening activity, and see what their friends are listening to in real time.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
-          "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-          "snippet": "The massive seed round was led by Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Λόβρο Μάγιερ: ΑΕΚ - Άμεσα στην Ολλανδία ο Κροάτης χαφ",
-        "url": "https://www.gazzetta.gr/football/superleague/2557328/lobro-magier-aek-amesa-stin-ollandia-o-kroatis-haf",
-        "snippet": "Η ΑΕΚ αναμένει πλέον άμεσα την άφιξη του Λόβρο Μάγιερ στην Ολλανδία μετά τη συμφωνία με τη Βόλφσμπουργκ για να ολοκληρώσει τη μεταγραφή και να ενσωματωθεί στην προετοιμασία.",
+        "title": "Ολυμπιακός: Έντονες φήμες για Γκουστάβο Σα",
+        "url": "https://www.gazzetta.gr/football/superleague/2557331/olympiakos-entones-fimes-gia-gkoystabo-sa",
+        "snippet": "Νέο όνομα για τον χώρο του άξονα ως προς τον Ολυμπιακό με το σούπερ ταλέντο Γκουστάβο Σα.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ο Τσιτσιπάς τις πρώτες πρωινές ώρες της Τετάρτης κάνει πρεμιέρα στην Ουάσινγκτον",
+          "url": "https://www.gazzetta.gr/tennis/atp/2557330/o-tsitsipas-tis-protes-proines-ores-tis-tetartis-kanei-premiera-stin-oyasingkton",
+          "snippet": "Ο Στέφανος Τσιτσιπάς μια ώρα μετά τα μεσάνυχτα της Τρίτης, θα αντιμετωπίσει τον Άλεξ ντε Μινόρ στην πρεμιέρα του στο 500άρι τουρνουά της Ουάσινγκτον.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γιάννης Αντετοκούνμπο: Η πρώτη ημέρα στο Μαϊάμι",
+          "url": "https://www.gazzetta.gr/basketball/nba/2557329/giannis-antetokoynmpo-i-proti-imera-sto-maiami",
+          "snippet": "Ο Γιάννης Αντετοκούνμπο μέσα από ένα βίντεο αποτυπώνει τις πρώτες του ώρες στο Μαϊάμι ως παίκτης των Χιτ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λόβρο Μάγιερ: ΑΕΚ - Άμεσα στην Ολλανδία ο Κροάτης χαφ",
+          "url": "https://www.gazzetta.gr/football/superleague/2557328/lobro-magier-aek-amesa-stin-ollandia-o-kroatis-haf",
+          "snippet": "Η ΑΕΚ αναμένει πλέον άμεσα την άφιξη του Λόβρο Μάγιερ στην Ολλανδία μετά τη συμφωνία με τη Βόλφσμπουργκ για να ολοκληρώσει τη μεταγραφή και να ενσωματωθεί στην προετοιμασία.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Το επίσημο του «Βασιλιά» ΛεΜπρόν και οι κινήσεις σε Euroleague και Stoiximan GBL",
           "url": "https://www.gazzetta.gr/basketball/nba/2557323/oi-metagrafes-tis-imeras-sto-mpasket-episimo-toy-basilia-lempron-kai-oi",
@@ -308,7 +326,7 @@
         {
           "title": "Τιτραουί - Ολυμπιακός: Νέα πρόταση για τον Αλγερινό οι Ερυθρόλευκοι!",
           "url": "https://www.gazzetta.gr/football/superleague/2557327/titraoyi-olympiakos-nea-protasi-gia-ton-algerino-oi-erythroleykoi",
-          "snippet": "Επιμένει ο Ολυμπιακός για τον Γιασίν Τιτραουί, τον διεθνή χαφ της Σαρλεουά κάνοντας και νέα πρόταση για την απόκτησή του.",
+          "snippet": "Επιμένει ο Ολυμπιακός για τον ποιοτικό Γιασίν Τιτραουί, τον διεθνή χαφ της ομάδας της Σαρλεουά, κάνοντας και νέα πρόταση για την απόκτησή του.",
           "source": "Gazzetta"
         },
         {
@@ -364,24 +382,6 @@
           "url": "https://www.gazzetta.gr/basketball/euroleague/2557317/panathinaikos-epistrefei-se-palioys-gnostoys",
           "snippet": "Η δύσκολη αγορά του ΝΒΑ στρέφει το «τριφύλλι» σε δοκιμασμένες ευρωπαϊκές λύσεις, με στόχο έναν πόιντ γκαρντ που θα μπει άμεσα στο πλάνο της ομάδας.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Λόβρο Μάγιερ: ΑΕΚ - Συμφωνία με Βόλφσμπουργκ, υπογράφει για τέσσερα χρόνια",
-          "url": "https://www.gazzetta.gr/football/superleague/2557316/lobro-magier-aek-symfonia-me-bolfsmpoyrgk-ypografei-gia-tessera-hronia",
-          "snippet": "Η ΑΕΚ έφτασε σε προφορική συμφωνία με τη Βόλφσμπουργκ σε ποσό πάνω από 6 εκατ ευρώ για τον Κροάτη χαφ, Λόβρο Μάγιερ όπως αποκάλυψε ο Ρομάνο και επιβεβαιώνεται από το ρεπορτάζ. Για τέσσερα χρόνια θα υπογράψει στην Ένωση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάδα - UEFA Ranking: Οι πιθανότητες να μπουν και οι 5 ομάδες σε League Phase",
-          "url": "https://www.gazzetta.gr/football/superleague/2557314/ellada-uefa-ranking-oi-pithanotites-na-mpoyn-kai-oi-5-omades-se-league",
-          "snippet": "Η Ελλάδα παλεύει με Τσεχία και Πολωνία για τη 10η θέση στην κατάταξη της 5ετίας της UEFA και το πλεονέκτημα είναι ότι μπορεί και οι πέντε ομάδες να μπουν σε League Phase.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σκροπολίθας: «Κάθε φορά κάτι γίνεται και ξαφνικά δεν χαμογελάμε»",
-          "url": "https://www.gazzetta.gr/basketball/2557313/skropolithas-kathe-fora-kati-ginetai-kai-xafnika-den-hamogelame",
-          "snippet": "Ο προπονητής της Εθνικής Εφήβων Βασίλης Σκροπολίθας αναφέρθηκε στην ήττα από τη Γαλλία σε «νεκρό χρόνο» στο Ευρωμπάσκετ U18.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -414,7 +414,7 @@
           "source": "NYT Science"
         },
         {
-          "title": "D4vd Murder Case May Go to Trial, Judge Rules",
+          "title": "D4vd Murder Case Can Go to Trial, Judge Rules",
           "url": "https://www.nytimes.com/2026/07/27/arts/music/d4vd-celesete-rivas-hernandez-murder.html",
           "snippet": "The decision capped a five-day preliminary hearing in which prosecutors detailed how and why they say the musician killed the 14-year-old Celeste Rivas Hernandez.",
           "source": "NYT Arts"
@@ -463,7 +463,7 @@
         },
         {
           "title": "Despite Cancellations, Company Says ‘Game of Thrones’ Play Is On Track",
-          "url": "https://www.nytimes.com/2026/07/27/arts/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
+          "url": "https://www.nytimes.com/2026/07/27/theater/game-of-thrones-mad-king-royal-shakespeare-cancellations.html",
           "snippet": "The Royal Shakespeare Company called off five preview performances of the epic four-hour production last week, including one just hours before its scheduled curtain.",
           "source": "NYT Arts"
         },
