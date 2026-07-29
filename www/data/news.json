@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-28T21:00:11.655786+00:00",
+  "updated": "2026-07-29T01:49:47.330589+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Δύσκολη νύχτα στην Πάρο: Αδιάκοπη μάχη με τις φλόγες με τον φόβο των δυνατών ανέμων [εικόνες – βίντεο]",
-        "url": "https://www.efsyn.gr/ellada/1437656/dyskoli-nyhta-stin-paro-adiakopi-mahi-me-tis-floges-me-ton-fovo-ton-dynaton-anemon-eikones-vinteo/",
-        "snippet": "Οι βόρειοι άνεμοι που πνέουν στην περιοχή αναμένεται να ενισχυθούν φθάνοντας τα 7, ίσως και τα 8 μποφόρ.",
+        "title": "Ψηφίστηκε μόνο με τις ψήφους της ΝΔ ο νόμος που προβλέπει ΑΕ για τη διαχείριση της πολιτιστικής κληρονομιάς",
+        "url": "https://www.efsyn.gr/politiki/1437665/psifistike-mono-me-tis-psifoys-tis-nd-o-nomos-poy-idryei-ae-gia-ti-diaheirisi-tis-politistikis-klironomias/",
+        "snippet": "Κατά τη διάρκεια της συζήτησης, πολλοί βουλευτές της αντιπολίτευσης εξέφρασαν την αγωνία τους για την ανάδειξη και το μέλλον του πολιτιστικού αποθέματος του τόπου και καταλόγισαν στην κυβέρνηση «μια ακόμα προσπάθεια να παραδώσει σε ιδιώτες τους αρχαιολογικούς χώρους και τα μνημεί",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Δύσκολη νύχτα στην Πάρο: Αδιάκοπη μάχη με τις φλόγες με τον φόβο των δυνατών ανέμων [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1437656/dyskoli-nyhta-stin-paro-adiakopi-mahi-me-tis-floges-me-ton-fovo-ton-dynaton-anemon-eikones-vinteo/",
+          "snippet": "Οι βόρειοι άνεμοι που πνέουν στην περιοχή αναμένεται να ενισχυθούν φθάνοντας τα 7, ίσως και τα 8 μποφόρ.",
+          "source": "EfSyn"
+        },
         {
           "title": "Δολοφονία διασώστριας στη Σύρο: Σε κατ’ οίκον περιορισμό ο 41χρονος",
           "url": "https://www.efsyn.gr/ellada/1437657/dolofonia-diasostrias-sti-syro-se-kat-oikon-periorismo-o-41hronos/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/politiki/1437596/pasok-kata-mitsotaki-gia-ti-lero-pige-se-merikos-anakainismenes-pteryges-se-nosokomeio-horis-giatroys/",
           "snippet": "Ο βουλευτής Δωδεκαννήσου του ΠΑΣΟΚ αποδομεί το επικοινωνιακό σόου του πρωθυπουργού.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Μονεμβασιά: Βυθίστηκε ταχύπλοο μετά από πυρκαγιά",
-          "url": "https://www.efsyn.gr/ellada/1437601/monemvasia-vythistike-tahyploo-meta-apo-pyrkagia/",
-          "snippet": "Ο μοναδικός επιβαίνων κατάφερε να πλησιάσει μόνος του στην ακτή και σώθηκε.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Many Feared Trapped in Mall Collapse After Japan Earthquake, Officials Say",
+        "title": "Japan Mounts Rescues in Buildings That Collapsed After Strong Quake",
         "url": "https://www.nytimes.com/live/2026/07/28/world/japan-earthquake-kumamoto-tsunami",
         "snippet": "Emergency workers were racing to find people and extinguish fires after the 6.8 magnitude quake struck the southwestern prefecture of Kumamoto.",
         "source": "NYT World"
@@ -162,7 +162,7 @@
           "source": "NYT World"
         },
         {
-          "title": "Fresh Clashes Erupt in Pakistani Kashmir on First Day of Contested Vote",
+          "title": "Clashes Erupt in Pakistani Kashmir as Voting in Local Election Begins",
           "url": "https://www.nytimes.com/2026/07/28/world/asia/pakistan-kashmir-election-violence.html",
           "snippet": "Dozens have died in recent weeks ahead of a weekslong regional election, officials said. A banned civil rights group said supporters died in conflicts with the police.",
           "source": "NYT World"
@@ -180,15 +180,15 @@
           "source": "NYT World"
         },
         {
-          "title": "How Cubans Are Surviving",
-          "url": "https://www.nytimes.com/2026/07/28/world/cuba-us-trump-ukraine-iran-japan-quake.html",
-          "snippet": "It’s been six months since the U.S. cut off the island’s fuel sources. Our reporters went there and found remarkable stories of resilience.",
+          "title": "Houthis Claim Strike on Another Saudi Oil Tanker",
+          "url": "https://www.nytimes.com/2026/07/28/world/middleeast/houthis-strike-saudi-tanker.html",
+          "snippet": "With their ally, Iran, bottling up the Strait of Hormuz, the Houthi group in Yemen is escalating its declared blockade of Saudi shipping in another vital waterway, the Red Sea.",
           "source": "NYT World"
         },
         {
-          "title": "What to Know About the Kumamoto Earthquake in Japan",
-          "url": "https://www.nytimes.com/2026/07/28/world/asia/japan-earthquake-kumamoto-damage.html",
-          "snippet": "At least one person who was found in a collapsed house was killed, and about 50 others were injured on Tuesday in the southwestern prefecture of Kumamoto.",
+          "title": "How Cubans Are Surviving",
+          "url": "https://www.nytimes.com/2026/07/28/world/cuba-us-trump-ukraine-iran-japan-quake.html",
+          "snippet": "It’s been six months since the U.S. cut off the island’s fuel sources. Our reporters went there and found remarkable stories of resilience.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-        "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-        "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "snippet": "The deal is Cyera's third acquisition this year.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+          "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Sam Altman is ready to decelerate",
           "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
@@ -216,7 +228,7 @@
           "source": "TechCrunch"
         },
         {
-          "title": "The robot NASA hired to lift a orbital telescope is tumbling out of control",
+          "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
           "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
           "snippet": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
           "source": "TechCrunch"
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/28/whatsapp-now-lets-you-make-calls-using-its-web-app/",
           "snippet": "Similar to the smartphone and desktop apps, the web app will support calling features such as screen-sharing and reactions.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-          "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-          "snippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Apple launches ‘Upgrade’ device leasing program in partnership with Klarna",
-          "url": "https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/",
-          "snippet": "The rollout of the program comes as Apple has been struggling with supply chain issues related to \"RAMageddon,\" which refers to the industry-wide shortage of memory chips that is driving up the price of hardware.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Σημαντικές κινήσεις στη Euroleague, το BCL και τη Stoiximan GBL",
-        "url": "https://www.gazzetta.gr/basketball/euroleague/2557536/oi-metagrafes-tis-imeras-sto-mpasket-simantikes-kiniseis-sti",
-        "snippet": "Οι ομάδες της Euroleague κινήθηκαν δυναμικά, ενώ σημαντική προσθήκη για την Μάλαγα αποτελεί ο Γουίλι Ερνανγκόμεθ.",
+        "title": "Τσιτσιπάς: Αναβλήθηκε η πρεμιέρα του στο τουρνουά της Ουάσινγκτον",
+        "url": "https://www.gazzetta.gr/tennis/atp/2557568/tsitsipas-anablithike-i-premiera-toy-sto-toyrnoya-tis-oyasingkton",
+        "snippet": "Ο Στέφανος Τσιτσιπάς δεν θα πραγματοποιήσει την πρεμιέρα του στη δεύτερη ημέρα του τουρνουά της Ουάσινγκτον όπως ήταν προγραμματισμένο.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Τσιτσιπάς: Καθυστερεί η πρεμιέρα του στην Ουάσινγκτον",
+          "url": "https://www.gazzetta.gr/tennis/atp/2557567/tsitsipas-kathysterei-i-premiera-toy-stin-oyasingkton",
+          "snippet": "Ο Στέφανος Τσιτσιπάς είδε τη βροχή στην Ουάσινγκτον να καθυστερεί την πρεμιέρα του, η οποία ήταν προγραμματισμένη στη 01:00 ώρα Ελλάδας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Ο λόγος που δεν θα γίνουν Πέμπτη τα παιχνίδια με την ΤΣΣΚΑ Σόφιας 1948",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2557562/panathinaikos-o-logos-poy-den-tha-ginoyn-pempti-ta",
+          "snippet": "Η αιτία που οι αναμετρήσεις του Παναθηναϊκού με την ΤΣΣΚΑ Σόφιας 1948 δεν θα γίνουν Πέμπτη, όπως συνηθίζεται με τα ματς του Conference League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Champions League: Τα αποτελέσματα της βραδιάς και οι ομάδες που προκρίθηκαν",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557543/champions-league-ta-apotelesmata-tis-bradias-kai-oi-omades-poy",
+          "snippet": "Οι ρεβάνς των αποψινών αγώνων στον δεύτερο προκριματικό γύρο του Champions League ολοκληρώθηκαν και αρκετές ομάδες τσέκαραν το εισιτήριό τους για τον τρίτο προκριματικό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Σημαντικές κινήσεις στη Euroleague, το BCL και τη Stoiximan GBL",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557536/oi-metagrafes-tis-imeras-sto-mpasket-simantikes-kiniseis-sti",
+          "snippet": "Οι ομάδες της Euroleague κινήθηκαν δυναμικά, ενώ σημαντική προσθήκη για την Μάλαγα αποτελεί ο Γουίλι Ερνανγκόμεθ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τιτραουί - Ολυμπιακός: Τι μεταδίδουν για τον διεθνή χαφ στο Βέλγιο",
           "url": "https://www.gazzetta.gr/football/superleague/2557542/titraoyi-olympiakos-ti-metadidoyn-gia-ton-diethni-haf-sto-belgio",
@@ -358,30 +382,6 @@
           "url": "https://www.gazzetta.gr/football/superleague/2557532/mprenta-ofi-3-2-filiki-itta-gia-toys-kypelloyhoys",
           "snippet": "Στο δεύτερο του φιλικό παιχνίδι επί ολλανδικού εδάφους ο ΟΦΗ ηττήθηκε από την Μπρέντα με 3-2. Σκόραραν οι νεαροί Σιτμαλίδης και Ρομάνο.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ερυθρός Αστέρας: Και επίσημα Μαντάρεβιτς",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2557531/erythros-asteras-kai-episima-mantarebits",
-          "snippet": "Ο Βοΐν Μαντάρεβιτς επισημοποίησε τη συμφωνία του με τον Ερυθρό Αστέρα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αναζωπυρώθηκε η πυρκαγιά στην Πάρο: Συνεχίζονται οι προσπάθειες για τον περιορισμό της",
-          "url": "https://www.gazzetta.gr/plus/2557530/anazopyrothike-i-pyrkagia-stin-paro-synehizontai-oi-prospatheies-gia-ton-periorismo",
-          "snippet": "Σε εξέλιξη παραμένει η πυρκαγιά στην Πάρο, με ισχυρές πυροσβεστικές δυνάμεις και εθελοντές να επιχειρούν όλη τη νύχτα, ενώ η Πολιτική Προστασία εξέδωσε διαδοχικά μηνύματα του 112 για προληπτικές εκκενώσεις.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: O Τσαλόπουλος αναλαμβάνει το βόλεϊ ανδρών",
-          "url": "https://www.gazzetta.gr/volleyball/volley-league/2557529/paok-o-tsalopoylos-analambanei-bolei-andron",
-          "snippet": "Ο ΑΣ ΠΑΟΚ ανακοίνωσε την οριστική συμφωνία με τον Αντώνη Τσαλόπουλο, που θα ηγηθεί της ομάδας βόλεϊ ανδρών.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βόλος: Φιλική νίκη με 2-1 κόντρα στη Καμπούρ",
-          "url": "https://www.gazzetta.gr/football/superleague/2557527/bolos-filiki-niki-me-2-1-kontra-sti-kampoyr",
-          "snippet": "Ο Βόλος έπαιξε ένα ακόμα φιλικό επικρατώντας της πιο έτοιμης Καμπούρ με 2-1, στο δεύτερο τεστ του επί ολλανδικού εδάφους.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -389,7 +389,7 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "Sam Smith, Newly Engaged, Opens Up About What Inspired “Hazel Eyes”",
+        "title": "Sam Smith Opens Up About Engagement, New Musical Direction",
         "url": "https://www.nytimes.com/2026/07/28/arts/music/sam-smith-hazel-eyes-new-album.html",
         "snippet": "After rising to global pop star status with songs about heartbreak, Smith returns with an album about pointedly queer “requited love,” made exactly how and where made them happiest.",
         "source": "NYT Arts"
