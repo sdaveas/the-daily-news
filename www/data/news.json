@@ -1,98 +1,98 @@
 {
-  "updated": "2026-07-29T17:05:54.469645+00:00",
+  "updated": "2026-07-29T20:43:18.443710+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Διαμαρτυρία από τους αρχαιολόγους στο Θησείο ενάντια στο «νόμο – ΑΕ» για την πολιτιστική κληρονομιά [εικόνες]",
-        "url": "https://www.efsyn.gr/ellada/1438269/diamartyria-apo-toys-arhaiologoys-sto-thiseio-enantia-sto-nomo-ae-gia-tin-politistiki-klironomia-eikones/",
-        "snippet": "Φωτογραφίες από τη διαμαρτυρία των εργαζομένων από τους κλάδους του πολιτισμού και των τεχνών, σήμερα το απόγευμα στην Αθήνα.",
+        "title": "Πάρος: 4 συλλήψεις για τη φωτιά – Δήμαρχος, αντιδήμαρχος, εργολάβος, οδηγός απορριματοφόρου",
+        "url": "https://www.efsyn.gr/ellada/1438376/paros-4-syllipseis-gia-ti-fotia-dimarhos-antidimarhos-ergolavos-apokomidis-aporrimmaton-kai-odigos-aporrimatoforoy/",
+        "snippet": "Εξετάζεται εάν υπήρξαν ενέργειες ή παραλείψεις που συνδέονται με την έναρξη της πυρκαγιάς.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Αίγυπτος: Έκρηξη στο λιμάνι Νταμιέτα, αναφορές για πλήγμα drone σε δεξαμενόπλοιο αμερικανικής ιδιοκτησίας",
-          "url": "https://www.efsyn.gr/kosmos/1438265/aigyptos-ekrixi-sto-limani-ntamieta-anafores-gia-pligma-drone-se-dexamenoploio-amerikanikis-idioktisias/",
-          "snippet": "Έκρηξη σημειώθηκε σήμερα στο λιμάνι Νταμιέτα (ή Δαμιέτη) της Αιγύπτου, με την εταιρεία ασφάλειας της ναυσιπλοΐας Ambrey να κάνει λόγο για πλήγμα drone σε αμερικανικής ιδιοκτησίας δεξαμενόπλοιο LNG. Σύμφωνα με την ενημέρωση από την Ambrey, δεν αναφέρθηκαν θύματα παρά μόνο υλικές ζ",
+          "title": "AtmoHub: Παρακολούθηση του καπνού από τις πυρκαγιές σε Κρήτη, Λέσβο και Τουρκία – Ποιες περιοχές αναμένεται να επηρεαστούν",
+          "url": "https://www.efsyn.gr/ellada/1438372/atmohub-parakoloythisi-toy-kapnoy-apo-tis-pyrkagies-se-kriti-lesvo-kai-toyrkia-poies-periohes-anamenetai-na-epireastoyn/",
+          "snippet": "Η μεγάλη πυρκαγιά στην Κρήτη παράγει εκτεταμένο νέφος καπνού, το οποίο επηρεάζει κυρίως την ευρύτερη περιοχή του νησιού και τις γειτονικές θαλάσσιες περιοχές.",
           "source": "EfSyn"
         },
         {
-          "title": "Θεσσαλονίκη: 14 μήνες εξαγοράσιμοι στον 66χρονο που οδηγούσε μεθυσμένος στο αντίθετο ρεύμα και συγκρούστηκε με ταξί",
-          "url": "https://www.efsyn.gr/ellada/1438264/thessaloniki-14-mines-exagorasimoi-ston-66hrono-poy-odigoyse-methysmenos-sto-antitheto-reyma-kai-sygkroystike-me-taxi/",
-          "snippet": "Το περιστατικό σημειώθηκε την προηγούμενη εβδομάδα, στην Περιφερειακή Οδό της πόλης κοντά στο ύψος των Κωνσταντινουπολίτικων.",
+          "title": "Το «μπαμ» έγινε: Ο Φρανσίσκο στον Παναθηναϊκό",
+          "url": "https://www.efsyn.gr/athlitismos/1438366/to-mpam-egine-o-fransisko-ston-panathinaiko/",
+          "snippet": "Με μια συντονισμένη και αποφασιστική προσπάθεια, ο Παναθηναϊκός ολοκλήρωσε την κίνηση που είχε θέσει ως απόλυτη προτεραιότητα για την ενίσχυση της περιφέρειάς του, αποκτώντας τον Σιλβέν Φρανσίσκο. Οι «πράσινοι» κινήθηκαν μεθοδικά τις τελευταίες ημέρες, εκμεταλλεύτηκαν τα δεδομένα",
           "source": "EfSyn"
         },
         {
-          "title": "Ρέθυμνο: Το όχημα στο οποίο έχασαν τη ζωή τους οι δύο πυροσβέστες [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1438260/rethymno-to-ohima-sto-opoio-ehasan-ti-zoi-toys-oi-dyo-pyrosvestes-vinteo/",
-          "snippet": "Σε εφιάλτη μετατράπηκε η σημερινή μάχη με τις φλόγες στο Ρέθυμνο, καθώς έχασαν τη ζωή τους δύο πυροσβέστες. Σύμφωνα με τα όσα έχουν γίνει γνωστά, πρόκειται για έναν 25χρονο εποχικό υπάλληλο και έναν 58χρονο πενταετούς υποχρέωσης, οι οποίοι εγκλωβίστηκαν μέσα στο πυροσβεστικό όχημ",
+          "title": "Αποδοκιμασία κατά Άδωνη στη Λήμνο: «Τα χέρια μας είναι καθαρά» – Πώς απαντά ο υπουργός Υγείας [βίντεο]",
+          "url": "https://www.efsyn.gr/politiki/1438359/apodokimasia-kata-adoni-sti-limno-ta-heria-mas-einai-kathara-pos-apanta-o-ypoyrgos-ygeias-vinteo/",
+          "snippet": "Τα άκουσε από δύο πολίτες κατά τη διάρκεια επίσκεψής του σε καφενείο της Λήμνου ο υπουργός Υγείας, ο οποίος, πάντως, έστειλε τη δική του απάντηση μέσω Χ. Ειδικότερα, ο Άδωνις Γεωργιάδης επισκέφθηκε καφενείο της Μύρινας με χαμόγελα και επιδόθηκε σε χαιρετούρες, όταν έπεσε πάνω σε ",
           "source": "EfSyn"
         },
         {
-          "title": "Η αιχμή της Έρης Ρίτσου για τον Γιώργο Χατζιδάκι και η αναφορά στα «διάφορα τραγελαφικά των “κληρονόμων”»",
-          "url": "https://www.efsyn.gr/tehnes/1438255/i-aihmi-tis-eris-ritsoy-gia-ton-giorgo-hatzidaki-kai-i-anafora-sta-diafora-tragelafika-ton-klironomon/",
-          "snippet": "«Στη ζωή μου προσπαθώ να επιβεβαιώνω πως αξίζει να υπάρχω στη γη λόγω των πράξεών μου και όχι λόγω της δημιουργίας/προσφοράς των γονιών μου».",
+          "title": "Ένα νέο κοινωνικό συμβόλαιο για την αξιοπρεπή διαβίωση: η νέα αποστολή του κοινωνικού κράτους",
+          "url": "https://www.efsyn.gr/stiles/1438344/ena-neo-koinoniko-symvolaio-gia-tin-axioprepi-diaviosi-i-nea-apostoli-toy-koinonikoy-kratoys/",
+          "snippet": "Για πολλές δεκαετίες, το κοινωνικό κράτος είχε μια σχετικά σαφή αποστολή: να προστατεύει όσους βρίσκονταν ήδη στο περιθώριο της οικονομικής και κοινωνικής ζωής. Οι πολιτικές οργανώθηκαν κυρίως γύρω από επιδόματα και εισοδηματικές μεταβιβάσεις, με στόχο τη διαχείριση και την ανακο",
           "source": "EfSyn"
         },
         {
-          "title": "Κορονοϊός: Ο Άντονι Φάουτσι αρνήθηκε με μιλήσει σε Επιτροπή της Γερουσίας για την προέλευση της πανδημίας",
-          "url": "https://www.efsyn.gr/kosmos/1438251/koronoios-o-antoni-faoytsi-arnithike-me-milisei-se-epitropi-tis-geroysias-gia-tin-proeleysi-tis-pandimias/",
-          "snippet": "Ο διακεκριμένος ανοσολόγος Άντονι Φάουτσι, ο οποίος οργάνωσε την «απάντηση» του Λευκού Οίκου στην πανδημία της Covid-19, αρνήθηκε σήμερα να απαντήσει σε μια επιτροπή της Γερουσίας για την προέλευση της πανδημίας και τη διαχείρισή της. Καταγγέλλοντας την «προφανή εμμονή» του συντη",
+          "title": "Νύχτα τρόμου στο Ρέθυμνο: Ανεξέλεγκτη η φονική πυρκαγιά – Πολλές εστίες, θυελλώδεις άνεμοι και καμένα σπίτια",
+          "url": "https://www.efsyn.gr/ellada/1438332/pyrinos-efialtis-sto-rethymno-aperantes-esties-thyellodeis-anemoi-nekroi-pyrosvestes-eikones-vinteo/",
+          "snippet": "Η φωτιά καίει ανεξέλεγκτα προς όλες τις κατευθύνσεις, έχοντας αναπτύξει ένα τεράστιο μέτωπο που ξεπερνά σε μήκος τα 15 χιλιόμετρα και επιδεινώνεται συνεχώς λόγω των πολύ ισχυρών ανέμων.",
           "source": "EfSyn"
         },
         {
-          "title": "Τηλεφωνική απάτη στην Πιερία: Έπεισαν 74χρονη να βγάλει έξω λίρες και κοσμήματα αξίας 70.000 ευρώ",
-          "url": "https://www.efsyn.gr/ellada/1438249/tilefoniki-apati-stin-pieria-epeisan-74hroni-na-vgalei-exo-lires-kai-kosmimata-axias-70-000-eyro/",
-          "snippet": "Ένας από τους συνεργούς τηλεφώνησε στην ηλικιωμένη προσποιούμενος υπάλληλο του ΔΕΔΔΗΕ, και με το πρόσχημα ότι υπήρχε βλάβη στην ηλεκτροδότηση, την έπεισε να συγκεντρώσει ό,τι πολύτιμο είχε, και να το τοποθετήσει έξω από την πόρτα του σπιτιού, δήθεν μέχρι να ολοκληρωθεί ο έλεγχος.",
+          "title": "Πυρκαγιά σε χώρο εργοστασίου ανακύκλωσης στο Μαρκόπουλο Αττικής",
+          "url": "https://www.efsyn.gr/ellada/1438340/pyrkagia-se-horo-ergostasioy-anakyklosis-sto-markopoylo-attikis/",
+          "snippet": "Πυρκαγιά έχει ξεσπάσει σε χώρο εργοστασίου ανακύκλωσης στη θέση Πάτημα Μαρκοπούλου Μεσοαγαίας Αττικής. Σύμφωνα με την Πυροσβεστική η φωτιά εκδηλώθηκε γύρω στις 21.40 και για την κατάσβεσή της κινητοποιήθηκαν 65 πυροσβέστες με 4 ομάδες πεζοπόρων τμημάτων της 1ης ΕΜΟΔΕ, Εθελοντές κ",
           "source": "EfSyn"
         },
         {
-          "title": "Πυρκαγιά στο Ρέθυμνο: Θρήνος για τους δύο νεκρούς πυροσβέστες – Τα μηνύματα πολιτικών και κομμάτων",
-          "url": "https://www.efsyn.gr/politiki/1438241/pyrkagia-sto-rethymno-thrinos-gia-toys-dyo-nekroys-pyrosvestes-ta-minymata-politikon-kai-kommaton/",
-          "snippet": "Στο πένθος έχει βυθιστεί το Πυροσβεστικό Σώμα από την είδηση του χαμού των δύο πυροσβεστών κατά τη διάρκεια της μάχης με τις φλόγες στο Ρέθυμνο. Η Πυροσβεστική σε ανακοίνωσή της κάνει λόγο για μια εξαιρετικά δύσκολη ημέρα για το Σώμα, ενώ η μάχη με τα πύρινα μέτωπα συνεχίζεται με",
+          "title": "Θρήνος μέσα στην πύρινη λαίλαπα: Πώς έχασαν τη ζωή τους οι τρεις πυροσβέστες σε Ρέθυμνο και Γύθειο [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1438326/thrinos-mesa-stin-pyrini-lailapa-pos-ehasan-ti-zoi-toys-oi-pyrosvestes-se-rethymno-kai-gytheio-eikones-vinteo/",
+          "snippet": "Τρεις νεκρούς μέσα σε μια ημέρα θρηνεί το Πυροσβεστικό Σώματα, σε μια ημέρα, μάλιστα, που η χώρα γνώρισε την πρώτη φετινή μεγάλη μάχη με τις φλόγες σε πολλά μέτωπα. Διαβάστε αναλυτικά πώς κάλυψε η efsyn όλες τις εξελίξεις στο liveblog. Πώς εγκλωβίστηκαν οι πυροσβέστες στο Ρέθυμνο",
           "source": "EfSyn"
         },
         {
-          "title": "ΕΛΑΣ για τιμές βενζίνης: Οι “εθελοντικές” συμφωνίες της κυβέρνησης με τα διυλιστήρια ήταν ένα επικοινωνιακό φιάσκο",
-          "url": "https://www.efsyn.gr/politiki/1438240/elas-gia-times-venzinis-oi-ethelontikes-symfonies-tis-kyvernisis-me-ta-diylistiria-itan-ena-epikoinoniako-fiasko/",
-          "snippet": "«Η δήθεν \"έκπτωση\" των διυλιστηρίων όχι μόνο δεν έφτασε ποτέ στην αντλία, αλλά εξανεμίστηκε σε χρόνο ρεκόρ, αφήνοντας τις τιμές ακόμα πιο ψηλά».",
+          "title": "Πάολα Ρεβενιώτη: Εγκρίθηκε από το Δήμο Αθηναίων η τιμής ένεκεν κάλυψη των δαπανών ταφής της μεγάλης τρανς ακτιβίστριας",
+          "url": "https://www.efsyn.gr/ellada/1438323/paola-revenioti-egkrithike-apo-to-dimo-athinaion-i-timis-eneken-kalypsi-ton-dapanon-tafis-tis-megalis-trans-aktivistrias/",
+          "snippet": "«Με τη συνεισφορά της στα δικαιώματα των ΛΟΑΤΚΙ+ ατόμων στην Ελλάδα θεωρήθηκε ως “θρύλος” της αθηναϊκής τρανς κουλτούρας», ανέφερε η εισήγηση του αντιδήμαρχου Γιώργου Γιάνναρου.",
           "source": "EfSyn"
         },
         {
-          "title": "Βενεζουέλα: Διάλογοι με τις ΗΠΑ πάνω στα συντρίμμια – Μια χώρα βυθισμένη στο πένθος",
-          "url": "https://www.efsyn.gr/kosmos/1437923/venezoyela-dialogoi-me-tis-ipa-pano-sta-syntrimmia-mia-hora-vythismeni-sto-penthos/",
-          "snippet": "Μια χώρα βυθισμένη στο πένθος αναγκάζεται να μπει κακήν κακώς σε συνομιλίες με τις ΗΠΑ για την επόμενη ημέρα. Ο Τραμπ, μετά την απαγωγή του Μαδούρο, επιβάλλει ως απεσταλμένη του και συνομιλήτρια της κυβέρνησης την Ντινόρα Φιγκέρα.",
+          "title": "Ερντογάν για Κυπριακό: Καμία διαδικασία επίλυσης χωρίς την αποδοχή των τουρκικών θέσεων για τους Τουρκοκυπρίους",
+          "url": "https://www.efsyn.gr/kosmos/1438328/erntogan-gia-kypriako-kamia-diadikasia-epilysis-horis-tin-apodohi-ton-toyrkikon-theseon-gia-toys-toyrkokyprioys/",
+          "snippet": "Στις εξελίξεις γύρω από την Κύπρο αναφέρθηκε ο πρόεδρος της Τουρκίας Ρετζέπ Ταγίπ Ερντογάν σε δηλώσεις του μετά τη συνεδρίαση του υπουργικού συμβουλίου στην &#8216;Αγκυρα. «Παρακολουθούμε προσεκτικά κάθε κίνηση των κύκλων που προσπαθούν να εκμεταλλευτούν τις εντάσεις που επικρατο",
           "source": "EfSyn"
         },
         {
-          "title": "Η Ουγγαρία κλείνει πυρηνικό αντιδραστήρα – Έπεσε η στάθμη του Δούναβη, που τον υδροδοτούσε",
-          "url": "https://www.efsyn.gr/kosmos/1438228/i-oyggaria-kleinei-pyriniko-antidrastira-epese-i-stathmi-toy-doynavi-poy-ton-ydrodotoyse/",
-          "snippet": "Η στάθμη του Δούναβη έχει πέσει τόσο χαμηλά, που καταγράφει ρεκόρ όλων των εποχών.",
+          "title": "Πρώτη ήττα για την ΑΕΚ (1-2 απ’ τη Σαμσουνσπόρ) στο ανεπίσημο ντεμπούτο του Μάγερ",
+          "url": "https://www.efsyn.gr/athlitismos/1438318/proti-itta-gia-tin-aek-1-2-ap-ti-samsoynspor-sto-anepisimo-ntempoyto-toy-mager/",
+          "snippet": "Με πάρα πολλές αλλαγές στη σύνθεσή της σε σχέση με το ματς κόντρα στην Τσβόλε και το νέο, μεγάλο μεταγραφικό απόκτημά της Λόβρο Μάγερ να πραγματοποιεί το ανεπίσημο ντεμπούτο του μπαίνοντας αλλαγή στο 65’ λίγες ώρες μετά την υπογραφή του συμβολαίου του, η ΑΕΚ ηττήθηκε με 2-1 απ’ τ",
           "source": "EfSyn"
         },
         {
-          "title": "LIVE η μάχη με τις φλόγες: Τραγωδία με δύο νεκρούς πυροσβέστες στο Ρέθυμνο – Εκτός ελέγχου το μέτωπο στη Λέσβο",
-          "url": "https://www.efsyn.gr/ellada/1438216/live-i-mahi-me-tis-floges-tragodia-me-dyo-nekroys-pyrosvestes-sto-rethymno-ektos-eleghoy-to-metopo-sti-lesvo/",
-          "snippet": "Δύσκολα μέτωπα σε δύο περιοχές - Σε κατάσταση συναγερμού οι Αρχές.",
+          "title": "Αποκαλύψεις για το πτώμα σε βαλίτσα στην Κυψέλη: Το κινητό της 38χρονης Βρετανίδας χρησιμοποιείτο και μετά το θάνατό της",
+          "url": "https://www.efsyn.gr/ellada/1438308/apokalypseis-gia-to-ptoma-se-valitsa-stin-kypseli-to-kinito-tis-38hronis-vretanidas-hrisimopoieito-kai-meta-to-thanato-tis/",
+          "snippet": "Από τη συσκευή αποστέλλονταν μηνύματα, γεγονός που ενδεχομένως είχε ως στόχο, να δημιουργηθεί η εντύπωση ότι η γυναίκα ήταν ακόμη ζωντανή.",
           "source": "EfSyn"
         },
         {
-          "title": "Η Γαλλία απελαύνει τη Ρωσίδα δημοσιογράφο Ξένια Φιοντόροβα – «Ζημιώνει τα θεμελιώδη συμφέροντα του κράτους»",
-          "url": "https://www.efsyn.gr/kosmos/1438218/i-gallia-apelaynei-ti-rosida-dimosiografo-xenia-fiontorova-zimionei-ta-themeliodi-symferonta-toy-kratoys/",
-          "snippet": "Έχει κατηγορηθεί για τη διάδοση ρωσικής παραπληροφόρησης, μεταξύ άλλων από τον Γάλλο υπουργό Εξωτερικών Ζαν-Νοέλ Μπαρό.",
+          "title": "Φωτιά στο Ρέθυμνο: Οι δραματικές στιγμές διάσωσης πολιτών από το Λιμενικό [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1438297/fotia-sto-rethymno-oi-dramatikes-stigmes-diasosis-politon-apo-to-limeniko-eikones-vinteo/",
+          "snippet": "Σε εξέλιξη βρίσκεται επιχείρηση του Λιμενικού Σώματος &#8211; Ελληνικής Ακτοφυλακής για τον απεγκλωβισμό ατόμων από τη θαλάσσια περιοχή του Αγίου Παύλου Ρεθύμνου, εξαιτίας της πυρκαγιάς που εκδηλώθηκε στην περιοχή Κρύα Βρύση. Μέχρι στιγμής, έχουν απομακρυνθεί με ασφάλεια συνολικά",
           "source": "EfSyn"
         },
         {
-          "title": "Λακωνία: Το απόλυτο καλοκαιρινό road trip σε δύο από τα νοτιότερα ακρωτήρια της Ευρώπης",
-          "url": "https://www.efsyn.gr/nisides/1438016/lakonia-to-apolyto-kalokairino-road-trip-se-dyo-apo-ta-notiotera-akrotiria-tis-eyropis/",
-          "snippet": "Δεκάδες χιλιόμετρα ακτογραμμής, εντυπωσιακές αμμουδιές, απόκρημνα βράχια, γραφικά ψαροχώρια, αρχαία κάστρα, κρυφές παραλίες και μεσαιωνικές βίγλες συνθέτουν μία από τις πιο συναρπαστικές διαδρομές της ελληνικής υπαίθρου. Με τη συνδρομή του ταξιδιωτικού site Views of Greece, σε αυ",
+          "title": "Τσουβέλας: Θα κατέβαινα στην πολιτική, μπορεί να φτιάξω και το δικό μου κόμμα [βίντεο]",
+          "url": "https://www.efsyn.gr/life/1438287/tsoyvelas-tha-katevaina-stin-politiki-mporei-na-ftiaxo-kai-to-diko-moy-komma-vinteo/",
+          "snippet": "«Κάποια στιγμή, όταν θα τελειώσω τα αστεία για το προσωπικό μου όφελος, θα πουλήσω την αγάπη του κόσμου κατεβαίνοντας κάπου υποψήφιος», είπε γελώντας.",
           "source": "EfSyn"
         },
         {
-          "title": "Ισπανία-πυρκαγιές: Αίρεται η εντολή εκκένωσης για όλες τις κοινότητες της Άβιλα και για άλλες δύο στη Μαδρίτη",
-          "url": "https://www.efsyn.gr/kosmos/1438219/ispania-pyrkagies-airetai-i-entoli-ekkenosis-gia-oles-tis-koinotites-tis-avila-kai-gia-alles-dyo-sti-madriti/",
-          "snippet": "Όλοι οι κάτοικοι των διαφόρων κοινοτήτων που είχαν εκκενωθεί τις τελευταίες ημέρες στην επαρχία της Άβιλα, στα βορειοδυτικά της Μαδρίτης, λόγω της μεγάλης πυρκαγιάς στην περιοχή, επιτρέπεται πλέον να επιστρέψουν στα σπίτια τους, ανακοίνωσε το υπουργείο Εσωτερικών της Ισπανίας. «Δ",
+          "title": "Ζημιές από το μετρό: Ομόφωνη απόφαση του δημοτικού συμβουλίου Αθήνας για στήριξη των κατοίκων της Κυψέλης",
+          "url": "https://www.efsyn.gr/politiki/1438288/zimies-apo-to-metro-omofoni-apofasi-toy-dimotikoy-symvoylioy-athinas-gia-stirixi-ton-katoikon-tis-kypselis/",
+          "snippet": "Μεταξύ άλλων αποφασίστηκε να υποστηριχθούν οι εργασίες δύο ειδικών εμπειρογνωμόνων που επέλεξαν οι κάτοικοι, και ενός νομικού συμβούλου, και οι δημοτικές υπηρεσίες να προχωρήσουν με όλες τις δέουσες διαδικασίες για να καλυφθεί το οικονομικό κόστος.",
           "source": "EfSyn"
         }
       ]
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "Iran War Live Updates: New Strikes Engulf More Countries in Conflict",
+          "title": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
           "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-          "snippet": "The U.S. and Saudi Arabia said they had carried out joint airstrikes on Iran-backed militias in Iraq, and Iran targeted U.S. military sites in Jordan.",
+          "snippet": "The U.S. and Saudi Arabia said they carried out airstrikes on Iran-backed militias in Iraq, Iran targeted sites used by the American military in Jordan and a U.S.-owned ship was hit in an Egyptian port.",
           "source": "NYT World"
         },
         {
@@ -181,14 +181,14 @@
         },
         {
           "title": "What to Know About Iraq’s Militias",
-          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/heres-what-to-know-about-iraqs-militias.html",
+          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iraq-popular-mobilization-forces-iran.html",
           "snippet": "At least 20 fighters of the Popular Mobilization Forces, an umbrella group of Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes.",
           "source": "NYT World"
         },
         {
           "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-          "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump/saudi-arabia-makes-a-reluctant-entry-into-the-us-iran-war",
-          "snippet": "",
+          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
+          "snippet": "The kingdom’s defense ministry said airstrikes in Iraq targeting Iran-backed militias were in retaliation for attacks on Saudi oil facilities this week.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Google brings its age-assurance technology to Android developers worldwide",
-        "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
-        "snippet": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+          "snippet": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sorry, haters. Ferrari’s first EV is doing just fine",
+          "url": "https://techcrunch.com/2026/07/29/sorry-haters-ferraris-first-ev-is-doing-just-fine/",
+          "snippet": "To the horror of commenters across the internet, the Ferrari Luce appears to be a sales success.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Waymo robotaxis are starting to return to freeways",
+          "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
+          "snippet": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "US government bans new foreign-made humanoids, robot dogs, and solar inverters, citing risks to national security",
+          "url": "https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/",
+          "snippet": "The ban largely affects U.S. imports from China, which currently dominates the global market for making humanoid robots and solar inverters.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google brings its age-assurance technology to Android developers worldwide",
+          "url": "https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/",
+          "snippet": "Google is expanding its Play Age Signals API, giving Android developers a privacy-preserving way to tailor experiences based on users’ age ranges.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Elon Musk’s X settles multiyear legal battle with the World Federation of Advertisers",
           "url": "https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
           "snippet": "The deal is Cyera's third acquisition this year.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Bot-detection startup Spur nabs $200M from Insight",
-          "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-          "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-          "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-          "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP gateway product and then opted to build one itself.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sam Altman is ready to decelerate",
-          "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-          "snippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ozlo’s Sleepbuds 2 build on Bose’s sleep earbud legacy",
-          "url": "https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/",
-          "snippet": "Ozlo’s first major update to its sleep earbuds introduces longer battery life, improved connectivity, enhanced audio, and new sleep features as the startup continues the product line once abandoned by Bose.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The robot NASA hired to lift a orbital telescope tumbled out of control",
-          "url": "https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/",
-          "snippet": "According to NASA, two of the three reaction wheels that control the spacecraft's alignment have failed, and there are problems with one of the spacecraft's thruster systems.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ηρακλής: Ισόπαλος στο φιλικό με την Παλέρμο",
-        "url": "https://www.gazzetta.gr/football/superleague/2557761/iraklis-isopalos-sto-filiko-me-tin-palermo",
-        "snippet": "Ο Ηρακλής ήρθε ισόπαλος 1-1 με την Παλέρμο.",
+        "title": "Champions League: Τα αποτελέσματα και τα ζευγάρια στον τρίτο προκριματικό",
+        "url": "https://www.gazzetta.gr/football/champions-league/2557814/champions-league-ta-apotelesmata-kai-ta-zeygaria-ston-trito",
+        "snippet": "Όλα τα αποτελέσματα στον β' προκριματικό γύρο του Champions League και τα ζευγάρια στον τρίτο προκριματικό γύρο.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Παναθηναϊκός - Πάκσι: Η αποστολή του τριφυλλιού",
-          "url": "https://www.gazzetta.gr/football/2557760/panathinaikos-paksi-i-apostoli-toy-trifyllioy",
-          "snippet": "Οι παίκτες που πήρε ο τεχνικός του Παναθηναϊκού Τζέικομπ Νίστρουπ για τη ρεβάνς με την Πάκσι.",
+          "title": "ΟΦΗ: Έπιασαν δουλειά Αϊτόρ και Νικολάου",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557813/ofi-epiasan-doyleia-aitor-kai-nikolaoy",
+          "snippet": "Οι νέοι ποδοσφαιριστές του ΟΦΗ, Αϊτόρ Κανταλαπιέρδα και Δημήτρης Νικολάου, προπονήθηκαν για πρώτη φορά με τα ασπρόμαυρα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κουλιεράκης: Συμφώνησε με τη Ρόμα ο Έλληνας αμυντικός",
-          "url": "https://www.gazzetta.gr/football/serie/2557759/koylierakis-symfonise-me-ti-roma-o-ellinas-amyntikos",
-          "snippet": "Σύμφωνα με τον Νικολό Σκίρα, ο Κωνσταντίνος Κουλιεράκης συμφώνησε με τη Ρόμα και το μόνο που απομένει είναι να τα βρει ο σύλλογος της «αιώνιας πόλης» με τη Βόλφσμπουργκ.",
+          "title": "Γιώργος Χατζιδάκις: «Δεν απαγόρευσα ποτέ στον Μητσιά να τραγουδά τον Γιάννη τον Φονιά»",
+          "url": "https://www.gazzetta.gr/plus/2557812/giorgos-hatzidakis-den-apagoreysa-pote-ston-mitsia-na-tragoyda-ton-gianni-ton-fonia",
+          "snippet": "Ο γιος του Μάνου Χατζιδάκι, απαντά μετά τα σχόλια για την απαγόρευση της χρήσης του τραγουδιού «Ο Γιάννης ο Φονιάς», στη συναυλία του Μανώλη Μητσιά.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Άντε δρόμο»: Αποδοκιμασίες στον Άδωνι Γεωργιάδη στη Λήμνο - Αρνήθηκαν και χειραψία (vid)",
-          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
-          "snippet": "Επεισοδιακή υποδοχή επιφύλαξαν οι κάτοικοι της Λήμνου στον Άδωνι Γεωργιάδη. Αρνήθηκαν τις χειραψίες και τον έκραξαν για τα νοσοκομεία τους.",
+          "title": "Χριστίνα Παππά: «Η μητέρα μου είναι απίστευτα τοξική - Με κάνει συνέχεια να πονάω»",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Κοντά στην επιστροφή του στον ΣΚΑΪ μετά από εννέα χρόνια βρίσκεται ο Άκης Πετρετζίκης - Οι συζητήσεις μεταξύ των δύο πλευρών είναι αρκετά προχωρημένες.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ: Τελικές δοκιμές στην Τούμπα για τη ρεβάνς με τη Ντιναμό Κιέβου",
-          "url": "https://www.gazzetta.gr/football/europa-league/2557758/paok-telikes-dokimes-stin-toympa-gia-ti-rebans-me-ti-ntinamo-kieboy",
-          "snippet": "Ο ΠΑΟΚ ολοκληρώνει την προετοιμασία του για τη ρεβάνς με τη Ντιναμό Κιέβου, με τον Αλέσιο Λίσι να καταστρώνει τα τελευταία του πλάνα και τον Νίκο Σαββίδη να δίνει το «παρών» στην προπόνηση.",
+          "title": "Το «υποθαλάσσιο εργοστάσιο» του Ομάν: Δύο τεράστιοι αγωγοί στη θάλασσα θα δίνουν 300 εκατ. λίτρα πόσιμου νερού την ημέρα",
+          "url": "https://www.gazzetta.gr/plus/2557772/ypothalassio-ergostasio-toy-oman-dyo-terastioi-agogoi-sti-thalassa-tha-dinoyn-300-ekat",
+          "snippet": "Το Ομάν κατασκευάζει ένα γιγαντιαίο σύστημα αφαλάτωσης με δύο υποθαλάσσιους αγωγούς μήκους 1,24 χλμ. που θα παράγουν 300 εκατ. λίτρα πόσιμου νερού καθημερινά.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ρέθυμνο: Βίντεο-ντοκουμέντο από το σημείο όπου έχασαν τη ζωή τους οι δύο πυροσβέστες",
-          "url": "https://www.gazzetta.gr/plus/2557757/rethymno-binteo-ntokoymento-apo-simeio-opoy-ehasan-ti-zoi-toys-oi-dyo-pyrosbestes",
-          "snippet": "Βίντεο από την περιοχή της Κρύας Βρύσης Ρεθύμνου καταγράφει το σημείο όπου δύο πυροσβέστες έχασαν τη ζωή τους, εγκλωβισμένοι στις φλόγες.",
+          "title": "ΑΕΚ: Οι πιθανοί αντίπαλοι στα Play Offs του Champions League",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557811/aek-oi-pithanoi-antipaloi-sta-play-offs-toy-champions-league",
+          "snippet": "Οι πιθανοί αντίπαλοι της ισχυρής ΑΕΚ στα Play Offs του Champions League στην κλήρωση της ερχόμενης Δευτέρας.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - Σάμσουνσπορ: Υπέροχη συνεργασία Γκατσίνοβιτς με Ζίνι και 1-0 ο Ελίασον (vid)",
-          "url": "https://www.gazzetta.gr/football/superleague/2557756/aek-samsoynspor-yperohi-synergasia-gkatsinobits-me-zini-kai-1-0-o",
-          "snippet": "Η ΑΕΚ προηγήθηκε στην πρώτη της καλή στιγμή στο φιλικό με τη Σάμσουνσπορ με σκόρερ τον Ελίασον, έπειτα από συνεργασία του Γκατσίνοβιτς με τον Ζίνι.",
+          "title": "ΑΕΚ: Καμία ανησυχία με Ζίνι, στον έσω πλάγιο το χτύπημα του Πένραϊς",
+          "url": "https://www.gazzetta.gr/football/superleague/2557810/aek-kamia-anisyhia-me-zini-ston-eso-plagio-htypima-toy-penrais",
+          "snippet": "Τα προβλήματα που αποκόμισαν οι Ζίνι και Τζέιμς Πένραϊς από το φιλικό της ΑΕΚ με τη Σάμσουνσπορ. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
           "source": "Gazzetta"
         },
         {
-          "title": "Ορτέγκα: «Μπορώ να ηγηθώ στον Ολυμπιακό, δυνατό μου σημείο η ανάπτυξη του παιχνιδιού»",
-          "url": "https://www.gazzetta.gr/football/superleague/2557755/ortegka-mporo-na-igitho-ston-olympiako-dynato-moy-simeio-i-anaptyxi",
-          "snippet": "Οι δηλώσεις του Στέφαν Ορτέγκα για τη μεταγραφή του στον Ολυμπιακό.",
+          "title": "ΑΕΚ: Η Άαρχους του Γιόνσον έκανε το θαύμα της και την έστειλε στους ισχυρούς των Play Off",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557809/aek-i-aarhoys-toy-gionson-ekane-thayma-tis-kai-tin-esteile-stoys",
+          "snippet": "Η Άαρχους «μάτσαρε» το 4-1 της Λεχ Πόζναν στη ρεβάνς της Πολωνίας, προκρίθηκε στα πέναλτι και έστειλε την ΑΕΚ στους ισχυρούς των Play Offs του Champions League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άρης: Ανακοίνωσε τη συμφωνία 3ετίας με τον Χαραλαμπόπουλο",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2557754/aris-anakoinose-ti-symfonia-3etias-me-ton-haralampopoylo",
-          "snippet": "Η ΚΑΕ ΑΡΗΣ επισημοποίησε τη συνεργασία της με τον Βασίλη Χαραλαμπόπουλο για συμβόλαιο διάρκειας 2+1 χρόνων.",
+          "title": "Κουλιεράκης: Οι αποδοχές του στη Ρόμα και η διάρκεια του συμβολαίου",
+          "url": "https://www.gazzetta.gr/football/serie/2557808/koylierakis-oi-apodohes-toy-sti-roma-kai-i-diarkeia-toy-symbolaioy",
+          "snippet": "Ο Κωνσταντίνος Κουλιεράκης, σύμφωνα με τους Ιταλούς, τα έχει βρει σε όλα με τη Ρόμα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η πρωινή ρουτίνα που βοηθάει να ζήσουμε περισσότερο",
-          "url": "https://www.gazzetta.gr/plus/2557752/i-proini-roytina-poy-boithaei-na-zisoyme-perissotero",
-          "snippet": "Η επιστήμη της μακροζωίας επιμένει σε λιγότερο θεαματικές αλλά αποτελεσματικές μεθόδους: ύπνο, φως, κίνηση, μυϊκή δύναμη και μια ρουτίνα που μπορείς πράγματι να διατηρήσεις.",
+          "title": "Κάνγκουα: Έδωσε την πρόκριση στη Χάποελ κι έρχεται Ελλάδα!",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557806/kangkoya-edose-tin-prokrisi-sti-hapoel-ki-erhetai-ellada",
+          "snippet": "Ο Κάνγκουα έδωσε την τελευταία, αλλά... χρυσή ασίστ πρόκρισης στη Χάποελ και ετοιμάζει βαλίτσες για Ελλάδα και Παναθηναϊκό.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χάποελ Τελ Αβίβ: Υπέγραψε τριετές συμβόλαιο με τον Τόπιν που θα αγωνίζεται ως Ισραηλινός",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2557753/hapoel-tel-abib-ypegrapse-trietes-symbolaio-me-ton-topin-poy-tha",
-          "snippet": "Η Χάποελ Τελ Αβίβ επισημοποίησε τη συμφωνία της με τον Τζέικομπ Τόπιν για τα επόμενα τρία χρόνια, ενώ ξεκίνησε τις διαδικασίες για να εξασφαλίσει την ισραηλινή υπηκοότητα.",
+          "title": "Βέργος: «Έβγαλε ένταση και καλές συνεργασίες για ένα ημίχρονο η ΑΕΚ»",
+          "url": "https://www.gazzetta.gr/football/superleague/2557805/bergos-ebgale-entasi-kai-kales-synergasies-gia-ena-imihrono-i-aek",
+          "snippet": "Το σχόλιο του απεσταλμένου του Gazzetta στην Ολλανδία, Δημήτρη Βέργου μετά την ήττα της ΑΕΚ στο φιλικό με τη Σάμσουνσπορ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βέστερλο - Κηφισιά 1-1: Βελτίωση και ισοπαλία με σούπερ Πόμπο και Αναγνωστόπουλο",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2557751/besterlo-kifisia-1-1-beltiosi-kai-isopalia-me-soyper-pompo-kai",
-          "snippet": "Η Κηφισιά ήταν σαφώς βελτιωμένη στο φιλικό παιχνίδι με τη Βέστερλο αλλά ισοφαρίστηκε στις καθυστερήσεις. Απέκρουσε πέναλτι ο Αναγνωστόπουλος, γκολάρα με φάουλ ο Πόμπο.",
+          "title": "Παναθηναϊκός: Το συμβόλαιο του Σιλβέν Φρανσίσκο",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557804/panathinaikos-symbolaio-toy-silben-fransisko",
+          "snippet": "Ο Σιλβέν Φρανσίσκο είναι πλέον παίκτης του Παναθηναϊκού και ο Γάλλος γκαρντ θα είναι για τα επόμενα τρία χρόνια κάτοικος Αθηνών με απολαβές που θα ξεπερνούν τα 3 εκατ. ετησίως.",
           "source": "Gazzetta"
         },
         {
-          "title": "KGM Musso: Έφτασε στην Ελλάδα με τιμή-έκπληξη",
-          "url": "https://www.gazzetta.gr/gmotion/2557705/kgm-musso-eftase-stin-ellada-me-timi-ekplixi",
-          "snippet": "Το νέο κορεατικό pick-up είναι διαθέσιμο με πετρελαιοκινητήρα 2.2 λίτρων απόδοσης 202 ίππων, επιλογές RWD ή 4WD, αναβαθμισμένη τεχνολογία και κορυφαίες μεταφορικές δυνατότητες.",
+          "title": "Παναθηναϊκός - Πάκσι: «Ήρθαμε για να σκοράρουμε», δήλωσε ο τεχνικός των Ούγγρων",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2557803/panathinaikos-paksi-irthame-gia-na",
+          "snippet": "Οι δηλώσεις του τεχνικού της Πάκσι Γκιόργκι Μπόγκναρ για τη ρεβάνς με τον Παναθηναϊκό.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γερμανία: Η χώρα που έκανε τον γυμνισμό τρόπο ζωής",
-          "url": "https://www.gazzetta.gr/plus/2557750/germania-i-hora-poy-ekane-ton-gymnismo-tropo-zois",
-          "snippet": "Για περισσότερα από εκατό χρόνια, η δημόσια γύμνια στη Γερμανία υπήρξε συνώνυμη της ελευθερίας, της ισότητας και της επιστροφής στη φύση. Σήμερα, η παράδοση των γυμνιστών εξακολουθεί να επιβιώνει, παρότι η νέα εποχή φαίνεται να αλλάζει σταδιακά τους κανόνες.",
+          "title": "Άρης: Σε επαφές με τον Λιούμπομιρ Σάτκα",
+          "url": "https://www.gazzetta.gr/football/superleague/2557802/aris-se-epafes-me-ton-lioympomir-satka",
+          "snippet": "Ο Άρης βρίσκεται στο τελικό στάδιο των επαφών για την απόκτηση στόπερ και η περίπτωση του 30χρονου Σλοβάκου Λιούμπομιρ Σάτκα είναι ψηλά στη λίστα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μύθου: «Είμαι πιο ώριμος και πιο έτοιμος, στόχος η πρόκριση»",
-          "url": "https://www.gazzetta.gr/football/europa-league/2557749/mythoy-eimai-pio-orimos-kai-pio-etoimos-stohos-i-prokrisi",
-          "snippet": "Ο Ανέστης Μύθου στάθηκε στον στόχο της πρόκρισης απέναντι στη Ντιναμό Κιέβου, μίλησε για την εξέλιξή του και αναφέρθηκε στη νοοτροπία του Αλέσιο Λίσι.",
+          "title": "Νίκολιτς: «Περιμένω άμεσα έναν μέσο και μια ακόμα κίνηση μετά την επιστροφή στην Αθήνα»",
+          "url": "https://www.gazzetta.gr/football/superleague/2557797/nikolits-perimeno-amesa-enan-meso-kai-mia-akoma-kinisi-meta-tin",
+          "snippet": "Ο Μάρκο Νίκολιτς μετά το φιλικό της ΑΕΚ με τη Σάμσουνσπορ μίλησε για τα μεταγραφικά, για τα συμπεράσματα που έβγαλε και για τον Λόβρο Μάγερ. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
           "source": "Gazzetta"
         }
       ]
