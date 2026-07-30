@@ -1,16 +1,28 @@
 {
-  "updated": "2026-07-29T20:43:18.443710+00:00",
+  "updated": "2026-07-30T01:42:12.598876+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πάρος: 4 συλλήψεις για τη φωτιά – Δήμαρχος, αντιδήμαρχος, εργολάβος, οδηγός απορριματοφόρου",
-        "url": "https://www.efsyn.gr/ellada/1438376/paros-4-syllipseis-gia-ti-fotia-dimarhos-antidimarhos-ergolavos-apokomidis-aporrimmaton-kai-odigos-aporrimatoforoy/",
-        "snippet": "Εξετάζεται εάν υπήρξαν ενέργειες ή παραλείψεις που συνδέονται με την έναρξη της πυρκαγιάς.",
+        "title": "Η πανσέληνος του Ιουλίου σε 4 μαγευτικά σημεία της Ελλάδας [εικόνες]",
+        "url": "https://www.efsyn.gr/ellada/1438382/i-panselinos-toy-ioylioy-se-4-mageytika-simeia-tis-elladas-eikones/",
+        "snippet": "Γνωστή και ως «Πανσέληνος του Ελαφιού».",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Νέες απειλές Τραμπ κατά του Ιράν: «Είναι η σειρά μας να τους χτυπήσουμε»",
+          "url": "https://www.efsyn.gr/kosmos/1438380/nees-apeiles-tramp-kata-toy-iran-einai-i-seira-mas-na-toys-htypisoyme/",
+          "snippet": "«Ξέρουν τι έρχεται. Μας ζητούν να μην το κάνουμε, αλλά γνωρίζετε πως προσπάθησαν να μας πλήξουν χθες τη νύχτα», είπε ο πρόεδρος των ΗΠΑ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πάρος: 4 συλλήψεις για τη φωτιά – Δήμαρχος, αντιδήμαρχος, εργολάβος, οδηγός απορριματοφόρου",
+          "url": "https://www.efsyn.gr/ellada/1438376/paros-4-syllipseis-gia-ti-fotia-dimarhos-antidimarhos-ergolavos-apokomidis-aporrimmaton-kai-odigos-aporrimatoforoy/",
+          "snippet": "Εξετάζεται εάν υπήρξαν ενέργειες ή παραλείψεις που συνδέονται με την έναρξη της πυρκαγιάς.",
+          "source": "EfSyn"
+        },
         {
           "title": "AtmoHub: Παρακολούθηση του καπνού από τις πυρκαγιές σε Κρήτη, Λέσβο και Τουρκία – Ποιες περιοχές αναμένεται να επηρεαστούν",
           "url": "https://www.efsyn.gr/ellada/1438372/atmohub-parakoloythisi-toy-kapnoy-apo-tis-pyrkagies-se-kriti-lesvo-kai-toyrkia-poies-periohes-anamenetai-na-epireastoyn/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1438297/fotia-sto-rethymno-oi-dramatikes-stigmes-diasosis-politon-apo-to-limeniko-eikones-vinteo/",
           "snippet": "Σε εξέλιξη βρίσκεται επιχείρηση του Λιμενικού Σώματος &#8211; Ελληνικής Ακτοφυλακής για τον απεγκλωβισμό ατόμων από τη θαλάσσια περιοχή του Αγίου Παύλου Ρεθύμνου, εξαιτίας της πυρκαγιάς που εκδηλώθηκε στην περιοχή Κρύα Βρύση. Μέχρι στιγμής, έχουν απομακρυνθεί με ασφάλεια συνολικά",
           "source": "EfSyn"
-        },
-        {
-          "title": "Τσουβέλας: Θα κατέβαινα στην πολιτική, μπορεί να φτιάξω και το δικό μου κόμμα [βίντεο]",
-          "url": "https://www.efsyn.gr/life/1438287/tsoyvelas-tha-katevaina-stin-politiki-mporei-na-ftiaxo-kai-to-diko-moy-komma-vinteo/",
-          "snippet": "«Κάποια στιγμή, όταν θα τελειώσω τα αστεία για το προσωπικό μου όφελος, θα πουλήσω την αγάπη του κόσμου κατεβαίνοντας κάπου υποψήφιος», είπε γελώντας.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ζημιές από το μετρό: Ομόφωνη απόφαση του δημοτικού συμβουλίου Αθήνας για στήριξη των κατοίκων της Κυψέλης",
-          "url": "https://www.efsyn.gr/politiki/1438288/zimies-apo-to-metro-omofoni-apofasi-toy-dimotikoy-symvoylioy-athinas-gia-stirixi-ton-katoikon-tis-kypselis/",
-          "snippet": "Μεταξύ άλλων αποφασίστηκε να υποστηριχθούν οι εργασίες δύο ειδικών εμπειρογνωμόνων που επέλεξαν οι κάτοικοι, και ενός νομικού συμβούλου, και οι δημοτικές υπηρεσίες να προχωρήσουν με όλες τις δέουσες διαδικασίες για να καλυφθεί το οικονομικό κόστος.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -108,9 +108,9 @@
       },
       "items": [
         {
-          "title": "Iran War Live Updates: More Countries Pulled Into Conflict With Spate of Attacks",
+          "title": "Iran War Live Updates: U.S. Begins New Wave of Attacks on Iran, Military Says",
           "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-          "snippet": "The U.S. and Saudi Arabia said they carried out airstrikes on Iran-backed militias in Iraq, Iran targeted sites used by the American military in Jordan and a U.S.-owned ship was hit in an Egyptian port.",
+          "snippet": "U.S. Central Command announced the strikes hours after President Trump vowed to hit Iran “very hard” in response to an attempted Iranian attack on U.S. forces.",
           "source": "NYT World"
         },
         {
@@ -180,15 +180,15 @@
           "source": "NYT World"
         },
         {
-          "title": "What to Know About Iraq’s Militias",
-          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iraq-popular-mobilization-forces-iran.html",
-          "snippet": "At least 20 fighters of the Popular Mobilization Forces, an umbrella group of Iraqi militias with ties to Iran, were killed in a wave of U.S. and Saudi airstrikes.",
+          "title": "New Strikes Engulf More Countries in the Iran War",
+          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/iran-war-us-jordan-saudi-iraq.html",
+          "snippet": "The U.S. unleashed new strikes on Iran after a day in which attacks on Iraq, Jordan and Egypt threatened to expand the scope of the war.",
           "source": "NYT World"
         },
         {
-          "title": "Saudi Arabia’s Strikes in Iraq Mark Entry Into U.S.-Iran War.",
-          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/saudi-arabia-us-iran-war.html",
-          "snippet": "The kingdom’s defense ministry said airstrikes in Iraq targeting Iran-backed militias were in retaliation for attacks on Saudi oil facilities this week.",
+          "title": "Two Tankers Hit in Apparent Drone Strike in Egypt",
+          "url": "https://www.nytimes.com/2026/07/29/world/middleeast/ships-drone-strike-egypt.html",
+          "snippet": "An explosion at a port on Egypt’s Mediterranean coast set fire to two ships, including a U.S. gas storage tanker, according to maritime tracking firms.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,54 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-        "snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "snippet": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "snippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "snippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "snippet": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+          "snippet": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Winamp aims for a comeback with a new music player powered by Deezer",
+          "url": "https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/",
+          "snippet": "Winamp is preparing to relaunch with a Deezer-powered premium music service, betting its nostalgic brand and a new all-in-one music player can stand out in today’s crowded streaming market.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+          "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+          "snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+          "source": "TechCrunch"
+        },
         {
           "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
           "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
@@ -218,7 +260,7 @@
         {
           "title": "Waymo robotaxis are starting to return to freeways",
           "url": "https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/",
-          "snippet": "Waymo robotaxis are now using freeways in Phoenix with more cities to follow in the coming days.",
+          "snippet": "The freeway pause — and its restart — comes amid increased scrutiny into Waymo and other robotaxi operators, particularly over how these self-driving vehicles behave in certain high-traffic situations and around emergency responders.",
           "source": "TechCrunch"
         },
         {
@@ -244,48 +286,6 @@
           "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
           "snippet": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Perplexity employee who worked on Comet launches an AI browser aimed at knowledge work",
-          "url": "https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/",
-          "snippet": "Polar has come out with an AI-first browser aimed at knowledge workers, and it has now raised a $5.7 million seed round led by Madrona.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-          "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-          "snippet": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "‘No one’s making a phone like this’: Light’s co-founders on building for the anti-smartphone generation",
-          "url": "https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/",
-          "snippet": "With the&#160;Light Phone,&#160;Kaiwei Tang&#160;and&#160;Joe Hollier&#160;have spent over a decade exploring the value of simplicity in our relationship to technology, partnering along the way with players like&#160;Andrew Yang, Kendrick Lamar, and Pete Davidson. Now, with a new",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "DoorDash is building its own drone delivery business",
-          "url": "https://techcrunch.com/2026/07/29/doordash-is-building-its-own-drone-delivery-business/",
-          "snippet": "DoorDash has received FAA approval to operate a commercial drone delivery service in the United States.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Fast Metals is treating waste with more waste to extract critical minerals",
-          "url": "https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/",
-          "snippet": "Aluminum production has saddled the world with billions of tons of caustic waste. One startup has a plan to clean it up and turn a profit.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-          "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-          "snippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-          "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-          "snippet": "The deal is Cyera's third acquisition this year.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,66 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Champions League: Τα αποτελέσματα και τα ζευγάρια στον τρίτο προκριματικό",
-        "url": "https://www.gazzetta.gr/football/champions-league/2557814/champions-league-ta-apotelesmata-kai-ta-zeygaria-ston-trito",
-        "snippet": "Όλα τα αποτελέσματα στον β' προκριματικό γύρο του Champions League και τα ζευγάρια στον τρίτο προκριματικό γύρο.",
+        "title": "Συνελήφθη ο δήμαρχος Πάρου για τη φωτιά στον ΧΥΤΑ: Τέσσερις συλλήψεις μετά την πυρκαγιά",
+        "url": "https://www.gazzetta.gr/plus/2557831/synelifthi-o-dimarhos-paroy-gia-ti-fotia-ston-hyta-tesseris-syllipseis-meta-tin",
+        "snippet": "Τέσσερις συλλήψεις έγιναν για τη φωτιά στην Πάρο, μεταξύ των οποίων ο δήμαρχος και ο αντιδήμαρχος Καθαριότητας, ενώ συνεχίζονται οι έρευνες",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Φρανσίσκο: Το βίντεο του Gazzetta από την άφιξή του για λογαριασμό του Παναθηναϊκού",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557830/fransisko-binteo-toy-gazzetta-apo-tin-afixi-toy-gia-logariasmo-toy",
+          "snippet": "Δείτε το βίντεο του Gazzetta από την άφιξη του Σιλβέν Φρανσίσκο στην Αθήνα για λογαριασμό του Παναθηναϊκού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πέθανε στα 33 του ο γίγαντας της Γκάνα - Η συγκινητική ιστορία του (vid)",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Επεισοδιακή υποδοχή επιφύλαξαν οι κάτοικοι της Λήμνου στον Άδωνι Γεωργιάδη. Αρνήθηκαν τις χειραψίες και τον έκραξαν για τα νοσοκομεία τους.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φρανσίσκο: Έφτασε στην Αθήνα για τον Παναθηναϊκό",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557829/fransisko-eftase-stin-athina-gia-ton-panathinaiko",
+          "snippet": "Ο Σιλβέν Φρανσίσκο προσγειώθηκε στην Αθήνα για λογαριασμό του Παναθηναϊκού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Λεσόρ και Γιαμπουσέλε περιμένουν τον Φρανσίσκο και το «φώναξαν» στο Instagram!",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557827/panathinaikos-lesor-kai-giampoysele-perimenoyn-ton-fransisko-kai",
+          "snippet": "Ο Ματίας Λεσόρ και ο Γκερσόν Γιαμπουσέλε δημοσίευσαν τις πρώτες τους αντιδράσεις στο άκουσμα του ερχομού του Σιλβέν Φρανσίσκο στον Παναθηναϊκό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: H «βόμβα» Φρανσίσκο που «πυροδότησε» ο Παναθηναϊκός, η έξυπνη κίνηση της Χάποελ και η αγορά της Stoiximan GBL",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557826/oi-metagrafes-tis-imeras-sto-mpasket-h-bomba-fransisko-poy-pyrodotise",
+          "snippet": "Ο Παναθηναϊκός AKTOR έκανε το «μπαμ» με τον Σιλβέιν Φρανσίσκο, η Χάποελ Τελ Αβίβ απέκτησε τον Τζέικομπ Τόπιν, που κινεί διαδικασίες για να πάρει ισραηλινή υπηκοότητα και στη Stoiximan GBL ο Χαραλαμπόπουλος ανακοινώθηκε από τον Άρη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός, Φρανσίσκο: Το πρώτο διαδικτυακό μήνυμα του Γιαννακόπουλου μετά το deal!",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2557819/panathinaikos-fransisko-proto-diadiktyako-minyma-toy-giannakopoyloy",
+          "snippet": "Ο Δημήτρης Γιαννακόπουλος έστειλε το δικό του μήνυμα μετά την απόκτηση του Σιλβέν Φρανσίσκο από τον Παναθηναϊκό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "EuroBasket U18: Η ημέρα και η ώρα του προημιτελικού της Εθνικής Εφήβων",
+          "url": "https://www.gazzetta.gr/basketball/2557815/eurobasket-u18-i-imera-kai-i-ora-toy-proimitelikoy-tis-ethnikis-efibon",
+          "snippet": "Η Εθνική Εφήβων έκαμψε την αντίσταση της Σερβίας (78-77) και θα αντιμετωπίσει την Ισπανία στα προημιτελικά του EuroBasket U18. Η ημέρα και η ώρα του μεγάλου παιχνιδιού.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγόρασε οικόπεδο με οικονομίες 9 ετών, αλλά δεν είχε χρήματα να χτίσει σπίτι: 800 εθελοντές έκαναν το όνειρό της πραγματικότητα",
+          "url": "https://www.gazzetta.gr/plus/2557807/agorase-oikopedo-me-oikonomies-9-eton-alla-den-eihe-hrimata-na-htisei-spiti-800",
+          "snippet": "Μια μητέρα στην Κόστα Ρίκα απέκτησε το δικό της σπίτι χάρη σε 800 εθελοντές, που χρησιμοποίησαν 850 μπλοκ από ανακυκλωμένο πλαστικό και περισσότερες από 800 ώρες εργασίας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Champions League: Τα αποτελέσματα και τα ζευγάρια στον τρίτο προκριματικό",
+          "url": "https://www.gazzetta.gr/football/champions-league/2557814/champions-league-ta-apotelesmata-kai-ta-zeygaria-ston-trito",
+          "snippet": "Όλα τα αποτελέσματα στον β' προκριματικό γύρο του Champions League και τα ζευγάρια στον τρίτο προκριματικό γύρο.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΟΦΗ: Έπιασαν δουλειά Αϊτόρ και Νικολάου",
           "url": "https://www.gazzetta.gr/football/champions-league/2557813/ofi-epiasan-doyleia-aitor-kai-nikolaoy",
@@ -327,60 +381,6 @@
           "title": "ΑΕΚ: Οι πιθανοί αντίπαλοι στα Play Offs του Champions League",
           "url": "https://www.gazzetta.gr/football/champions-league/2557811/aek-oi-pithanoi-antipaloi-sta-play-offs-toy-champions-league",
           "snippet": "Οι πιθανοί αντίπαλοι της ισχυρής ΑΕΚ στα Play Offs του Champions League στην κλήρωση της ερχόμενης Δευτέρας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Καμία ανησυχία με Ζίνι, στον έσω πλάγιο το χτύπημα του Πένραϊς",
-          "url": "https://www.gazzetta.gr/football/superleague/2557810/aek-kamia-anisyhia-me-zini-ston-eso-plagio-htypima-toy-penrais",
-          "snippet": "Τα προβλήματα που αποκόμισαν οι Ζίνι και Τζέιμς Πένραϊς από το φιλικό της ΑΕΚ με τη Σάμσουνσπορ. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Η Άαρχους του Γιόνσον έκανε το θαύμα της και την έστειλε στους ισχυρούς των Play Off",
-          "url": "https://www.gazzetta.gr/football/champions-league/2557809/aek-i-aarhoys-toy-gionson-ekane-thayma-tis-kai-tin-esteile-stoys",
-          "snippet": "Η Άαρχους «μάτσαρε» το 4-1 της Λεχ Πόζναν στη ρεβάνς της Πολωνίας, προκρίθηκε στα πέναλτι και έστειλε την ΑΕΚ στους ισχυρούς των Play Offs του Champions League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κουλιεράκης: Οι αποδοχές του στη Ρόμα και η διάρκεια του συμβολαίου",
-          "url": "https://www.gazzetta.gr/football/serie/2557808/koylierakis-oi-apodohes-toy-sti-roma-kai-i-diarkeia-toy-symbolaioy",
-          "snippet": "Ο Κωνσταντίνος Κουλιεράκης, σύμφωνα με τους Ιταλούς, τα έχει βρει σε όλα με τη Ρόμα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κάνγκουα: Έδωσε την πρόκριση στη Χάποελ κι έρχεται Ελλάδα!",
-          "url": "https://www.gazzetta.gr/football/champions-league/2557806/kangkoya-edose-tin-prokrisi-sti-hapoel-ki-erhetai-ellada",
-          "snippet": "Ο Κάνγκουα έδωσε την τελευταία, αλλά... χρυσή ασίστ πρόκρισης στη Χάποελ και ετοιμάζει βαλίτσες για Ελλάδα και Παναθηναϊκό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βέργος: «Έβγαλε ένταση και καλές συνεργασίες για ένα ημίχρονο η ΑΕΚ»",
-          "url": "https://www.gazzetta.gr/football/superleague/2557805/bergos-ebgale-entasi-kai-kales-synergasies-gia-ena-imihrono-i-aek",
-          "snippet": "Το σχόλιο του απεσταλμένου του Gazzetta στην Ολλανδία, Δημήτρη Βέργου μετά την ήττα της ΑΕΚ στο φιλικό με τη Σάμσουνσπορ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Το συμβόλαιο του Σιλβέν Φρανσίσκο",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2557804/panathinaikos-symbolaio-toy-silben-fransisko",
-          "snippet": "Ο Σιλβέν Φρανσίσκο είναι πλέον παίκτης του Παναθηναϊκού και ο Γάλλος γκαρντ θα είναι για τα επόμενα τρία χρόνια κάτοικος Αθηνών με απολαβές που θα ξεπερνούν τα 3 εκατ. ετησίως.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Πάκσι: «Ήρθαμε για να σκοράρουμε», δήλωσε ο τεχνικός των Ούγγρων",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2557803/panathinaikos-paksi-irthame-gia-na",
-          "snippet": "Οι δηλώσεις του τεχνικού της Πάκσι Γκιόργκι Μπόγκναρ για τη ρεβάνς με τον Παναθηναϊκό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άρης: Σε επαφές με τον Λιούμπομιρ Σάτκα",
-          "url": "https://www.gazzetta.gr/football/superleague/2557802/aris-se-epafes-me-ton-lioympomir-satka",
-          "snippet": "Ο Άρης βρίσκεται στο τελικό στάδιο των επαφών για την απόκτηση στόπερ και η περίπτωση του 30χρονου Σλοβάκου Λιούμπομιρ Σάτκα είναι ψηλά στη λίστα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νίκολιτς: «Περιμένω άμεσα έναν μέσο και μια ακόμα κίνηση μετά την επιστροφή στην Αθήνα»",
-          "url": "https://www.gazzetta.gr/football/superleague/2557797/nikolits-perimeno-amesa-enan-meso-kai-mia-akoma-kinisi-meta-tin",
-          "snippet": "Ο Μάρκο Νίκολιτς μετά το φιλικό της ΑΕΚ με τη Σάμσουνσπορ μίλησε για τα μεταγραφικά, για τα συμπεράσματα που έβγαλε και για τον Λόβρο Μάγερ. Αποστολή στην Ολλανδία: Δημήτρης Βέργος",
           "source": "Gazzetta"
         }
       ]
