@@ -1,16 +1,22 @@
 {
-  "updated": "2026-07-30T20:57:34.960684+00:00",
+  "updated": "2026-07-31T01:59:26.915959+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πακιστάν: Τουλάχιστον 8 νεκροί και δεκάδες αγνοούμενοι σε έκρηξη σε ορυχείο [εικόνες – βίντεο]",
-        "url": "https://www.efsyn.gr/kosmos/1439074/pakistan-toylahiston-8-nekroi-kai-dekades-agnooymenoi-se-ekrixi-se-oryheio-eikones-vinteo/",
-        "snippet": "Κυβερνητικός αξιωματούχος δήλωσε στο πρακτορείο ειδήσεων Reuters ότι η έκρηξη αποδίδεται σε συσσώρευση μεθανίου.",
+        "title": "Τροπολογία-εξπρές Φλωρίδη για την αύξηση του χρόνου έκτισης ισοβίων από 25 σε 30",
+        "url": "https://www.efsyn.gr/politiki/1439079/tropologia-expres-floridi-gia-tin-ayxisi-toy-hronoy-ektisis-isovion-apo-25-se-30/",
+        "snippet": "Η τροπολογία έρχεται στον απόηχο της πρόσφατης έντονης δημόσιας αντιπαράθεσης με θέμα την αίτηση αποφυλάκισης του Αλέξανδρου Γιωτόπουλου.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Πακιστάν: Τουλάχιστον 8 νεκροί και δεκάδες αγνοούμενοι σε έκρηξη σε ορυχείο [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1439074/pakistan-toylahiston-8-nekroi-kai-dekades-agnooymenoi-se-ekrixi-se-oryheio-eikones-vinteo/",
+          "snippet": "Κυβερνητικός αξιωματούχος δήλωσε στο πρακτορείο ειδήσεων Reuters ότι η έκρηξη αποδίδεται σε συσσώρευση μεθανίου.",
+          "source": "EfSyn"
+        },
         {
           "title": "Πρόκριση με… βάσανα για τον Παναθηναϊκό στο Conference League",
           "url": "https://www.efsyn.gr/athlitismos/1439070/prokrisi-me-vasana-gia-ton-panathinaiko-sto-conference-league/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1439044/yperptisi-toyrkikoy-drone-pano-apo-to-farmakonisi/",
           "snippet": "Σειρά παραβιάσεων του ελληνικού εναέριου χώρου σημειώθηκε το απόγευμα της Πέμπτης από δύο τουρκικά drones, αλλά και ένα τουρκικό αεροσκάφος. Σύμφωνα με την naftemporiki.gr, ένα αεροσκάφος CN-235 και δύο drones παραβίασαν το FIR Αθηνών στο νοτιοανατολικό Αιγαίο, ενώ, παράλληλα, έν",
           "source": "EfSyn"
-        },
-        {
-          "title": "Τραυματίστηκε 44χρονη επιβάτης πλοίου: Το σκοινί πρόσδεσης έσπασε το παρμπρίζ του αυτοκινήτου της",
-          "url": "https://www.efsyn.gr/ellada/1438992/traymatistike-44hroni-epivatis-ploioy-to-skoini-prosdesis-espase-to-parmpriz-toy-aytokinitoy-tis/",
-          "snippet": "Μια 44χρονη, επιβάτης πλοίου, τραυματίστηκε το πρωί της Πέμπτης, όταν κατά την διάρκεια πρόσδεσης του πλοίου, στο λιμάνι Γαυρίου της Ανδρου και ενώ βρισκόταν μέσα στο αυτοκίνητο της, περιμένοντας να επιβιβαστεί στο πλοίο, προσέκρουσε στο παράθυρο του αυτοκίνητου της, το εκτοξευόμ",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Iran War Live Updates: Saudis Form Military Alliance to Protect Red Sea Shipping",
+        "title": "Saudis Form Military Alliance to Protect Red Sea Shipping",
         "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
         "snippet": "As the war between the United States and Iran widened, Saudi Arabia joined with over a dozen other countries, including Egypt and Turkey, to form a new defense coalition to stop attacks on shipping in the Red Sea.",
         "source": "NYT World"
@@ -120,7 +120,7 @@
           "source": "NYT World"
         },
         {
-          "title": "As China’s A.I. Gets Stronger, It Poses New Risks to Beijing",
+          "title": "Why China’s A.I. Models Could Threaten the Communist Party",
           "url": "https://www.nytimes.com/2026/07/30/world/asia/as-chinas-ai-gets-stronger-it-poses-new-risks-to-beijing.html",
           "snippet": "China’s A.I. rise is creating a new dilemma for Beijing. The open models that win influence abroad may pose risks to the country’s security and geopolitical strategy.",
           "source": "NYT World"
@@ -162,9 +162,9 @@
           "source": "NYT World"
         },
         {
-          "title": "U.S. Aircraft Carrier Makes a Rare Port Call in Vietnam",
+          "title": "U.S. Aircraft Carrier Makes Rare Port Call in Vietnam",
           "url": "https://www.nytimes.com/2026/07/30/world/asia/vietnam-aircraft-carrier.html",
-          "snippet": "The visit, the longest since the two countries restored relations, is a show of mutual cooperation and a signal from the U.S. to China. But it comes during tensions over tariffs.",
+          "snippet": "The seven-day visit, the longest since the two countries restored relations, is a show of mutual cooperation and a U.S. signal to China. But it comes during tensions over tariffs.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Execution Nation",
-          "url": "https://www.nytimes.com/2026/07/30/world/us-death-penalty-iran-saudi-world-cup.html",
-          "snippet": "The United States is an outlier in the West. We look at why the country clings to the death penalty.",
+          "title": "What to Know About Ceuta",
+          "url": "https://www.nytimes.com/2026/07/30/world/europe/what-to-know-about-ceuta.html",
+          "snippet": "The peninsula on Morocco’s northern coast that Spain has governed for centuries has been a frequent site of mass migrant crossings and political tensions.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,48 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-        "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology.",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Apple stockpiles inventory as it braces for ‘significant supply constraints’",
+          "url": "https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/",
+          "snippet": "Apple is worried enough about supply shortages that it reported about $11.1 billion in inventory, which is almost double the $5.7 billion it reported last September.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+          "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+          "snippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+          "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+          "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Investors love AI, as long as you’re a cloud host",
+          "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+          "snippet": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple says gaming slowdown and App Store changes hurt services growth",
+          "url": "https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/",
+          "snippet": "Apple said a slowdown in mobile gaming and changes to the App Store’s business model — including court-ordered payment rule changes in the U.S. — weighed on its services business, even as the company topped 1.5 billion paid subscriptions.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "source": "TechCrunch"
+        },
         {
           "title": "CareCloud begins to notify hundreds of thousands after hackers stole medical records",
           "url": "https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/",
@@ -250,42 +286,6 @@
           "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
           "snippet": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Tesla made its 10 millionth EV",
-          "url": "https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/",
-          "snippet": "The milestone means Tesla is halfway to accomplishing one of the four core product goals Elon Musk has to hit to unlock his full $1 trillion pay package.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "When will fusion power startup Commonwealth Fusion Systems go public?",
-          "url": "https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/",
-          "snippet": "There are fresh signs that fusion power startup Commonwealth Fusion Systems will list in the next two to three years.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta says AI is making it easier to build new apps — and more are coming",
-          "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-          "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Netflix lands global streaming deal for ‘The Walking Dead’",
-          "url": "https://techcrunch.com/2026/07/30/netflix-lands-global-streaming-deal-for-the-walking-dead/",
-          "snippet": "Netflix just signed a massive new licensing agreement worth $500 million to bring The Walking Dead Universe to international markets.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-          "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-          "snippet": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Fusion power darling Commonwealth Fusion Systems raises another $1B",
-          "url": "https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/",
-          "snippet": "Commonwealth Fusion Systems raised $1 billion as the startup moves toward its first commercial fusion power plant.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Εθνικός Αστέρας: Απεβίωσε ο εμβληματικός πρόεδρός του, Νίκος Παπαδόπουλος",
-        "url": "https://www.gazzetta.gr/football/2558076/ethnikos-asteras-apebiose-o-emblimatikos-proedros-toy-nikos-papadopoylos",
-        "snippet": "Η οικογένεια και ο Οργανισμός του Εθνικού Αστέρα Καισαριανής με μεγάλη θλίψη έκαναν γνωστή την είδηση του θανάτου του Νίκου Παπαδόπουλου.",
+        "title": "Παναθηναϊκός: Το έκανε και του το έκαναν θρίλερ αλλά ο πάγκος έφερε το happy end!",
+        "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2558088/panathinaikos-ekane-kai-toy-ekanan-thriler",
+        "snippet": "Ο Νίκος Αθανασίου γράφει για την πρόκριση του Παναθηναϊκού επί της Πάκσι, όσα άρεσαν, όσα δεν άρεσαν κι όσα έκαναν την διαφορά.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ραστόντερ: «Μεγάλη χαρά, μπορούσα και δεύτερο γκολ»",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558087/rastonter-megali-hara-mporoysa-kai-deytero-gkol",
+          "snippet": "Ο φορ του Παναθηναϊκού Ελμίν Ραστόντερ μίλησε για την πρόκριση επί της Πάκσι.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βαθμολογία UEFA: Πολύτιμοι βαθμοί με τις δυο προκρίσεις!",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558086/bathmologia-uefa-polytimoi-bathmoi-me-tis-dyo-prokriseis",
+          "snippet": "ΠΑΟΚ και Παναθηναϊκός πήραν σημαντικές προκρίσεις και έδωσαν πολύτιμους βαθμούς στην Ελλάδα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νίστρουπ: «Μπράβο στους παίκτες που ήρθαν από τον πάγκο κι έκαναν τη διαφορά»",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2558084/nistroyp-mprabo-stoys-paiktes-poy-irthan-apo",
+          "snippet": "Τα λόγια του Τζέικομπ Νίστρουπ στη συνέντευξη Τύπου που ακολούθησε του 2-2 του Παναθηναϊκού με την Πάκσι και της πρόκρισης των «πρασίνων».",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Πόσα χρήματα διεκδικεί στο Europa League",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558083/paok-posa-hrimata-diekdikei-sto-europa-league",
+          "snippet": "Ο ΠΑΟΚ με είσοδο στη League Phase του Europa League θα εξασφαλίσει ένα πολύ καλό ποσό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Τα χρήματα που διεκδικεί το τριφύλλι στο Conference League",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558081/panathinaikos-ta-hrimata-poy-diekdikei-trifylli-sto",
+          "snippet": "Ο Παναθηναϊκός με συμμετοχή στη League Phase του Conference League θέλει να κερδίσει μίνιμουμ 5 εκατ. ευρώ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νίστρουπ: «Δεν είμαι ικανοποιημένος από την απόδοση, κρατάμε την πρόκριση»",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558080/nistroyp-den-eimai-ikanopoiimenos-apo-tin-apodosi-kratame",
+          "snippet": "Ο Τζέικομπ Νίστρουπ μιλώντας στην τηλεόραση του ΣΚΑΪ έκανε το πρώτο του σχόλιο μετά την πρόκριση με την Πάκσι.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Φρανσίσκο κυριάρχησε, η κίνηση της Μπάγερν, ο Ρούμπιο, ο Νούα και η επιβράβευση για Περσίδη και Θωμάκο",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2558051/oi-metagrafes-tis-imeras-sto-mpasket-o-fransisko-kyriarhise-i-kinisi",
+          "snippet": "Το μεταγραφικό «μπαμ» του Παναθηναϊκού AKTOR με τον Σιλβέιν Φρανσίσκο κυριάρχησε σε όλη την Ευρώπη, η κίνηση της Μπάγερν, ο Αμίν Νούα και τα συμβόλαια Περσίδη και Θωμάκου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΠΑΟΚ: Το προφίλ της Άντερλεχτ",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558078/paok-profil-tis-anterleht",
+          "snippet": "Ο ΠΑΟΚ θα βρει απέναντί του την Άντερλεχτ στον 3ο προκριματικό γύρο του Europa League, με τους Βέλγους να διαθέτουν βαριά ευρωπαϊκή φανέλα, αλλά και... αδυναμίες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπενφίκα - Σεντ Γκάλεν 5-0: Ο Παυλίδης ισοφάρισε το ρεκόρ των Αντωνιάδη και Νικολαΐδη",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558077/mpenfika-sent-gkalen-5-0-o-paylidis-egrapse-istoria",
+          "snippet": "Ο Βαγγέλης Παυλίδης πέτυχε τέσσερα γκολ, η Μπενφίκα συνέτριψε με 5-0 τη Σεντ Γκάλεν και πήρε την πρόκριση στον τρίτο προκριματικό γύρο του Europa League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Europa League: Οι υποψήφιοι αντίπαλοι ΟΦΗ και ΠΑΟΚ στα Play Offs",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558079/europa-league-oi-ypopsifioi-antipaloi-ofi-kai-paok-sta-play-offs",
+          "snippet": "Ο Κυπελλούχος ΟΦΗ και ο ΠΑΟΚ έμαθαν τους πιθανούς αντιπάλους τους ενόψει της κλήρωσης για τα Play Offs του Europa League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Εθνικός Αστέρας: Απεβίωσε ο εμβληματικός πρόεδρός του, Νίκος Παπαδόπουλος",
+          "url": "https://www.gazzetta.gr/football/2558076/ethnikos-asteras-apebiose-o-emblimatikos-proedros-toy-nikos-papadopoylos",
+          "snippet": "Η οικογένεια και ο Οργανισμός του Εθνικού Αστέρα Καισαριανής με μεγάλη θλίψη έκαναν γνωστή την είδηση του θανάτου του Νίκου Παπαδόπουλου.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Όταν ο ήλιος «έσβησε» για 84 δευτερόλεπτα: Η ιστορική φωτογραφία του 1851 που άλλαξε τη μελέτη του διαστήματος",
           "url": "https://www.gazzetta.gr/plus/2557824/otan-o-ilios-esbise-gia-84-deyterolepta-i-istoriki-fotografia-toy-1851-poy-allaxe-ti",
@@ -315,72 +381,6 @@
           "title": "Στη Ρεάλ Μαδρίτης ο Εσπί!",
           "url": "https://www.gazzetta.gr/football/la-liga/2558074/sti-real-madritis-o-espi",
           "snippet": "Η Ρεάλ Μαδρίτης ολοκλήρωσε τη μεταγραφή του 21χρονου επιθετικού Κάρλος Εσπί από τη Λεβάντε, ανατρέποντας τα δεδομένα την τελευταία στιγμή.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ευρωπαϊκή λίστα Ολυμπιακού: Εκτός ο γκολκίπερ Ορτέγκα",
-          "url": "https://www.gazzetta.gr/football/champions-league/2558073/eyropaiki-lista-olympiakoy-ektos-o-gkolkiper-ortegka",
-          "snippet": "Η πρώτη ευρωπαίκή λίστα του Ολυμπιακού δηλώθηκε και το όνομα του Γερμανού γκολκίπερ δεν βρίσκεται σε αυτήν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Ευρώπη φλέγεται: Οι γιγαντιαίες πυρκαγιές καίνε με δύναμη «ατομικής βόμβας»",
-          "url": "https://www.gazzetta.gr/plus/2558071/i-eyropi-flegetai-oi-gigantiaies-pyrkagies-kaine-me-dynami-atomikis-bombas",
-          "snippet": "Οι φονικές πυρκαγιές που μαστίζουν την Ευρώπη το τελευταίο διάστημα φαίνεται να έχουν την «ένταση μιας ατομικής» βόμβας, όπως επισημαίνουν οι ειδικοί.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γκριν για τις φήμες με Κάρι: «Θα το έλεγε αν είχε κουραστεί»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2558060/gkrin-gia-tis-fimes-me-kari-tha-elege-eihe-koyrastei",
-          "snippet": "O Ντρέιμοντ Γκριν πήρε θέση στις φήμες γύρω από τον Στεφ Κάρι",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός – Πάκσι 2-2: Πρόκριση θρίλερ με λυτρωτή τον Ραστόντερ!",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2558070/panathinaikos-paksi-2-2-prokrisi-thriler-me",
-          "snippet": "Με γκολ του Ραστόντερ στο 85' ο προβληματικός αμυντικά Παναθηναϊκός ισοφάρισε και πήρε την πρόκριση από την Πάκσι στον γ΄ προκριματικό γύρο του Conference League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Οι μέρες των αγώνων με την ΤΣΣΚΑ 1948",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558069/panathinaikos-oi-meres-ton-agonon-me-tin-tsska-1948",
-          "snippet": "Ο Παναθηναϊκός μετά την πρόκριση επί της Πάκσι θ' αντιμετωπίσει την ΤΣΣΚΑ 1948 και τα ματς θα γίνουν στις 5 και 11 Αυγούστου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Europa League: Καρέ τερμάτων ο Παυλίδης κόντρα στη Σεντ Γκάλεν (vid)",
-          "url": "https://www.gazzetta.gr/football/europa-league/2558068/europa-league-deytero-gkol-toy-paylidi-kontra-sti-sent-gkalen-vid",
-          "snippet": "Ο Βαγγέλης Παυλίδης πέτυχε τέσσερα γκολ (4-0) για την Μπενφίκα απέναντι στη Σεντ Γκάλεν και οι Πορτογάλοι είναι μια ανάσα από την πρόκριση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Η ημέρα και η ώρα της κλήρωσης των Play Offs του Conference League",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558072/panathinaikos-i-imera-kai-i-ora-tis-klirosis-ton-play",
-          "snippet": "Το μεσημέρι της ερχόμενης Δευτέρας (3/8, 15:00) θα γίνει η κλήρωση για τα Play Offs του Conference League (15:00), στην οποία θα συμμετάσχει ο Παναθηναϊκός.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Η Άντερλεχτ αντίπαλος του στον 3ο προκριματικό γύρο του Europa League",
-          "url": "https://www.gazzetta.gr/football/europa-league/2558067/paok-i-anterleht-i-antipalos-toy-ston-3o-prokrimatiko-gyro-toy",
-          "snippet": "Η Άντερλεχτ υπέταξε με ανατροπή τη Χάμαρμπι και θα είναι η αντίπαλος του ΠΑΟΚ στον 3ο προκριματικό γύρο του Conference League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έριξαν θαλασσινό νερό πάνω στους πάγους της Αρκτικής και το αποτέλεσμα εξέπληξε τους επιστήμονες",
-          "url": "https://www.gazzetta.gr/plus/2558066/erixan-thalassino-nero-pano-stoys-pagoys-tis-arktikis-kai-apotelesma-exeplixe-toys",
-          "snippet": "Επιστήμονες δοκίμασαν μια πρωτοποριακή τεχνική στην Αρκτική και κατάφεραν να δημιουργήσουν παχύτερο πάγο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός - Πάκσι: Ο Ραστόντερ έκανε το 2-2 και τιμώρησε τους Ούγγρους με τον νέο κανονισμό",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558065/panathinaikos-paksi-o-rastonter-ekane-2-2-kai-timorise",
-          "snippet": "Ο Ελμίν Ραστόντερ στο 85' έκανε το 2-2, ενώ η Πάκσι έπαιζε με δέκα ποδοσφαιριστές!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κράνινξ: Ο Πανιώνιος ανακοίνωσε τον Βέλγο τερματοφύλακα",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2558064/kraninx-o-panionios-anakoinose-ton-belgo-termatofylaka",
-          "snippet": "Ο Πανιώνιος ανακοίνωσε την απόκτηση του «ισπανοθρεμμένου» Βέλγου τερματοφύλακα, Άλεξ Κράνινξ",
           "source": "Gazzetta"
         }
       ]
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
-          "url": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
-          "snippet": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company.",
+          "title": "After Claiming ‘Bias’ at Smithsonian, Trump Officials Stage Patriotic Exhibition",
+          "url": "https://www.nytimes.com/2026/07/30/arts/design/trump-exhibition-patriotism.html",
+          "snippet": "Trump officials have promised to “make visual arts great,” with a museum exhibition that includes artwork by several people with personal connections to the planners.",
           "source": "NYT Arts"
         },
         {
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Remembering Betye Saar in 7 Essential Works",
-          "url": "https://www.nytimes.com/2026/07/30/arts/betye-saar-artwork.html",
-          "snippet": "The artist, who died just short of her 100th birthday, subverted racist tropes by turning mammy dolls into warriors and presenting the breadth of the Black experience.",
+          "title": "It’s ‘Game of Thrones,’ on Shakespeare’s Stage",
+          "url": "https://www.nytimes.com/2026/07/30/theater/game-of-thrones-mad-king-royal-shakespeare.html",
+          "snippet": "As the hit series keeps expanding, an ambitious stage adaptation of George R.R. Martin’s prequel saga has found a natural home at the Royal Shakespeare Company.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "At Tanglewood, the Fresh Air Is Tainted by Tension",
-          "url": "https://www.nytimes.com/2026/07/30/arts/music/tanglewood-tension-boston-orchestra.html",
-          "snippet": "The Boston Symphony Orchestra’s summer home looks placid on the surface, but underneath the organization is waging war on itself.",
+          "title": "Remembering Betye Saar in 7 Essential Works",
+          "url": "https://www.nytimes.com/2026/07/30/arts/betye-saar-artwork.html",
+          "snippet": "The artist, who died just short of her 100th birthday, subverted racist tropes by turning mammy dolls into warriors and presenting the breadth of the Black experience.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Jimmy’ Review: Inhabiting the World of a Young James Baldwin",
-          "url": "https://www.nytimes.com/2026/07/30/movies/jimmy-review-james-baldwin.html",
-          "snippet": "The director Yashaddai Owens took his Bolex film camera to Istanbul and Paris to show glimpses of the gifted author before he became a literary quasar.",
+          "title": "The Folk Singer Linda Perhacs Is Found and Is Safe, Authorities Confirm",
+          "url": "https://www.nytimes.com/2026/07/30/arts/music/linda-perhacs-found-folk-singer.html",
+          "snippet": "Friends of the “Parallelograms” artist, who was reported missing earlier this week, said she is living in a new care facility.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Amy Winehouse’s Father Ordered to Pay $1.3 Million in Suit Over Her Belongings",
-          "url": "https://www.nytimes.com/2026/07/30/arts/music/amy-winehouse-father-mitch-friends-lawsuit.html",
-          "snippet": "Mitch Winehouse had accused two of the singer’s friends of secretly auctioning her belongings. A judge ruled that he must pay their legal fees.",
+          "title": "At Tanglewood, the Fresh Air Is Tainted by Tension",
+          "url": "https://www.nytimes.com/2026/07/30/arts/music/tanglewood-tension-boston-orchestra.html",
+          "snippet": "The Boston Symphony Orchestra’s summer home looks placid on the surface, but underneath the organization is waging war on itself.",
           "source": "NYT Arts"
         }
       ]
