@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-01T02:01:31.795784+00:00",
+  "updated": "2026-08-01T06:21:16.319181+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πόλο: Η Εθνική Ελλάδος Κορασίδων παγκόσμια πρωταθλήτρια",
-        "url": "https://www.efsyn.gr/athlitismos/1439859/polo-i-ethniki-ellados-korasidon-pagkosmia-protathlitria/",
-        "snippet": "Στο Ζάγκρεμπ, το συγκρότημα του Αργύρη Θεοδωρόπουλου επιβλήθηκε με εμφατικό τρόπο της Ισπανίας 11-7 και ανέβηκε στο ψηλότερο σκαλί του βάθρου.",
+        "title": "Διακοπή κυκλοφορίας στην Αθηνών – Λαμίας μετά από ανατροπή φορτηγών",
+        "url": "https://www.efsyn.gr/ellada/1439922/diakopi-kykloforias-stin-athinon-lamias-meta-apo-anatropi-fortigon/",
+        "snippet": "Πώς πραγματοποιείται η κυκλοφορία στην Εθνική Οδό μετά το τροχαίο.",
         "source": "EfSyn"
       },
       "items": [
         {
+          "title": "Τι σημαίνει: Φελλός",
+          "url": "https://www.efsyn.gr/nisides/1439534/ti-simainei-fellos/",
+          "snippet": "«Φελλό», λοιπόν, λέμε υβριστικά τον ανόητο, τον ανάξιο άνθρωπο, ο οποίος πάντα επιπλέει, πάντα καταφέρνει να τη βγάζει καθαρή, να εξασφαλίζει την προσωπική του ευδοκίμηση.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νίκη για το ποδόσφαιρο: Ο Ινφαντίνο απέσυρε το σχέδιο ιδιωτικοποίησης του Μουντιάλ μετά τον σάλο που ξέσπασε",
+          "url": "https://www.efsyn.gr/athlitismos/1439919/niki-gia-to-podosfairo-o-infantino-apesyre-to-shedio-idiotikopoiisis-toy-moyntial-meta-ton-salo-poy-xespase/",
+          "snippet": "Οι σφοδρές αντιδράσεις έπιασαν τόπο.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η πολιτιστική ατζέντα της εβδομάδας [02.08-08.08.26]",
+          "url": "https://www.efsyn.gr/nisides/1439498/i-politistiki-atzenta-tis-evdomadas-02-08-08-08-26/",
+          "snippet": "Το Διεθνές Ψυχαναλυτικό Συμπόσιο των Δελφών επανέρχεται και φέτος, με τη 10η διοργάνωσή του, που θα γίνει σε έναν τόπο με έντονη Ιστορία, αλλά και ενέργεια. Ο Γιάννης Κότσιρας γιορτάζει 30 χρόνια στο τραγούδι, μαζί με έξι μουσικούς, στα πλαίσια των εκδηλώσεων του Μεγάρου Μουσικής",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στεγαστικό: Πάνω από 75.000 σπίτια για ανακαίνιση με επιδότηση 36.000 ευρώ – Στο «Σπίτι μου ΙΙ» 15.000 νοικοκυριά",
+          "url": "https://www.efsyn.gr/oikonomia/1439915/stegastiko-pano-apo-75-000-spitia-gia-anakainisi-me-epidotisi-36-000-eyro-sto-spiti-moy-ii-15-000-noikokyria/",
+          "snippet": "Τέλος Αυγούστου «κλείνουν» δύο προγράμματα Κατοικίας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Μεγάλη μέρα σήμερα – Ποιοι γιορτάζουν Σάββατο 1η Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1439913/eortologio-megali-mera-simera-poioi-giortazoyn-savvato-1i-aygoystoy/",
+          "snippet": "Δείτε ποιους Αγίους τιμά σήμερα η Εκκλησία.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Τροπολογία για τη διοίκηση των δικαστηρίων: Ζήλεψε τον Γεωργιάδη ο Φλωρίδης",
+          "url": "https://www.efsyn.gr/politiki/1439879/tropologies-gia-dioikisi-dikastirion-kai-dieythynonton-eisaggelion-zilepse-ton-georgiadi-o-floridis/",
+          "snippet": "Για ωμή παρέμβαση, προκειμένου να διευρυνθεί ο απόλυτος έλεγχος της κεντρικής εξουσίας σε όλους τους χώρους, κατηγορεί τον υπουργό Δικαιοσύνης η αντιπολίτευση. Το νομοσχέδιο, που πέρασε στο «παρά πέντε» και ψηφίστηκε από την πλειοψηφία, περιλαμβάνει ωστόσο πλήθος ετερόκλητων διατ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ο Αύγουστος μπήκε με πολλά… μποφόρ – Ισχυροί άνεμοι σε Αιγαίο",
+          "url": "https://www.efsyn.gr/ellada/1439907/o-aygoystos-mpike-me-polla-mpofor-ishyroi-anemoi-se-aigaio/",
+          "snippet": "Αίθριος καιρός με τοπικές νεφώσεις στα ανατολικά και νότια. Άνεμοι έως 6-7 και τοπικά έως 8 μποφόρ στο Αιγαίο.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πρέβελη, Κομπότι, Φίχτια, Πόρτο Γερμενό, Χαϊδάρι : Με κομμένη ανάσα μπροστά στον πύρινο εφιάλτη",
+          "url": "https://www.efsyn.gr/ellada/1439867/preveli-kompoti-fihtia-porto-germeno-haidari-me-kommeni-anasa-mprosta-ston-pyrino-efialti/",
+          "snippet": "Σε συναγερμό όλη η Ελλάδα, καθώς πολλά είναι τα μέτωπα των πυρκαγιών, με τους θυελλώδεις ανέμους να δυσχεραίνουν την επιχείρηση κατάσβεσης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η Θεοδώρα Τζάκρη στην efsyn.gr: Η σπατάλη με τα σπιτάκια ανακύκλωσης των 300.000 ευρώ και η 13η σύνταξη",
+          "url": "https://www.efsyn.gr/stiles/1439806/i-theodora-tzakri-stin-efsyn-gr-i-spatali-me-ta-spitakia-anakyklosis-ton-300-000-eyro-kai-i-13i-syntaxi/",
+          "snippet": "Πώς ένα «πράσινο» πρόγραμμα ανακύκλωσης έγινε μηχανή σπατάλης δημόσιου και ευρωπαϊκού χρήματος - και γιατί αυτό αφορά και τη 13η σύνταξη.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "LIVE: Πύρινη κόλαση στο Πόρτο Γερμενό: Κάηκαν σπίτια, απεγκλωβίζονται άνθρωποι – Επιχειρούν τα εναέρια μέσα",
+          "url": "https://www.efsyn.gr/ellada/1439901/pyrini-kolasi-sto-porto-germeno-kaikan-spitia-apegklovizontai-anthropoi-epiheiroyn-ta-enaeria-mesa/",
+          "snippet": "Σκηνές αποκάλυψης από το Πόρτο Γερμενό.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θερινές εκπτώσεις: Η ακρίβεια φρέναρε τις αγορές των καταναλωτών",
+          "url": "https://www.efsyn.gr/oikonomia/1439545/savvato-gia-slide-therines-ekptoseis-i-akriveia-frenare-tis-agores-ton-katanaloton/",
+          "snippet": "Η πρώτη εικόνα για την πορεία των πωλήσεων στην Αθήνα και τον Πειραιά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θέουτα: Γέμισε η Μεσόγειος… κορμιά μεταναστών",
+          "url": "https://www.efsyn.gr/kosmos/1439862/theoyta-gemise-i-mesogeios-kormia-metanaston/",
+          "snippet": "Μακελειό εκτυλίσσεται τις τελευταίες ώρες στα υδάτινα σύνορα Μαρόκου-Ισπανίας. Σχεδόν 50.000 μετανάστες κατάφεραν να πατήσουν ισπανικό έδαφος και τουλάχιστον 41 έχασαν τη ζωή τους πριν τα καταφέρουν. Πολλοί μετανάστες άρχισαν να παίρνουν οικειοθελώς τον δρόμο της επιστροφής, αφού",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πόλο: Η Εθνική Ελλάδος Κορασίδων παγκόσμια πρωταθλήτρια",
+          "url": "https://www.efsyn.gr/athlitismos/1439859/polo-i-ethniki-ellados-korasidon-pagkosmia-protathlitria/",
+          "snippet": "Στο Ζάγκρεμπ, το συγκρότημα του Αργύρη Θεοδωρόπουλου επιβλήθηκε με εμφατικό τρόπο της Ισπανίας 11-7 και ανέβηκε στο ψηλότερο σκαλί του βάθρου.",
+          "source": "EfSyn"
+        },
+        {
           "title": "Η χώρα παραδομένη στις φλόγες – Νύχτα τρόμου σε Πόρτο Γερμενό και Βοιωτία [εικόνες – βίντεο]",
           "url": "https://www.efsyn.gr/ellada/1439789/i-hora-paradomeni-stis-floges-nyhta-tromoy-se-porto-germeno-kai-voiotia-eikones-vinteo/",
           "snippet": "Οι άνεμοι έπνεαν και συνεχίζουν να πνέουν θυελλώδεις, με αποτέλεσμα, αφενός να ενισχύουν τις φλόγες, και αφετέρου να καθιστούν άλλοτε δύσκολη και άλλοτε αδύνατη, την πολύτιμη δράση των εναέριων μέσων πυρόσβεσης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αντίπαρος: Kitesurfer τραυματίστηκε και κατέληξε στο Κέντρο Υγείας",
-          "url": "https://www.efsyn.gr/ellada/1439855/antiparos-kitesurfer-traymatistike-kai-katelixe-sto-kentro-ygeias/",
-          "snippet": "Μετά από ανατροπή της σανίδας του στη θαλάσσια περιοχή ανοικτά της ακτής «Λιβαδειά».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πάρος: Απαγορεύτηκε ο απόπλους φορτηγού πλοίου – Παρουσίασε βλάβη ο καταπέλτης του",
-          "url": "https://www.efsyn.gr/ellada/1439852/paros-apagoreytike-o-apoploys-fortigoy-ploioy-vlavi-paroysiase-o-katapeltis-toy/",
-          "snippet": "Το πλοίο επρόκειτο να εκτελέσει το δρομολόγιο από Πάρο προς Νάξο, Μύκονο, Σύρο και Πειραιά.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σοκ στον Παναθηναϊκό με Παντελίδη: Υπέστη κάταγμα κνήμης – περόνης και μπαίνει στο χειρουργείο",
-          "url": "https://www.efsyn.gr/athlitismos/1439838/sok-ston-panathinaiko-me-pantelidi-ypesti-katagma-knimis-peronis-kai-mpainei-sto-heiroyrgeio/",
-          "snippet": "Πλήγμα για τον Παναθηναϊκό, καθώς ο Παύλος Παντελίδης στάθηκε εξαιρετικά άτυχος στο φιλικό προπονητικού χαρακτήρα απέναντι στην Athens Kallithea. Ο νεαρός χαφ υπέστη κάταγμα κνήμης &#8211; περόνης και μπαίνει άμεσα στο χειρουργείο για αποκατάσταση, κάτι που σημαίνει ότι θα μείνει",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συναγερμός το Σάββατο για ανέμους και πυρκαγιές: Στο «κόκκινο» Αττική και Εύβοια – Καμπανάκι για οκτώ περιφέρειες",
-          "url": "https://www.efsyn.gr/ellada/1439830/synagermos-to-savvato-gia-anemoys-kai-pyrkagies-sto-kokkino-attiki-kai-eyvoia-kampanaki-gia-okto-perifereies/",
-          "snippet": "Δύσκολη ημέρα ξημερώνει για αρκετές περιοχές της χώρας, τη στιγμή που οι δυνάμεις της Πυροσβεστικής δίνουν τεράστια μάχη με αρκετά πύρινα μέτωπα ανά τη χώρα. Οι ισχυροί άνεμοι και οι υψηλές θερμοκρασίες δημιουργούν συνθήκες συναγερμού για οκτώ περιφέρειες, ενώ η Αττική, αλλά και ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Απάντηση ΠΑΣΟΚ σε ΕΛΑΣ για τα υπερχρεωμένα κόμματα: Ο κ. Τσίπρας κατέληξε Δούρειος Ίππος του Μητσοτάκη",
-          "url": "https://www.efsyn.gr/politiki/1439828/apantisi-pasok-se-elas-gia-ta-yperhreomena-kommata-o-k-tsipras-katelixe-doyreios-ippos-toy-mitsotaki/",
-          "snippet": "«Χωρίς να δίνει την παραμικρή απάντηση για τις πηγές χρηματοδότησης του κόμματός του, ο κ. Τσίπρας συνεχίζει με θράσος τις επιθέσεις στο ΠΑΣΟΚ», αναφέρει το κόμμα της αξιωματικής αντιπολίτευσης σε σχόλιο του για την τελευταία ανακοίνωσης της ΕΛ.Α.Σ. Το ΠΑΣΟΚ σχολιάζει ότι «έχει λ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πορτογαλία: Ενισχύονται οι έλεγχοι στα χερσαία και θαλάσσια σύνορα, με αφορμή τα γεγονότα στη Θέουτα",
-          "url": "https://www.efsyn.gr/kosmos/1439826/portogalia-enishyontai-oi-eleghoi-sta-hersaia-kai-thalassia-synora-me-aformi-ta-gegonota-sti-theoyta/",
-          "snippet": "Ο πρωθυπουργός της Πορτογαλίας Λουίς Μοντενέγκρο ανακοίνωσε σήμερα ότι θέλει να ενισχυθούν οι έλεγχοι στα χερσαία και τα θαλάσσια σύνορα στο νότιο τμήμα της χώρας, με αφορμή τη μεταναστευτική κρίση στη Θέουτα. «Υπάρχουν λόγοι να ενισχύσουμε την παρουσία των δυνάμεων της τάξης στο",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ισπανία-πυρκαγιές: Ένα χωριό ενώθηκε για να σώσει μια καστανιά 500 ετών από τις φλόγες",
-          "url": "https://www.efsyn.gr/kosmos/1439815/ispania-pyrkagies-ena-horio-enothike-gia-na-sosei-mia-kastania-500-eton-apo-tis-floges/",
-          "snippet": "Την ώρα που πλησίαζαν οι φλόγες, οι κάτοικοι της ισπανικής πόλης Ελ Τιέμπλο, εξοπλισμένοι με φτυάρια και τσουγκράνες, αγωνίζονταν λυσσαλέα να σώσουν ένα δέντρο: μια υπεραιωνόβια καστανιά, τον «Αμπουέλο», που θεωρείται εθνικός θησαυρός για την Ισπανία. Ο «παππούς», όπως μεταφράζετ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Τραμπ πάτησε φρένο για κατασκευή Patriot στην Ουκρανία: «Δύσκολα θα δώσουμε τέτοια τεχνολογία»",
-          "url": "https://www.efsyn.gr/kosmos/1439807/o-tramp-evale-nekra-sto-thema-tis-kataskeyis-patriot-stin-oykrania/",
-          "snippet": "Φαίνεται πως θα αθετήσει ακόμη μια υπόσχεση ο Αμερικανός Πρόεδρος. Νέες απειλές προς το Ιράν. Σύμφωνα με έρευνα, οι ΗΠΑ έχουν χρησιμοποιήσει τα 2/3 των συστοιχιών Patriot στον πόλεμο με το Ιράν.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πρωταθλήτριες Ευρώπης οι αδελφές Αλεξανδρή στην καλλιτεχνική κολύμβηση",
-          "url": "https://www.efsyn.gr/athlitismos/1439800/protathlitries-eyropis-oi-adelfes-alexandri-stin-kallitehniki-kolymvisi/",
-          "snippet": "Με θρίαμβο συνδυάστηκε η επιστροφή των αδελφών Αλεξανδρή με τα ελληνικά χρώματα, μετά από 14 χρόνια. Η Αννα-Μαρία και η Ειρήνη κατέκτησαν το χρυσό μετάλλιο στο τεχνικό πρόγραμμα του ντουέτου της καλλιτεχνικής κολύμβησης, στο 38ο Ευρωπαϊκό Πρωτάθλημα υγρού στίβου, η αυλαία του οπο",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βρεφονηπιακοί σταθμοί: Τι αλλάζει και ποιοι επωφελούνται – Τέσσερις ερωτήσεις και απαντήσεις",
-          "url": "https://www.efsyn.gr/ellada/1439797/vrefonipiakoi-stathmoi-ti-allazei-kai-poioi-epofeloyntai-tesseris-erotiseis-kai-apantiseis/",
-          "snippet": "Σε εξέλιξη είναι η διαδικασία υποβολής των αιτήσεων για την περίοδο 2026-2027 που αφορά στην κρατική ενίσχυση, μέσω vouchers, για την πρόσβαση σε βρεφικούς, παιδικούς και βρεφονηπιακούς σταθμούς, καθώς και ΚΔΑΠ και ΚΔΑΠ ΑμεΑ. Το υπουργείο Κοινωνικής Συνοχής και Οικογένειας διεύρυ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά στο Ρέθυμνο: Ποινική δίωξη σε βαθμό κακουργήματος στο στέλεχος του ΔΕΔΔΗΕ",
-          "url": "https://www.efsyn.gr/ellada/1439804/pyrkagia-sto-rethymno-poiniki-dioxi-se-vathmo-kakoyrgimatos-sto-stelehos-toy-deddie/",
-          "snippet": "«Αυθαίρετες δημόσιες αναφορές χωρίς κανένα αποδεικτικό στοιχείο» η πρώτη απάντηση από τον ΔΕΔΔΗΕ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πρόταση – πρόκληση ΕΛΑΣ για τα χρέη των κομμάτων: Υποχρεωτική αποπληρωμή δανείων από την κρατική χρηματοδότηση",
-          "url": "https://www.efsyn.gr/politiki/1439781/elas-gia-ta-yperhreomena-kommata-to-80-tis-kratikis-hrimatodotisis-na-paei-stin-apopliromi-ton-daneion/",
-          "snippet": "Το κόμμα του Αλέξη Τσίπρα προτείνει επίσης όσοι εκλέγονται με αυτά τα κόμματα να συμβάλλουν υποχρεωτικά, το μισό των βουλευτικών τους αποζημιώσεων στο κόμμα που τους εξέλεξε, για την αποπληρωμή των κομματικών χρεών.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η Μίλαν αποχαιρετά τον Φράνκο Μπαρέζι με ένα συγκινητικό βίντεο: «Το Νο 6 μας για πάντα, αντίο αρχηγέ»",
-          "url": "https://www.efsyn.gr/athlitismos/1439787/i-milan-apohaireta-ton-franko-mparezi-me-ena-sygkinitiko-vinteo-to-no-6-mas-gia-panta-antio-arhige/",
-          "snippet": "Θρήνος επικρατεί στο παγκόσμιο ποδόσφαιρο από την είδηση του θανάτου του Φράνκο Μπαρέζι, ενός από τους κορυφαίους αμυντικούς όλων των εποχών. Ο μεγάλος Φράνκο Μπαρέζι συνέδεσε άρρηκτα το όνομά του με τη Μίλαν και οι «ροσονέρι» αποχαιρέτισαν τον παντοτινό αρχηγό τους με ένα επιβλη",
           "source": "EfSyn"
         }
       ]
@@ -152,7 +152,7 @@
         {
           "title": "Did 75,000 Students Cheat on a College-Entrance Exam in Mexico?",
           "url": "https://www.nytimes.com/2026/07/31/world/americas/unam-college-entrance-exam-mexico.html",
-          "snippet": "The National Autonomous University of Mexico, or UNAM, has asked all students who passed a demanding entrance exam to take a new test after experts found half of all applicants may have cheated, including with A.I.",
+          "snippet": "The country’s largest public university is requiring all students who passed its entrance exam to take a new test after experts found evidence of widespread cheating, including with A.I.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Trump Backs Away From Deal to Let Ukraine Build Patriot Missiles",
-          "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-ukraine-patriot-missiles.html",
-          "snippet": "The president of Ukraine had warned that the country was running out of Patriot interceptors, the most reliable weapon it has to shoot down Russian ballistic missiles.",
+          "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
+          "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
+          "snippet": "The foreign minister, Winston Peters, who leads a populist party, has refused to back down after telling the member of Parliament to “go back to your own country.”",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Χεζόνια επίσημα στους Καβαλίερς, οι επιστροφές στον Παναθηναϊκό και οι υπόλοιπες κινήσεις",
-        "url": "https://www.gazzetta.gr/basketball/nba/2558271/oi-metagrafes-tis-imeras-sto-mpasket-o-hezonia-episima-stoys-kabaliers-oi",
-        "snippet": "Ο Μάριο Χεζόνια επέστρεψε στο ΝΒΑ με τη φανέλα των Καβαλίερς, ενώ Παναθηναϊκός AKTOR, η Παρτίζαν, η Χάποελ Ιερουσαλήμ και η Δόξα Λευκάδας προχώρησαν σε προσθήκες στα ρόστερ τους.",
+        "title": "Ρεάλ Μαδρίτης: Τελεσίγραφο σε Βινίσιους, ανανέωση ή άμεση πώληση!",
+        "url": "https://www.gazzetta.gr/football/la-liga/2558330/real-madritis-telesigrafo-se-binisioys-ananeosi-i-amesi-polisi",
+        "snippet": "Βάσει δημοσιεύματος της Marca, η Ρεάλ Μαδρίτης φέρεται να έχει ενημερώσει τον Βινίσιους πως είτε ανανεώνει, είτε πωλείται άμεσα!",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Ακράμ Μπουράς: H AEK ενδιαφέρεται για τον Αλγερινό χαφ, σύμφωνα με τους Γάλλους",
-          "url": "https://www.gazzetta.gr/football/superleague/2558287/akram-mpoyras-h-aek-endiaferetai-gia-ton-algerino-haf-symfona-me-toys",
-          "snippet": "Σύμφωνα με δημοσίευμα από τη Γαλλία η ΑΕΚ ενδιαφέρεται για τον Αλγερινό μέσο, Ακράμ Μπουράς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η τελευταία μέρα της Μίνας Καραμήτρου στο Open - Οι προτάσεις που έχει στα χέρια της",
+          "title": "Τι δεν καταλαβαίνει ο Αρκάς για τις γυναίκες",
           "url": "https://www.gazzetta.gr/2543496/reader-article-2",
           "snippet": "«Ντροπή που χρηματοδοτεί η χώρα μας για να βγάζει μαύρη Ελένη» είπε η Αφροδίτη Λατινοπούλου",
           "source": "Gazzetta"
         },
         {
-          "title": "Ελλάδα-Μ. Βρετανία 68-63: Με το δεξί στην πρεμιέρα του Ευρωμπάσκετ U18",
-          "url": "https://www.gazzetta.gr/basketball/2558286/ellada-m-bretania-68-63-me-dexi-stin-premiera-toy-eyrompasket-u18",
-          "snippet": "Η Εθνική Νεανίδων νίκησε (68-63) τη Μ. Βρετανία στην πρεμιέρα του Ευρωμπάσκετ U18 – Επόμενος αντίπαλος το Σάββατο (1/8, 21:00) η Βόρεια Μακεδονία.",
+          "title": "Πανιώνιος: Ο Κώστας Ρούπτσος απάνατησε στις καταγγελίες του ΠΣΑΠΠ",
+          "url": "https://www.gazzetta.gr/football/superleague-2/2558329/panionios-o-kostas-royptsos-apanatise-stis-kataggelies-toy-psapp",
+          "snippet": "Ο Κώστας Ρούπτσος έκανε λόγο για ανακριβή στοιχεία στην ανακοίνωση του ΠΣΑΠΠ και κάλεσε τον Σύνδεσμο να ανακαλέσει τα όσα καταγγέλλει για τη μεταχείριση των μελών του από την ΠΑΕ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Χρειάζεται χαφ - «πολεμιστές» και θα είναι «άλλη» ομάδα με 2+2 παίκτες",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2558285/panathinaikos-hreiazetai-haf-polemistes-kai-tha-einai",
-          "snippet": "Ο Γιάννης Σερέτης γράφει για την αγχωτική πρόκριση του Παναθηναϊκού επί της Πάκσι, τις αδυναμιες που παρουσίασε, τις μεταγραφικές ανάγκες του και τις επιλογές του Τζέισον Νίστρουπ.",
+          "title": "Χάαλαντ: Η ανάρτηση με τον Τζόρνταν στον Instagram",
+          "url": "https://www.gazzetta.gr/basketball/premier-league/2558328/haalant-i-anartisi-me-ton-tzorntan-ston-instagram",
+          "snippet": "Ο Έρλινγκ Χάαλαντ έκανε ανάρτηση στον προσωπικό του λογαριασμό στο Instagram φωτογραφία που είναι μαζί με τον Μάικλ Τζόρνταν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μια χώρα σε πύρινο κλοιό, μια εφιαλτική Παρασκευή (vid)",
-          "url": "https://www.gazzetta.gr/plus/2558284/mia-hora-se-pyrino-kloio-mia-efialtiki-paraskeyi-vid",
-          "snippet": "​​​​​​​Αυτή η Παρασκευή, θα μείνει χαραγμένη στη μνήμη μας ως μια από τις πιο δύσκολες και δραματικές ημέρες του φετινού καλοκαιριού.",
+          "title": "«Κόκκινος» συναγερμός για φωτιά σε Αττική και Εύβοια: Λίβας και άνεμοι έως 9 μποφόρ - Πότε υποχωρούν",
+          "url": "https://www.gazzetta.gr/plus/2558327/kokkinos-synagermos-gia-fotia-se-attiki-kai-eyboia-libas-kai-anemoi-eos-9-mpofor-pote",
+          "snippet": "Οι ισχυροί βόρειοι άνεμοι διατηρούν σε πολύ υψηλά επίπεδα τον κίνδυνο εκδήλωσης και εξάπλωσης πυρκαγιών, με την Αττική και την Εύβοια να βρίσκονται σε κατάσταση «κόκκινου» συναγερμού.",
           "source": "Gazzetta"
         },
         {
-          "title": "H απονομή του χρυσού μεταλλίου στις αδελφές Αλεξανδρή",
-          "url": "https://www.gazzetta.gr/kallitehniki-kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2558283/h-aponomi-toy-hrysoy-metallioy",
-          "snippet": "Ο πρόεδρος της Ελληνικής Ολυμπιακής Επιτροπής, Ισίδωρος Κούβελος είχε τη χαρά να κάνει την απονομή των χρυσών μεταλλίων στις Άννα Μαρία και Ειρήνη Αλεξανδρή για τη νίκη τους στο τεχνικό πρόγραμμα στο ντουέτο στο ευρωπαϊκό πρωτάθλημα στο Παρίσι.",
+          "title": "Η αυτοκρατορία Ινφαντίνο τρίζει και το ποδόσφαιρο... επαναστατεί",
+          "url": "https://www.gazzetta.gr/football/mundial/2558274/i-aytokratoria-infantino-trizei-kai-podosfairo-epanastatei",
+          "snippet": "Από το Waldorf Astoria της Νέας Υόρκης μέχρι την πρωτοφανή συμμαχία UEFA, Concacaf και AFC, το σχέδιο των δισεκατομμυρίων που απειλεί να μετατραπεί στη μεγαλύτερη κρίση της προεδρίας του Ινφαντίνο.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τραμπ για Ινφαντίνο: «Δεν είχα καμία συζήτηση μαζί του για το σχέδιο της FIFA»",
-          "url": "https://www.gazzetta.gr/football/2558282/tramp-gia-infantino-den-eiha-kamia-syzitisi-mazi-toy-gia-shedio-tis-fifa",
-          "snippet": "Ο Ντόναλντ Τραμπ, δήλωσε ότι δεν είχε καμία συζήτηση με τον πρόεδρο της FIFA, Τζάνι Ινφαντίνο, σχετικά με το αμφιλεγόμενο σχέδιο παραχώρησης μεριδίων σε ιδιώτες επενδυτές.",
+          "title": "FIFA: «Ναυάγησε» και επίσημα το σχέδιο Ινφαντίνο για το Μουντιάλ",
+          "url": "https://www.gazzetta.gr/football/mundial/2558325/fifa-nayagise-kai-episima-shedio-infantino-gia-moyntial",
+          "snippet": "Ο Τζάνι Ινφαντίνο μέσω δήλωσής του γνωστοποίησε πως το σχέδιό του για πώληση μετοχών του Μουντιάλ δεν θα πραγματοποιηθεί.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αστέρας AKTOR - Ντεν Χάαγκ 0-0: Έκλεισε τα φιλικά στην Ολλανδία με ισοπαλία",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2558281/asteras-aktor-nten-haagk-0-0-ekleise-ta-filika-stin-ollandia-me",
-          "snippet": "Με «λευκή» ισοπαλία (0-0) απέναντι στην Ντεν Χάαγκ και καλή εμφάνιση έκλεισε ο Αστέρας AKTOR τον κύκλο των φιλικών του στην Ολλανδία,",
+          "title": "Μπογκντάνοβιτς: «Πάντα σκέφτομαι την επιστροφή στην Παρτίζαν»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558324/mpogkntanobits-panta-skeftomai-tin-epistrofi-stin-partizan",
+          "snippet": "Ο Μπόγκνταν Μπογκντάνοβιτς σε δηλώσεις του στη Σερβία, αναφέρθηκε στο πιθανό ενδεχόμενο να επιστρέψει στη EuroLeague για λογαριασμό της Παρτίζαν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Εκτός ελέγχου η φωτιά στο Πόρτο Γερμενό: Στα 200μ. από τα πρώτα σπίτια στο Προσήλι (vid)",
-          "url": "https://www.gazzetta.gr/plus/2558280/ektos-eleghoy-i-fotia-sto-porto-germeno-sta-200m-apo-ta-prota-spitia-sto-prosili-vid",
-          "snippet": "Εκτός ελέγχου μαίνεται η πυρκαγιά στο Πόρτο Γερμενό, με τις επίγειες δυνάμεις να δίνουν μάχη σώμα με σώμα καθώς οι φωτιές έχουν φτάσει σε απόσταση αναπνοής από τα σπίτια.",
+          "title": "Ρεάλ Μαδρίτης: «Κολλάει» η υπόθεση Ντιομαντέ, η Λειψία δεν απάντησε στην τελευταία πρόταση",
+          "url": "https://www.gazzetta.gr/football/la-liga/2558323/real-madritis-kollaei-i-ypothesi-ntiomante-i-leipsia-den-apantise-stin",
+          "snippet": "Η μεταγραφή του Γιαν Ντιομαντέ στη Ρεάλ Μαδρίτης φαίνεται να «κολλάει», καθώς η Λειψία δεν απάντησε στην πρόσφατη πρόταση.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΣΑΤ: «Απόφαση θρίαμβος της Ελευθερίας του Τύπου»",
-          "url": "https://www.gazzetta.gr/football/2558279/psat-apofasi-thriambos-tis-eleytherias-toy-typoy",
-          "snippet": "Ο ΠΣΑΤ με ανακοίνωση του έκανε γνωστό πως αρχειοθετήθηκε η μήνυση που είχε καταθέσει ο πρόεδρος της ΕΠΟ, Μάκης Γκαγκάτσης, κατά τριών διακεκριμένων μελών του.",
+          "title": "Χεζόνια: «Ποτέ δεν μου άρεσε ο τρόπος που έφυγα από το NBA»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558322/hezonia-pote-den-moy-arese-o-tropos-poy-efyga-apo-nba",
+          "snippet": "Ο Μάριο Χεζόνια μέσω ανάρτησης, μοιράστηκε τις πρώτες του σκέψεις μετά την ανακοίνωση των Καβαλίερς για την απόκτησή του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η Ελλάδα χρυσό μετάλλιο στο παγκόσμιο πρωτάθλημα κορασίδων στο Ζάγκρεμπ",
-          "url": "https://www.gazzetta.gr/polo/2558278/i-ellada-hryso-metallio-sto-pagkosmio-protathlima-korasidon-sto-zagkremp",
-          "snippet": "Η εθνική ομάδα πόλο κορασίδων νίκησε την Ισπανία με 11-7 κι έγινε πρωταθλήτρια κόσμου Κ16 στο Ζάγκρεμπ. Η αρχηγός Αφροδίτη Μπιτσάκου MVP της διοργάνωσης, η Ανδριάννα Κοντάκου κορυφαία τερματοφύλακας.",
+          "title": "Παναθηναϊκός: Χειρουργήθηκε ο Παντελίδης, το διάστημα της απουσίας του",
+          "url": "https://www.gazzetta.gr/football/superleague/2558321/panathinaikos-heiroyrgithike-o-pantelidis-diastima-tis-apoysias-toy",
+          "snippet": "Ο Παύλος Παντελίδης πέρασε την πόρτα του χειρουργείο και μετά το τέλος της επιτυχημένης επέμβασης στην οποία υποβλήθηκε έγινε γνωστός και ο καιρός που θα λείψει.",
           "source": "Gazzetta"
         },
         {
-          "title": "Πετρούσεφ: «Σωστή απόφαση να φύγω από τον Ολυμπιακό, όταν γύρισε ο Βεζένκοβ»!",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2558277/petroysef-sosti-apofasi-na-fygo-apo-ton-olympiako-otan-gyrise-o",
-          "snippet": "Ο Φιλίπ Πετρούσεφ αναφέρθηκε στην αποχώρηση του από τον Ολυμπιακό, λόγω της έλευσης του Σάσα Βεζένκοβ.",
+          "title": "Βίλεμ - ΟΦΗ: Η ώρα και το κανάλι μετάδοσης",
+          "url": "https://www.gazzetta.gr/football/diethni-filika/2558320/bilem-ofi-i-ora-kai-kanali-metadosis",
+          "snippet": "Η ώρα και το κανάλι μετάδοσης του φιλικού του ΟΦΗ με τη Βίλεμ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ο Κουλιεράκης στην Ιταλία, υπογράφει στη Ρόμα!",
-          "url": "https://www.gazzetta.gr/football/serie/2558276/o-koylierakis-stin-italia-ypografei-sti-roma",
-          "snippet": "Ο Κωνσταντίνος Κουλιεράκης βρίσκεται πολύ κοντά στη μετακίνησή του στη Ρόμα, αφού οι Τζαλορόσι τα βρήκαν σε όλα με τη Βόλφσμπουργκ για την απόκτησή του.",
+          "title": "Εθνική: Για την πέμπτη θέση η Εφήβων, για το 2/2 στο Eurobasket U18 οι Νεανίδες",
+          "url": "https://www.gazzetta.gr/basketball/2558318/ethniki-gia-tin-pempti-thesi-i-efibon-gia-22-sto-eurobasket-u18-oi-neanides",
+          "snippet": "Η Εθνική Εφήβων αντιμετωπίζει το Ισραήλ για τις θέσεις 5-8 στο Eurobasket U18, ενώ η Εθνική Νεανίδων κοντράρεται με τη Βόρεια Μακεδονία με στόχο να κάνει το 2/2!",
           "source": "Gazzetta"
         },
         {
-          "title": "Σορετίρε: Προστέθηκε στην ευρωπαϊκή λίστα του ΠΑΟΚ για Άντερλεχτ",
-          "url": "https://www.gazzetta.gr/football/europa-league/2558275/soretire-prostethike-stin-eyropaiki-lista-toy-paok-gia-anterleht",
-          "snippet": "Ο Σόλα Σορετίρε προστέθηκε στη λίστα του Αλέσιο Λίσι για τα ματς του ΠΑΟΚ με την Άντερλεχτ, καθώς αντικατέστησε τον Γκουγκεσασβίλι.",
+          "title": "Αρχαιολόγοι έλυσαν γρίφο 6.000 ετών: Τι ήταν πραγματικά οι μυστηριώδεις «πέτρινοι δράκοι»",
+          "url": "https://www.gazzetta.gr/plus/2557231/arhaiologoi-elysan-grifo-6000-eton-ti-itan-pragmatika-oi-mystiriodeis-petrinoi-drakoi",
+          "snippet": "Αρχαιολόγοι πιστεύουν ότι έλυσαν το μυστήριο των περίφημων «πετρών-δράκων» της Αρμενίας, συνδέοντάς τες με μια πανάρχαια λατρεία του νερού πριν από 6.000 χρόνια.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Χεζόνια επίσημα στους Καβαλίερς, οι επιστροφές στον Παναθηναϊκό και οι υπόλοιπες κινήσεις",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558271/oi-metagrafes-tis-imeras-sto-mpasket-o-hezonia-episima-stoys-kabaliers-oi",
+          "snippet": "Ο Μάριο Χεζόνια επέστρεψε στο ΝΒΑ με τη φανέλα των Καβαλίερς, ενώ Παναθηναϊκός AKTOR, η Παρτίζαν, η Χάποελ Ιερουσαλήμ και η Δόξα Λευκάδας προχώρησαν σε προσθήκες στα ρόστερ τους.",
           "source": "Gazzetta"
         }
       ]
