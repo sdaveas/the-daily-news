@@ -1,16 +1,70 @@
 {
-  "updated": "2026-08-02T01:57:00.466982+00:00",
+  "updated": "2026-08-02T06:26:45.461392+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ιρανός ΥΠΕΞ: Θα απαντήσουμε σε οποιαδήποτε «τυχοδιωκτική ενέργεια» των ΗΠΑ",
-        "url": "https://www.efsyn.gr/kosmos/1440226/iranos-ypex-tha-apantisoyme-se-opoiadipote-tyhodioktiki-energeia-ton-ipa/",
-        "snippet": "Ο Αραγτσί τόνισε ότι η χώρα του είναι έτοιμη να απαντήσει αποφασιστικά σε οποιαδήποτε «επιθετική ενέργεια».",
+        "title": "«Ιδεοτρόπια»: Kυκλοφόρησε η καινούργια ποιητική συλλογή του Ιωάννη Βάλλιου",
+        "url": "https://www.efsyn.gr/nisides/1439555/ideotropia-kykloforise-i-kainoyrgia-poiitiki-syllogi-toy-ioanni-vallioy/",
+        "snippet": "Το αρχέγονο φυσικό κάλλος της ελληνικής γης σε συνδυασμό με το βάθος της αδιάλειπτης ιστορικής και πολιτισμικής της συνέχειας, αισθητοποιούν τις Ιδέες.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Από σπινθήρες στο ηλεκτρικό δίκτυο η πυρκαγιά στη Βοιωτία: Δύο συλλήψεις – Αναζητείται ο ιδιοκτήτης εταιρείας ανεμογεννητριών",
+          "url": "https://www.efsyn.gr/ellada/1440252/apo-spinthires-sto-ilektriko-diktyo-i-pyrkagia-sti-voiotia-dyo-syllipseis-anaziteitai-o-idioktitis-etaireias-anemogennitrion/",
+          "snippet": "Από τη συνδυαστική αξιολόγηση των ευρημάτων προέκυψε ότι στο ιδιωτικό δίκτυο μεταφοράς της παραγόμενης ηλεκτρικής ενέργειας από ανεμογεννήτριες προς το κεντρικό δίκτυο ηλεκτροδότησης σημειώθηκε ταλάντωση των αγωγών, η οποία προκάλεσε σπινθηρισμούς.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μεγάλη έρευνα της «Εφ.Συν.» για τη λειψυδρία: Τα έργα φαντάσματα, οι ενεργοβόρες μονάδες αφαλάτωσης και η άδικη κατανομή του νερού",
+          "url": "https://www.efsyn.gr/ellada/1439945/megali-ereyna-tis-ef-syn-gia-ti-leipsydria-ta-erga-fantasmata-oi-energovores-monades-afalatosis-kai-i-adiki-katanomi-toy-neroy/",
+          "snippet": "Το μαρτύριο της σταγόνας στα νησιά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ξενοφών Κοντιάδης στην «Εφ.Συν.»: «Το σύστημα τιμωρεί τους ονειροπόλους»",
+          "url": "https://www.efsyn.gr/nisides/1439542/xenofon-kontiadis-stin-ef-syn-to-systima-timorei-toys-oneiropoloys/",
+          "snippet": "«Ο Κόκκαλης διέθετε το ηθικό ανάστημα να συνειδητοποιήσει ότι η επιστημονική του αξιοπρέπεια ήταν ασυμβίβαστη με την ανελευθερία και τον φασισμό. Οι γυναίκες είναι οι σιωπηλοί, αλλά καθοριστικοί στυλοβάτες της Ιστορίας. Γυναίκες όπως η Νίκη Κόκκαλη ή η χήρα του Κοντιάδη δεν ήταν ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "«Μαχαίρι» στον λογαριασμό της ταβέρνας: Αυξάνεται ο τουρισμός, μειώνεται η κατανάλωση στην εστίαση",
+          "url": "https://www.efsyn.gr/oikonomia/1439992/kyriaki-mahairi-ston-logariasmo-tis-tavernas-ayxanetai-o-toyrismos-meionetai-i-katanalosi-stin-estiasi/",
+          "snippet": "Στις Κυκλάδες, ανάλογα με τον προορισμό, η πτώση ξεκινά από το 20% και φτάνει ακόμα και το 40%, σε σχέση με την ήδη μειωμένη κατανάλωση του 2025.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Σημαντική Κυριακή για την Εκκλησία – Ποιοι γιορτάζουν σήμερα 2 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1440240/eortologio-simantiki-kyriaki-gia-tin-ekklisia-poioi-giortazoyn-simera-2-aygoystoy/",
+          "snippet": "Ποιους τιμά σήμερα η Εκκλησία",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εξασθενούν οι άνεμοι στην Αττική – Στα 8 μποφόρ στο Αιγαίο",
+          "url": "https://www.efsyn.gr/ellada/1440237/exasthenei-oi-anemoi-stin-attiki-sta-8-mpofor-sto-aigaio/",
+          "snippet": "Αίθριος καιρός με τοπικές νεφώσεις στα ανατολικά και νότια. Άνεμοι έως 6-7 και τοπικά έως 8 μποφόρ στο Αιγαίο με τάση εξασθένησης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στο μυαλό της Νέας Δημοκρατίας: Οι 3+1 λόγοι που απομακρύνουν τις πρόωρες εκλογές",
+          "url": "https://www.efsyn.gr/politiki/1439981/sto-myalo-tis-neas-dimokratias-oi-31-logoi-poy-apomakrynoyn-tis-proores-ekloges/",
+          "snippet": "Η επικοινωνιακή μπλόφα του Μαξίμου έκανε και βουλευτές της Ν.Δ. να «τσιμπήσουν», αλλά πια στην πλειονότητά τους έχουν πειστεί πως οι κάλπες θα στηθούν τον Μάιο ή τον Ιούνιο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "LIVE: Μάχη με τις φλόγες σε Βένιζα, Ψάθα και Φωκίδα – Πυρκαγιά και μπαράζ εκκενώσεων στην Κεφαλονιά",
+          "url": "https://www.efsyn.gr/ellada/1440231/live-mahi-me-tis-floges-se-veniza-psatha-kai-fokida-pyrkagia-kai-mparaz-ekkenoseon-stin-kefalonia/",
+          "snippet": "Μαίνεται ανεξέλεγκτη για 3η μέρα η πυρκαγιά που ξεκίνησε από τη Βοιωτία και αφού κατέκαψε το Πόρτο Γερμενό, πλέον καίει στις περιοχές Ψάθα και Βένιζα. Φωτιά έχει ξεσπάσει και στην Κεφαλονιά, ενώ η φωτιά που ξέσπασε το Σάββατο στη Φωκίδα βρίσκεται σε πλήρη εξέλιξη: Παρακολουθήστε ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιρανός ΥΠΕΞ: Θα απαντήσουμε σε οποιαδήποτε «τυχοδιωκτική ενέργεια» των ΗΠΑ",
+          "url": "https://www.efsyn.gr/kosmos/1440226/iranos-ypex-tha-apantisoyme-se-opoiadipote-tyhodioktiki-energeia-ton-ipa/",
+          "snippet": "Ο Αραγτσί τόνισε ότι η χώρα του είναι έτοιμη να απαντήσει αποφασιστικά σε οποιαδήποτε «επιθετική ενέργεια».",
+          "source": "EfSyn"
+        },
         {
           "title": "Πύρινη κόλαση στο Πόρτο Γερμενό: Κοντά σε σπίτια η φωτιά στη Βένιζα – Μπαράζ εκκενώσεων, αναμένεται δύσκολη νύχτα",
           "url": "https://www.efsyn.gr/ellada/1440210/pyrini-kolasi-sto-porto-germeno-konta-se-spitia-i-fotia-sti-veniza-tha-einai-dyskolo-vrady/",
@@ -39,60 +93,6 @@
           "title": "ΗΠΑ: Ο Τζέι Κλέιτον θα αναλάβει τη θέση του επικεφαλής των μυστικών υπηρεσιών τη Δευτέρα",
           "url": "https://www.efsyn.gr/kosmos/1440194/ipa-o-tzei-kleiton-tha-analavei-ti-thesi-toy-epikefalis-ton-mystikon-ypiresion-ti-deytera/",
           "snippet": "Οι Ρεπουμπλικάνοι γερουσιαστές ενέκριναν αυτή την εβδομάδα τον υποψήφιο του Τραμπ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Φωτιά στο Ρέθυμνο: Ελεύθερος με περιοριστικούς όρους ο υπεύθυνος λειτουργίας του ΔΕΔΔΗΕ",
-          "url": "https://www.efsyn.gr/ellada/1440191/eleytheros-me-perioristikoys-oroys-o-ypeythynos-leitoyrgias-toy-deddie-rethymnoy/",
-          "snippet": "Υπενθυμίζεται ότι ο κατηγορούμενος αρνείται τις κατηγορίες που του αποδίδονται.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αυτός που αλλάζει το status",
-          "url": "https://www.efsyn.gr/athlitismos/1440046/aytos-poy-allazei-to-status/",
-          "snippet": "Η μεταγραφή-ρεκόρ για Ελληνα ποδοσφαιριστή από την Μπριζ στην Αρσεναλ ουσιαστικά διαφημίζει το ποδόσφαιρό μας και παράλληλα επιβραβεύει τη σκληρή δουλειά του 24χρονου",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μυτιλήνη: Σύλληψη Τούρκου πλοιοκτήτη σε εκτέλεση εντάλματος για διακίνηση δύο τόνων κοκαΐνης",
-          "url": "https://www.efsyn.gr/ellada/1440188/mytilini-syllipsi-toyrkoy-ploioktiti-se-ektelesi-entalmatos-gia-diakinisi-dyo-tonon-kokainis/",
-          "snippet": "Παραμένει κρατούμενος στο Λιμεναρχείο και τη Δευτέρα θα προσαχθεί στις δικαστικές αρχές.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Στον πυρετό του χρυσού, πλουτίζουν αυτοί που πουλάνε φτυάρια»",
-          "url": "https://www.efsyn.gr/media/1440043/ston-pyreto-toy-hrysoy-ploytizoyn-aytoi-poy-poylane-ftyaria/",
-          "snippet": "Αποσπάσματα από το νέο βιβλίο του Κωνσταντίνου Πουλή, «Social Media, Η ελευθερία να μιλάς χωρίς να ακούγεσαι».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θέουτα: Επιστολή 22 ηγετών της Ε.Ε. κατά της μεταναστευτικής πολιτικής της Ισπανίας – Υπέγραψε και η Ελλάδα",
-          "url": "https://www.efsyn.gr/kosmos/1440177/theoyta-epistoli-22-igeton-kata-tis-metanasteytikis-politikis-tis-ispanias-ypegrapse-kai-i-ellada/",
-          "snippet": "Ο Σάντσεθ απάντησε ότι οι εταίροι του στην ΕΕ αντιδρούσαν με «εγωιστικό» και «παράνομο» τρόπο.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πόρτο Γερμενό: Κάηκε το εξοχικό του ηθοποιού Τάσου Χαλκιά – «Μια ιστορία 52 ετών έγινε στάχτη»",
-          "url": "https://www.efsyn.gr/ellada/1440172/porto-germeno-kaike-to-exohiko-toy-ithopoioy-tasoy-halkia-mia-istoria-52-eton-egine-stahti/",
-          "snippet": "Όπως ανέφερε στο Instagram ο γιος του Άρης, το εξοχικό της οικογένειας, ήταν ανάμεσα στα σπίτια που παραδόθηκαν στις φλόγες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΗΠΑ: Νομοσχέδιο συνδέει τη βοήθεια ασφαλείας και τις στρατιωτικές πωλήσεις στην Τουρκία με τα ανθρώπινα δικαιώματα",
-          "url": "https://www.efsyn.gr/kosmos/1440170/ipa-nomoshedio-syndeei-ti-voitheia-asfaleias-kai-tis-stratiotikes-poliseis-stin-toyrkia-me-ta-anthropina-dikaiomata/",
-          "snippet": "Το νομοσχέδιο, με τίτλο «Turkey Human Rights Promotion Act of 2026», παρουσίασε στη Βουλή των Αντιπροσώπων η Δημοκρατική βουλευτής Ντίνα Τάιτους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μάικλ Φελπς: «Δεν είμαστε ανίκητοι, θέλουμε βοήθεια»",
-          "url": "https://www.efsyn.gr/athlitismos/1440039/maikl-felps-den-eimaste-anikitoi-theloyme-voitheia/",
-          "snippet": "Οι εναλλαγές στη ζωή του, και όχι μόνο στην αθλητική πορεία του; Συνεχείς.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Επιχειρηματικός εμφύλιος: βιομηχανία εναντίον σούπερ μάρκετ!",
-          "url": "https://www.efsyn.gr/oikonomia/1440037/epiheirimatikos-emfylios-viomihania-enantion-soyper-market/",
-          "snippet": "Περίπου το 10% με 15% των κωδικών στα σούπερ μάρκετ παράγει το 70% με 80% του συνολικού τζίρου.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
-          "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
-          "snippet": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction.",
+          "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
+          "url": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
+          "snippet": "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τσιτσιπάς - Ράις 2-0: Άνετη πρόκριση στο κυρίως ταμπλό στο Μόντρεαλ",
-        "url": "https://www.gazzetta.gr/tennis/atp/2558516/tsitsipas-rais-2-0-aneti-prokrisi-sto-kyrios-tamplo-sto-montreal",
-        "snippet": "O Στέφανος Τσιτσιπάς νίκησε με άνεση τον 20χρονο Καναδό, Κίγκαν Ράις με 2-0 σετ, εξασφαλίζοντας θέση στο κυρίως ταμπλό στο Masters του Μόντρεαλ.",
+        "title": "«Καθρέφτης» 500 μέτρων σε κοιλάδα της Κίνας: Τόσο ευαίσθητος που ένας τηλέφωνο θα τον τύφλωνε",
+        "url": "https://www.gazzetta.gr/plus/2558545/kathreftis-500-metron-se-koilada-tis-kinas-toso-eyaisthitos-poy-enas-tilefono-tha-ton",
+        "snippet": "Το γιγαντιαίο ραδιοτηλεσκόπιο αποτελεί το ισχυρότερο εργαλείο παρατήρησης του σύμπαντος, απαιτώντας όμως απόλυτη ηλεκτρομαγνητική σιγή για να λειτουργήσει χωρίς παρεμβολές.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Στην Καστεγιόν ο Ηλίας Κωστής",
+          "url": "https://www.gazzetta.gr/football/la-liga/2558544/stin-kastegion-o-ilias-kostis",
+          "snippet": "Η Καστεγιόν ανακοίνωσε την απόκτηση του Ηλία Κωστή, που παρέμεινε έτσι στην Ισπανία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χαρτώνας: Τι έχει κάνει το νέο απόκτημα της ΑΕΚ στο Eurobasket U18",
+          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2558543/hartonas-ti-ehei-kanei-neo-apoktima-tis-aek-sto-eurobasket-u18",
+          "snippet": "Η ΑΕΚ απέκτησε τον Βασίλη Χαρτώνα, ένα από τα κορυφαία prospects στην Ελλάδα και το Gazzetta στέκεται στα πεπραγμένα του στο Eurobasket U18 με την Εθνική Εφήβων.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τζόλης: «Τρέλα» στην Αγγλία, πρώτο θέμα στα ΜΜΕ της χώρας",
+          "url": "https://www.gazzetta.gr/football/premier-league/2558541/tzolis-trela-stin-agglia-proto-thema-sta-mme-tis-horas",
+          "snippet": "Ο Χρήστος Τζόλης σκόραρε στο φιλικό της Άρσεναλ με την Τζιρόνα (4-1) και τα αγγλικά ΜΜΕ τον έχουν πρώτο θέμα, αποθεώνοντάς τον!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γουέστμπρουκ: Πιθανός προορισμός το Χιούστον και η επανένωση με Ντουράντ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558540/goyestmproyk-pithanos-proorismos-hioyston-kai-i-epanenosi-me-ntoyrant",
+          "snippet": "Ο Ράσελ Γουέστμπρουκ παραμένει ελεύθερος και το Χιούστον αποτελεί έναν από τους κορυφαίους προορισμούς για εκείνον.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δύο συλλήψεις για την καταστροφική πυρκαγιά στη Βοιωτία: «Ανεμογεννήτριες» δείχνουν τα αίτια (vid)",
+          "url": "https://www.gazzetta.gr/plus/2558539/dyo-syllipseis-gia-tin-katastrofiki-pyrkagia-sti-boiotia-anemogennitries-deihnoyn-ta",
+          "snippet": "Στη σύλληψη δύο ατόμων για την καταστροφική φωτιά στην Αττικοβοιωτία προχώρησαν οι αρχές.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αθλητικές μεταδόσεις σήμερα: Το ΑΕΚ - Σεντ Τρούιντεν και το Ευρωπαϊκό Πρωτάθλημα Υγρού Στίβου",
+          "url": "https://www.gazzetta.gr/football/superleague/2558538/athlitikes-metadoseis-simera-aek-sent-troyinten-kai-eyropaiko",
+          "snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με το ΑΕΚ - Σεντ Τρούιντεν και το Ευρωπαϊκό Πρωτάθλημα Υγρού Στίβου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπαρτσελόνα: Εξετάζει Ουναΐ για να καλύψει το κενό του Ντε Γιόνγκ",
+          "url": "https://www.gazzetta.gr/football/la-liga/2558537/mpartselona-exetazei-oynai-gia-na-kalypsei-keno-toy-nte-giongk",
+          "snippet": "Σύμφωνα με δημοσιεύματα από την Ισπανία, η Μπαρτσελόνα σκέφτεται σοβαρά να πληρώσει τη ρήτρα του Αζεντίν Ουναΐ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Εθνική Εφήβων: Που θα δείτε τη μάχη με τη Γερμανία που κρίνει εισιτήριο για το Παγκόσμιο U19",
+          "url": "https://www.gazzetta.gr/basketball/eurobasket-u20/2558536/ethniki-efibon-poy-tha-deite-ti-mahi-me-ti-germania-poy-krinei",
+          "snippet": "H Eθνική Εφήβων κοντράρεται με τη Γερμανία για τις θέσεις 5-6 στο Eurobasket U18 για να βρεθεί στο Παγκόσμιο U19.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (2/8)",
+          "url": "https://www.gazzetta.gr/2558535/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-28",
+          "snippet": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (2/8)",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η πιο βάναυση ταινία του 2026 κάνει πάταγο στο streaming: Στην κορυφή σε 56 χώρες (vid)",
+          "url": "https://www.gazzetta.gr/plus/2557246/i-pio-banaysi-tainia-toy-2026-kanei-patago-sto-streaming-stin-koryfi-se-56-hores-vid",
+          "snippet": "Μετά την επιτυχημένη πορεία του στις αίθουσες, το «Mortal Kombat 2» έκανε το ντεμπούτο του στο HBO Max, σκαρφαλώνοντας αμέσως στην πρώτη θέση τηλεθέασης σε 56 χώρες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τσιτσιπάς - Ράις 2-0: Άνετη πρόκριση στο κυρίως ταμπλό στο Μόντρεαλ",
+          "url": "https://www.gazzetta.gr/tennis/atp/2558516/tsitsipas-rais-2-0-aneti-prokrisi-sto-kyrios-tamplo-sto-montreal",
+          "snippet": "O Στέφανος Τσιτσιπάς νίκησε με άνεση τον 20χρονο Καναδό, Κίγκαν Ράις με 2-0 σετ, εξασφαλίζοντας θέση στο κυρίως ταμπλό στο Masters του Μόντρεαλ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Διπλή Μπεσίκτας, επένδυση η ΑΕΚ",
           "url": "https://www.gazzetta.gr/basketball/euroleague/2558511/oi-metagrafes-tis-imeras-sto-mpasket-dipli-mpesiktas-ependysi-i-aek",
@@ -306,81 +372,15 @@
           "source": "Gazzetta"
         },
         {
+          "title": "Το εξωτικό νησί στη Χαλκιδική που έχει ζεστά νερά όλον τον χρόνο (vid)",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Έκπληκτη από την απόφαση και τα λόγια του Θανάση Αυγερινού, δήλωσε η Μαρία Καρυστιανού. Τα συμπεράσματά της από την αποχώρησή του.",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Χρήστος Τζόλης: Τα πεπραγμένα του Έλληνα διεθνή απέναντι στην Τζιρόνα",
           "url": "https://www.gazzetta.gr/football/diethni-filika/2558509/hristos-tzolis-ta-pepragmena-toy-ellina-diethni-apenanti-stin",
           "snippet": "Ο Χρήστος Τζόλης αγωνίστηκε γεμάτα εξήντα λεπτά στο φιλικό της Άρσεναλ κόντρα στη Τζιρόνα, σκόραρε και είχε μια άκρως θετική παρουσία στη νίκη της ομάδας του με 4-1.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Για τρίτη ημέρα η χώρα δίνει μάχη με τα πύρινα μέτωπα: Συγκλονίζουν οι εικόνες από την ολονύχτια επιχείρηση στο Πόρτο Γερμενό (vid)",
-          "url": "https://www.gazzetta.gr/plus/2558503/gia-triti-imera-i-hora-dinei-mahi-me-ta-pyrina-metopa-olonyhties-epiheiriseis-se-porto",
-          "snippet": "Για τρίτη ημέρα συνεχίζονται οι μεγάλες πυρκαγιές, με το Πόρτο Γερμενό και τη Φωκίδα να παραμένουν τα πιο δύσκολα μέτωπα και τις δυνάμεις να επιχειρούν όλη τη νύχτα για την κατάσβεσή τους.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νεκρός 72χρονος στα Άνω Λίοσια μέσα στο αυτοκίνητό του: Έρευνα για πιθανή εγκληματική ενέργεια",
-          "url": "https://www.gazzetta.gr/plus/2558504/nekros-72hronos-sta-ano-liosia-mesa-sto-aytokinito-toy-ereyna-gia-pithani-egklimatiki",
-          "snippet": "Νεκρός εντοπίστηκε 72χρονος μέσα στο αυτοκίνητό του στα Άνω Λιόσια, με τις Αρχές να εξετάζουν το ενδεχόμενο ανθρωποκτονίας και να αναζητούν στοιχεία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βόλφσμπουργκ: Αποχαιρέτησε τον Κουλιεράκη αλά ελληνικά",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2558501/bolfsmpoyrgk-apohairetise-ton-koylieraki-ala-ellinika",
-          "snippet": "Η Βόλφσμπουργκ αποχαιρέτησε μέσω του επίσημου λογαριασμού της στο Instagram τον Κωνσταντίνο Κουλιεράκη με άκρως... ελληνικό τρόπο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Εθνική Κορασίδων: Άνετη νίκη επί της Β. Μακεδονίας και 2/2 στον όμιλο",
-          "url": "https://www.gazzetta.gr/basketball/2558490/ethniki-korasidon-aneti-niki-epi-tis-b-makedonias-kai-22-ston-omilo",
-          "snippet": "Η Εθνική Νεανίδων πραγματοποίησε μία άψογη εμφάνιση κόντρα στη Βόρεια Μακεδονία και επικράτησε με 72-43.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μεντιλίμπαρ: Λίσι και Νίστρουπ πέρασαν το πρώτο εμπόδιο, τώρα είναι η ώρα του Βάσκου",
-          "url": "https://www.gazzetta.gr/football/superleague/2558469/mentilimpar-lisi-kai-nistroyp-perasan-proto-empodio-tora-einai-i-ora",
-          "snippet": "Τα καλοκαιρινά προκριματικά ξεκίνησαν καλά για ΠΑΟΚ, Παναθηναϊκό, οι προπονητές πήραν πίστωση χρόνου και το ίδιο θέλει και ο Μεντιλίμπαρ με τον Ολυμπιακό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "H Γη «άνοιξε» στα δύο: Για πρώτη φορά καταγράφηκε η δημιουργία νέου ωκεάνιου φλοιού",
-          "url": "https://www.gazzetta.gr/plus/2558481/h-gi-anoixe-sta-dyo-gia-proti-fora-katagrafike-i-dimioyrgia-neoy-okeanioy-floioy",
-          "snippet": "Επιστήμονες κατέγραψαν για πρώτη φορά τη δημιουργία νέου ωκεάνιου φλοιού, μιας γεωλογικής διαδικασίας που διαμόρφωσε μεγάλο μέρος της επιφάνειας της Γης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κουλιεράκης: Ανακοινώθηκε από τη Ρόμα ο Έλληνας διεθνής (vid)",
-          "url": "https://www.gazzetta.gr/football/serie/2558487/koylierakis-anakoinothike-apo-ti-roma-o-ellinas-diethnis",
-          "snippet": "Ο Κωνσταντίνος Κουλιεράκης ανακοινώθηκε από τη Ρόμα και αποτελεί και με τη... βούλα το νέο μεταγραφικό της απόκτημα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ευρωπαϊκό Πόλο Νέων Γυναικών: Άνετη πρεμιέρα η Ελλάδα κόντρα στο Ισραήλ",
-          "url": "https://www.gazzetta.gr/polo/2558485/eyropaiko-polo-neon-gynaikon-aneti-premiera-i-ellada-kontra-sto-israil",
-          "snippet": "H εθνική ομάδα πόλο νέων γυναικών με ένα σερί 6-0, έβαλε τις βάσεις για να νικήσει το Ισραήλ με 18-13 στην πρεμιέρα της στο ευρωπαϊκό πρωτάθλημα Κ20 στο Οέιρας της Πορτογαλίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπρούνο Γκιμαράες: Μια... ανάσα από την Άρσεναλ ο Βραζιλιάνος",
-          "url": "https://www.gazzetta.gr/football/premier-league/2558484/mproyno-gkimaraes-mia-anasa-apo-tin-arsenal-o-brazilianos",
-          "snippet": "Σύμφωνα με τους Times, ο Μπρούνο Γκιμαράες αναμένεται να περάσει τις απαραίτητες ιατρικές εξετάσεις τη Δευτέρα και να ενταχθεί στο ρόστερ της Άρσεναλ έναντι 80 εκατ. λιρών.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μονακό: Αβέβαιο το μέλλον του Ντάρον Ράσελ",
-          "url": "https://www.gazzetta.gr/basketball/eurocup/2558483/monako-abebaio-mellon-toy-ntaron-rasel",
-          "snippet": "Ο Ντάρον Ράσελ είναι πολύ πιθανό να αποχωρήσει από τη Μονακό, λόγω των προβλημάτων στην ομάδα του Πριγκιπάτου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κούστα: «Από τον Ματσάρι μόνο να κερδίσεις έχεις»",
-          "url": "https://www.gazzetta.gr/football/superleague/2558482/koysta-apo-ton-matsari-mono-na-kerdiseis-eheis",
-          "snippet": "Οι δηλώσεις του Κριστιάν Κούστα για τον νέο τεχνικό του Ηρακλή Βάλτερ Ματσάρι και την πορεία της προετοιμασίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αμπερντίν - Χαρτς 2-1: Πρεμιέρα με ήττα για την ομάδα του Κυζιρίδη",
-          "url": "https://www.gazzetta.gr/football/2558480/amperntin-harts-2-1-premiera-me-itta-gia-tin-omada-toy-kyziridi",
-          "snippet": "Η Χαρτς του Αλέξανδρου Κυζιρίδη γνώρισε την ήττα με 2-1 στην έδρα της Αμπερντίν και ξεκίνησε με ήττα το φετινό πρωτάθλημα Σκωτίας.",
           "source": "Gazzetta"
         }
       ]
