@@ -1,18 +1,24 @@
 {
-  "updated": "2026-08-01T20:40:57.450411+00:00",
+  "updated": "2026-08-02T01:57:00.466982+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πύρινη κόλαση στο Πόρτο Γερμενό: Κοντά σε σπίτια η φωτιά στη Βένιζα – Μπαράζ εκκενώσεων, αναμένεται δύσκολη νύχτα",
-        "url": "https://www.efsyn.gr/ellada/1440210/pyrini-kolasi-sto-porto-germeno-konta-se-spitia-i-fotia-sti-veniza-tha-einai-dyskolo-vrady/",
-        "snippet": "Μπαράζ 112 το Σάββατο για εκκενώσεις περιοχών - Διάσπαρτες εστίες στη Φωκίδα, ζημιές σε οικισμούς - Σε Red Code την Κυριακή Αττική, Βοιωτία και Εύβοια.",
+        "title": "Ιρανός ΥΠΕΞ: Θα απαντήσουμε σε οποιαδήποτε «τυχοδιωκτική ενέργεια» των ΗΠΑ",
+        "url": "https://www.efsyn.gr/kosmos/1440226/iranos-ypex-tha-apantisoyme-se-opoiadipote-tyhodioktiki-energeia-ton-ipa/",
+        "snippet": "Ο Αραγτσί τόνισε ότι η χώρα του είναι έτοιμη να απαντήσει αποφασιστικά σε οποιαδήποτε «επιθετική ενέργεια».",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Νεκρός βρέθηκε 72χρονος σε αυτοκίνητο στα Νέα Λιόσια",
+          "title": "Πύρινη κόλαση στο Πόρτο Γερμενό: Κοντά σε σπίτια η φωτιά στη Βένιζα – Μπαράζ εκκενώσεων, αναμένεται δύσκολη νύχτα",
+          "url": "https://www.efsyn.gr/ellada/1440210/pyrini-kolasi-sto-porto-germeno-konta-se-spitia-i-fotia-sti-veniza-tha-einai-dyskolo-vrady/",
+          "snippet": "Απανωτά 112 το Σάββατο για εκκενώσεις περιοχών - Διάσπαρτες εστίες στη Φωκίδα, ζημιές σε οικισμούς - Σε Red Code την Κυριακή Αττική, Βοιωτία και Εύβοια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νεκρός βρέθηκε 72χρονος σε αυτοκίνητο στα Άνω Λιόσια [βίντεο]",
           "url": "https://www.efsyn.gr/ellada/1440206/nekros-vrethike-72hronos-se-aytokinito-sta-nea-liosia/",
           "snippet": "Έφερε τραύματα στην κοιλιακή χώρα και το κεφάλι.",
           "source": "EfSyn"
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/oikonomia/1440037/epiheirimatikos-emfylios-viomihania-enantion-soyper-market/",
           "snippet": "Περίπου το 10% με 15% των κωδικών στα σούπερ μάρκετ παράγει το 70% με 80% του συνολικού τζίρου.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Από «νεκροθάφτης» του ΠΑΣΟΚ… σε επίσημο ζωοδότη της ΝΔ",
-          "url": "https://www.efsyn.gr/stiles/1440153/apo-nekrothaftis-toy-pasok-se-episimo-zoodoti-tis-nd/",
-          "snippet": "Ο Αλέξης Τσίπρας έχει κάθε δικαίωμα να ονειρεύεται μια δεύτερη πολιτική νιότη. Δεν έχει όμως κανένα δικαίωμα να παραποιεί την ιστορία και να μετατρέπει το ΠΑΣΟΚ σε βολικό μπαμπούλα.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -114,9 +114,21 @@
           "source": "NYT World"
         },
         {
+          "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
+          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
+          "snippet": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+          "source": "NYT World"
+        },
+        {
           "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
           "url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
           "snippet": "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
+          "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
+          "snippet": "Among the victims of the explosion, which also injured 21 people, were a security guard and a woman who the authorities say had arrived with the suspicious package.",
           "source": "NYT World"
         },
         {
@@ -168,27 +180,15 @@
           "source": "NYT World"
         },
         {
-          "title": "What to Know About Ceuta",
-          "url": "https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html",
-          "snippet": "The peninsula on Morocco’s northern coast, which Spain has governed for centuries, has been a frequent site of mass migrant crossings and political tensions.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Beijing Protests After New Zealand Minister Insults Chinese-Born Lawmaker",
-          "url": "https://www.nytimes.com/2026/08/01/world/asia/new-zealand-foreign-minister-china-protest.html",
-          "snippet": "The foreign minister, Winston Peters, who leads a populist party, has refused to back down after telling the member of Parliament to “go back to your own country.”",
-          "source": "NYT World"
-        },
-        {
           "title": "Last Missing Climbers’ Bodies Are Found, Pakistan Officials Say",
           "url": "https://www.nytimes.com/2026/08/01/world/asia/pakistan-avalanche-climbers-purja.html",
           "snippet": "The famed mountaineer Nirmal Purja was among those killed on Broad Peak. Five of the climbers’ bodies have been located but not yet recovered, an official said.",
           "source": "NYT World"
         },
         {
-          "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-          "url": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-          "snippet": "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group.",
+          "title": "Tourist Plane Crashes in Peru, Killing All 13 Aboard",
+          "url": "https://www.nytimes.com/2026/08/01/world/americas/peru-tourist-plane-crash-nazca.html",
+          "snippet": "The flight had taken off from the coastal city of Pisco to view the ancient geoglyphs in the desert, a popular tourist attraction.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,18 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "title": "Inside the London hacker house taking a stand against founder burnout",
+        "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+        "snippet": "How one founder house is betting work-life balance can beat burnout .",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "source": "TechCrunch"
+        },
         {
           "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
           "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
@@ -280,12 +286,6 @@
           "url": "https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/",
           "snippet": "The new funding brings Index's total available investing capital to $3.5 billion.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "VC-backed startups commit more fraud, and researchers think they know why",
-          "url": "https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/",
-          "snippet": "New research from the U.K.’s Imperial College and France’s Emlyon Business School mapped out how Silicon Valley founders commit fraud — and the role investors play.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Νεκρός 72χρονος στα Άνω Λίοσια μέσα στο αυτοκίνητό του: Έρευνα για πιθανή εγκληματική ενέργεια",
-        "url": "https://www.gazzetta.gr/plus/2558504/nekros-72hronos-sta-ano-liosia-mesa-sto-aytokinito-toy-ereyna-gia-pithani-egklimatiki",
-        "snippet": "Νεκρός εντοπίστηκε 72χρονος μέσα στο αυτοκίνητό του στα Άνω Λιόσια, με τις Αρχές να εξετάζουν το ενδεχόμενο ανθρωποκτονίας και να αναζητούν στοιχεία.",
+        "title": "Τσιτσιπάς - Ράις 2-0: Άνετη πρόκριση στο κυρίως ταμπλό στο Μόντρεαλ",
+        "url": "https://www.gazzetta.gr/tennis/atp/2558516/tsitsipas-rais-2-0-aneti-prokrisi-sto-kyrios-tamplo-sto-montreal",
+        "snippet": "O Στέφανος Τσιτσιπάς νίκησε με άνεση τον 20χρονο Καναδό, Κίγκαν Ράις με 2-0 σετ, εξασφαλίζοντας θέση στο κυρίως ταμπλό στο Masters του Μόντρεαλ.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Διπλή Μπεσίκτας, επένδυση η ΑΕΚ",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2558511/oi-metagrafes-tis-imeras-sto-mpasket-dipli-mpesiktas-ependysi-i-aek",
+          "snippet": "Η Μπεσίκτας προχώρησε σε δύο σημαντικές μεταγραφικές προσθήκες, το Περιστέρι απέκτησε τον Γκρέις Ενγκίντου, ενώ η ΑΕΚ επενδύει στο μέλλον με τον νεαρό Χαρτώνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χρήστος Τζόλης: Τα πεπραγμένα του Έλληνα διεθνή απέναντι στην Τζιρόνα",
+          "url": "https://www.gazzetta.gr/football/diethni-filika/2558509/hristos-tzolis-ta-pepragmena-toy-ellina-diethni-apenanti-stin",
+          "snippet": "Ο Χρήστος Τζόλης αγωνίστηκε γεμάτα εξήντα λεπτά στο φιλικό της Άρσεναλ κόντρα στη Τζιρόνα, σκόραρε και είχε μια άκρως θετική παρουσία στη νίκη της ομάδας του με 4-1.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Για τρίτη ημέρα η χώρα δίνει μάχη με τα πύρινα μέτωπα: Συγκλονίζουν οι εικόνες από την ολονύχτια επιχείρηση στο Πόρτο Γερμενό (vid)",
+          "url": "https://www.gazzetta.gr/plus/2558503/gia-triti-imera-i-hora-dinei-mahi-me-ta-pyrina-metopa-olonyhties-epiheiriseis-se-porto",
+          "snippet": "Για τρίτη ημέρα συνεχίζονται οι μεγάλες πυρκαγιές, με το Πόρτο Γερμενό και τη Φωκίδα να παραμένουν τα πιο δύσκολα μέτωπα και τις δυνάμεις να επιχειρούν όλη τη νύχτα για την κατάσβεσή τους.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νεκρός 72χρονος στα Άνω Λίοσια μέσα στο αυτοκίνητό του: Έρευνα για πιθανή εγκληματική ενέργεια",
+          "url": "https://www.gazzetta.gr/plus/2558504/nekros-72hronos-sta-ano-liosia-mesa-sto-aytokinito-toy-ereyna-gia-pithani-egklimatiki",
+          "snippet": "Νεκρός εντοπίστηκε 72χρονος μέσα στο αυτοκίνητό του στα Άνω Λιόσια, με τις Αρχές να εξετάζουν το ενδεχόμενο ανθρωποκτονίας και να αναζητούν στοιχεία.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Βόλφσμπουργκ: Αποχαιρέτησε τον Κουλιεράκη αλά ελληνικά",
           "url": "https://www.gazzetta.gr/football/bundesliga/2558501/bolfsmpoyrgk-apohairetise-ton-koylieraki-ala-ellinika",
@@ -357,30 +381,6 @@
           "title": "Αμπερντίν - Χαρτς 2-1: Πρεμιέρα με ήττα για την ομάδα του Κυζιρίδη",
           "url": "https://www.gazzetta.gr/football/2558480/amperntin-harts-2-1-premiera-me-itta-gia-tin-omada-toy-kyziridi",
           "snippet": "Η Χαρτς του Αλέξανδρου Κυζιρίδη γνώρισε την ήττα με 2-1 στην έδρα της Αμπερντίν και ξεκίνησε με ήττα το φετινό πρωτάθλημα Σκωτίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Χεζόνια: Μη εγγυημένο το συμβόλαιό του με τους Καβαλίερς",
-          "url": "https://www.gazzetta.gr/basketball/nba/2558479/hezonia-mi-eggyimeno-symbolaio-toy-me-toys-kabaliers",
-          "snippet": "Το συμβόλαιο του Μάριο Χεζόνια δεν είναι εγγυημένο με τους Καβαλίερς και θα πρέπει ο παίκτης να μείνει στην ομάδα μέχρι τις 15 Νοεμβρίου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μόσχα: Ισχυρή έκρηξη σε καφετέρια αφήνει πίσω τρεις νεκρούς και 15 τραυματίες",
-          "url": "https://www.gazzetta.gr/plus/2558476/mosha-ishyri-ekrixi-se-kafeteria-afinei-piso-treis-nekroys-kai-15-traymaties",
-          "snippet": "Τρεις άνθρωποι έχασαν τη ζωή τους και 15 τραυματίστηκαν από ισχυρή έκρηξη στο κέντρο της Μόσχας, ενώ ανεπιβεβαίωτες πληροφορίες κάνουν λόγο για παρουσία Ρώσου στρατηγού.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έκανε το «όνειρό» του πραγματικότητα: Έφτιαξε σπίτι σε σχήμα κεφαλής κογιότ 9 μέτρων στην έρημο του Νέου Μεξικού",
-          "url": "https://www.gazzetta.gr/plus/2558455/ekane-oneiro-toy-pragmatikotita-eftiaxe-spiti-se-shima-kefalis-kogiot-9-metron-stin",
-          "snippet": "Ένα παράξενο όνειρο έγινε πραγματικότητα, καθώς καλλιτέχνης δημιούργησε σπίτι σε σχήμα κεφαλής κογιότ από 30 τόνους σκυροδέματος στην έρημο του Νέου Μεξικού.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τζόλης: Άρσεναλ - Το πρώτο γκολ του Έλληνα εξτρέμ!",
-          "url": "https://www.gazzetta.gr/football/premier-league/2558475/tzolis-arsenal-ntempoyto-me-gkolara-o-diethnis-extrem",
-          "snippet": "Ο Χρήστος Τζόλης συστήθηκε ως «κανονιέρης» με το... καλημέρα! Ο Ελληνας άσος σκόραρε για το 2-0 της Άρσεναλ κόντρα στη Χιρόνα.",
           "source": "Gazzetta"
         }
       ]
