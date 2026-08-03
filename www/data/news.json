@@ -1,16 +1,22 @@
 {
-  "updated": "2026-08-02T20:43:39.536196+00:00",
+  "updated": "2026-08-03T01:59:22.728659+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ευάγγελος Βενιζέλος: «Ο Γιάννης Βαρβιτσιώτης ήταν φτιαγμένος από παλιό γερό μέταλλο»",
-        "url": "https://www.efsyn.gr/politiki/1440510/eyaggelos-venizelos-o-giannis-varvitsiotis-itan-ftiagmenos-apo-palio-gero-metallo/",
-        "snippet": "Σε δήλωσή του, εκφράζει τα συλλυπητήρια του στα παιδιά του εκλιπόντος.",
+        "title": "Τρίτη νύχτα αγωνίας στη Δυτική Αττική: Φλόγες πολιορκούν Κρύο Πηγάδι και Άγιο Νεκτάριο – Νέες εκκενώσεις [βίντεο]",
+        "url": "https://www.efsyn.gr/ellada/1440514/triti-nyhta-agonias-sti-dytiki-attiki-floges-poliorkoyn-kryo-pigadi-kai-agio-nektario-nees-ekkenoseis-vinteo/",
+        "snippet": "Ποια είναι τα «κόκκινα» μέτωπα - Σπίτια παραδόθηκαν στις φλόγες στο Κρύο Πηγάδι - Σε ισχύ κυκλοφοριακές ρυθμίσεις.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ευάγγελος Βενιζέλος: «Ο Γιάννης Βαρβιτσιώτης ήταν φτιαγμένος από παλιό γερό μέταλλο»",
+          "url": "https://www.efsyn.gr/politiki/1440510/eyaggelos-venizelos-o-giannis-varvitsiotis-itan-ftiagmenos-apo-palio-gero-metallo/",
+          "snippet": "Σε δήλωσή του, εκφράζει τα συλλυπητήρια του στα παιδιά του εκλιπόντος.",
+          "source": "EfSyn"
+        },
         {
           "title": "Όλυμπος: Νεκρός 32χρονος που ανασύρθηκε από το ρέμα Ορλιά",
           "url": "https://www.efsyn.gr/ellada/1440506/olympos-nekros-32hronos-poy-anasyrthike-apo-to-rema-orlia/",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/politiki/1440474/i-karystianoy-diegrapse-ton-thanasi-aygerino-apo-to-komma-yponomeyei-tin-enotita/",
           "snippet": "«Απευθύνομαι με αγάπη σε όλους τους πολίτες και σας ζητώ να περιφρουρείτε την ενότητα για να μεγαλουργήσει η Κοινότητα των Πολιτών».",
           "source": "EfSyn"
-        },
-        {
-          "title": "Τσουκαλάς: Η κυβέρνηση θυμήθηκε το ΕΔΣ που η ίδια υπονόμευσε υποστελεχώνοντάς το",
-          "url": "https://www.efsyn.gr/politiki/1440425/tsoykalas-i-kyvernisi-thymithike-to-eds-poy-i-idia-yponomeyse-ypostelehonontas-to/",
-          "snippet": "«Άλλη μια φορά προσπαθεί να φέρει τους θεσμούς στα μέτρα της», αναφέρει για την κυβέρνηση ο εκπρόσωπος Τύπου του ΠΑΣΟΚ.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -120,9 +120,15 @@
           "source": "NYT World"
         },
         {
-          "title": "Far-Right Leaders Step Up Calls for Expelling Remaining Migrants in Ceuta",
+          "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
           "url": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
-          "snippet": "Spain’s leading far-right politician arrived in the territory on Sunday, fueling tensions there after thousands of migrants entered the exclave last week.",
+          "snippet": "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Pakistan Police Station Bombing Kills at Least 14",
+          "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
+          "snippet": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility.",
           "source": "NYT World"
         },
         {
@@ -180,15 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Improvised Bomb Kills 3 at an Upscale Moscow Restaurant",
-          "url": "https://www.nytimes.com/2026/08/01/world/europe/deadly-bombing-moscow-restaurant.html",
-          "snippet": "Among the victims of the explosion, which also injured 21 people, were a security guard and a woman who the authorities say had arrived with the suspicious package.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Pakistan Police Station Bombing Kills at Least 14",
-          "url": "https://www.nytimes.com/2026/08/02/world/asia/pakistan-police-station-bombing.html",
-          "snippet": "The authorities said the suicide bombing, which killed at least 14 people in the Swat Valley. The Pakistani Taliban claimed responsibility.",
+          "title": "Unraveling the Chaos in Ceuta",
+          "url": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
+          "snippet": "Whatever caused the migrant surge in the Spanish territory, it’s already shaking up European politics.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
-        "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
-        "snippet": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+        "title": "The global memory shortage hits the MacBook Air",
+        "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+        "snippet": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "snippet": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Malaysia is reportedly shutting down Balaji Srinivasan’s Network School",
+          "url": "https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/",
+          "snippet": "Let's see how this \"frontier community for techno-optimists\" is doing ...",
+          "source": "TechCrunch"
+        },
         {
           "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
           "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
           "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Rivian spinoff Also to start delivering e-bikes after months of delays",
-          "url": "https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/",
-          "snippet": "Also has big plans beyond the TM-B. The startup mostly refers to itself as a \"vehicle\" company and has plans to make four-wheel pedal-assist cargo vehicles for Amazon.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Silicon Valley loves young founders. Until it doesn’t.",
-          "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
-          "snippet": "AI tools have democratized the opportunity to build, shortening the timelines of success and enabling more young people to start successful companies without stepping foot inside a Big Tech company.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,36 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ευρωπαϊκό Πρωτάθλημα Πόλο Κ20: Ήττα για την Ελλάδα από την Ισπανία",
-        "url": "https://www.gazzetta.gr/polo/2558681/eyropaiko-protathlima-polo-k20-itta-gia-tin-ellada-apo-tin-ispania",
-        "snippet": "Η εθνική ομάδα νέων γυναικών ηττήθηκε από την Ισπανία με 17-13, όμως με νίκη επί της Ιταλίας πάει απευθείας στα προημιτελικά στο ευρωπαϊκό πρωτάθλημα Κ20 στην πόλη Οέιρας της Πορτογαλίας.",
+        "title": "ΟΦΗ: Παράταση μιας εβδομάδας στη διάθεση των διαρκείας",
+        "url": "https://www.gazzetta.gr/football/superleague/2558683/ofi-paratasi-mias-ebdomadas-sti-diathesi-ton-diarkeias",
+        "snippet": "Ο ΟΦΗ ανακοίνωσε πως η διάθεση των εισιτηρίων διαρκείας για την ερχόμενη... ευρωπαϊκή σεζόν θα συνεχιστεί για ακόμα μια εβδομάδα.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Βιτάλις: ΑΕΚ - Ο Ούγγρος αποχαιρέτησε τους οπαδούς της Γκιόρ",
+          "url": "https://www.gazzetta.gr/football/superleague/2558682/bitalis-aek-o-oyggros-apohairetise-toys-opadoys-tis-gkior",
+          "snippet": "Ο Μίλαν Βιτάλις με story του στα Social Media επί της ουσίας αποχαιρέτησε τους φίλους της Γκιόρ, με τη μεταγραφή του στην ΑΕΚ να φαίνεται πως προχωράει.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο καινούργιος παίκτης της Ζάλγκιρις, η νέα ομάδα του Ντίμσα και οι... κινήσεις στο NBA",
+          "url": "https://www.gazzetta.gr/basketball/2558673/oi-metagrafes-tis-imeras-sto-mpasket",
+          "snippet": "Το νέο μεταγραφικό απόκτημα της Ζάλγκιρις, η επόμενη ομάδα του πρώην παίκτη του ΠΑΟΚ, Τόμας Ντίμσα και οι... κινήσεις στο NBA, ξεχώρισαν στις μεταγραφές της ημέρας στο μπάσκετ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δεν είναι ούτε η Νέα Υόρκη ούτε η Καλιφόρνια: Αυτή είναι η πολιτεία των ΗΠΑ με τους περισσότερους serial killers",
+          "url": "https://www.gazzetta.gr/plus/2558664/den-einai-oyte-i-nea-yorki-oyte-i-kalifornia-ayti-einai-i-politeia-ton-ipa-me-toys",
+          "snippet": "Νέα έρευνα αποκαλύπτει τις αμερικανικές πολιτείες με τη μεγαλύτερη αναλογία κατά συρροή δολοφόνων, με το Ουαϊόμινγκ να βρίσκεται στην κορυφή της λίστας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ευρωπαϊκό Πρωτάθλημα Πόλο Κ20: Ήττα για την Ελλάδα από την Ισπανία",
+          "url": "https://www.gazzetta.gr/polo/2558681/eyropaiko-protathlima-polo-k20-itta-gia-tin-ellada-apo-tin-ispania",
+          "snippet": "Η εθνική ομάδα νέων γυναικών ηττήθηκε από την Ισπανία με 17-13, όμως με νίκη επί της Ιταλίας πάει απευθείας στα προημιτελικά στο ευρωπαϊκό πρωτάθλημα Κ20 στην πόλη Οέιρας της Πορτογαλίας.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Παναθηναϊκός: Ξεκίνησε η προετοιμασία της Κ15",
           "url": "https://www.gazzetta.gr/football/superleague/2558680/panathinaikos-xekinise-i-proetoimasia-tis-k15",
@@ -357,30 +381,6 @@
           "title": "Υπόθεση Κυψέλης: Η ομολογία του 26χρονου και τα στοιχεία που «δένουν» την έρευνα για τη δολοφονία της 38χρονης Βρετανίδας",
           "url": "https://www.gazzetta.gr/plus/2558670/ypothesi-kypselis-i-omologia-toy-26hronoy-kai-ta-stoiheia-poy-denoyn-tin-ereyna-gia-ti",
           "snippet": "Η ομολογία του 26χρονου Αφγανού έφερε νέα δεδομένα στην υπόθεση της 38χρονης Βρετανίδας, αποκαλύπτοντας τον ρόλο του στη μεταφορά της βαλίτσας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πένραϊς: «Η Μπέρνλι ενδιαφέρεται για τον μπακ της ΑΕΚ», γράφουν στην Αγγλία",
-          "url": "https://www.gazzetta.gr/football/superleague/2558669/penrais-i-mprernli-endiaferetai-gia-ton-mpak-tis-aek-grafoyn-stin",
-          "snippet": "Όπως υποστηρίζουν στην Αγγλία, η Μπέρνλι ενδιαφέρεται για την περίπτωση του αριστερού μπακ της ΑΕΚ, Τζέιμς Πένραϊς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αντεμπάγιο για Αντετοκούνμπο: «Έχουμε την ίδια νοοτροπία, στόχος το πρωτάθλημα»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2558668/antempagio-gia-antetokoynmpo-ehoyme-tin-idia-nootropia-stohos-protathlima",
-          "snippet": "Ο Μπαμ Αντεμπάγιο πραγματοποίησε δηλώσεις και αναφέρθηκε στη μεταγραφή του Γιάννη Αντετοκούνμπο στους Χιτ, ενώ μίλησε και για τον στόχο της ομάδας που είναι το πρωτάθλημα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάρμα - Ηρακλής 1-1: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/superleague/2558667/parma-iraklis-1-1-ta-highlights-toy-agona",
-          "snippet": "Τα γκολ και οι καλύτερες φάσεις του φιλικού αγώνα του Ηρακλή με την Πάρμα που έληξε ισόπαλος 1-1.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αϊντχόφεν - Άλκμααρ 0-4: Κατέκτησε θριαμβευτικά το Super Cup η AZ",
-          "url": "https://www.gazzetta.gr/football/2558666/ainthofen-alkmaar-0-4-katektise-thriambeytika-super-cup-i-az",
-          "snippet": "Η Άλκμααρ διέλυσε με 4-0 την Αϊντχόφεν στο «Philips Stadion» και ξεκίνησε τη σεζόν με τον πιο επιβλητικό τρόπο, κατακτώντας το Super Cup.",
           "source": "Gazzetta"
         }
       ]
