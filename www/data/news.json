@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-03T01:59:22.728659+00:00",
+  "updated": "2026-08-03T06:52:32.170085+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Τρίτη νύχτα αγωνίας στη Δυτική Αττική: Φλόγες πολιορκούν Κρύο Πηγάδι και Άγιο Νεκτάριο – Νέες εκκενώσεις [βίντεο]",
-        "url": "https://www.efsyn.gr/ellada/1440514/triti-nyhta-agonias-sti-dytiki-attiki-floges-poliorkoyn-kryo-pigadi-kai-agio-nektario-nees-ekkenoseis-vinteo/",
-        "snippet": "Ποια είναι τα «κόκκινα» μέτωπα - Σπίτια παραδόθηκαν στις φλόγες στο Κρύο Πηγάδι - Σε ισχύ κυκλοφοριακές ρυθμίσεις.",
+        "title": "Τι απαντάει η «Εστία» μετά τη θύελλα για το «δείπνο συγκυβέρνησης»",
+        "url": "https://www.efsyn.gr/politiki/1440664/gerapetritis-diamantopoyloy-hristodoylakis-diapseydoyn-to-mystiko-deipno-kai-i-estia-epanerhetai/",
+        "snippet": "«Θα απαντήσουμε συγκεκριμένα. Με γραπτά στοιχεία [...] Και τότε θα δούμε ποιος λέει ψέματα και ποιος την αλήθεια».",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Ευάγγελος Βενιζέλος: «Ο Γιάννης Βαρβιτσιώτης ήταν φτιαγμένος από παλιό γερό μέταλλο»",
-          "url": "https://www.efsyn.gr/politiki/1440510/eyaggelos-venizelos-o-giannis-varvitsiotis-itan-ftiagmenos-apo-palio-gero-metallo/",
-          "snippet": "Σε δήλωσή του, εκφράζει τα συλλυπητήρια του στα παιδιά του εκλιπόντος.",
+          "title": "Αργολίδα: Νεκρός και σε προχωρημένη σήψη εντοπίστηκε ο 58χρονος προϊστάμενος του ΚΕΔΑΣΥ",
+          "url": "https://www.efsyn.gr/ellada/1440636/argolida-nekros-kai-se-prohorimeni-sipsi-entopistike-o-58hronos-proistamenos-toy-kedasy/",
+          "snippet": "Δεν έχουν γίνει γνωστά ακόμα τα αίτια θανάτου. Δύο συλλήψεις.",
           "source": "EfSyn"
         },
         {
-          "title": "Όλυμπος: Νεκρός 32χρονος που ανασύρθηκε από το ρέμα Ορλιά",
-          "url": "https://www.efsyn.gr/ellada/1440506/olympos-nekros-32hronos-poy-anasyrthike-apo-to-rema-orlia/",
-          "snippet": "Στην επιχείρηση ανάσυρσης συμμετείχαν 14 πυροσβέστες.",
+          "title": "Λαοί μυρμηγκιών",
+          "url": "https://www.efsyn.gr/stiles/1440649/laoi-myrmigkion/",
+          "snippet": "Κανείς σήμερα δεν θα μπορούσε να υποστηρίξει την αναγκαία και στενή σχέση μεταξύ της δημοκρατίας και της οικονομικής ανάπτυξης και, αντίστοιχα, μεταξύ της αστικής δικτατορίας και του αυταρχικού καθεστώτος από τη μια πλευρά και της ύφεσης ή της οικονομικής στασιμότητας από την άλλ",
           "source": "EfSyn"
         },
         {
-          "title": "Σύγκρουση ελικοπτέρων στην Ψάθα: Το χρονικό της τραγωδίας – Βαθιά θλίψη για τους δύο νεκρούς [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1440502/sygkroysi-elikopteron-stin-psatha-to-hroniko-tis-tragodias-vathia-thlipsi-gia-toys-dyo-nekroys-vinteo/",
-          "snippet": "Τη ζωή τους έχασαν ο Έλληνας συντονιστής και ο Δανός χειριστής που επέβαιναν στο μοιραίο ελικόπτερο - Συνεχίζονται οι έρευνες για τα ακριβή αίτια.",
+          "title": "Ο Μητσοτάκης χωρίς ντροπή",
+          "url": "https://www.efsyn.gr/stiles/1440637/o-mitsotakis-horis-ntropi/",
+          "snippet": "Στην ανάρτησή του υπερασπίστηκε, όπως ήταν αναμενόμενο, το νομοσχέδιο που έφερε το υπουργείο Πολιτισμού και έγραψε ότι η Ανώνυμη Εταιρεία είναι «αποκλειστικά δημόσιου συμφέροντος»",
           "source": "EfSyn"
         },
         {
-          "title": "ΝΔ για Ιωάννη Βαρβιτσιώτη: Από τις πιο εμβληματικές μορφές της παράταξης και του δημόσιου βίου της χώρας",
-          "url": "https://www.efsyn.gr/politiki/1440497/nd-gia-ioanni-varvitsioti-apo-tis-pio-emvlimatikes-morfes-tis-parataxis-kai-toy-dimosioy-vioy-tis-horas/",
-          "snippet": "«Στην πολυσήμαντη διαδρομή του, ο Ιωάννης Βαρβιτσιώτης ανέλαβε κορυφαίες κυβερνητικές, κοινοβουλευτικές και κομματικές ευθύνες».",
+          "title": "Massive Attack: Απαγόρευση εισόδου στη Σιγκαπούρη μετά από παλαιστινιακή σημαία σε συναυλία – Η απάντησή τους",
+          "url": "https://www.efsyn.gr/tehnes/1440645/massive-attack-apagoreysi-eisodoy-sti-sigkapoyri-meta-apo-palaistiniaki-simaia-se-synaylia-i-apantisi-toys/",
+          "snippet": "«Είμαστε περήφανοι».",
           "source": "EfSyn"
         },
         {
-          "title": "Αιχμηρή απάντηση Αυγερινού σε Καρυστιανού για τη διαγραφή του: «Μωραίνει Κύριος ὃν βούλεται ἀπολέσαι»",
-          "url": "https://www.efsyn.gr/politiki/1440495/aihmiri-apantisi-aygerinoy-se-karystianoy-gia-ti-diagrafi-toy-morainei-kyrios-%e1%bd%83n-voyletai-%e1%bc%80polesai/",
-          "snippet": "Η ανάρτηση συνοδεύεται από τη φωτογραφία του βιβλίου του Αντώνη Σαμαράκη «Ζητείται Ελπίς».",
+          "title": "Meteo: Σε δύο βασικές ζώνες οι ενεργές εστίες στη Δυτική Αττική – Τι δείχνει εικόνα από δορυφόρο",
+          "url": "https://www.efsyn.gr/ellada/1440655/meteo-se-dyo-vasikes-zones-oi-energes-esties-sti-dytiki-attiki-ti-deihnei-eikona-apo-doryforo/",
+          "snippet": "Τα νεότερα δορυφορικά δεδομένα που επεξεργάστηκε η ομάδα του Εθνικού Αστεροσκοπείου Αθηνών/meteo.gr.",
           "source": "EfSyn"
         },
         {
-          "title": "Data Poisoning: Η νέα μάχη της παγκόσμιας προπαγάνδας",
-          "url": "https://www.efsyn.gr/kosmos/1440351/data-poisoning-i-nea-mahi-tis-pagkosmias-propagandas/",
-          "snippet": "Ενας από τους πρωταγωνιστές του σκανδάλου Cambridge Analytica έχει αναλάβει να επηρεάζει τις απαντήσεις που δίνουν τα Μεγάλα Γλωσσικά Μοντέλα.",
+          "title": "Press Point: Εγινε το δείπνο Γιώργου Γεραπετρίτη και Αννας Διαμαντοπούλου;",
+          "url": "https://www.efsyn.gr/media/1440622/press-point-egine-to-deipno-giorgoy-gerapetriti-kai-annas-diamantopoyloy/",
+          "snippet": "Το πρωτοσέλιδο της «Εστίας» χθες, με ρεπορτάζ του Μανώλη Κοττάκη, έκανε αίσθηση, αλλά έφερε κι ένα σωρό διαψεύσεις. Τίτλος: «Δείπνο Γεραπετρίτη - Διαμαντοπούλου για συγκυβέρνηση παραγραφής!»",
           "source": "EfSyn"
         },
         {
-          "title": "Τι κρύβει το ρεκόρ κερδών των τραπεζών",
-          "url": "https://www.efsyn.gr/oikonomia/1440347/ti-kryvei-to-rekor-kerdon-ton-trapezon/",
-          "snippet": "Πάνω από 2,5 δισ. ευρώ καθαρών κερδών κατέγραψαν το πρώτο εξάμηνο του 2026 οι ελληνικές τράπεζες ● Ο δείκτης απόδοσης κεφαλαίου για τους μετόχους φτάνει στο εντυπωσιακό 15%-16%.",
+          "title": "Ενα… ΠΑΣΟΚικό μήλο στον κύριο πρέσβη",
+          "url": "https://www.efsyn.gr/politiki/1440647/to-doro-ton-agroton-zagoras-ston-presvi-tis-notias-koreas/",
+          "snippet": "Στο φηµισµένο βουνό των Κενταύρων, το Πήλιο, βρέθηκε ο πρέσβης της Νότιας Κορέας, στο πλαίσιο διήµερης ιδιωτικής επίσκεψης στην περιοχή. Ο Ju-Seong Lim έτυχε θερµής φιλοξενίας από τους ντόπιους κατοίκους και τοπικούς παράγοντες, οι οποίοι τον ξενάγησαν στα όµορφα χωριά και του έδ",
           "source": "EfSyn"
         },
         {
-          "title": "Μητσοτάκης για Ιωάννη Βαρβιτσιώτη: «Σφράγισε όχι μόνο τη διαδρομή της ΝΔ, αλλά την ίδια την εξέλιξη της Μεταπολίτευσης»",
-          "url": "https://www.efsyn.gr/politiki/1440487/mitsotakis-gia-ioanni-varvitsioti-sfragise-ohi-mono-ti-diadromi-tis-nd-alla-tin-idia-tin-exelixi-tis-metapoliteysis/",
-          "snippet": "«Αποχαιρετώ, σήμερα, με συγκίνηση μία προσωπικότητα η οποία σφράγισε όχι μόνο τη διαδρομή της Νέας Δημοκρατίας, αλλά την ίδια την εξέλιξη της Μεταπολίτευσης. Σταθερός, αποφασιστικός και διαρκώς προσηλωμένος στη θεσμική ακεραιότητα, ο Ιωάννης Βαρβιτσιώτης υπήρξε πρωταγωνιστής σε κ",
+          "title": "Μόνο με νέα ταυτότητα ή διαβατήριο τα ταξίδια στο εξωτερικό από σήμερα – Χιλιάδες ραντεβού στα αστυνομικά τμήματα",
+          "url": "https://www.efsyn.gr/ellada/1440623/mono-me-nea-taytotita-i-diavatirio-ta-taxidia-sto-exoteriko-apo-simera-hiliades-rantevoy-sta-astynomika-tmimata/",
+          "snippet": "«Χαμός» στα αστυνομικά τμήματα για την έκδοση της νέας ταυτότητας. Ενίσχυση των Γραφείων Έκδοσης Δελτίων Ταυτότητας και διεύρυνση του ωραρίου από το υπουργείο Προστασίας του Πολίτη για καλύτερη εξυπηρέτηση.",
           "source": "EfSyn"
         },
         {
-          "title": "Στάχτη κι αποκαΐδια στο Πόρτο Γερμενό: Εικόνες καταστροφής μετά το πέρασμα της πύρινης λαίλαπας",
-          "url": "https://www.efsyn.gr/ellada/1440447/stahti-ki-apokaidia-sto-porto-germeno-eikones-katastrofis-meta-to-perasma-tis-pyrinis-lailapas/",
-          "snippet": "Τραγικός είναι ο απολογισμός της τεράστιας φωτιάς που καίει ανεξέλεγκτη στο Πόρτο Γερμενό.",
+          "title": "Ποιος αναλαμβάνει την επικοινωνία της Μαρίας Καρυστιανού με τα ΜΜΕ",
+          "url": "https://www.efsyn.gr/politiki/1440640/poios-analamvanei-tin-epikoinonia-tis-marias-karystianoy-me-ta-mme/",
+          "snippet": "Η Μαρία Γρατσία, στενή συνεργάτιδα και της απόλυτης εµπιστοσύνης της Μαρίας Καρυστιανού, αναλαµβάνει – όπως έµαθα από την «Ελπίδα» – και την επικοινωνία µε τους εκπροσώπους του Τύπου. Μετά την καρατόµηση του δηµοσιογράφου Θανάση Αυγερινού, (και) τα θέµατα για τα ΜΜΕ θα χειρίζεται",
           "source": "EfSyn"
         },
         {
-          "title": "220 αγροτοδασικές πυρκαγιές μέσα σε μία εβδομάδα – «Διανύουμε τις δυσκολότερες ημέρες του καλοκαιριού»",
-          "url": "https://www.efsyn.gr/ellada/1440484/220-agrotodasikes-pyrkagies-mesa-se-mia-evdomada-dianyoyme-tis-dyskoloteres-imeres-toy-kalokairioy/",
-          "snippet": "Πραγματοποιήθηκαν 33 συλλήψεις σε πέντε ημέρες, από τις οποίες οι 30 αφορούν εμπρησμό από αμέλεια και οι 3 από πρόθεση.",
+          "title": "Ουκρανικές επιθέσεις στη Ρωσία: Τουλάχιστον 8 νεκροί, 13χρονο κορίτσι σκοτώθηκε σε παιδότοπο",
+          "url": "https://www.efsyn.gr/kosmos/1440626/oykranikes-epitheseis-sti-rosia-toylahiston-8-nekroi-13hrono-koritsi-skotothike-se-paidotopo/",
+          "snippet": "Από την επίθεση με drone σκοτώθηκε ένα 13χρονο κορίτσι και τραυματίστηκαν άλλα δύο παιδιά, ενώ συνολικά οι νεκροί είναι οκτώ.",
           "source": "EfSyn"
         },
         {
-          "title": "Φυλακές – Ορφανοτροφείο Αίγινας: Τόπος μνήμης, όχι… φιστικιού",
-          "url": "https://www.efsyn.gr/ellada/1440342/fylakes-orfanotrofeio-aiginas-topos-mnimis-ohi-fistikioy/",
-          "snippet": "Η «Εφ.Συν.» σάς ξεναγεί στην καθηλωτική ιστορία του επιβλητικού μνημείου δίπλα στο λιμάνι της Αίγινας • Υπήρξε μία από τις πιο σκληρές φυλακές του τόπου, άλλοτε Ορφανοτροφείο υπό την αιγίδα του Καποδίστρια, και τώρα παραχωρείται για «ψίχουλα» σε ιδιώτες που θα αλλοιώσουν τη φυσιο",
+          "title": "Περιμένει Εσε, θέλει Μπραγκάνσα",
+          "url": "https://www.efsyn.gr/athlitismos/1440612/perimenei-ese-thelei-mpragkansa/",
+          "snippet": "Ο Μεντιλίμπαρ πάει στις διπλές αναμετρήσεις με τη Ναϊμέχεν, με μοναδικό σέντερ φορ τον Ελ Κααμπί ● Εκτός λίστας κι ο Στεφάν Ορτέγκα",
           "source": "EfSyn"
         },
         {
-          "title": "Ιράν: «Στο τελικό στάδιο» οι διαπραγματεύσεις με Ομάν για το Ορμούζ",
-          "url": "https://www.efsyn.gr/kosmos/1440481/iran-sto-teliko-stadio-oi-diapragmateyseis-me-oman-gia-to-ormoyz/",
-          "snippet": "Η εν λόγω δήλωση ήρθε ⁠αφότου οι ΗΠΑ ανακοίνωσαν ότι ανέστειλαν τις επιθέσεις εναντίον του Ιράν για να δοθεί χώρος στη διπλωματία.",
+          "title": "Νίκη των συλλογικοτήτων στα Χανιά: Τέλος στα σχέδια ξενοδοχοποίησης στον λόφο Καστέλλι",
+          "url": "https://www.efsyn.gr/tehnes/1440591/niki-ton-syllogikotiton-sta-hania-telos-sta-shedia-xenodohopoiisis-ston-lofo-kastelli/",
+          "snippet": "Το Πολυτεχνείο Κρήτης δεν ανανέωσε τη σύμβαση. Η Belvedere φεύγει, ο δημόσιος χαρακτήρας τους διασώζεται. «Ο ομόψυχος αγώνας της πόλης των Χανίων, παράδειγμα και γι’ άλλες νικηφόρες μάχες πάνω σε θέματα που ταλανίζουν τον τόπο μας» δηλώνει στην «Εφ.Συν.» η Μαρία Ανδρεαδάκη-Βλαζάκ",
           "source": "EfSyn"
         },
         {
-          "title": "Στο Συντονιστικό της Πολιτικής Προστασίας Μητσοτάκης και Τασούλας",
-          "url": "https://www.efsyn.gr/politiki/1440476/sto-syntonistiko-tis-politikis-prostasias-mitsotakis-kai-tasoylas/",
-          "snippet": "Ενημερώθηκε για τα μέτωπα των πυρκαγιάς στην Αττικοβοιωτία, καθώς και για το τραγικό συμβάν της σύγκρουσης των δύο ελικοπτέρων.",
+          "title": "ΑΒ Βασιλόπουλος: Η διαδρομή από τη διάσωση τροφίμων σε 17 εκατ. γεύματα",
+          "url": "https://www.efsyn.gr/oikonomia/1439465/av-vasilopoylos-i-diadromi-apo-ti-diasosi-trofimon-se-17-ekat-geymata/",
+          "snippet": "Το ESG Report 2025 καταγράφει πώς ένα πανελλαδικό δίκτυο καταστημάτων συνδέεται με την επισιτιστική ανασφάλεια, την παιδική φροντίδα, την υγεία και τον εθελοντισμό.",
           "source": "EfSyn"
         },
         {
-          "title": "Η Καρυστιανού διέγραψε τον Θανάση Αυγερινό από το κόμμα: «Υπονομεύει την ενότητα»",
-          "url": "https://www.efsyn.gr/politiki/1440474/i-karystianoy-diegrapse-ton-thanasi-aygerino-apo-to-komma-yponomeyei-tin-enotita/",
-          "snippet": "«Απευθύνομαι με αγάπη σε όλους τους πολίτες και σας ζητώ να περιφρουρείτε την ενότητα για να μεγαλουργήσει η Κοινότητα των Πολιτών».",
+          "title": "Πρώτο θέμα στα μεγαλύτερα διεθνή ΜΜΕ η αεροπορική τραγωδία στην Ψάθα [εικόνες]",
+          "url": "https://www.efsyn.gr/media/1440590/proto-thema-sta-megalytera-diethni-mme-i-aeroporiki-tragodia-stin-psatha-eikones/",
+          "snippet": "Reuters, BBC, Sky News, Telegraph, Al Jazeera, Independent, κ.ά. μετέδωσαν εικόνες και πληροφορίες από τη δραματική επιχείρηση.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Unraveling the Chaos in Ceuta",
-          "url": "https://www.nytimes.com/2026/08/02/world/spain-morocco-migration-iran.html",
-          "snippet": "Whatever caused the migrant surge in the Spanish territory, it’s already shaking up European politics.",
+          "title": "As France’s Elders Swelter in the Heat, Postal Workers Come to the Rescue",
+          "url": "https://www.nytimes.com/2026/08/03/world/europe/france-postal-workers-older-people-heat.html",
+          "snippet": "To help prevent heat-related deaths, the French government has asked postal workers to check in on older people.",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΟΦΗ: Παράταση μιας εβδομάδας στη διάθεση των διαρκείας",
-        "url": "https://www.gazzetta.gr/football/superleague/2558683/ofi-paratasi-mias-ebdomadas-sti-diathesi-ton-diarkeias",
-        "snippet": "Ο ΟΦΗ ανακοίνωσε πως η διάθεση των εισιτηρίων διαρκείας για την ερχόμενη... ευρωπαϊκή σεζόν θα συνεχιστεί για ακόμα μια εβδομάδα.",
+        "title": "Παναθηναϊκός: Το υπογκρούπ για την κλήρωση των playoffs του Conference League",
+        "url": "https://www.gazzetta.gr/football/europa-conference-league/2558720/panathinaikos-ypogkroyp-gia-tin-klirosi-ton-playoffs-toy",
+        "snippet": "Ο Παναθηναϊκός έμαθε τους υποψήφιους αντιπάλους του στα playoffs του Europa Conference League, λίγο πριν την κλήρωση που θα πραγματοποιηθεί σήμερα (3/8,15:00).",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Βιτάλις: ΑΕΚ - Ο Ούγγρος αποχαιρέτησε τους οπαδούς της Γκιόρ",
-          "url": "https://www.gazzetta.gr/football/superleague/2558682/bitalis-aek-o-oyggros-apohairetise-toys-opadoys-tis-gkior",
-          "snippet": "Ο Μίλαν Βιτάλις με story του στα Social Media επί της ουσίας αποχαιρέτησε τους φίλους της Γκιόρ, με τη μεταγραφή του στην ΑΕΚ να φαίνεται πως προχωράει.",
+          "title": "ΠΑΟΚ: Οι πιθανοί αντίπαλοι στα Playoffs Europa και Conference League",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558719/paok-oi-pithanoi-antipaloi-sta-playoffs-europa-kai-conference-league",
+          "snippet": "Ο ΠΑΟΚ έμαθε τα υπογκούπ από τα οποία θα προκύψει ο πιθανός αντίπαλος στα Playoffs Europa και Conference League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο καινούργιος παίκτης της Ζάλγκιρις, η νέα ομάδα του Ντίμσα και οι... κινήσεις στο NBA",
-          "url": "https://www.gazzetta.gr/basketball/2558673/oi-metagrafes-tis-imeras-sto-mpasket",
-          "snippet": "Το νέο μεταγραφικό απόκτημα της Ζάλγκιρις, η επόμενη ομάδα του πρώην παίκτη του ΠΑΟΚ, Τόμας Ντίμσα και οι... κινήσεις στο NBA, ξεχώρισαν στις μεταγραφές της ημέρας στο μπάσκετ.",
+          "title": "ΟΦΗ: Το υπογκρούπ πριν την κλήρωση για τα playoffs του Europa League",
+          "url": "https://www.gazzetta.gr/football/europa-league/2558718/ofi-ypogkroyp-prin-tin-klirosi-gia-ta-playoffs-toy-europa-league",
+          "snippet": "Ο ΟΦΗ έμαθε το υπογκρούπ στο οποίο θα βρίσκεται στην κλήρωση των playoffs του Europa League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Δεν είναι ούτε η Νέα Υόρκη ούτε η Καλιφόρνια: Αυτή είναι η πολιτεία των ΗΠΑ με τους περισσότερους serial killers",
-          "url": "https://www.gazzetta.gr/plus/2558664/den-einai-oyte-i-nea-yorki-oyte-i-kalifornia-ayti-einai-i-politeia-ton-ipa-me-toys",
-          "snippet": "Νέα έρευνα αποκαλύπτει τις αμερικανικές πολιτείες με τη μεγαλύτερη αναλογία κατά συρροή δολοφόνων, με το Ουαϊόμινγκ να βρίσκεται στην κορυφή της λίστας.",
+          "title": "Πύρινος εφιάλτης στη Δυτική Αττική: Στην Αγία Σκέπη μπήκε η φωτιά – Νέο 112 για εκκενώσεις περιοχών",
+          "url": "https://www.gazzetta.gr/plus/2558717/pyrinos-efialtis-sti-dytiki-attiki-stin-agia-skepi-mpike-i-fotia-neo-112-gia",
+          "snippet": "Οι ενεργές εστίες το πρωί της Δευτέρας στη Δυτική Αττική.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ευρωπαϊκό Πρωτάθλημα Πόλο Κ20: Ήττα για την Ελλάδα από την Ισπανία",
-          "url": "https://www.gazzetta.gr/polo/2558681/eyropaiko-protathlima-polo-k20-itta-gia-tin-ellada-apo-tin-ispania",
-          "snippet": "Η εθνική ομάδα νέων γυναικών ηττήθηκε από την Ισπανία με 17-13, όμως με νίκη επί της Ιταλίας πάει απευθείας στα προημιτελικά στο ευρωπαϊκό πρωτάθλημα Κ20 στην πόλη Οέιρας της Πορτογαλίας.",
+          "title": "Eρυθρός Αστέρας: Αποχωρεί ο Κάλινιτς",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2558716/erythros-asteras-apohorei-o-kalinits",
+          "snippet": "O Nίκολα Κάλινιτς όπως όλα δείχνουν θα αποτελέσει παρελθόν από τον Ερυθρό Αστέρα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Ξεκίνησε η προετοιμασία της Κ15",
-          "url": "https://www.gazzetta.gr/football/superleague/2558680/panathinaikos-xekinise-i-proetoimasia-tis-k15",
-          "snippet": "Η Κ15 του Παναθηναϊκού ξεκίνησε την προετοιμασία της ενόψει της νέας σεζόν με αλλαγές σε ρόστερ και τεχνική ηγεσία.",
+          "title": "Κυψέλη: Τη σκότωσε, την έβαλε στη βαλίτσα και της έκλεψε τις κάρτες",
+          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
+          "snippet": "Για την υπόθεση συνελήφθη ένας 26χρονος, ο οποίος ομολόγησε την πράξη του. Πώς έφτασαν οι Αρχές στον εντοπισμό του δράστης της πολύκροτης υπόθεσης.",
           "source": "Gazzetta"
         },
         {
-          "title": "Eurobasket U18: Πρωταθλήτρια Ευρώπης η Σλοβενία!",
-          "url": "https://www.gazzetta.gr/basketball/2558679/eurobasket-u18-protathlitria-eyropis-i-slobenia",
-          "snippet": "Πρωταθλήτρια Ευρώπης στο Eurobasket U18 η Σλοβενία, η οποία κέρδισε την Ιταλία στον τελικό με 88-71.",
+          "title": "Απελπισμένος κάτοικος μετά την αναζωπύρωση στο Πόρτο Γερμενό: «Το είδατε το ελικόπτερο; Έριξε μία και έφυγε» (vid)",
+          "url": "https://www.gazzetta.gr/plus/2558715/apelpismenos-katoikos-meta-tin-anazopyrosi-sto-porto-germeno-eidate-elikoptero-erixe",
+          "snippet": "Η φωτιά αναζωπύρωσε στο Πόρτο Γερμενό και απειλεί - ξανά - τα σπίτια των κατοίκων, οι οποίοι είναι απελπισμένοι με την κατάσταση.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λεβαντόφσκι: «Ντοπιέτα» στο MLS για τον Πολωνό (vid)",
-          "url": "https://www.gazzetta.gr/football/mls/2558678/lebantofski-ntopieta-sto-mls-gia-ton-polono-vid",
-          "snippet": "Ο Ρόμπερτ Λεβαντόφσκι πέτυχε και τα δύο γκολ στη νίκη των Σικάγο Φάιρ επί της Σάρλοτ (2-1) και συνεχίζει να φορτώνει με γκολ τα αντίπαλα δίχτυα και στις ΗΠΑ.",
+          "title": "Ολυμπιακός: Στα 10 εκατομμύρια ευρώ η πρόταση για Μπραγκάντσα, σύμφωνα με τη Record",
+          "url": "https://www.gazzetta.gr/football/superleague/2558714/olympiakos-sta-10-ekatommyria-eyro-i-protasi-gia-mpragkantsa-symfona",
+          "snippet": "Σύμφωνα με ρεπορτάζ της Record, ο Ολυμπιακός φέρεται να προσφέρει περί τα 10 εκατομμύρια ευρώ στη Σπόρτινγκ για την απόκτηση του Μπραγκάντσα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Οι δύο νεκροί και μια χώρα σε πύρινο κλοιό: Πάνω από 111.000 στρέμματα καμένης γης, συνεχίζονται οι μάχες σε Αττικοβοιωτία και Κεφαλονιά",
-          "url": "https://www.gazzetta.gr/plus/2558677/akoma-dyo-nekroi-kai-mia-hora-se-pyrino-kloio-pano-apo-111000-stremmata-kamenis-gis",
-          "snippet": "Πέντε άνθρωποι έχασαν τη ζωή τους μέσα σε λίγες ημέρες από τις πυρκαγιές, ενώ οι πυροσβεστικές δυνάμεις συνεχίζουν τη μάχη σε μεγάλα μέτωπα.",
+          "title": "Τίμπεργουλβς: Στο... στόχαστρο ο Κουμίνγκα",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558712/timpergoylbs-sto-stohastro-o-koymingka",
+          "snippet": "Οι Τίμπεργουλβς έχουν στο... στόχαστρο τον Τζόναθαν Κουμίνγκα που παραμένει ελεύθερος΄.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βενγκέρ: Η υπόθεση Ινφαντίνο προκάλεσε αντιδράσεις και εις βάρος του Αλσατού",
-          "url": "https://www.gazzetta.gr/football/mundial/2558676/bengker-i-ypothesi-infantino-prokalese-antidraseis-kai-eis-baros-toy",
-          "snippet": "Ο Αρσέν Βενγκέρ έχει δεχθεί «επίθεση» για τη στάση του στο σχέδιο Ινφαντίνο για το Μουντιάλ, που όπως φαίνεται συμπαρασύρει και τη δική του φήμη.",
+          "title": "ΑΕΚ: Οι πιθανοί αντίπαλοι της Ένωσης στα Playoffs του Champions League",
+          "url": "https://www.gazzetta.gr/football/champions-league/2558711/aek-oi-pithanoi-antipaloi-tis-enosis-sta-playoffs-toy-champions",
+          "snippet": "Η ΑΕΚ μαθαίνει το μεσημέρι (3/8, 13:00) ζευγάρι ή αντίπαλο για τα Playoffs του Champions League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λιβάι Γκαρσία: Παναθηναϊκός - Στον πάγκο έμεινε ο φορ που θέλει το τριφύλλι",
-          "url": "https://www.gazzetta.gr/football/superleague/2558675/libai-gkarsia-panathinaikos-ston-pagko-emeine-o-poy-thelei-trifylli",
-          "snippet": "Ο Λιβάι Γκαρσία, ο οποίος είναι ψηλά στη λίστα του Παναθηναϊκού, δεν αγωνίστηκε ούτε λεπτό στο ματς της Σπαρτάκ Μόσχας.",
+          "title": "Ολοι έχουμε φερμουάρ ΥΚΚ: Η ιστορία της αθέατης ιαπωνικής αυτοκρατορίας",
+          "url": "https://www.gazzetta.gr/plus/2558703/oloi-ehoyme-fermoyar-ykk-i-istoria-tis-atheatis-iaponikis-aytokratorias",
+          "snippet": "φς",
           "source": "Gazzetta"
         },
         {
-          "title": "Ελ Αραμπί: «Χαρούμενος που επέστρεψα στην Αθήνα, νέα πρόκληση η Μαρκό»",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2558674/el-arampi-haroymenos-poy-epestrepsa-stin-athina-nea-proklisi-i-marko",
-          "snippet": "Οι πρώτες δηλώσεις του Γιουσέφ Ελ Αραμπί μετά την ολοκλήρωση της μεταγραφής του στη Μαρκό.",
+          "title": "Αντρέ Λουίζ: Οριστική η πώλησή του στην Κάνσας Σίτι",
+          "url": "https://www.gazzetta.gr/football/superleague/2558710/antre-loyiz-oristiki-i-polisi-toy-stin-kansas-siti",
+          "snippet": "Παίκτης της Κάνσας Σίτι πρέπει να θεωρείται ο Αντρέ Λουίζ, καθώς η πώληση του Βραζιλιάνου από τον Ολυμπιακό στους Αμερικάνους ολοκληρώθηκε.",
           "source": "Gazzetta"
         },
         {
-          "title": "Φωτιά Πόρτο Γερμενό: Μέλη της θύρας 13 ενίσχυσαν πυροσβέστες και πυρόπληκτους",
-          "url": "https://www.gazzetta.gr/football/superleague/2558672/fotia-porto-germeno-meli-tis-thyras-13-enishysan-pyrosbestes-kai",
-          "snippet": "Οι φίλοι του Παναθηναϊκού στάθηκαν κοντά στους πυροσβέστες, αλλά και σε ανθρώπους που επλήγησαν από τη μανία της φωτιάς.",
+          "title": "Τραγωδία στο Ισραήλ: Επιζών της 7ης Οκτωβρίου αυτοκτόνησε στον τάφο της συντρόφου του που δολοφονήθηκε στο μουσικό φεστιβάλ Nova",
+          "url": "https://www.gazzetta.gr/plus/2558707/tragodia-sto-israil-epizon-tis-7is-oktobrioy-aytoktonise-ston-tafo-tis-syntrofoy-toy",
+          "snippet": "30χρονος Ισραηλινός έβαλε τέλος στη ζωή του πάνω στον τάφο της συντρόφου του που δολοφονήθηκε στο φεστιβάλ Nova.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βέλλιος: Ανακοινώθηκε από ομάδα έκπληξη",
-          "url": "https://www.gazzetta.gr/football/2558671/bellios-anakoinothike-apo-omada-ekplixi",
-          "snippet": "Ο 34χρονος επιθετικός, Απόστολος Βέλλιος, ανακοινώθηκε από τη φινλανδική Σεϊναγιόεν και συνεχίζει την περιπλάνησή του στα γήπεδα του κόσμου.",
+          "title": "Γκρίζλις: Γίνεται free agent ο Ράσελ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2558708/gkrizlis-ginetai-free-agent-o-rasel",
+          "snippet": "O Nτ' Άντζελο Ράσελ ετοιμάζεται να γίνει free agent και να ψάξει τον επόμενο σταθμό της καριέρας του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Υπόθεση Κυψέλης: Η ομολογία του 26χρονου και τα στοιχεία που «δένουν» την έρευνα για τη δολοφονία της 38χρονης Βρετανίδας",
-          "url": "https://www.gazzetta.gr/plus/2558670/ypothesi-kypselis-i-omologia-toy-26hronoy-kai-ta-stoiheia-poy-denoyn-tin-ereyna-gia-ti",
-          "snippet": "Η ομολογία του 26χρονου Αφγανού έφερε νέα δεδομένα στην υπόθεση της 38χρονης Βρετανίδας, αποκαλύπτοντας τον ρόλο του στη μεταφορά της βαλίτσας.",
+          "title": "Ο τραγικός θάνατος του μεγάλου ρεμπέτη Γιάννη Παπαϊωάννου",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Συγκλονιστικό βίντεο καταγράφει τη σύγκρουση δύο πυροσβεστικών ελικοπτέρων στην Ψάθα. Σε πλήρη εξέλιξη μεγάλη επιχείρηση διάσωσης.",
           "source": "Gazzetta"
         }
       ]
