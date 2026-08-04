@@ -1,16 +1,22 @@
 {
-  "updated": "2026-08-03T20:56:10.872559+00:00",
+  "updated": "2026-08-04T01:45:54.777437+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "«Συμβούλιο Ειρήνης» του Τραμπ: Μετά τον αφοπλισμό της Χαμάς, ο ισραηλινός στρατός θα αποχωρήσει από τη Γάζα",
-        "url": "https://www.efsyn.gr/kosmos/1441276/symvoylio-eirinis-toy-tramp-meta-ton-afoplismo-tis-hamas-o-israilinos-stratos-tha-apohorisei-apo-ti-gaza/",
-        "snippet": "Παρ' όλα αυτά, το Ισραήλ επανέλαβε σήμερα ότι «δεν θα αναδιπλωθεί και θα συνεχίσει να αντιμετωπίζει κάθε απειλή».",
+        "title": "Λάρισα: 68χρονος πέθανε ενώ οδηγούσε το αυτοκίνητό του",
+        "url": "https://www.efsyn.gr/ellada/1441278/larisa-68hronos-pethane-eno-odigoyse-to-aytokinito-toy/",
+        "snippet": "Οι διασώστες προσπαθούσαν για περισσότερα από 40 λεπτά να επαναφέρουν, ωστόσο ο άνδρας κατέληξε, πιθανότατα από ανακοπή καρδιάς.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "«Συμβούλιο Ειρήνης» του Τραμπ: Μετά τον αφοπλισμό της Χαμάς, ο ισραηλινός στρατός θα αποχωρήσει από τη Γάζα",
+          "url": "https://www.efsyn.gr/kosmos/1441276/symvoylio-eirinis-toy-tramp-meta-ton-afoplismo-tis-hamas-o-israilinos-stratos-tha-apohorisei-apo-ti-gaza/",
+          "snippet": "Παρ' όλα αυτά, το Ισραήλ επανέλαβε σήμερα ότι «δεν θα αναδιπλωθεί και θα συνεχίσει να αντιμετωπίζει κάθε απειλή».",
+          "source": "EfSyn"
+        },
         {
           "title": "Τέσσερις συλλήψεις σε Κηφισιά, Ραφήνα, Ίλιον και Χαλκιδική για φωτιές των τελευταίων ημερών",
           "url": "https://www.efsyn.gr/ellada/1441274/tesseris-syllipseis-se-kifisia-rafina-ilion-kai-halkidiki-gia-foties-ton-teleytaion-imeron/",
@@ -87,12 +93,6 @@
           "title": "Η ιστορία του Δανού πιλότου που σκοτώθηκε στην πυρκαγιά στα Ψάθα: Η αγάπη του για την αεροπορία και η τελευταία φωτογραφία",
           "url": "https://www.efsyn.gr/ellada/1441168/i-istoria-toy-danoy-pilotoy-poy-pethane-stin-pyrkagia-sta-psatha-i-agapi-toy-gia-tin-aeroporia-kai-i-teleytaia-fotografia/",
           "snippet": "Τι αναφέρει ο αδερφός του για τον πιλότο που έπεσε στη μάχη της κατάσβεσης των ανεξέλεγκτων πυρκαγιών στην Αττικοβοιωτία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ψάθα: Η μαρτυρία του γιατρού που έφτασε πρώτος μετά τη σύγκρουση των ελικοπτέρων – «Ήταν καταστροφή» [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1441176/psatha-sygklonizei-o-giatros-poy-eftase-protos-meta-ti-sygkroysi-ton-elikopteron-itan-katastrofi/",
-          "snippet": "Σε εφιάλτη έχει μετατραπεί ήδη από τις πρώτες ημέρες η φετινή μάχη με τις φλόγες για τη χώρα, καθώς ήδη μετράμε πέντε νεκρούς, ενώ τα ερωτήματα από τη χθεσινή σύγκρουση δύο ελικοπτέρων στην Ψάθα παραμένουν πολλά και αναπάντητα. Στη σκιά αυτής της τραγωδίας συγκλονίζει η περιγραφή",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Falling Space Junk",
-          "url": "https://www.nytimes.com/2026/08/03/world/falling-space-debris-iran-oman.html",
-          "snippet": "The race to control the skies is sending a record amount of debris crashing back to Earth.",
+          "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
+          "url": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
+          "snippet": "A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "snippet": "AWS now allows vibe coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step towards decoupling apps from models.",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+        "snippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Snap CEO sidesteps Specs preorder questions on Q2 earnings call",
+          "url": "https://techcrunch.com/2026/08/03/snap-ceo-sidesteps-specs-pre-order-questions-on-q2-earnings-call/",
+          "snippet": "When asked about product-market fit, Spiegel said he believes mass-market consumer adoption won't occur until the end of the decade.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+          "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "snippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Who’s legally to blame for Anthropic and OpenAI’s autonomous AI hacks? It’s complicated",
           "url": "https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/",
@@ -210,9 +222,9 @@
           "source": "TechCrunch"
         },
         {
-          "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+          "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
           "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-          "snippet": "DesignArena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+          "snippet": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
           "source": "TechCrunch"
         },
         {
@@ -230,7 +242,7 @@
         {
           "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
           "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-          "snippet": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is genui",
+          "snippet": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
           "source": "TechCrunch"
         },
         {
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/",
           "snippet": "Cybersecurity startup Horizon3 raised $250 million at a $2 billion valuation as companies want continuous, AI-powered security validation instead of annual pen testing.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Samsung bans smart TV apps that share users’ internet connections with strangers",
-          "url": "https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/",
-          "snippet": "New security research offers a rare view inside residential proxy networks, which rely on apps that share a person's internet connection with someone else.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-          "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-          "snippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,24 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Φούλαμ: Πήρε «πακέτο» τους Γκονζάλο Γκαρθία και Παλάσιος από τη Ρεάλ",
-        "url": "https://www.gazzetta.gr/football/premier-league/2558905/foylam-pire-paketo-toys-gkonzalo-gkarthia-kai-palasios-apo-ti-real",
-        "snippet": "Διπλό μεταγραφικό χτύπημα από τη Φούλαμ του Αλβάρο Αρμπελόα, η οποία ανακοίνωσε την απόκτηση των Γκονζάλο Γκαρθία και Θέσαρ Παλάσιος από τη Ρεάλ.",
+        "title": "Τσιτσιπάς: Αναβλήθηκε η πρεμιέρα του στο Μοντρεάλ",
+        "url": "https://www.gazzetta.gr/tennis/atp/2558907/tsitsipas-anablithike-i-premiera-toy-sto-montreal",
+        "snippet": "Η αναμέτρηση του Στέφανου Τσιτσιπά αναβλήθηκε στο τουρνουά του Μοντρεάλ, λόγω των κακών καιρικών συνθηκών που λαμβάνουν χώρα στον Καναδά.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ο Μπρουκς και ο Μπλατ ξεχώρισαν",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2558906/oi-metagrafes-tis-imeras-sto-mpasket-o-mproyks-kai-o-mplat-xehorisan",
+          "snippet": "Δύο μεταγραφές σε επίπεδο EuroLeague με τη Βαλένθια να παίρνει τον Αρμόνι Μπρουκς και τη Χάποελ Τελ Αβίβ να κάνει δικό της τον Ταμίρ Μπλατ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Φούλαμ: Πήρε «πακέτο» τους Γκονζάλο Γκαρθία και Παλάσιος από τη Ρεάλ",
+          "url": "https://www.gazzetta.gr/football/premier-league/2558905/foylam-pire-paketo-toys-gkonzalo-gkarthia-kai-palasios-apo-ti-real",
+          "snippet": "Διπλό μεταγραφικό χτύπημα από τη Φούλαμ του Αλβάρο Αρμπελόα, η οποία ανακοίνωσε την απόκτηση των Γκονζάλο Γκαρθία και Θέσαρ Παλάσιος από τη Ρεάλ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τη βιντεοσκόπησαν να βάφει σπίτι ενώ ήταν σε αναρρωτική, απολύθηκε αλλά θα πάρει 1.279,99 ευρώ για την άδειά της",
           "url": "https://www.gazzetta.gr/plus/2558897/ti-binteoskopisan-na-bafei-spiti-eno-itan-se-anarrotiki-apolythike-alla-tha-parei",
@@ -370,18 +382,6 @@
           "url": "https://www.gazzetta.gr/basketball/euroleague/2558891/foyrnie-i-antidrasi-toy-gia-ti-syllogi-fanelon-enos-filathloy",
           "snippet": "Ο Εβάν Φουρνιέ σχολίασε στο «Χ» τη συλλογή από φανέλες του, που έχει ένας φίλαθλος.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Τομ Λουσέ: ΠΑΟΚ - Επίσημα παίκτης του Δικεφάλου ο 23χρονος Γάλλος",
-          "url": "https://www.gazzetta.gr/football/superleague/2558889/tom-loyse-paok-episima-paiktis-toy-dikefaloy-o-23hronos-gallos",
-          "snippet": "Η Νις ανακοίνωσε τη μεταγραφή του 23χρονου Γάλλου μέσου Τομ Λουσέ στον ΠΑΟΚ κι ο Δικέφαλος τον παρουσίασε με κρουασάν και Κωνσταντέλια!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κυψέλη: Οι φωτογραφίες-ντοκουμέντο με τον 26χρονο να μεταφέρει τη βαλίτσα με τη σορό της 38χρονης Βρετανίδας",
-          "url": "https://www.gazzetta.gr/plus/2558888/kypseli-oi-fotografies-ntokoymento-me-ton-26hrono-na-metaferei-ti-balitsa-me-ti-soro",
-          "snippet": "Φωτογραφίες από κάμερες ασφαλείας καταγράφουν τις κινήσεις του 26χρονου με τη βαλίτσα που φέρεται να περιείχε τη σορό της 38χρονης Βρετανίδας.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
-          "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-          "snippet": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
+          "title": "Meet the Bee Vet, Now Making Hive Calls",
+          "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+          "snippet": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-          "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-          "snippet": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
+          "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+          "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+          "snippet": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Military Testosterone Policy Raises Questions About Its Links to Aggression",
-          "url": "https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html",
-          "snippet": "A new policy raises questions about testosterone’s effect on aggression in some men.",
+          "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+          "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+          "snippet": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Mission to Save Falling NASA Space Telescope Suffers Setback",
-          "url": "https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html",
-          "snippet": "A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.",
+          "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
+          "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
+          "snippet": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly",
-          "url": "https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html",
-          "snippet": "Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.",
+          "title": "Military Testosterone Policy Raises Questions About Its Links to Aggression",
+          "url": "https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html",
+          "snippet": "A new policy raises questions about testosterone’s effect on aggression in some men.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "How to Watch Two Summer Meteor Showers Peak On the Same Night",
-          "url": "https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html",
-          "snippet": "The end of July brings the Alpha Capricornids and the Southern Delta Aquarids, both of which will be most active on Thursday night into Friday morning.",
+          "title": "Mission to Save Falling NASA Space Telescope Suffers Setback",
+          "url": "https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html",
+          "snippet": "A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "A.I. Data Centers in Space? A System to Cool Chips Could Help.",
-          "url": "https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html",
-          "snippet": "Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.",
+          "title": "‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly",
+          "url": "https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html",
+          "snippet": "Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.",
           "source": "NYT Science"
         },
         {
