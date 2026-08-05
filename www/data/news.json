@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-05T01:47:31.289808+00:00",
+  "updated": "2026-08-05T06:20:20.529424+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πατέρας συνελήφθη στην Χαλκιδική: Έδωσε στον ανήλικο γιο του να οδηγήσει τζετ σκι",
-        "url": "https://www.efsyn.gr/ellada/1442052/pateras-synelifthi-stin-halkidiki-edose-ston-aniliko-gio-toy-na-odigisei-tzet-ski/",
-        "snippet": "Ο άνδρας κατηγορείται για έκθεση ανηλίκου σε κίνδυνο (άρθρο 306 του ΠΚ).",
+        "title": "Νερό: εκστρατεία παραποίησης της αλήθειας",
+        "url": "https://www.efsyn.gr/stiles/1442145/nero-ekstrateia-parapoiisis-tis-alitheias/",
+        "snippet": "Η ψήφιση του νομοσχεδίου για την εμπορευματοποίηση και την ιδιωτικοποίηση του νερού στηρίχτηκε σε μια μεγάλη εκστρατεία παραποίησης της αλήθειας και παραπλάνησης της κοινής γνώμης",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Βουλγαρία: Εργαστήριο φαιντανύλης εξάρθρωσε η αστυνομία – Προμήθευε όλη τη χώρα",
-          "url": "https://www.efsyn.gr/kosmos/1442049/voylgaria-ergastirio-faintanylis-exarthrose-i-astynomia-promitheye-oli-ti-hora/",
-          "snippet": "Ο υπουργός δήλωσε ότι το εργαστήριο είχε προηγμένο εξοπλισμό υψηλής τεχνολογίας και ότι η επιχείρηση πραγματοποιήθηκε υπό αυστηρά μέτρα ασφάλειας λόγω του κινδύνου των αναθυμιάσεων.",
+          "title": "Φωτιές και πυρκαγιές",
+          "url": "https://www.efsyn.gr/stiles/1442135/foties-kai-pyrkagies/",
+          "snippet": "Ανεξέλεγκτες και φονικές οι πυρκαγιές τις περασμένες μέρες",
           "source": "EfSyn"
         },
         {
-          "title": "Κούβα: Χάος μετά από νέα πανεθνική διακοπή ρεύματος – Αρνείται κάθε ευθύνη η Ουάσιγκτον παρά τον αποκλεισμό",
-          "url": "https://www.efsyn.gr/kosmos/1442040/koyva-haos-meta-apo-nea-panethniki-diakopi-reymatos-arneitai-kathe-eythyni-i-oyasigkton-para-ton-apokleismo/",
-          "snippet": "«Αυτό είναι η νέα κανονικότητα: το σύστημα καταρρέει, το επανασυνδέουν και καταρρέει ξανά, αλλά όπως και να 'χει, δεν έχουμε ποτέ ηλεκτρικό ρεύμα, ακόμα και όταν το δίκτυο δεν παρουσιάζει βλάβη. Έτσι, για μένα, δεν αλλάζει τίποτα», ανέφερε ένας κάτοικος.",
+          "title": "Ποδόσφαιρο non stop",
+          "url": "https://www.efsyn.gr/stiles/1442131/podosfairo-non-stop/",
+          "snippet": "Δεν είναι λίγες οι φορές που ένας συνάδελφος ρωτάει εμάς τους αθλητικούς, «καλά, πάλι μπάλα έχει σήμερα»;",
           "source": "EfSyn"
         },
         {
-          "title": "Κηδεύτηκαν στη Γάζα 112 Παλαιστίνιοι που ανασύρθηκαν από τα ερείπια – Κυρίως γυναίκες και παιδιά [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1442024/kideytikan-sti-gaza-112-palaistinioi-poy-anasyrthikan-tora-apo-ta-ereipia-kyrios-gynaikes-kai-paidia-eihan-skotothei-to-2023-eikones/",
-          "snippet": "Είχαν σκοτωθεί σε ισραηλινή επίθεση το 2023 και η κηδεία πραγματοποιείται τώρα διότι τα πτώματα ανασύρθηκαν πρόσφατα από τα ερείπια, μετά από μια επιχείρηση δύο εβδομάδων.",
+          "title": "Ψάθα όπως Τέμπη;",
+          "url": "https://www.efsyn.gr/stiles/1442121/psatha-opos-tempi/",
+          "snippet": "Η κυβέρνηση φαίνεται πως δεν έχει μάθει τίποτα από τα Τέμπη",
           "source": "EfSyn"
         },
         {
-          "title": "Champions League: «Κόλλησε» στο 0-0 με τη Ναϊμέγκεν ο ανέτοιμος Ολυμπιακός",
-          "url": "https://www.efsyn.gr/athlitismos/1442035/kollise-sto-0-0-me-ti-naimegken-o-anetoimos-olympiakos/",
-          "snippet": "Οι ερυθρόλευκοι έμπλεξαν και πάνε να παίξουν την πρόκριση στην Ολλανδία.",
+          "title": "Ουκρανία: Τουλάχιστον 15 νεκροί στο Κίεβο λόγω ρωσικών πληγμάτων τη νύχτα [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1442159/oykrania-toylahiston-15-nekroi-sto-kievo-logo-rosikon-pligmaton-ti-nyhta/",
+          "snippet": "Το ρωσικό υπουργείο Άμυνας λέει ότι οι δυνάμεις του έπληξαν κόμβους επιμελητείας και κέντρα εφοδιασμού.",
           "source": "EfSyn"
         },
         {
-          "title": "Σύγκρουση ελικοπτέρων: Στη Δικαιοσύνη προσφεύγει η οικογένεια του Έλληνα χειριστή που σκοτώθηκε στην Ψάθα",
-          "url": "https://www.efsyn.gr/ellada/1442026/psatha-sti-dikaiosyni-prosfeygei-i-oikogeneia-toy-heiristi-poy-skotothike-apo-ti-sygkroysi-elikopteron/",
-          "snippet": "«Παράσταση προς υποστήριξη της κατηγορίας κατά παντός υπεύθυνου που με πράξη ή παράλειψη του συνέβαλε στην ανθρωποκτονία ενός εκ των πλέον αξιόμαχων πιλότων μας» θα δηλώσει κατά παντός υπευθύνου η μητέρα και η αδελφή του Έλληνα χειριστή του ελικοπτέρου που έχασε την ζωή του στην ",
+          "title": "Φρίκη στον Μυστρά: Ομολόγησε ο 55χρονος ότι έκρυβε τον νεκρό πατέρα του σε καταψύκτη – Οι αντιφάσεις και οι υποψίες",
+          "url": "https://www.efsyn.gr/ellada/1442146/friki-ston-mystra-omologise-o-55hronos-oti-ekryve-ton-nekro-patera-toy-se-katapsykti-oi-antifaseis-kai-oi-ypopsies/",
+          "snippet": "Η ιατροδικαστική εξέταση αναμένεται να δώσει απαντήσεις.",
           "source": "EfSyn"
         },
         {
-          "title": "Κόσοβο: Οι αρχές πιστεύουν ότι εντόπισαν νέο ομαδικό – Υπόνοιες για έγκλημα πολέμου στα τέλη της δεκαετίας του 1990",
-          "url": "https://www.efsyn.gr/kosmos/1442016/kosovo-oi-arhes-pisteyoyn-oti-entopisan-neo-omadiko-yponoies-gia-egklima-polemoy-sta-teli-tis-dekaetias-toy-1990/",
-          "snippet": "Έχουν ήδη εντοπιστεί τα λείψανα 11 ανθρώπων.",
+          "title": "Εντοπισμός και διάσωση 45 μεταναστών νότια της Ιεράπετρας",
+          "url": "https://www.efsyn.gr/ellada/1442155/entopismos-kai-diasosi-45-metanaston-notia-tis-ierapetras/",
+          "snippet": "Mεταφέρθηκαν με ασφάλεια στο λιμάνι της Ιεράπετρας.",
           "source": "EfSyn"
         },
         {
-          "title": "Θυμός και απόγνωση μετά τις πυρκαγιές: Στάχτες και ερείπια στη Δυτική Αττική [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1441988/mahi-me-tis-floges-gia-5i-nyhta-sti-dytiki-attiki-esties-kapnoy-stahtes-kai-ereipia-pantoy-eikones-vinteo/",
-          "snippet": "Υπάρχουν αρκετά σημεία από τα οποία αναδύονται καπνοί, καθώς και μικρές εστίες («καντηλάκια»). Οι πυροσβέστες δίνουν τη μάχη και σήμερα, με κύρια αποστολή το να περιορίσουν αυτά τα σημεία κινδύνου.",
+          "title": "Τραγωδία στη Λέρο: Νεκρή 61χρονη που παρασύρθηκε από φορτηγό",
+          "url": "https://www.efsyn.gr/ellada/1442152/tragodia-sti-lero-nekri-61hroni-poy-parasyrthike-apo-fortigo/",
+          "snippet": "Η γυναίκα διακομίστηκε άμεσα στο Νοσοκομείο Λέρου, όπου, παρά τις προσπάθειες των γιατρών, υπέκυψε στα τραύματά της λίγη ώρα αργότερα.",
           "source": "EfSyn"
         },
         {
-          "title": "Σύρος: Τι κατέθεσε ο 41χρονος για τη δολοφονία της διασώστριας – «Αμύνθηκα για τη ζωή μου και της συντρόφου μου»",
-          "url": "https://www.efsyn.gr/ellada/1442004/syros-ti-katethese-o-41hronos-gia-ti-dolofonia-tis-diasostrias-amynthika-gia-ti-zoi-moy-kai-tis-syntrofoy-moy/",
-          "snippet": "Τον δρόμο προς τη φυλακή πήρε, τελικά, σήμερα ο 41χρονος που κατηγορείται για τη δολοφονία της διασώστριας του ΕΚΑΒ στη Σύρο. Ο άνδρας κατέθεσε σήμερα το πρωί συμπληρωματικό υπόμνημα προς το δικαστικό συμβούλιο, το οποίο κλήθηκε να λάβει την απόφαση για την ποινική του μεταχείρισ",
+          "title": "Ρεσιτάλ υποκρισίας στην Ε.Ε.: Θυμήθηκαν την αλληλεγγύη προς τη Ισπανία, ζητούν σκληρότερα μέτρα για τους μετανάστες",
+          "url": "https://www.efsyn.gr/kosmos/1442097/resital-ypokrisias-stin-e-e-thymithikan-tin-allileggyi-pros-ti-ispania-zitoyn-sklirotera-metra-gia-toys-metanastes/",
+          "snippet": "Οι κυβερνήσεις της Ε.Ε. με μια εντυπωσιακή κυβίστηση θυμήθηκαν την ξεχασμένη αλληλεγγύη προς τη δοκιμαζόμενη Ισπανία, χωρίς να εγκαταλείπουν την αντιμεταναστευτική τους ατζέντα",
           "source": "EfSyn"
         },
         {
-          "title": "Πυρκαγιά στη Δυτική Αττική: Σώθηκαν πάνω από 100 ζώα – Μια συγκινητική αλυσίδα αλληλεγγύης [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1441991/pyrkagia-sti-dytiki-attiki-sothikan-pano-apo-100-zoa-mia-sygkinitiki-alysida-allileggyis-eikones-vinteo/",
-          "snippet": "Μια μεγάλη αλυσίδα αλληλεγγύης για τα ζώα που βρίσκονταν στις πληγείσες από τις πυρκαγιές περιοχές της Δυτικής Αττικής, δημιούργησαν τοπικές Αρχές και εθελοντές, στήνοντας ένα πρόχειρο καταφύγιο στα αποδυτήρια του γηπέδου ποδοσφαίρου των Βιλίων. Η πρωτοβουλία υλοποιήθηκε με τη στ",
+          "title": "Καλιφόρνια: Ένοπλος συνελήφθη σε γήπεδο γκολφ του Τραμπ πριν από επίσκεψη του Αμερικανού προέδρου",
+          "url": "https://www.efsyn.gr/kosmos/1442141/kalifornia-enoplos-synelifthi-se-gipedo-gkolf-toy-tramp-prin-apo-episkepsi-toy-amerikanoy-proedroy/",
+          "snippet": "Θεάθηκε να «περιφέρεται» στο γήπεδο, να παίρνει «φωτογραφίες και βίντεο» και να επιτηρεί «δραστηριότητες» που αφορούσαν τα μέτρα ασφαλείας.",
           "source": "EfSyn"
         },
         {
-          "title": "Η ΕΛΑΣ στις πυρόπληκτες περιοχές την Τετάρτη",
-          "url": "https://www.efsyn.gr/politiki/1441989/i-elas-stis-pyropliktes-periohes-tin-tetarti/",
-          "snippet": "Στις πυρόπληκτες περιοχές και πιο συγκεκριμένα το Πόρτο Γερμενό, τα Βίλια και τα Μέγαρα θα βρεθεί την Τετάρτη κλιμάκιο της Ελληνικής Αριστερής Συμπαράταξης. Επικεφαλής του κλιμακίου θα είναι ο Γραμματέας Πολιτικής Επιτροπής, Μίλτος Χατζηγιαννάκης. Αναλυτικά το πρόγραμμα της επίσκ",
+          "title": "Χάνει τα πάντα",
+          "url": "https://www.efsyn.gr/athlitismos/1442105/hanei-ta-panta/",
+          "snippet": "Ο Τζάνι Ινφαντίνο πήγαινε για τα πολλά, αλλά...",
           "source": "EfSyn"
         },
         {
-          "title": "Ταλαιπωρείται με τη «νόσο του φιλιού» ο Ανδρέας Τεττέη",
-          "url": "https://www.efsyn.gr/athlitismos/1441972/talaiporeitai-me-ti-noso-toy-filioy-o-andreas-tettei/",
-          "snippet": "Εμφανίζει ήπια συμπτώματα.",
+          "title": "Press Point: Ενα παζλ για να βάλετε τα κομμάτια μόνοι σας",
+          "url": "https://www.efsyn.gr/media/1442112/press-point-ena-pazl-gia-na-valete-ta-kommatia-monoi-sas/",
+          "snippet": "Δείτε τι έγραφαν τα «Παραπολιτικά» στις 25 Ιανουαρίου, πέρυσι, το 2025",
           "source": "EfSyn"
         },
         {
-          "title": "Βόλος: Στη φυλακή άνδρας για παρενόχληση 15χρονης σε παραλία – Κλώτσησε και το ναυαγοσώστη που επενέβη",
-          "url": "https://www.efsyn.gr/ellada/1441962/volos-8-mines-me-anastoli-se-andra-poy-epiase-15hroni-apo-ti-mesi-kontra-sti-thelisi-tis-klotsise-to-nayagososti-poy-epenevi/",
-          "snippet": "Ο άνδρας φέρεται επίσης να εξύβρισε το ναυαγοσώστη και να τον απείλησε, μεταξύ άλλων με τη φράση «Αν σου δώσω μία κλωτσιά, θα σε στείλω στην Εύβοια».",
+          "title": "Ο μαύρος απολογισμός των πυρκαγιών: Πέντε νεκροί – Στάχτη πάνω από 180.000 στρέμματα",
+          "url": "https://www.efsyn.gr/ellada/1442090/o-mayros-apologismos-ton-pyrkagion-pente-nekroi-stahti-pano-apo-180-000-stremmata/",
+          "snippet": "Βαρύ περιβαλλοντικό και κοινωνικό πλήγμα από τις φωτιές και είναι μόνο αρχές Αυγούστου ● Σε επιφυλακή Πυροσβεστική και κάτοικοι στη Δυτική Αττική από τις διάσπαρτες εστίες",
           "source": "EfSyn"
         },
         {
-          "title": "Στενά του Ορμούζ: Συγκρατημένη αισιοδοξία για άμεση συμφωνία για ΗΠΑ και Ιράν – Τα μηνύματα και οι θετικές ενδείξεις",
-          "url": "https://www.efsyn.gr/kosmos/1441961/endehomeno-na-dosoyn-ta-heria-ipa-iran-tin-tetarti-gia-ta-stena-toy-ormoyz-ta-minymata-kai-oi-thetikes-endeixeis/",
-          "snippet": "Αμερικανοί και Ιρανοί αξιωματούχοι δεν αποκλείουν το ενδεχόμενο μέχρι την Τετάρτη το βράδυ να υπάρξει συμφωνία μεταξύ των δύο κρατών για τα Στενά του Ορμούζ. Ποιοι είναι οι αστερίσκοι που μπαίνουν.",
+          "title": "Δολοφονία Tupac: Επιστρέφει στα έδρανα η πολύκροτη υπόθεση – Νέες μαρτυρίες ανατρέπουν την επίσημη εκδοχή",
+          "url": "https://www.efsyn.gr/life/1442117/dolofonia-tupac-epistrefei-sta-edrana-i-polykroti-ypothesi-nees-martyries-anatrepoyn-tin-episimi-ekdohi/",
+          "snippet": "Η δίκη του Duane «Keffe D» Davis αναμένεται να ρίξει φως σε άγνωστες πτυχές της δολοφονίας του θρυλικού ράπερ.",
           "source": "EfSyn"
         },
         {
-          "title": "Αποκαλύφθηκε ο νέος παρουσιαστής για τον «Πιο Αδύναμο Κρίκο»",
-          "url": "https://www.efsyn.gr/life/1441966/apokalyfthike-o-neos-paroysiastis-gia-ton-pio-adynamo-kriko/",
-          "snippet": "Η επίσημη ανακοίνωση από τον τηλεοπτικό σταθμό Open.",
+          "title": "Μήνυμα στήριξης στην Καρυστιανού εν μέσω νέου κύματος αποχωρήσεων",
+          "url": "https://www.efsyn.gr/politiki/1442085/minyma-stirixis-stin-karystianoy-en-meso-neoy-kymatos-apohoriseon/",
+          "snippet": "Εν μέσω αναταράξεων, το Πολιτικό Συμβούλιο της Ελπίδας για τη Δημοκρατία εξέφρασε ομόφωνα την αμέριστη στήριξή του προς την πρόεδρο",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
-          "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html",
-          "snippet": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
+          "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+          "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+          "snippet": "Disputes between smokers and nonsmokers are becoming more visible as a younger generation increasingly refuses to suffer secondhand smoke in silence.",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Παναθηναϊκός: Στην Ευρωπαϊκή λίστα για τα ματς με ΤΣΣΚΑ 1948 οι Ντέσερς, Γκαρσία",
-        "url": "https://www.gazzetta.gr/football/europa-conference-league/2559132/panathinaikos-stin-eyropaiki-lista-gia-ta-mats-me-tsska",
-        "snippet": "Στην Ευρωπαϊκή λίστα του Παναθηναϊκού για τα ματς με την ΤΣΣΚΑ 1948 συμπεριλήφθηκαν οι Σίριλ Ντέσερς και Λιβάι Γκαρσία.",
+        "title": "Κόουλ Άντονι: Έκπληξη με μεταγραφή στην Αυστραλία και τη Melbourne United",
+        "url": "https://www.gazzetta.gr/basketball/nba/2559176/kooyl-antoni-ekplixi-me-metagrafi-stin-aystralia-kai-ti-melbourne-united",
+        "snippet": "Μια από τις πιο απρόσμενες μετακινήσεις του καλοκαιριού ολοκληρώθηκε με τον Κόουλ Άντονι να γυρίζει σελίδα στην καριέρα του αποχαιρετώντας το ΝΒΑ για την Αυστραλία και τη Melbourne United.",
         "source": "Gazzetta"
       },
       "items": [
         {
+          "title": "Βάσεις πρόκρισης για τον Παναθηναϊκό!",
+          "url": "https://www.gazzetta.gr/football/2559042/baseis-prokrisis-gia-ton-panathinaiko",
+          "snippet": "Ο Παναθηναϊκός δίνει την πρώτη μάχη με την ΤΣΣΚΑ 1948 στο ΟΑΚΑ (21:30) για τον τρίτο προκριματικό γύρο του Conference League, για τις βάσεις πρόκρισης στα Playoffs.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η οικονομία του ύπνου: Μια νέα αγορά σε μια κοινωνία που δεν κοιμάται καλά",
+          "url": "https://www.gazzetta.gr/plus/2559168/i-oikonomia-toy-ypnoy-mia-nea-agora-se-mia-koinonia-poy-den-koimatai-kala",
+          "snippet": "wddwwd",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κωνσταντέλιας: Προβάδισμα της Ντόρτμουντ για τον Έλληνα άσο, σύμφωνα με τους Ιταλούς",
+          "url": "https://www.gazzetta.gr/football/superleague/2559174/konstantelias-probadisma-tis-ntortmoynt-gia-ton-ellina-aso-symfona-me",
+          "snippet": "Δημοσίευμα του Calciomercato αναφέρει πως η Μπορούσια Ντόρτμουντ βρίσκεται στην pole position για την απόκτηση του Γιάννη Κωνσταντέλια.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νεϊμάρ: Σε έξαλλη κατάσταση ο Βραζιλιάνος, αντάλλαξε «γαλλικά» με οπαδούς της Ρέμο (vid)",
+          "url": "https://www.gazzetta.gr/football/2559172/neimar-se-exalli-katastasi-o-brazilianos-antallaxe-gallika-me-opadoys-tis-remo-vid",
+          "snippet": "Η Σάντος προκρίθηκε στους «8» του Κυπέλλου Βραζιλίας μέσα στην έδρα της Ρέμο (0-1) και ο Νεϊμάρ δεν συγκρατήθηκε, απαντώντας στις προκλήσεις και λέγοντας... γαλλικά στους οπαδούς της.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο «τάφος» των ΗΠΑ που απειλεί με έκρηξη τον Ειρηνικό: Έχει μέσα του 80.000 m³ ραδιενεργά απόβλητα",
+          "url": "https://www.gazzetta.gr/plus/2557257/o-tafos-ton-ipa-poy-apeilei-me-ekrixi-ton-eiriniko-ehei-mesa-toy-80000-m3-radienerga",
+          "snippet": "Στη μέση του Ειρηνικού Ωκεανού, ο «Θόλος του Runit» προσπαθεί εδώ και δεκαετίες να συγκρατήσει μία από τις πιο επικίνδυνες πυρηνικές κληρονομιές του Ψυχρού Πολέμου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χιτ για Αντετοκούνμπο και Αντεμπάγιο: «Τι θα λέγατε για αδέρφια της καταστροφής;»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2559169/hit-gia-antetokoynmpo-kai-antempagio-ti-tha-legate-gia-aderfia-tis",
+          "snippet": "Οι Μαϊάμι Χιτ σε συνέχεια του παραδείγματος του ESPN, απευθύνθηκαν στον κόσμο τους ώστε να τους βοηθήσει να βρουν παρατσούκλια για το πολλά υποσχόμενο δίδυμο του Γιάννη Αντετοκούνμπο με τον Μπαμ Αντεμπάγιο στην ομάδα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Mέθοδος Sudoku: Βαλίτσα με λιγότερα ρούχα και περισσότερους συνδυασμούς",
+          "url": "https://www.gazzetta.gr/plus/2559167/methodos-sudoku-balitsa-me-ligotera-royha-kai-perissoteroys-syndyasmoys",
+          "snippet": "effe",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αθλητικές μεταδόσεις σήμερα: Το ΠΑΟ - ΤΣΣΚΑ 1948, το Φερεντσβάρος - ΠΑΟΚ και το Μίλαν - Ίντερ",
+          "url": "https://www.gazzetta.gr/football/europa-league/2559166/athlitikes-metadoseis-simera-pao-tsska-1948-ferentsbaros-paok-kai",
+          "snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με την αναμέτρηση του Παναθηναϊκού κόντρα στην ΤΣΣΚΑ 1948, το ματς του ΠΑΟΚ γυναικών με τη Φερεντσβάρος και το Μίλαν - Ίντερ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Όσοι μεγάλωσαν χωρίς κινητά, απέκτησαν 6 δεξιότητες ζωής που οι νέοι δεν θα μάθουν ποτέ",
+          "url": "https://www.gazzetta.gr/plus/2559165/osoi-megalosan-horis-kinita-apektisan-6-dexiotites-zois-poy-oi-neoi-den-tha-mathoyn",
+          "snippet": "Και αλήθεια, είναι πολύ πιο σημαντικές από αυτό που πιστεύεις.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός - ΤΣΣΚΑ 1948: Η ώρα και το κανάλι μετάδοσης",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2559163/panathinaikos-tsska-1948-i-ora-kai-kanali-metadosis",
+          "snippet": "Η ώρα και το κανάλι μετάδοσης της αποψινής (5/8) μάχης του Παναθηναϊκού με την ΤΣΣΚΑ 1948 για τα προκριματικά του Conference League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (5/8)",
+          "url": "https://www.gazzetta.gr/2559164/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-58",
+          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βρετανία: Ιστορικός καύσωνας και ανομβρία – Για πρώτη φορά μήνας χωρίς σταγόνα βροχής από το 1871!",
+          "url": "https://www.gazzetta.gr/plus/2558969/bretania-istorikos-kaysonas-kai-anombria-gia-proti-fora-minas-horis-stagona-brohis-apo",
+          "snippet": "Η Βρετανία βιώνει πρωτοφανείς συνθήκες καύσωνα και ανομβρίας, με εμβληματικό μετεωρολογικό σταθμό του Λονδίνου να καταγράφει μηδενική βροχόπτωση για έναν ολόκληρο μήνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Στην Ευρωπαϊκή λίστα για τα ματς με ΤΣΣΚΑ 1948 οι Ντέσερς, Γκαρσία",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2559132/panathinaikos-stin-eyropaiki-lista-gia-ta-mats-me-tsska",
+          "snippet": "Στην Ευρωπαϊκή λίστα του Παναθηναϊκού για τα ματς με την ΤΣΣΚΑ 1948 συμπεριλήφθηκαν οι Σίριλ Ντέσερς και Λιβάι Γκαρσία.",
+          "source": "Gazzetta"
+        },
+        {
           "title": "Μεντιλίμπαρ: «Δεν υπάρχει κανένα θέμα προτίμησης για την ενδεκάδα, όλοι είναι παίκτες μου»",
           "url": "https://www.gazzetta.gr/football/prokrimatika-champions-league/2559131/mentilimpar-den-yparhei-kanena-thema-protimisis-gia",
           "snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ μίλησε στη συνέντευξη Τύπου για τη «λευκή» ισοπαλία με τη Ναϊμέγκεν και τα όσα θα πρέπει να βελτιώσουν εν όψει της ρεβάνς του 3ου προκριματικού για το Champions League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Πόρτα» της Μπενφίκα σε τρελή πρόταση της Φενέρ για Παυλίδη!",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2559130/porta-tis-mpenfika-se-treli-protasi-tis-fener-gia-paylidi",
-          "snippet": "Η Μπενφίκα απάντησε αρνητικά στη σούπερ πρόταση της Φενέρμπαχτσε για την απόκτηση του Παυλίδη, επιβεβαιώνοντας ότι δεν προτίθεται να παραχωρήσει τον Έλληνα επιθετικό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρεάλ Μαδρίτης: Έκλεισε τον Ντέμιαν Τζόουνς και αναζητά γκαρντ",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2559129/real-madritis-ekleise-ton-ntemian-tzooyns-kai-anazita-gkarnt",
-          "snippet": "Παίκτης της Ρεάλ Μαδρίτης αναμένεται να γίνει ο Ντέμιαν Τζόουνς, σύμφωνα με ισπανικό μέσο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Λιβάι Γκαρσία: O Παναθηναϊκός ανακοίνωσε την απόκτηση του με... Σπάιντερμαν",
-          "url": "https://www.gazzetta.gr/football/superleague/2559128/libai-gkarsia-o-panathinaikos-anakoinose-tin-apoktisi-toy-ala",
-          "snippet": "Με μια ανάρτηση με... επιρροή από Σπάιντερμαν ο Παναθηναϊκός ανακοίνωσε την απόκτηση του Λιβάι Γκαρσία, με τη μορφή δανεισμού από τη Σπαρτάκ. Διαθέσιμος για τα ματς με την ΤΣΣΚΑ 1948.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Σαλάχ: Η Τράμπζονσπορ έκανε το «μπαμ» με τον Αιγύπτιο!",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2559127/salah-i-tramponspor-ekane-mpam-me-ton-aigyptio",
-          "snippet": "Οριστική συμφωνία μεταξύ Τράμπζονσπορ και Μοχάμεντ Σαλάχ, με τον Αιγύπτιο να ετοιμάζεται να βάλει την υπογραφή του σε διετές συμβόλαιο συνεργασίας!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το Μαρόκο αντικαθιστά την άσφαλτο με δρόμους-«σφουγγάρια»: Πώς μειώνουν τη ζέστη και τις πλημμύρες",
-          "url": "https://www.gazzetta.gr/plus/2559098/maroko-antikathista-tin-asfalto-me-dromoys-sfoyggaria-pos-meionoyn-ti-zesti-kai-tis",
-          "snippet": "Το Μαρόκο δοκιμάζει πορώδες οδόστρωμα που απορροφά το νερό της βροχής, δροσίζει τους δρόμους, περιορίζει τις πλημμύρες και μειώνει τον κίνδυνο υδρολίσθησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Ο Ντόντσιτς θα πληρώσει όλα τα έξοδα των Λέικερς στη Σλοβενία»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2559122/o-ntontsits-tha-plirosei-ola-ta-exoda-ton-leikers-sti-slobenia",
-          "snippet": "Ο Λούκα Ντόντσιτς αναμένεται να καλύψει όλα τα έξοδα κατά τη διάρκεια της παρουσία των Λέικερς στη Σλοβενία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Στην Ολλανδία θα χρειαστεί κατάθεση ψυχής και επιθετική ουσία",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559119/olympiakos-stin-ollandia-tha-hreiastei-katathesi-psyhis-kai",
-          "snippet": "Ο Ολυμπιακός κατάλαβε από πρώτο χέρι πόσο σκληρό καρύδι είναι η Ναϊμέγκεν και στην Ολλανδία θα χρειαστεί άλλη προσέγγιση από αυτή που έδειξε στο Φάληρο. Γράφει ο Δημήτρης Τομαράς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Βαθμολογία UEFA: Η Ελλάδα έμεινε ακόμα μακριά από την πρώτη δεκάδα",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559123/bathmologia-uefa-i-ellada-emeine-akoma-makria-apo-tin-proti",
-          "snippet": "Η ισοπαλία του Ολυμπιακού δεν βοήθησε την Ελλάδα να κλείσει την ψαλίδα από τη 10η θέση στη βαθμολογία της UEFA, με τη χώρα μας να δίνει μάχη κόντρα σε Πολωνία και Τσεχία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ζότα Σίλβα: «Η γεύση είναι πικρή, θα κάνουμε τα πάντα για να σκοράρουμε»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559121/zota-silba-i-geysi-einai-pikri-tha-kanoyme-ta-panta-gia-na",
-          "snippet": "Οι δηλώσεις του Ζότα Σίλβα στην κάμερα της Cosmote TV μετά τη «λευκή» ισοπαλία του Ολυμπιακού με τη Ναϊμέγκεν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μεντιλίμπαρ: «Δεν είναι κακό αποτέλεσμα το 0-0, η Ναϊμέγκεν ήταν καλύτερη»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559120/mentilimpar-den-einai-kako-apotelesma-0-0-den-prosarmostikame",
-          "snippet": "Οι δηλώσεις του Χοσέ Λουίς Μεντιλίμπαρ στην κάμερα της Cosmote TV μετά τη «λευκή» ισοπαλία του Ολυμπιακού με τη Ναϊμέγκεν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Ναϊμέγκεν: Αποδοκιμασίες με τη λήξη και μήνυμα στήριξης στη συνέχεια",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559118/olympiakos-naimegken-apodokimasies-me-ti-lixi-kai-minyma-stirixis",
-          "snippet": "Μετά τη «λευκή» ισοπαλία του Ολυμπιακού με τη Ναϊμέγκεν (0-0) φίλοι των Πειραιωτών αποδοκίμασαν, όμως στη συνέχεια έστειλαν μήνυμα στήριξης ενόψει ρεβάνς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός – Ναϊμέγκεν: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559117/olympiakos-naimegken-ta-highlights-toy-agona",
-          "snippet": "Ο Ολυμπιακός έμεινε στο 0-0 στο ματς με τη Ναϊμέγκεν για τον τρίτο προκριματικό του Champions League. Δείτε τις καλύτερες στιγμές της αναμέτρησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ουνιόν - Μπόντο 3-3: Ματσάρα και ανοιχτοί λογαριασμοί",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559116/oynion-mponto-3-3-matsara-kai-anoihtoi-logariasmoi",
-          "snippet": "Σε ένα τρελό ματς, Ουνιόν και Μπόντο αναδείχθηκαν ισόπαλες 3-3 και όλα θα κριθούν στη Νορβηγία, με τον νικητή να αντιμετωπίζει Ολυμπιακό ή Ναϊμέγκεν!",
           "source": "Gazzetta"
         }
       ]
