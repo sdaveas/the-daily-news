@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T21:02:38.931902+00:00",
+  "updated": "2026-08-05T01:47:31.289808+00:00",
   "sections": [
     {
       "id": "greek",
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "When A.I. Goes Rogue",
-          "url": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
-          "snippet": "It was the stuff of science fiction — until recently.",
+          "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+          "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html",
+          "snippet": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,36 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
-        "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
-        "snippet": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+        "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
+        "snippet": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
+          "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
+          "snippet": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
+          "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
+          "snippet": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX doubles revenue on Anthropic and Google compute deals, Starlink growth",
+          "url": "https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/",
+          "snippet": "SpaceX doubled its revenue compared to last year, according to its first quarterly earnings since going public in June.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Android app developers may be unwittingly sharing their users’ location data with advertisers",
           "url": "https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/",
@@ -262,30 +286,6 @@
           "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
           "snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ m",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Texas halts new data centers as governor calls for audits",
-          "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-          "snippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Walmart completes its acquisition of TV advertising company Vibe.co",
-          "url": "https://techcrunch.com/2026/08/04/walmart-completes-its-acquisition-of-tv-advertising-company-vibe-co/",
-          "snippet": "The acquisition, which was announced in June, brings Vibe.co into Walmart Connect, Walmart's connected TV advertising platform.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-          "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-          "snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Host a Side Event during TechCrunch Founder Summit Week in Boston",
-          "url": "https://techcrunch.com/2026/08/04/host-a-side-event-during-techcrunch-founder-summit-week-in-boston/",
-          "snippet": "Want to tap into the energy of 1,100+ startup founders, investors, and tech leaders descending on Boston for the Founder Summit 2026 on June 9? Host your own Side Event during “Founder Summit Week,” happening June 4-10!",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,48 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Το Μαρόκο αντικαθιστά την άσφαλτο με δρόμους-«σφουγγάρια»: Πώς μειώνουν τη ζέστη και τις πλημμύρες",
-        "url": "https://www.gazzetta.gr/plus/2559098/maroko-antikathista-tin-asfalto-me-dromoys-sfoyggaria-pos-meionoyn-ti-zesti-kai-tis",
-        "snippet": "Το Μαρόκο δοκιμάζει πορώδες οδόστρωμα που απορροφά το νερό της βροχής, δροσίζει τους δρόμους, περιορίζει τις πλημμύρες και μειώνει τον κίνδυνο υδρολίσθησης.",
+        "title": "Παναθηναϊκός: Στην Ευρωπαϊκή λίστα για τα ματς με ΤΣΣΚΑ 1948 οι Ντέσερς, Γκαρσία",
+        "url": "https://www.gazzetta.gr/football/europa-conference-league/2559132/panathinaikos-stin-eyropaiki-lista-gia-ta-mats-me-tsska",
+        "snippet": "Στην Ευρωπαϊκή λίστα του Παναθηναϊκού για τα ματς με την ΤΣΣΚΑ 1948 συμπεριλήφθηκαν οι Σίριλ Ντέσερς και Λιβάι Γκαρσία.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μεντιλίμπαρ: «Δεν υπάρχει κανένα θέμα προτίμησης για την ενδεκάδα, όλοι είναι παίκτες μου»",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-champions-league/2559131/mentilimpar-den-yparhei-kanena-thema-protimisis-gia",
+          "snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ μίλησε στη συνέντευξη Τύπου για τη «λευκή» ισοπαλία με τη Ναϊμέγκεν και τα όσα θα πρέπει να βελτιώσουν εν όψει της ρεβάνς του 3ου προκριματικού για το Champions League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "«Πόρτα» της Μπενφίκα σε τρελή πρόταση της Φενέρ για Παυλίδη!",
+          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2559130/porta-tis-mpenfika-se-treli-protasi-tis-fener-gia-paylidi",
+          "snippet": "Η Μπενφίκα απάντησε αρνητικά στη σούπερ πρόταση της Φενέρμπαχτσε για την απόκτηση του Παυλίδη, επιβεβαιώνοντας ότι δεν προτίθεται να παραχωρήσει τον Έλληνα επιθετικό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρεάλ Μαδρίτης: Έκλεισε τον Ντέμιαν Τζόουνς και αναζητά γκαρντ",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2559129/real-madritis-ekleise-ton-ntemian-tzooyns-kai-anazita-gkarnt",
+          "snippet": "Παίκτης της Ρεάλ Μαδρίτης αναμένεται να γίνει ο Ντέμιαν Τζόουνς, σύμφωνα με ισπανικό μέσο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λιβάι Γκαρσία: O Παναθηναϊκός ανακοίνωσε την απόκτηση του με... Σπάιντερμαν",
+          "url": "https://www.gazzetta.gr/football/superleague/2559128/libai-gkarsia-o-panathinaikos-anakoinose-tin-apoktisi-toy-ala",
+          "snippet": "Με μια ανάρτηση με... επιρροή από Σπάιντερμαν ο Παναθηναϊκός ανακοίνωσε την απόκτηση του Λιβάι Γκαρσία, με τη μορφή δανεισμού από τη Σπαρτάκ. Διαθέσιμος για τα ματς με την ΤΣΣΚΑ 1948.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σαλάχ: Η Τράμπζονσπορ έκανε το «μπαμ» με τον Αιγύπτιο!",
+          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2559127/salah-i-tramponspor-ekane-mpam-me-ton-aigyptio",
+          "snippet": "Οριστική συμφωνία μεταξύ Τράμπζονσπορ και Μοχάμεντ Σαλάχ, με τον Αιγύπτιο να ετοιμάζεται να βάλει την υπογραφή του σε διετές συμβόλαιο συνεργασίας!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το Μαρόκο αντικαθιστά την άσφαλτο με δρόμους-«σφουγγάρια»: Πώς μειώνουν τη ζέστη και τις πλημμύρες",
+          "url": "https://www.gazzetta.gr/plus/2559098/maroko-antikathista-tin-asfalto-me-dromoys-sfoyggaria-pos-meionoyn-ti-zesti-kai-tis",
+          "snippet": "Το Μαρόκο δοκιμάζει πορώδες οδόστρωμα που απορροφά το νερό της βροχής, δροσίζει τους δρόμους, περιορίζει τις πλημμύρες και μειώνει τον κίνδυνο υδρολίσθησης.",
+          "source": "Gazzetta"
+        },
         {
           "title": "«Ο Ντόντσιτς θα πληρώσει όλα τα έξοδα των Λέικερς στη Σλοβενία»",
           "url": "https://www.gazzetta.gr/basketball/nba/2559122/o-ntontsits-tha-plirosei-ola-ta-exoda-ton-leikers-sti-slobenia",
@@ -346,42 +382,6 @@
           "url": "https://www.gazzetta.gr/football/champions-league/2559116/oynion-mponto-3-3-matsara-kai-anoihtoi-logariasmoi",
           "snippet": "Σε ένα τρελό ματς, Ουνιόν και Μπόντο αναδείχθηκαν ισόπαλες 3-3 και όλα θα κριθούν στη Νορβηγία, με τον νικητή να αντιμετωπίζει Ολυμπιακό ή Ναϊμέγκεν!",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Κουλιεράκης: Ντεμπούτο με γκολ σε φιλική νίκη της Ρόμα!",
-          "url": "https://www.gazzetta.gr/football/diethni-filika/2559115/koylierakis-ntempoyto-me-gkol-se-filiki-niki-tis-roma",
-          "snippet": "Ιδανικό ντεμπούτο για τον Κωνσταντίνο Κουλιεράκη με τη φανέλα της Ρόμα, ο οποίος άνοιξε λογαριασμό με τη νέα του ομάδα σε φιλική νίκη με 4-1 επί της Νιούπορτ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Φωτιά στη Δυτική Αττική: Πέμπτη νύχτα μάχης με τις φλόγες – Ενεργές εστίες σε Λούμπα και Λάκκα Καλογήρου",
-          "url": "https://www.gazzetta.gr/plus/2559113/fotia-sti-dytiki-attiki-pempti-nyhta-mahis-me-tis-floges-energes-esties-se-loympa-kai",
-          "snippet": "Για πέμπτη συνεχόμενη νύχτα συνεχίζεται η μάχη με τη μεγάλη φωτιά στη Δυτική Αττική. Ενεργές εστίες παραμένουν σε Λούμπα και Λάκκα Καλογήρου, ενώ επιχειρούν 526 πυροσβέστες.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Δανία (Γ) U18 - Ελλάδα (Γ) U18 60-72: Πρωτιά στον όμιλο και 4/4!",
-          "url": "https://www.gazzetta.gr/basketball/2559112/dania-g-u18-ellada-g-u18-60-72-protia-ston-omilo-kai-44",
-          "snippet": "Το 4/4 έκανε η Εθνική Νεανίδων στη φάση των ομίλων του Eurobasket U18 Β΄Κατηγορίας, επικρατώντας της Δανίας με 72-60!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ναϊμέγκεν - Ολυμπιακός: Η μέρα και η ώρα της ρεβάνς",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559111/naimegken-olympiakos-i-mera-kai-i-ora-tis-rebans",
-          "snippet": "Ο Ολυμπιακός θα φιλοξενηθεί από τη Ναϊμέγκεν στη ρεβάνς των δυο ομάδων σε μια εβδομάδα (11/8), στις 20:30.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Ναϊμέγκεν 0-0: Τα... ρέστα του στην Ολλανδία!",
-          "url": "https://www.gazzetta.gr/football/champions-league/2559110/olympiakos-naimegken-0-0-ta-resta-toy-stin-ollandia",
-          "snippet": "Ο Ολυμπιακός δεν ήταν καλός, χωρίς ιδέες και δημιουργία, υπέφερε από τη Ναϊμέγκεν, όμως... κράτησε το μηδέν (0-0) με τις μεγάλες επεμβάσεις του Πόποβιτς και πλέον την ερχόμενη Τρίτη στην Ολλανδία θα παίξει τα... ρέστα του για να μείνει ζωντανός στον δρόμο προς τη League Phase. Απ",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός, Παντελίδης: Το μήνυμα του εξτρέμ των «πράσινων» μετά τον τραυματισμό",
-          "url": "https://www.gazzetta.gr/football/superleague/2559108/panathinaikos-pantelidis-minyma-toy-extrem-ton-prasinon-meta-ton",
-          "snippet": "Τον κόσμο για την στήριξή του μετά τον τραυματισμό του ευχαρίστησε μέσω social media ο μεσοεπιθετικός του Παναθηναϊκού, Παύλος Παντελίδης.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "Darwin Was Right: These Plants Are Carnivores",
-          "url": "https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html",
-          "snippet": "Scientists have proved that a species of plant covered with sticky hairs is carnivorous, confirming Darwin’s 150-year-old hunch.",
+          "title": "Video: Dolphin Carries Dead Calf in What Experts Call Mourning",
+          "url": "https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html",
+          "snippet": "Footage posted by a conservancy group offers an unusual glimpse of a common behavior by dolphins that often goes unobserved.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Phoenix Species Project Announces Funds for Imperiled Wildlife",
-          "url": "https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html",
-          "snippet": "A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled wildlife back from the brink of extinction.",
+          "title": "Darwin Was Right: These Plants Are Carnivores",
+          "url": "https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html",
+          "snippet": "Scientists have proved that a species of plant covered with sticky hairs is carnivorous, confirming Darwin’s 150-year-old hunch.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Meet the Bee Vet, Now Making Hive Calls",
-          "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
-          "snippet": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
+          "title": "Phoenix Species Project Announces Funds for Imperiled Wildlife",
+          "url": "https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html",
+          "snippet": "A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled wildlife back from the brink of extinction.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
-          "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
-          "snippet": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.",
+          "title": "Meet the Bee Vet, Now Making Hive Calls",
+          "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+          "snippet": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
-          "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-          "snippet": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
+          "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+          "url": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
+          "snippet": "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands. Now, as the province’s chief scientist, he will help shape its environmental destiny.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "A Ton of Space Junk Tumbles Unpredictably to Earth Every Week",
-          "url": "https://www.nytimes.com/2026/07/31/world/asia/space-debris-falling-crashing-earth-risk.html",
-          "snippet": "Flaming chunks of metal crash into homes, farms and parking lots. Who’s to blame? And who pays for the damage?",
+          "title": "Archaeologists Find Hundreds of Ancient Glyphs in the Amazon",
+          "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+          "snippet": "The geometric earthwork structures, carved into the ground with embankments and ditches, are in some cases more than 2,500 years old, researchers said.",
           "source": "NYT Science"
         },
         {
