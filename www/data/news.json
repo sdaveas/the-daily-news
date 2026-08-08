@@ -1,16 +1,28 @@
 {
-  "updated": "2026-08-07T20:31:19.745581+00:00",
+  "updated": "2026-08-08T00:59:25.176791+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΗΠΑ: «Αναμένεται σύντομα συμφωνία» για τα Στενά του Ορμούζ, υποστηρίζει Αμερικανός αξιωματούχος",
-        "url": "https://www.efsyn.gr/kosmos/1444285/ipa-anamenetai-syntoma-symfonia-gia-ta-stena-toy-ormoyz-ypostirizei-amerikanos-axiomatoyhos/",
-        "snippet": "Μόλις ανακοινωθεί συμφωνία για την αποκατάσταση της ναυσιπλοΐας, οι Ηνωμένες Πολιτείες θα άρουν τον αποκλεισμό των ιρανικών λιμένων, αναφέρει.",
+        "title": "Κλιμακώνεται η κόντρα Ισπανίας – Ιταλίας: Η Μαδρίτη επαναφέρει τους συνοριακούς ελέγχους",
+        "url": "https://www.efsyn.gr/kosmos/1444290/klimakonetai-i-kontra-ispanias-italias-i-madriti-epanaferei-toys-synoriakoys-eleghoys/",
+        "snippet": "Πρόκειται για την ισπανική «απάντηση» στα αντίστοιχα μέτρα που έλαβε η Ρώμη μετά τη μαζική άφιξη των μεταναστών στη Θέουτα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Μαραντόνα: Στο σφυρί η μπάλα που σκόραρε το «χέρι του Θεού» – Η τιμή της ίσως ξεπεράσει τα 10 εκατ. δολάρια",
+          "url": "https://www.efsyn.gr/athlitismos/1444287/marantona-sto-sfyri-i-mpala-poy-skorare-to-heri-toy-theoy-i-timi-tis-isos-xeperasei-ta-10-ekat-dolaria/",
+          "snippet": "Δύο ιστορικά γκολ απέναντι στην Αγγλία πέτυχε ο Μαραντόνα, στον προημιτελικό του Μουντιάλ του 1986.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΗΠΑ: «Αναμένεται σύντομα συμφωνία» για τα Στενά του Ορμούζ, υποστηρίζει Αμερικανός αξιωματούχος",
+          "url": "https://www.efsyn.gr/kosmos/1444285/ipa-anamenetai-syntoma-symfonia-gia-ta-stena-toy-ormoyz-ypostirizei-amerikanos-axiomatoyhos/",
+          "snippet": "Μόλις ανακοινωθεί συμφωνία για την αποκατάσταση της ναυσιπλοΐας, οι Ηνωμένες Πολιτείες θα άρουν τον αποκλεισμό των ιρανικών λιμένων, αναφέρει.",
+          "source": "EfSyn"
+        },
         {
           "title": "Marfin: «Ήμουν στην πορεία, αλλά δεν έχω καμία σχέση με την επίθεση», τονίζει η 46χρονη",
           "url": "https://www.efsyn.gr/ellada/1444282/marfin-imoyn-stin-poreia-alla-den-eho-kamia-shesi-me-tin-epithesi-tonizei-i-46hroni/",
@@ -81,18 +93,6 @@
           "title": "«Go, Alexi»: Ο Βασίλης Κικίλιας στηρίζει παλιό του συμπαίκτη στον Πανιώνιο για δήμαρχο στο Σικάγο [εικόνες]",
           "url": "https://www.efsyn.gr/politiki/1444226/o-kikilias-leei-go-alexi-kai-stirizei-palio-toy-sympaikti-ston-panionio-tora-ypopsifio-dimarho-toy-sikago-eikones/",
           "snippet": "Ο Alexi Γιαννούλιας, ο οποίος επί του παρόντος είναι υπουργός Εξωτερικών στην ομόσπονδη κυβέρνηση των Δημοκρατικών στο Ιλινόις, ανακοίνωσε την απόφασή του να είναι υποψήφιος στις δημοτικές εκλογές για το Σικάγο.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Χάκερς προκάλεσαν αναστάτωση στη Γερμανία με fake βίντεο που προανήγγειλε την παραίτηση του Μερτς",
-          "url": "https://www.efsyn.gr/kosmos/1444233/hakers-prokalesan-anastatosi-sti-germania-me-fake-vinteo-poy-proaniggeile-tin-paraitisi-toy-merts/",
-          "snippet": "Μια πηγή προσκείμενη στις υπηρεσίες ασφαλείας της Γερμανίας ανέφερε σήμερα ότι οι αρχές πιστεύουν πως μια ομάδα χάκερ η οποία συνδέεται με το Κρεμλίνο ευθύνεται για το παραποιημένο βίντεο που ανακοινώνει την προσεχή παραίτηση του καγκελαρίου Φρίντριχ Μερτς. «Ο δράστης είναι πιθαν",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κωνσταντοπούλου: Όσα γρανάζια κι αν κινήσουν, στο τέλος θα επικρατήσει η αλήθεια, το φως και το δίκαιο για τις υποκλοπές",
-          "url": "https://www.efsyn.gr/politiki/1444230/konstantopoyloy-osa-granazia-ki-an-kinisoyn-sto-telos-tha-epikratisei-i-alitheia-to-fos-kai-to-dikaio-gia-tis-ypoklopes/",
-          "snippet": "Η πρόεδρος της Πλεύσης Ελευθερίας, Ζωή Κωνσταντοπούλου, δήλωσε για την απόφαση του εισαγγελέα του Αρείου Πάγου να μην ανασύρει την υπόθεση των τηλεφωνικών παρακολουθήσεων από το αρχείο: «Παρασκευή 7 Αυγούστου 2026, με τη Βουλή κλειστή εδώ και 1 εβδομάδα, με τα Δικαστήρια ομοίως κ",
           "source": "EfSyn"
         }
       ]
@@ -174,6 +174,12 @@
           "source": "NYT World"
         },
         {
+          "title": "Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal",
+          "url": "https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html",
+          "snippet": "Prime Minister Mark Carney is attempting to prevent 50 percent tariffs against many Canadian goods scheduled for this month.",
+          "source": "NYT World"
+        },
+        {
           "title": "Houthis Claim Attack on Yemeni Military Camp",
           "url": "https://www.nytimes.com/2026/08/07/world/middleeast/yemen-houthis-attack-military-camp.html",
           "snippet": "Recent escalating tensions between the Iran-backed group and the Yemeni government have prompted fears that a truce in place since 2022 is nearing collapse.",
@@ -184,12 +190,6 @@
           "url": "https://www.nytimes.com/2026/08/07/us/robert-gilman-russia-torture.html",
           "snippet": "Robert Gilman, 32, is in “dissociative stupor,” an advocacy group said, and his family members say they are afraid for his life. Mr. Gilman was arrested in Russia in 2022.",
           "source": "NYT World"
-        },
-        {
-          "title": "As Pressure Mounts, U.S. Hunts for Cuba’s Next Leader",
-          "url": "https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html",
-          "snippet": "Some officials warn that a more hard-line leader could emerge if the Trump administration moves forward with its plans.",
-          "source": "NYT World"
         }
       ]
     },
@@ -197,12 +197,36 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-        "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "snippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+          "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "snippet": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
+          "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
+          "snippet": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
+          "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
+          "snippet": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+          "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "snippet": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Computer maker Framework notifies ‘all customers’ of a data breach",
           "url": "https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/",
@@ -242,7 +266,7 @@
         {
           "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
           "url": "https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/",
-          "snippet": "SpaceX and Tesla are building a massive semiconductor fab in Texas that will depend on natural gas power plants, not Tesla solar panels.",
+          "snippet": "The fab is intended to build chips for data centers that will be run by SpaceX and its xAI subsidiary.",
           "source": "TechCrunch"
         },
         {
@@ -254,37 +278,13 @@
         {
           "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
           "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-          "snippet": "Meta's total fine has raked up to $942 million in this case.",
+          "snippet": "Meta's total fine has racked up to $942 million in this case.",
           "source": "TechCrunch"
         },
         {
           "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
           "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
           "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
-          "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
-          "snippet": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco&#8217;s Moscone West from October 13-15. That&#8217;s exactly what our E",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Vogue just gave another nod of approval to the tech world",
-          "url": "https://techcrunch.com/2026/08/06/vogue-just-gave-another-nod-of-approval-to-the-tech-world/",
-          "snippet": "Vogue World is coming to San Francisco next year — perhaps another indication that tech bros are now part of the fashion zeitgeist.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google says hackers are calling financial firm employees to hack and extort victims",
-          "url": "https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/",
-          "snippet": "Groups of hackers are breaking into large U.S. financial firms to steal sensitive data and extort victims, Google’s security researchers report.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "China-linked LightSpy spyware caught targeting victims in 13 countries, including the US",
-          "url": "https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/",
-          "snippet": "Researchers linked the latest malicious activity to a Chinese company, after one of the spyware's operators placed an order with KFC using their real name and office address.",
           "source": "TechCrunch"
         }
       ]
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ντεπορτίβο Μουνισιπάλ: Κυκλοφόρησε τη φανέλα των 1.000 χορηγών",
-        "url": "https://www.gazzetta.gr/football/2559807/nteportibo-moynisipal-kykloforise-ti-fanela-ton-1000-horigon",
-        "snippet": "Η Ντεπορτίβο Μουνισιπάλ που αγωνίζεται στην τρίτη κατηγορία του Περού, κυκλοφόρησε τη φανέλα των 1.000 χορηγών για να προωθήσει τις μικρές επιχειρήσεις.",
+        "title": "Σάκκαρη - Γκοφ 0-2: Αποκλεισμός με κακή εμφάνιση",
+        "url": "https://www.gazzetta.gr/tennis/wta/2559820/sakkari-gkof-0-2-apokleismos-me-kaki-emfanisi",
+        "snippet": "Η Μαρία Σάκκαρη έμεινε εκτός του τουρνουά στο Τορόντο γνωρίζοντας την ήττα από την Κόκο Γκοφ με 6-1, 6-4 στον τρίτο γύρο του θεσμού",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Παγκόσμιο πρωτάθλημα Κ20: Διπλή ελληνική πρόκριση στον τελικό του μήκους",
+          "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2559819/pagkosmio-protathlima-k20-dipli-elliniki-prokrisi-ston",
+          "snippet": "Οι ελληνικές προκρίσεις συνεχίζονται στο Παγκόσμιο Πρωτάθλημα Κ20 στο Γιουτζίν, με τον Βασίλη Μαγουλιώτη και τον Αρσένη Κουλούρη να εξασφαλίζουν την παρουσία τους στον τελικό του μήκους.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: «Μιχάλη δεν έφυγες ποτέ, δεν θα φύγεις ποτέ!»",
+          "url": "https://www.gazzetta.gr/football/superleague/2559817/aek-mihali-den-efyges-pote-den-tha-fygeis-pote",
+          "snippet": "Το μήνυμα της «οικογένειας» της ΑΕΚ για τη συμπλήρωση τριών ετών από τη δολοφονία του Μιχάλη Κατσούρη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κούτσιας: Ντεμπούτο με γκολ για τον Έλληνα φορ (vid)",
+          "url": "https://www.gazzetta.gr/football/primeira-liga/2559816/koytsias-ntempoyto-me-gkol-gia-ton-ellina-vid",
+          "snippet": "Ο Γιώργος Κούτσιας έκανε παραμυθένιο ντεμπούτο με τη Φαμαλικάο στο πορτογαλικό πρωτάθλημα, αφού βρήκε δίχτυα κόντρα στην Εστορίλ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κόβεντρι: Έκανε «δικό» της τον Γιρένκι με ποσό-ρεκόρ στην ιστορία της",
+          "url": "https://www.gazzetta.gr/football/premier-league/2559814/kobentri-ekane-diko-tis-ton-girenki-me-poso-rekor-stin-istoria-tis",
+          "snippet": "Ο 20χρονος Γκανέζος μέσος Κέιλεμπ Γιρένκι ανήκει και με τη... βούλα στην Κόβεντρι Σίτι, η οποία τον αγόρασε από τη Νόρτζελαντ με 27 εκατ. ευρώ, ποσό που αποτελεί ρεκόρ για τον αγγλικό σύλλογο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νέα θύελλα στη FIFA: Καταγγελίες για σχέση Ινφαντίνο με εργαζόμενη και αποζημίωση από την UEFA",
+          "url": "https://www.gazzetta.gr/football/2559813/nea-thyella-sti-fifa-kataggelies-gia-shesi-infantino-me-ergazomeni-kai-apozimiosi",
+          "snippet": "Νέες αποκαλύψεις για την εποχή του Ινφαντίνο στην UEFA προκαλούν πολιτικό σεισμό στη FIFA, μετά από καταγγελίες και οικονομικό διακανονισμό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρωσία - Ελλάδα 14-9: Ήττα και στην 6η θέση του Ευρωπαϊκού",
+          "url": "https://www.gazzetta.gr/polo/eyropaiko-protathlima-polo/2559812/rosia-ellada-14-9-itta-kai-stin-6i-thesi-toy-eyropaikoy",
+          "snippet": "Την 6η θέση στο Ευρωπαϊκό πρωτάθλημα νέων γυναικών κατέλαβε η Εθνική Ελλάδας, γνωρίζοντας την ήττα από τη Ρωσία με 14-9 στο ματς για τις θέσεις \"5-6\".",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Χατζηγιοβάνης: Σπουδαία κίνηση ανθρωπιάς, έκανε σημαντική δωρεά για παιδί που δίνει μάχη με τον καρκίνο",
+          "url": "https://www.gazzetta.gr/football/katigoria-kyproy/2559811/hatzigiobanis-spoydaia-kinisi-anthropias-ekane-simantiki-dorea",
+          "snippet": "Ο διεθνής εξτρέμ της Ομόνοιας, Τάσος Χατζηγιοβάνης, σε μια υποδειγματική κίνηση ανθρωπιάς δώρισε 12.500 ευρώ και κάλυψε τα εγχειρητικά έξοδα παιδιού που δίνει γενναία μάχη με τον καρκίνο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Στα 16 της νίκησε δύο φορές τη λευχαιμία και κέρδισε υποτροφία 5.000 δολαρίων για να γίνει παιδοχειρουργός",
+          "url": "https://www.gazzetta.gr/plus/2559794/sta-16-tis-nikise-dyo-fores-ti-leyhaimia-kai-kerdise-ypotrofia-5000-dolarion-gia-na",
+          "snippet": "Η Σούμα Κινγκ διαγνώστηκε με λευχαιμία στα 9 της, πάλεψε ξανά με την ασθένεια στα 15 και τώρα κυνηγά το όνειρό της να γίνει γιατρός.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μάλαγα: Θέλει να αποκτήσει τον Τζόελ Μπολομπόι",
+          "url": "https://www.gazzetta.gr/basketball/basketball-champions-league/2559810/malaga-thelei-na-apoktisei-ton-tzoel-mpolompoi",
+          "snippet": "Η Μάλαγα θέλει να ενισχύσει τη front line της με τον Τζόελ Μπολομπόι, ο οποίος είναι ελεύθερος.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λεβαδειακός: Τον Σενεγαλέζο Ν' Ντιαγέ πήραν οι Βοιωτοί",
+          "url": "https://www.gazzetta.gr/football/superleague/2559809/lebadeiakos-ton-senegalezo-n-ntiage-piran-oi-boiotoi",
+          "snippet": "Σε μια κίνηση για το μέλλον προχώρησε ο Λεβαδειακός με τους Βοιωτούς να κάνουν δικό τους τον Σενεγαλέζο μέσο, Μοχάμεντ Ρασίντ Ν’ Ντιαγέ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ντεπορτίβο Μουνισιπάλ: Κυκλοφόρησε τη φανέλα των 1.000 χορηγών",
+          "url": "https://www.gazzetta.gr/football/2559807/nteportibo-moynisipal-kykloforise-ti-fanela-ton-1000-horigon",
+          "snippet": "Η Ντεπορτίβο Μουνισιπάλ που αγωνίζεται στην τρίτη κατηγορία του Περού, κυκλοφόρησε τη φανέλα των 1.000 χορηγών για να προωθήσει τις μικρές επιχειρήσεις.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Εθνική Νεανίδων: Ήττα - αποκλεισμός από τη Λιθουανία στα προημιτελικά",
           "url": "https://www.gazzetta.gr/basketball/eurobasket-gynaikon/2559806/ethniki-neanidon-itta-apokleismos-apo-ti-lithoyania-sta",
@@ -315,72 +381,6 @@
           "title": "Γκέιγ: Ο Ηρακλής «συνδέθηκε» από τη Γαλλία με τον Σενεγαλέζο",
           "url": "https://www.gazzetta.gr/football/superleague/2559804/gkeig-o-iraklis-syndethike-apo-ti-gallia-me-ton-senegalezo",
           "snippet": "Δημοσίευμα από τη Γαλλία υποστηρίζει πως ο Ηρακλής ενδιαφέρεται για τον Σενεγαλέζο φορ της Λε Μαν, Νταμ Γκέιγ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ σε Μεϊτέ: «Μείνε δυνατός είμαστε όλοι μαζί σου»",
-          "url": "https://www.gazzetta.gr/football/superleague/2559803/paok-se-meite-meine-dynatos-eimaste-oloi-mazi-soy",
-          "snippet": "Ο ΠΑΟΚ με μήνυμά του ευχήθηκε καλή ανάρρωση στον Σουαλιό Μεϊτέ που σήμερα Παρασκευή πέρασε την πόρτα του χειρουργείου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παγκόσμιο πρωτάθλημα Κ20: Πανελλήνιο ρεκόρ η Μπακογιάννη, τελικό βλέπει η Τσερνόβα",
-          "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2559802/pagkosmio-protathlima-k20-panellinio-rekor-i",
-          "snippet": "Η Δανάη Μπακογιάννη σημείωσε νέο πανελλήνιο ρεκόρ Κ20 στα 100 μ. εμπόδια, ενώ η Αλεξάνδρα Τσερνόβα έκανε σημαντικό βήμα για τον τελικό της σφυροβολίας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το μυστικό σχέδιο της FIFA για το Παγκόσμιο Κύπελλο που κατέρρευσε!",
-          "url": "https://www.gazzetta.gr/football/mundial/2559801/mystiko-shedio-tis-fifa-gia-pagkosmio-kypello-poy-katerreyse",
-          "snippet": "Αποκαλύπτεται το απόρρητο σχέδιο Ινφαντίνο για είσοδο ιδιωτών επενδυτών στο Μουντιάλ, που κατέρρευσε μετά τις έντονες αντιδράσεις.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παγκόσμιο πρωτάθλημα Κ20: Στον τελικό η Τζούβελη, εκτός ο Τασκούδης",
-          "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2559800/pagkosmio-protathlima-k20-ston-teliko-i-tzoybeli-ektos",
-          "snippet": "Η Ολυμπία Τζούβελη προκρίθηκε στον τελικό του ύψους στο Παγκόσμιο Κ20 με άλμα στα 1,79 μ., ενώ ο Γιάννης Τασκούδης ολοκλήρωσε την παρουσία του στα 110 μ. εμπόδια.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "WNBA: Δήλωσε συμμετοχή για το Draft ο Καντέρ",
-          "url": "https://www.gazzetta.gr/basketball/wnba/2559799/wnba-dilose-symmetohi-gia-draft",
-          "snippet": "Ο Ένες Καντέρ δήλωσε συμμετοχή για το Draft του WNBA το 2027 και γίνεται... χαμός με αυτή την απόφαση στα social media.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μαραντόνα: Βγαίνει σε δημοπρασία η μπάλα από «το χέρι του Θεού»",
-          "url": "https://www.gazzetta.gr/football/mundial/2559796/marantona-bgainei-se-dimoprasia-i-mpala-apo-heri-toy-theoy",
-          "snippet": "Σύμφωνα με τη L' Equipe, η μπάλα από το θρυλικό παιχνίδι Αργεντινή - Αγγλία το 1986 όπου έμεινε στην ιστορία για «το χέρι του Θεού» βγαίνει σε δημοπρασία με ιλιγγιώδη τιμή εκκίνησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Ρωσία χτύπησε το μεγαλύτερο στάδιο της νότιας Ουκρανίας",
-          "url": "https://www.gazzetta.gr/football/2559795/i-rosia-htypise-megalytero-stadio-tis-notias-oykranias",
-          "snippet": "Ρωσική πυραυλική επίθεση προκάλεσε σοβαρές ζημιές στο μεγαλύτερο στάδιο της νότιας Ουκρανίας, λίγες ώρες πριν από προγραμματισμένο αγώνα πρωταθλήματος.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Η Ισπανία ξηλώνει 3.000 παλιές ανεμογεννήτριες έως το 2030 και περνά σε νέα εποχή αιολικής ενέργειας",
-          "url": "https://www.gazzetta.gr/plus/2559781/i-ispania-xilonei-3000-palies-anemogennitries-eos-2030-kai-perna-se-nea-epohi-aiolikis",
-          "snippet": "Η Ισπανία δρομολογεί τη μεγαλύτερη ανανέωση του αιολικού της πάρκου, αντικαθιστώντας χιλιάδες παλιές ανεμογεννήτριες με ισχυρότερες.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Hennessey Blackbird: Το τελευταίο «αναλογικό» hypercar",
-          "url": "https://www.gazzetta.gr/gmotion/2559751/hennessey-blackbird-teleytaio-analogiko-hypercar",
-          "snippet": "Χωρίς καμία ψηφιακή οθόνη στο εσωτερικό και κανένα σύστημα ADAS, το νέο hypercar Hennessey Blackbird φιλοδοξεί να είναι η επιτομή της ανόθευτης αίσθησης οδήγησης.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αστέρας Τρίπολης - Πύργος 2-0: Φιλική νίκη των Αρκάδων",
-          "url": "https://www.gazzetta.gr/football/superleague/2559793/asteras-tripolis-pyrgos-2-0-filiki-niki-ton-arkadon",
-          "snippet": "Ο Αστέρας AKTOR στο πρώτο του φιλικό παιχνίδι στην Τρίπολη επικράτησε του Πύργου με 2-0.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τα ελληνικά mega deals που «ταρακούνησαν» την Ευρώπη",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2559673/ta-ellinika-mega-deals-poy-tarakoynisan-tin-eyropi",
-          "snippet": "Το Gazzetta σας θυμίζει τα mega deals των Ελλήνων ποδοσφαιριστών σε μεγάλα ευρωπαϊκά κλαμπ αλλά και τις φήμες που αναπαράγονται καθημερινά.",
           "source": "Gazzetta"
         }
       ]
