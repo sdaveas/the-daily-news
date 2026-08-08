@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-08T08:29:37.675108+00:00",
+  "updated": "2026-08-08T12:29:29.132300+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Σε δύο φάσεις η επίσκεψη Τσίπρα στη Θεσσαλονίκη",
-        "url": "https://www.efsyn.gr/politiki/1444402/se-dyo-faseis-i-episkepsi-tsipra-sti-thessaloniki/",
-        "snippet": "Νωρίς νωρίς θα ανεβεί στη Θεσσαλονίκη ο Αλέξης Τσίπρας, σε δύο μάλιστα φάσεις: η πρώτη θα εμπεριέχει την παρουσίαση του οικονομικού προγράμματος της Ελληνικής Αριστερής Συμπαράταξης, από τον Αλέξη Τσίπρα, σε ειδική εκδήλωση που θα πραγματοποιηθεί στο ξενοδοχείο Porto Palace, την ",
+        "title": "Ο Μίλτος Χατζηγιαννάκης στην «Εφ.Συν.»: Η Ελλάδα χρειάζεται μια νέα ηθική στην πολιτική",
+        "url": "https://www.efsyn.gr/politiki/1444291/o-miltos-hatzigiannakis-stin-ef-syn-i-ellada-hreiazetai-mia-nea-ithiki-stin-politiki/",
+        "snippet": "«Οι άνθρωποι που αγκάλιασαν το εγχείρημα της ΕΛΑΣ συμμετέχουν και συνδιαμορφώνουν ένα κοινό όραμα για την Ελλάδα» δήλωσε ο γραμματέας της Πολιτικής Επιτροπής του κόμματος",
         "source": "EfSyn"
       },
       "items": [
         {
+          "title": "Αποκαλυπτικός ο γιος του Τζο Μπάιντεν: «Κάπνιζα κρακ κάθε 15 λεπτά – Ο καρκίνος του πατέρα μου έχει εξαπλωθεί»",
+          "url": "https://www.efsyn.gr/kosmos/1444500/apokalyptikos-o-gios-toy-tzo-mpainten-kapniza-krak-kathe-15-lepta-o-karkinos-toy-patera-moy-ehei-exaplothei/",
+          "snippet": "Ο Χάντερ Μπάιντεν μίλησε στο BBC για την προεδρική χάρη που έλαβε, απέκλεισε το ενδεχόμενο να διεκδικήσει αιρετό αξίωμα και μίλησε για την προσπάθειά του να βοηθήσει άλλους ανθρώπους να απεξαρτηθούν.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιράν: Το άνοιγμα των Στενών του Ορμούζ δεν σχετίζεται με τις διαπραγματεύσεις μας με το Ομάν",
+          "url": "https://www.efsyn.gr/kosmos/1444494/iran-to-anoigma-ton-stenon-toy-ormoyz-den-shetizetai-me-tis-diapragmateyseis-mas-me-to-oman/",
+          "snippet": "Οι Φρουροί της Επανάστασης ανακοίνωσαν σήμερα ότι το άνοιγμα των Στενών του Ορμούζ εξαρτάται από την αποδοχή των όρων του Ιράν από τις ΗΠΑ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Bloomberg: Η Τουρκία περιορίζει την κίνηση των εμπορικών πλοίων στη Μαύρη Θάλασσα",
+          "url": "https://www.efsyn.gr/kosmos/1444490/bloomberg-i-toyrkia-periorizei-tin-kinisi-ton-emporikon-ploion-sti-mayri-thalassa/",
+          "snippet": "Το Bloomberg News επικαλείται πηγές που έχουν γνώση για το ζήτημα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Π. Φάληρο: Συνελήφθη 49χρονος της συμμορίας του Έντικ – Εμπλέκεται σε εκβιασμούς και ξυλοδαρμούς επιχειρηματιών",
+          "url": "https://www.efsyn.gr/ellada/1444476/p-faliro-synelifthi-49hrono-melos-tis-symmorias-toy-entik-empleketai-se-ekviasmoys-kai-xylodarmoys-epiheirimation/",
+          "snippet": "Οι Αρχές είχαν πληροφορίες ότι ο 49χρονος είχε διαφύγει στο εξωτερικό, ωστόσο το τελευταίο διάστημα επέστρεψε στην Ελλάδα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κόντρα για τα στοιχεία του ΟΟΣΑ: Οι «αναλύσεις της παραλίας» του Σκέρτσου και η απάντηση του ΠΑΣΟΚ",
+          "url": "https://www.efsyn.gr/politiki/1444467/kontra-gia-ta-stoiheia-toy-oosa-oi-analyseis-tis-paralias-toy-skertsoy-kai-i-apantisi-toy-pasok/",
+          "snippet": "Αλαζονικό ύφος και εξυπνακισμούς καταλόγισε στον υπουργό Επικρατείας το ΠΑΣΟΚ. Στο στόχαστρο Σκέρτσου και η ΕΛΑΣ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Επικίνδυνο «κοκτέιλ» ισχυρών ανέμων και ζέστης τις επόμενες μέρες – Συνεδρίασε η Επιτροπή Εκτίμησης Κινδύνου",
+          "url": "https://www.efsyn.gr/ellada/1444460/epikindyno-kokteil-ishyron-anemon-kai-zestis-tis-epomenes-meres-synedriase-i-epitropi-ektimisis-kindynoy/",
+          "snippet": "Άνεμοι έως και 9 μποφόρ, με το θερμόμετρο να σκαρφαλώνει στους 39 βαθμούς Κελσίου.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ανακοίνωση της αστυνομίας για τον τουρίστα στην Κρήτη: «Δεν προκύπτει απόπειρα προσέγγισης ανήλικης έναντι αμοιβής»",
+          "url": "https://www.efsyn.gr/ellada/1444452/anakoinosi-tis-astynomias-gia-ton-toyrista-stin-kriti-den-prokyptei-apopeira-proseggisis-anilikis-enanti-amoivis/",
+          "snippet": "Σύμφωνα με την αστυνομία, υπάρχουν αναφορές ότι ο τουρίστας, που βρισκόταν υπό την επήρεια μέθης, «απευθύνθηκε σε ενήλικη εργαζόμενη του καταστήματος και της ζήτησε να συνευρεθεί μαζί του».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θρίλερ στον Λυκαβηττό: Εντοπίστηκε σορός κοντά στο εκκλησάκι των Αγίων Ισιδώρων",
+          "url": "https://www.efsyn.gr/ellada/1444440/thriler-ston-lykavitto-entopistike-soros-konta-sto-ekklisaki-ton-agion-isidoron/",
+          "snippet": "Τις Αρχές ενημέρωσε περαστικός που κάλεσε το «100». Σε προχωρημένη σήψη η σορός.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Χαλκιδική: Οκτάχρονος τραυματίστηκε στο κεφάλι μετά από βουτιά στη θάλασσα",
+          "url": "https://www.efsyn.gr/ellada/1444434/halkidiki-oktahronos-traymatistike-sto-kefali-meta-apo-voytia-sti-thalassa/",
+          "snippet": "Το παιδί χτύπησε το κεφάλι του σε πέτρα. Μεταφέρθηκε στο Κέντρο Υγείας για τις πρώτες βοήθειες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Απόγνωση στο Πόρτο Γερμενό μετά τις πυρκαγιές – «Δεν έχει μείνει τίποτε, ό,τι βλέπεις το έφτιαξα με τα χέρια μου»",
+          "url": "https://www.efsyn.gr/ellada/1444426/apognosi-sto-porto-germeno-meta-tis-pyrkagies-den-ehei-meinei-tipote-oti-vlepeis-to-eftiaxa-me-ta-heria-moy/",
+          "snippet": "Στο Πόρτο Γερμενό πάνω από 100 κατοικίες έχουν καταστραφεί ολοσχερώς ή έχουν υποστεί σοβαρές ζημιές που απαιτούν επισκευές. 84 κτίρια χαρακτηρίστηκαν «κόκκινα».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Αιχμές Τσουκαλά μετά τη συμφωνία της Μέκκας: Χρειάζεται άλλη εξωτερική πολιτική με στρατηγικό βάθος",
+          "url": "https://www.efsyn.gr/politiki/1444419/aihmes-tsoykala-meta-ti-symfonia-tis-mekkas-hreiazetai-alli-exoteriki-politiki-me-stratigiko-vathos/",
+          "snippet": "Με αφορμή την απόρριψη από τον νέο Εισαγγελέα του Αρείου Πάγου των αιτημάτων για την ανάσυρση της δικογραφίας για το σκάνδαλο των υποκλοπών, ο κ. Τσουκαλάς τόνισε ότι «οι σκιές παραμένουν».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΕΛΑΣ κατά κυβέρνησης για τα κενά στα σχολεία: «Μήπως μας προετοιμάζουν για δραματική μείωση των προσλήψεων;»",
+          "url": "https://www.efsyn.gr/politiki/1444413/elas-kata-kyvernisis-gia-ta-kena-sta-sholeia-mipos-mas-proetoimazoyn-gia-dramatiki-meiosi-ton-proslipseon/",
+          "snippet": "Από την Ελληνική Αριστερή Συμπαράταξη κάνουν λόγο για απουσία εκπαιδευτικών από την αρχή λειτουργίας του σχολείου που «δυσχεραίνει τον προγραμματισμό του εκπαιδευτικού έργου».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σε δύο φάσεις η επίσκεψη Τσίπρα στη Θεσσαλονίκη",
+          "url": "https://www.efsyn.gr/politiki/1444402/se-dyo-faseis-i-episkepsi-tsipra-sti-thessaloniki/",
+          "snippet": "Νωρίς νωρίς θα ανεβεί στη Θεσσαλονίκη ο Αλέξης Τσίπρας, σε δύο μάλιστα φάσεις: η πρώτη θα εμπεριέχει την παρουσίαση του οικονομικού προγράμματος της Ελληνικής Αριστερής Συμπαράταξης, από τον Αλέξη Τσίπρα, σε ειδική εκδήλωση που θα πραγματοποιηθεί στο ξενοδοχείο Porto Palace, την ",
+          "source": "EfSyn"
+        },
+        {
           "title": "Το δηκτικό σχόλιο του ΠΑΣΟΚ για τον Γεωργιάδη",
           "url": "https://www.efsyn.gr/politiki/1444398/to-diktiko-sholio-toy-pasok-gia-ton-georgiadi/",
           "snippet": "Επιμένει ο Αδωνις Γεωργιάδης ότι θα φοράει τα έξυπνα γυαλιά του σε νοσοκομεία. «Εγώ τα γυαλιά θα τα φοράω σε όλες τις δημόσιες συναθροίσεις και θα καταγράφω» είπε (NEWS 24/7). Του φαίνεται απολύτως νόμιμο και φυσιολογικό, βλέπετε, καθώς το εξισώνει με τις κάμερες που καταγράφουν ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρά Πατούλη σε «γαλάζιους» φορείς",
-          "url": "https://www.efsyn.gr/politiki/1444395/pyra-patoyli-se-galazioys-foreis/",
-          "snippet": "Πυρά κατά των αρμόδιων κυβερνητικών φορέων για την εξάπλωση του ιού του Δυτικού Νείλου στην Αττική εξαπέλυσε ο πρόεδρος του Ιατρικού Συλλόγου Αθηνών, Γιώργος Πατούλης. «Τα προηγούμενα χρόνια είχαμε καταφέρει να περιορίσουμε δραστικά την κυκλοφορία του ιού του Δυτικού Νείλου στην ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στη Χαριλάου Τρικούπη χαμογελούν με την έκθεση του ΟΟΣΑ",
-          "url": "https://www.efsyn.gr/politiki/1444392/sti-harilaoy-trikoypi-hamogeloyn-me-tin-ekthesi-toy-oosa/",
-          "snippet": "Στη Χαριλάου Τρικούπη χαμογελούν με την έκθεση του ΟΟΣΑ που «γκρεμίζει» το κυβερνητικό αφήγημα για το εισόδημα, δίνοντας στρωμένη πάσα στον Κώστα Τσουκαλά. Το πρόβλημα για την κυβέρνηση; Οταν οι αριθμοί του ΟΟΣΑ σου δείχνουν την πόρτα της φτώχειας, το «success story» δεν χρειάζετ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αυγουστιάτικα…",
-          "url": "https://www.efsyn.gr/stiles/1444319/aygoystiatika/",
-          "snippet": "Επιμένουν οι αποδεδειγμένα άχρηστοι της κυβέρνησης –άνευ ουδεμίας ερυθριάσεως στας παρειάς των– ότι όλα είναι μέλι γάλα, ότι αυτοί δεν φταίνε σε τίποτε, ότι η Πολιτική Προστασία υπηρετεί περίφημα τον σκοπό της, ότι θα δοθούν αποζημιώσεις στους πληγέντες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ποιος Κύπριος ηγέτης θα διανύσει το τελευταίο μίλι;",
-          "url": "https://www.efsyn.gr/stiles/1444315/poios-kyprios-igetis-tha-dianysei-to-teleytaio-mili/",
-          "snippet": "Το Κυπριακό είναι μοναδικό φαινόμενο για τη διεθνή διπλωματία. Ενώ ο πλανήτης σείεται από πολέμους και δυστυχία, ένας γενικός γραμματέας επιμένει να ασχολείται με το Κυπριακό, ύστερα από πέντε δεκαετίες αποτυχίας",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Το Λυγουριό εκπέμπει sos",
-          "url": "https://www.efsyn.gr/stiles/1444310/to-lygoyrio-ekpempei-sos/",
-          "snippet": "Δεν υπάρχει πιο σημαντικός πολιτιστικός προορισμός για το καλοκαίρι στην Ελλάδα απ’ ό,τι στην Επίδαυρο. Και αυτό ισχύει τόσο για τους θεατές, όσο και για τους καλλιτέχνες",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Το ατύχημα και η προσβασιμότητα",
-          "url": "https://www.efsyn.gr/stiles/1444305/to-atyhima-kai-i-prosvasimotita/",
-          "snippet": "Πτώση και τραυματισμός του πρώην ευρωβουλευτή της Ν.Δ., Στέλιου Κυμπουρόπουλου",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αντίστροφη μέτρηση για την έκδοση του 31χρονου που συνελήφθη ως ένας από τους εκτελεστές της «Greek Mafia»",
-          "url": "https://www.efsyn.gr/ellada/1444386/antistrofi-metrisi-gia-tin-ekdosi-toy-31hronoy-poy-synelifthi-os-enas-apo-toys-ektelestes-tis-greek-mafia/",
-          "snippet": "O 31χρονος εντοπίστηκε και συνελήφθη σε περιοχή της Γερμανίας. Θεωρείται μέλος της εγκληματικής οργάνωσης του διαβόητου Έντικ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά σε κτίριο στην οδό Κουμουνδούρου – Απεγκλωβίστηκε ένα άτομο",
-          "url": "https://www.efsyn.gr/ellada/1444381/pyrkagia-se-akatoikito-ktirio-stin-odo-koymoyndoyroy-apegklovistike-ena-atomo/",
-          "snippet": "Παράλληλα με την κατάσβεση ερευνάται εάν υπάρχουν και άλλοι εγκλωβισμένοι.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τραμπ: «Εθνική ντροπή» η δικαστική απόφαση που μπλοκάρει την κατασκευή αίθουσας χορού στον Λευκό Οίκο",
-          "url": "https://www.efsyn.gr/kosmos/1444377/tramp-ethniki-ntropi-i-dikastiki-apofasi-poy-mplokarei-tin-kataskeyi-aithoysas-horoy-ston-leyko-oiko/",
-          "snippet": "«Αυτή η απόφαση, η οποία ελήφθη αφότου μεγάλο μέρος του έργου ολοκληρώθηκε και χρηματοδοτήθηκε, αποτελεί απειλή για την εθνική ασφάλεια στο υψηλότερο επίπεδο», ανέφερε ο πρόεδρος των ΗΠΑ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τουρισμός για όλους: Ποια ΑΦΜ μπορούν να υποβάλλουν σήμερα αιτήσεις",
-          "url": "https://www.efsyn.gr/oikonomia/1444370/toyrismos-gia-oloys-poia-afm-mporoyn-na-ypovalloyn-simera-aitiseis/",
-          "snippet": "Η προθεσμία λήγει την Παρασκευή 21 Αυγούστου 2026 στις 23:59.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η πολιτιστική ατζέντα της εβδομάδας [09.08-15.08.26]",
-          "url": "https://www.efsyn.gr/nisides/1443989/i-politistiki-atzenta-tis-evdomadas-09-08-15-08-26/",
-          "snippet": "Οι «Τρωάδες» της Ελένης Ευθυμίου ήταν πλήρως προσβάσιμες και συγκλονιστικές. Η έκθεση «Μέτοικοι &#8211; Μετάβαση, Ενσωμάτωση, Δημιουργία» τον εορτασμό των 200 ετών από την ονοματοδοσία της Ερμούπολης, εγκαινιάστηκε στη Σύρο. Ο Γιάννης Χαρούλης ολοκληρώνει τον κύκλο της καλοκαιριν",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Το κυκλαδίτικο νησί με τα γραφικά χωριά που συνδυάζει αυθεντικότητα, φύση και πολιτισμό",
-          "url": "https://www.efsyn.gr/nisides/1444361/to-kykladitiko-nisi-me-ta-grafika-horia-poy-syndyazei-aythentikotita-fysi-kai-politismo/",
-          "snippet": "Μακριά από τους έντονους ρυθμούς των πιο κοσμοπολίτικων νησιών, προσφέρει μια διαφορετική ταξιδιωτική εμπειρία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Marfin: «Στις φωτογραφίες δεν είναι η 46χρονη, είχε εξεταστεί και το 2022» λέει ο δικηγόρος της",
-          "url": "https://www.efsyn.gr/ellada/1444353/marfin-stis-fotografies-den-einai-i-46hroni-eihe-exetastei-kai-to-2022-leei-o-dikigoros-tis/",
-          "snippet": "Η 46χρονη, η οποία ζούσε τα τελευταία χρόνια στη Μεγάλη Βρετανία, επέστρεψε στην Ελλάδα το βράδυ της Πέμπτης και αναμένεται να οδηγηθεί ενώπιον της ανακρίτριας την ερχόμενη Τρίτη, προκειμένου να απολογηθεί.",
           "source": "EfSyn"
         }
       ]
@@ -101,12 +101,30 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-        "url": "https://www.nytimes.com/2026/08/08/world/asia/pellet-guns-sticks-and-tear-gas-how-indias-police-halted-a-youth-march.html",
-        "snippet": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.",
+        "title": "Whirling Like Dervishes in Turkey, but Open to Everyone",
+        "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
+        "snippet": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
         "source": "NYT World"
       },
       "items": [
+        {
+          "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
+          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
+          "snippet": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
+          "source": "NYT World"
+        },
+        {
+          "title": "As Thailand Gets Known for Mass Shootings, Fresh Pledges to Fix Gun Laws",
+          "url": "https://www.nytimes.com/2026/08/08/world/asia/thailand-mass-shootings-gun-laws.html",
+          "snippet": "A rampage at a high school in Thailand on Friday was the latest episode of gun violence in a country that has grappled in recent years with several attacks.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
+          "url": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
+          "snippet": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.",
+          "source": "NYT World"
+        },
         {
           "title": "Their African Islands Were Set to Be Decolonized. Then the U.S. Bombed Iran.",
           "url": "https://www.nytimes.com/2026/08/08/world/africa/diego-garcia-chagos-displaced-iran-war.html",
@@ -114,15 +132,15 @@
           "source": "NYT World"
         },
         {
-          "title": "Whirling for 7 Days and Nights, in Search of Ecstasy",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/turkey-sema-whirling-dervish-islam.html",
-          "snippet": "Hundreds of people attended a seven-day retreat in the Turkish countryside seeking transcendence through sema, the spiritual practice of whirling.",
+          "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
+          "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
+          "snippet": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
           "source": "NYT World"
         },
         {
-          "title": "She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.",
-          "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-          "snippet": "As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.",
+          "title": "Italy’s Heat Will Spread to Western Europe Ahead of Solar Eclipse",
+          "url": "https://www.nytimes.com/2026/08/08/weather/europe-heat-wave-italy-uk-france-spain.html",
+          "snippet": "Red high-temperature warnings remained in effect for much of southern and western Italy through Saturday.",
           "source": "NYT World"
         },
         {
@@ -156,12 +174,6 @@
           "source": "NYT World"
         },
         {
-          "title": "Saudi Arabia, Turkey and Pakistan Sign Joint Defense Pact",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/saudi-turkey-pakistan-joint-defense-pact.html",
-          "snippet": "The agreement treats an attack on any of the countries as an attack on all, but in a region of volatile rivalries, it was unclear how it would work in practice.",
-          "source": "NYT World"
-        },
-        {
           "title": "Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica",
           "url": "https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html",
           "snippet": "An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.",
@@ -174,21 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "The State of Iran’s Three Key Nuclear Sites",
-          "url": "https://www.nytimes.com/2026/08/07/world/middleeast/iran-nuclear-program.html",
-          "snippet": "The conflict may have slowed, but not stopped, Iran’s nuclear program, officials and experts said.",
-          "source": "NYT World"
-        },
-        {
-          "title": "A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat",
-          "url": "https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html",
-          "snippet": "The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.",
-          "source": "NYT World"
-        },
-        {
-          "title": "How Japan Reduced Deaths From a Major Quake",
-          "url": "https://www.nytimes.com/2026/08/07/world/asia/japan-earthquake-kumamoto-preparation.html",
-          "snippet": "After deadly tremors a decade ago, Kumamoto built earthquake-resistant buildings and even trained locals in search and rescue.",
+          "title": "Edge of Your Seat",
+          "url": "https://www.nytimes.com/2026/08/08/briefing/edge-of-your-seat.html",
+          "snippet": "A superfan of thrillers recommends some of her favorites.",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Μνηστηροφονία: Ο Οδυσσέας και το τέλος των υποψηφίων συζύγων της Πηνελόπης",
-        "url": "https://www.gazzetta.gr/plus/2559875/mnistirofonia-o-odysseas-kai-telos-ton-ypopsifion-syzygon-tis-pinelopis",
-        "snippet": "Πώς ο Οδυσσέας με τη βοήθεια του Τηλέμαχου και των πιστών βοσκών του Εύμαιου και Φιλοίτιου κατόρθωσε να εξοντώσει τους μνηστήρες της Πηνελόπης - Ποιος ήταν ο μάντης Θεοκλύμενος που προέβλεψε το τέλος των μνηστήρων;",
+        "title": "Μέσι: Έφυγε από τη ζωή ο πατέρας του Αργεντίνου μάγου σύμφωνα με πολλαπλά δημοσιεύματα",
+        "url": "https://www.gazzetta.gr/football/mundial/2559916/mesi-efyge-apo-ti-zoi-o-pateras-toy-argentinoy-magoy-symfona-me-pollapla",
+        "snippet": "Χαμός στον χώρο του ποδοσφαίρου, καθώς πολλαπλά δημοσιεύματα από Ευρώπη και Αργεντινή αναφέρουν πως ο πατέρας του Λιονέλ Μέσι, Χόρχε, έφυγε από τη ζωή. Αναμένεται επίσημη ενημέρωση από την οικογένειά του.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Ο Κριστιάνο Ρονάλντο έχει ένα από τα το πιο εξωφρενικά γκαράζ στον πλανήτη",
-          "url": "https://www.gazzetta.gr/gmotion/2559887/o-kristiano-ronalnto-anoixe-mythiko-gkaraz-toy-ton-40-ekatommyrion",
-          "snippet": "Ο Πορτογάλος σταρ ανέβασε στο Instagram τα «παιχνίδια» του, επιδεικνύοντας σπάνιες Bugatti, Ferrari και McLaren που κόβουν την ανάσα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΛ: Και με τη... βούλα ο Ρισβάνης",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2559886/ael-kai-me-ti-boyla-o-risbanis",
-          "snippet": "Ποδοσφαιριστής της ΑΕΛ με κάθε επισημότητα είναι ο Σπύρος Ρισβάνης, οποίος προσθέτει εμπειρία στα μετόπισθεν της ομάδας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κούτσιας: Βραβεύθηκε ως MVP του ματς από τον Κουαρέσμα",
-          "url": "https://www.gazzetta.gr/football/2559885/koytsias-brabeythike-os-mvp-toy-mats-apo-ton-koyaresma",
-          "snippet": "Ο Γιώργος Κούτσιας ξεκίνησε ιδανικά τη θητεία του στην Πορτογαλία με τη Φαμαλικάο και ο Ρικάρντο Κουαρέσμα του έδωσε το βραβείο του MVP.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Χώρα προσφέρει «χρυσά διαβατήρια» 80.000 ευρώ για την καταπολέμηση της κλιματικής αλλαγής: Πάνω από 85 προορισμοί χωρίς βίζα",
-          "url": "https://www.gazzetta.gr/plus/2559868/hora-prosferei-hrysa-diabatiria-80000-eyro-gia-tin-katapolemisi-tis-klimatikis-allagis",
-          "snippet": "Το Ναουρού καταφεύγει στην πώληση διαβατηρίων για να συγκεντρώσει τα απαραίτητα κεφάλαια που θα επιτρέψουν τη μεταφορά του πληθυσμού του σε υψηλότερα εδάφη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακοί Αγώνες 2028: Μέχρι και 3.350 δολάρια για τον τελικό μπάσκετ",
-          "url": "https://www.gazzetta.gr/basketball/olympiakoi-agones-mpasket/2559884/olympiakoi-agones-2028-mehri-kai-3350-dolaria-gia-ton",
-          "snippet": "Αστρονομικά είναι τα ποσά για τα ακριβότερα εισιτήρια στον τελικό του μπάσκετ για τους Ολυμπιακούς Αγώνες του 2028.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Marfin: Επιμένει ο δικηγόρος της 46χρονης για την ταυτοποίηση - «Η ίδια εξέταση είχε γίνει και το 2022»",
+          "title": "Άννα Βίσση: Απόλαυσε Τσιτσάνη από μπάντα δρόμου στο Φισκάρδο - «Κάτι θα κάνουμε στην Αθήνα»",
           "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Η 40χρονη τουρίστρια, που πνίγηκε εχθές στα Μάλια Κρήτης, φέρεται ότι είχε βουτήξει στη θάλασσα για να σώσει τη φόλη της που κινδύνευε.",
+          "snippet": "Η Άννα Βίσση βρέθηκε στο Φισκάρδο Κεφαλονιάς και απόλαυσε τη στιγμή που μια μπάντα του δρόμου έπαιξε το «Αργοσβήνεις μόνη» του Βασίλη Τσιτσάνη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ατρόμητος: Τελευταίο φιλικό με Λεβαδειακό στο Περιστέρι με ελεύθερη είσοδο",
-          "url": "https://www.gazzetta.gr/football/superleague/2559874/atromitos-teleytaio-filiko-me-lebadeiako-sto-peristeri-me-eleytheri",
-          "snippet": "Ο Ατρόμητος θα υποδεχθεί την Τετάρτη (12/8, 19:00) τον Λεβαδειακό στο τελευταίο φιλικό προετοιμασίας του, με την είσοδο να είναι ελεύθερη.",
+          "title": "Εθνική Παίδων: Ήττα από το Ισραήλ για τη 2η αγωνιστική",
+          "url": "https://www.gazzetta.gr/basketball/eurobasket/2559915/ethniki-paidon-itta-apo-israil-gia-ti-2i-agonistiki",
+          "snippet": "Η Εθνική Παίδων έφτασε να προηγείται με 13 πόντους, όμως δεν μπόρεσε να κρατήσει το προβάδισμά της και γνώρισε την ήττα από το Ισραήλ με 89-84.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κρήτη: Δεν είχε γίνει επίσημη καταγγελία - Ανθρωποκυνηγητό για τον εντοπισμό του παιδόφιλου τουρίστα",
-          "url": "https://www.gazzetta.gr/plus/2559872/kriti-den-eihe-ginei-episimi-kataggelia-anthropokynigito-gia-ton-entopismo-toy",
-          "snippet": "Το δημοσίευμα του Newsbomb.gr κινητοποίησε τις Αρχές καθώς δεν είχε γίνει επίσημη καταγγελία στην Αστυνομία για το σοκαριστικό συμβάν - Αναζητείται ο παιδόφιλος τουρίστας.",
+          "title": "MotoGP: Pole για τον Χόρχε Μάρτιν με ρεκόρ γύρου στο Σίλβερστοουν",
+          "url": "https://www.gazzetta.gr/gmotion/2559914/motogp-pole-gia-ton-horhe-martin-me-rekor-gyroy-sto-silberstooyn",
+          "snippet": "Ο πρωτοπόρος του πρωταθλήματος Χόρχε Μάρτιν πήρε την pole position ρεκόρ στο MotoGP του Σίλβερστοουν , επικεφαλής μιας πρώτης σειράς αγώνων αποκλειστικά με Aprilia.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ρεάλ Μαδρίτης: Οι νέοι κανόνες που επέβαλε ο Μουρίνιο",
-          "url": "https://www.gazzetta.gr/football/la-liga/2559871/real-madritis-oi-neoi-kanones-poy-epebale-o-moyrinio",
-          "snippet": "Η Diario As με άρθρο της «φωτίζει» τις αλλαγές αλλά και τις τιμωρίες που έχει φέρει στο εσωτερικό της Ρεάλ Μαδρίτης.",
+          "title": "Άρσεναλ: «Κανονιέρης» και επίσημα ο Μπρούνο Γκιμαράες",
+          "url": "https://www.gazzetta.gr/football/premier-league/2559913/arsenal-kanonieris-kai-episima-o-mproyno-gkimaraes",
+          "snippet": "Η Άρσεναλ ανακοίνωσε με κάθε επισημότητα την απόκτηση του Μπρούνο Γκιμαράες, που υπέγραψε πολυετές συμβόλαιο.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λορέντσο Ντίκμαν: Ο ΟΦΗ είναι σε προχωρημένες επαφές με την Μπάρι",
-          "url": "https://www.gazzetta.gr/football/superleague/2559870/lorentso-ntikman-o-ofi-einai-se-prohorimenes-epafes-me-tin-mpari",
-          "snippet": "Όπως ανέφεραν στην Ιταλία και προκύπτει από το ρεπορτάζ ο ΟΦΗ βρίσκεται σε προχωρημένο στάδιο για να αποκτήσει τον δεξιό μπακ της Μπάρι, Λορέντσο Ντίκμαν.",
+          "title": "Η χώρα στην οποία βρίσκεται το καλύτερο μέρος για να μετακομίσεις όταν πάρεις σύνταξη",
+          "url": "https://www.gazzetta.gr/plus/2559910/i-hora-stin-opoia-brisketai-kalytero-meros-gia-na-metakomiseis-otan-pareis-syntaxi",
+          "snippet": "Πού βρίσκεται το μέρος, που αναδείχθηκε από τα κορυφαία, για να μετακομίσεις για πάντα, όταν συνταξιοδοτηθείς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μαρινάκης σε Μονκάδα, «πέντε μεταγραφές έτοιμων παικτών στον Ολυμπιακό, άμεσα!»",
-          "url": "https://www.gazzetta.gr/football/superleague/2559869/marinakis-se-monkada-pente-metagrafes-etoimon-paikton-ston-olympiako",
-          "snippet": "Ο Κώστας Νικολακόπουλος γράφει στο blog του στο Gazzetta αναφορικά με τις τελευταίες εξελίξεις στα μεταγραφικά του Ολυμπιακού.",
+          "title": "Ιστορική λειψυδρία στην Ευρώπη: Επιβάτες κρουαζιέρας έχασαν στάσεις λόγω πτώσης της στάθμης των ποταμών",
+          "url": "https://www.gazzetta.gr/plus/2559909/istoriki-leipsydria-stin-eyropi-epibates-kroyazieras-ehasan-staseis-logo-ptosis-tis",
+          "snippet": "Η παρατεταμένη λειψυδρία και οι ακραίες θερμοκρασίες στην Ευρώπη έχουν οδηγήσει μεγάλα ποτάμια, όπως ο Δούναβης και ο Ρήνος, στα χαμηλότερα επίπεδα των τελευταίων δεκαετιών.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Τσερνόμπιλ 2.0»: Πόσες πιθανότητες έχει να συμβεί μετά το κλείσιμο των πυρηνικών αντιδραστήρων στη Ρουμανία",
-          "url": "https://www.gazzetta.gr/plus/2559865/tsernompil-20-poses-pithanotites-ehei-na-symbei-meta-kleisimo-ton-pyrinikon",
-          "snippet": "Οι παρατεταμένες υψηλές θερμοκρασίες και η δραματική πτώση της στάθμης του Δούναβη απειλούν να θέσουν εκτός λειτουργίας τον μοναδικό πυρηνικό σταθμό της Ρουμανίας.",
+          "title": "Τελικός Super Cup 2026: Προς Sold Out τα εισιτήρια του ΟΦΗ",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2559911/telikos-super-cup-2026-pros-sold-out-ta-eisitiria-toy-ofi",
+          "snippet": "Ο ΟΦΗ έχει ξεπεράσει τη διάθεση 7.000 εισιτηρίων για τον τελικό του Super Cup και το Sold Out είναι θέμα χρόνου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γιατί δεν μέτρησε το γκολ του Μύθου για τον ΠΑΟΚ: Το Referee Chanel έδωσε την απάντηση",
-          "url": "https://www.gazzetta.gr/football/europa-league/2559867/giati-den-metrise-gkol-toy-mythoy-gia-ton-paok-referee-chanel-edose",
-          "snippet": "Θέμα συζήτησης έχει γίνει το ακυρωθέν γκολ του Μύθου στον αγώνα του ΠΑΟΚ με την Άντερλεχτ και το Referee Channel έδωσε την απάντηση.",
+          "title": "Ηρακλής: Και επίσημα ο Νανού",
+          "url": "https://www.gazzetta.gr/football/superleague/2559908/iraklis-kai-episima-o-nanoy",
+          "snippet": "Ολοκληρώθηκε το σπουδαίο deal για τον Ηρακλή, ο οποίος ανακοίνωσε την απόκτηση του 32χρονου μπακ Νανού.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γιασικεβίτσιους: Ο 16χρονος ανιψιός του δείχνει έτοιμος να ξεχωρίσει",
-          "url": "https://www.gazzetta.gr/basketball/eurobasket/2559866/giasikebitsioys-o-16hronos-anipsios-toy-deihnei-etoimos-na-xehorisei",
-          "snippet": "Ο ανιψιός του Σάρας Γιασικεβίτσιους, Ντανιέλιους, ξεχώρισε στη νίκη της Λιθουανίας επί της Σερβίας στην πρεμιέρα του EuroBasket U16.",
+          "title": "NBA: Οι παίκτες που έχουν πάει απευθείας από τη Ρεάλ Μαδρίτης",
+          "url": "https://www.gazzetta.gr/basketball/nba/2559907/nba-oi-paiktes-poy-ehoyn-paei-apeytheias-apo-ti-real-madritis",
+          "snippet": "Πολλές είναι οι περιπτώσεις παικτών που έχουν αποχωρήσει από τη Ρεάλ Μαδρίτης, για να πάνε να αγωνιστούν στο NBA.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λίλα Μπακλέση: Γέννησε το πρώτο της παιδί - Η αντισυμβατική ανάρτηση του συντρόφου της (pic)",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Μια απρόσμενη αντίδραση στη σκηνή είχε η Ιουλία Καλλιμάνη, καθώς «αρπάχτηκε» με θαμώνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Η Peugeot αλλάζει τη στρατηγική της για την ηλεκτροκίνηση",
+          "url": "https://www.gazzetta.gr/gmotion/2559747/i-peugeot-allazei-ti-stratigiki-tis-gia-tin-ilektrokinisi",
+          "snippet": "Η Peugeot αναθεωρεί το σχέδιο να γίνει αμιγώς ηλεκτρική μέχρι το 2030, διατηρεί τους κινητήρες βενζίνης και ετοιμάζει επτά νέα μοντέλα μέχρι το τέλος της δεκαετίας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το πιο περίπλοκο ρολόι-«λαβύρινθος» στον κόσμο: Διαθέτει 63 επιπλέον λειτουργίες (vid)",
+          "url": "https://www.gazzetta.gr/plus/2559906/pio-periploko-roloi-labyrinthos-ston-kosmo-diathetei-63-epipleon-leitoyrgeies-vid",
+          "snippet": "Ελβετοί ωρολογοποιοί δημιούργησαν το πιο περίπλοκο ρολόι στον κόσμο, ενσωματώνοντας 63 διαφορετικές λειτουργίες σε μια εντυπωσιακή κατασκευή.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νανού - Ηρακλής: Έτοιμος να ολοκληρώσει ένα σημαντικό deal ο Γηραιός",
+          "url": "https://www.gazzetta.gr/football/superleague/2559904/nanoy-iraklis-etoimos-na-oloklirosei-ena-simantiko-deal-o-giraios",
+          "snippet": "Στη Θεσσαλονίκη βρίσκεται ο 32χρονος ακραίος μπακ Νανού προκειμένου να υπογράψει στον Ηρακλή μετά από μία γεμάτη σεζόν στον ΑΠΟΕΛ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Αποθέωση από τους Ισπανούς για το ρόστερ της ομάδας",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2559903/panathinaikos-apotheose-apo-toys-ispanoys-gia-roster-tis-omadas",
+          "snippet": "Η ισπανική «Mundo Deportivo» αποθεώνει τον Παναθηναϊκό και το ρόστερ που έχει ενόψει της νέας αγωνιστικής περιόδου.",
           "source": "Gazzetta"
         }
       ]
