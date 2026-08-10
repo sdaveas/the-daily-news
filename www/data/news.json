@@ -1,16 +1,34 @@
 {
-  "updated": "2026-08-09T20:21:18.069807+00:00",
+  "updated": "2026-08-10T01:04:51.057882+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πυρκαγιά σε χαμηλή βλάστηση στην Άνοιξη Αττικής",
-        "url": "https://www.efsyn.gr/ellada/1444839/pyrkagia-se-hamili-vlastisi-stin-anoixi-attikis/",
-        "snippet": "Φωτιά ξέσπασε, αργά το βράδυ της Κυριακής, σε χαμηλή βλάστηση στην Άνοιξη Αττικής. Ειδικότερα, το Κέντρο Επιχειρήσεων του Πυροσβεστικού Σώματος ενημερώθηκε για το περιστατικό περίπου στις 11 το βράδυ. Στο έργο της κατάσβεσης λαμβάνουν μέρος 35 πυροσβέστες με 16 οχήματα και Εθελον",
+        "title": "Με Τεντόγλου η πρεμιέρα της Ελλάδας στο Ευρωπαϊκό πρωτάθλημα στίβου",
+        "url": "https://www.efsyn.gr/athlitismos/1444850/me-tentogloy-i-premiera-tis-elladas-sto-eyropaiko-protathlima-stivoy/",
+        "snippet": "Η Ελλάδα θα μετάσχει με αποστολή 59 αθλητών/τριών, που είναι η μεγαλύτερη της χώρας μας στην ιστορία της διοργάνωσης.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Gen Z: Η γενιά που αποταμιεύει τα λιγότερα και που «επενδύει» στην… κατανάλωση",
+          "url": "https://www.efsyn.gr/life/1444845/gen-z-i-genia-poy-apotamieyei-ta-ligotera-kai-poy-ependyei-stin-katanalosi/",
+          "snippet": "Η προσπάθεια διατήρησης της κατανάλωσης οδηγεί πολλούς σε αναζήτηση δεύτερης δουλειάς. Η αγορά εργασίας είναι δύσκολη, αλλά ορισμένες δουλειές έχουν υψηλές αποδοχές.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Το «τελευταίο αντίο» του Λιονέλ Μέσι στον πατέρα του",
+          "url": "https://www.efsyn.gr/athlitismos/1444838/to-teleytaio-antio-toy-lionel-mesi-ston-patera-toy/",
+          "snippet": "Ο Χόρχε Μέσι υπήρξε για τον γιο του στήριγμα σε συναισθηματικό και ποδοσφαιρικό επίπεδο, αλλά και ο ατζέντης του στα πρώτα χρόνια της καριέρας του.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πυρκαγιά σε χαμηλή βλάστηση στην Άνοιξη Αττικής",
+          "url": "https://www.efsyn.gr/ellada/1444839/pyrkagia-se-hamili-vlastisi-stin-anoixi-attikis/",
+          "snippet": "Φωτιά ξέσπασε, αργά το βράδυ της Κυριακής, σε χαμηλή βλάστηση στην Άνοιξη Αττικής. Ειδικότερα, το Κέντρο Επιχειρήσεων του Πυροσβεστικού Σώματος ενημερώθηκε για το περιστατικό περίπου στις 11 το βράδυ. Στο έργο της κατάσβεσης λαμβάνουν μέρος 35 πυροσβέστες με 16 οχήματα και Εθελον",
+          "source": "EfSyn"
+        },
         {
           "title": "Θάνατος 4χρονου σε πισίνα στην Πάρο: Θα κινηθεί νομικά ο πατέρας – Τι καταγγέλλει για τον ιδιοκτήτη του beach bar",
           "url": "https://www.efsyn.gr/ellada/1444833/thanatos-4hronoy-se-pisina-stin-paro-tha-kinithei-nomika-o-pateras-ti-kataggellei-gia-ton-idioktiti-toy-beach-bar/",
@@ -76,24 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1444797/zelenski-pano-apo-50-000-voreiokoreates-stratiotes-tha-polemisoyn-sto-pleyro-tis-rosias/",
           "snippet": "Πάντως, ο πρόεδρος της Ουκρανίας δεν έκανε γνωστό τον τρόπο με τον οποίο απέκτησε αυτήν την πληροφορία.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Πάρος: Αφέθηκε ελεύθερος ο ιδιοκτήτης του beach bar, στην πισίνα του οποίου πνίγηκε το 4χρονο παιδί",
-          "url": "https://www.efsyn.gr/ellada/1444794/paros-afethike-eleytheros-o-idioktitis-toy-beach-bar-stin-pisina-toy-opoioy-pnigike-to-4hrono-paidi/",
-          "snippet": "Ο ιδιοκτήτης -που απολογήθηκε στον εισαγγελέα- κατηγορείται για ανθρωποκτονία από αμέλεια, όπως και οι γονείς του παιδιού.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Έλαμψαν οι Έλληνες στο Ντόρτμουντ-Άρσεναλ: Ντεμπούτο με γκολ ο Καρέτσας, ασίστ και κερδισμένο πέναλτι ο Τζόλης [βίντεο]",
-          "url": "https://www.efsyn.gr/athlitismos/1444790/elampsan-oi-ellines-sto-ntortmoynt-arsenal-ntempoyto-me-tromero-gkol-o-karetsas-asist-o-tzolis/",
-          "snippet": "Ο Καρέτσας άνοιξε λογαριασμό με τη γερμανική ομάδα, ενώ ο Τζόλης έδωσε ακόμα μια τελική πάσα για τους Άγγλους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Παραγωγική ανασυγκρότηση: Κυβερνητικές υποσχέσεις vs σχέδιο της ΕΛΑΣ",
-          "url": "https://www.efsyn.gr/oikonomia/1444473/paragogiki-anasygkrotisi-kyvernitikes-yposheseis-vs-shedio-tis-elas/",
-          "snippet": "Για την άμεση αντιμετώπιση του ενεργειακού κόστους, ο Αλέξης Τσίπρας απορρίπτει την πρακτική των επιδοτήσεων και προκρίνει τη θεσμική παρέμβαση στην αγορά.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -111,6 +111,12 @@
           "title": "Iran, Holding Firm to Hormuz, Pushes for Return to June MOU",
           "url": "https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html",
           "snippet": "The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Iran War Timeline: Key Moments and Attacks In U.S. and Israel’s Campaign",
+          "url": "https://www.nytimes.com/article/iran-war-trump-us-oil-hormuz-key-dates-events.html",
+          "snippet": "The United States and Israel attacked Iran on Feb. 28, starting a monthslong war that spread to neighboring countries and rocked global markets.",
           "source": "NYT World"
         },
         {
@@ -156,12 +162,6 @@
           "source": "NYT World"
         },
         {
-          "title": "Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz",
-          "url": "https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html",
-          "snippet": "The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.",
-          "source": "NYT World"
-        },
-        {
           "title": "Yemen Teeters on Civil War as Regional Stability Hangs in the Balance",
           "url": "https://www.nytimes.com/2026/08/08/world/middleeast/yemen-houthis-regional-stability.html",
           "snippet": "While the Middle East waits to hear whether a deal can be reached to reopen the Strait of Hormuz, the Yemeni government’s conflict with Iran-backed Houthi rebels escalated overnight.",
@@ -182,13 +182,13 @@
         {
           "title": "Canada Wildfires: What to Know About Fires in British Columbia and Ontario",
           "url": "https://www.nytimes.com/article/canada-wildfires-2026.html",
-          "snippet": "Wildfire activity has increased in British Columbia, with thousands evacuated from the Okanagan Valley, weeks after smoke from blazes in Ontario choked the East Coast.",
+          "snippet": "Fire activity has increased sharply in British Columbia, with thousands evacuated from their homes just weeks after smoke from blazes in Ontario choked the East Coast.",
           "source": "NYT World"
         },
         {
-          "title": "Edge of Your Seat",
-          "url": "https://www.nytimes.com/2026/08/08/briefing/edge-of-your-seat.html",
-          "snippet": "A superfan of thrillers recommends some of her favorites.",
+          "title": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
+          "url": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
+          "snippet": "Daniel Kinahan, accused of leading a family crime syndicate, was flown home from Dubai on an Irish government jet on Sunday.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,18 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Anthropic is turning Claude Code’s auto mode on by default",
-        "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-        "snippet": "Programming with Claude Code will soon require even less human oversight.",
+        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+        "snippet": "The AI-focused hedge fund is still making some big bets.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "snippet": "Programming with Claude Code will soon require even less human oversight.",
+          "source": "TechCrunch"
+        },
         {
           "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
           "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
@@ -280,12 +286,6 @@
           "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
           "snippet": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Security researchers scanned the Polish web and found courts, hospitals, and airports at risk of hacks",
-          "url": "https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/",
-          "snippet": "Researchers found common points of failure, like software used to organize and display web content, could have allowed hackers to run riot through government websites.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,60 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Δεν βάζουν μυαλό στην Σκιάθο: Τουρίστες «κυνηγούν» τις βαλίτσες τους στη θάλασσα! (vid)",
-        "url": "https://www.gazzetta.gr/plus/2560165/den-bazoyn-myalo-stin-skiatho-toyristes-kynigoyn-tis-balitses-toys-sti-thalassa-vid",
-        "snippet": "Αεροπλάνο απογειώνεται στη Σκιάθο και η δύναμη των τουρμπινών παρασύρει βαλίτσα στη θάλασσα.",
+        "title": "O Περικλής Ιακωβάκης αποτρελάθηκε με την Ελένη: «Άσε μας ρε @iakovakii»",
+        "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2560174/o-periklis-iakobakis-apotrelathike-me-tin-eleni-ase-mas",
+        "snippet": "Ο Περικλής Ιακωβάκης κατέκτησε το 1ο χρυσό μετάλλιο για την Ελλάδα στα 400μ. εμπ. σε παγκόσμιο πρωτάθλημα Κ20 και τώρα βλέποντας την 17χρονη Ελένη να φορά μετάλλιο στο ίδιο αγώνισμα και στην ίδια διοργάνωση, «έχασε» τα λογικά του.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μπενφίκα - Ακαδέμικο Βισέου 2-2: Πρεμιέρα με απώλεια βαθμών για τους Αετούς",
+          "url": "https://www.gazzetta.gr/football/primeira-liga/2560170/mpenfika-akademiko-biseoy-2-2-premiera-me-apoleia-bathmon-gia-toys",
+          "snippet": "Η Μπενφίκα αναδείχθηκε ισόπαλη 2-2 με την Ακαδέμικο Βισέου στην πρεμιέρα του πορτογαλικού πρωταθλήματος με τον Παυλίδη να σκοράρει αλλά την ομάδα του να παίρνει μόλις έναν βαθμό στο Ντα Λουζ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός - Κάσερες: Προσφορά των Πειραιωτών για τον χαφ της Τουλούζ",
+          "url": "https://www.gazzetta.gr/football/superleague/2560169/olympiakos-kaseres-prosfora-ton-peiraioton-gia-ton-haf-tis-toyloyz",
+          "snippet": "Ο Ολυμπιακός έκανε την κίνησή του για τον χαφ του συλλόγου της Τουλούζ, Κριστιάν Κάσερες, στην προσπάθειά του να κάνει δικό του τον παίκτη.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ρόδρι: Κοντά σε συμφωνία Μπαρτσελόνα και Σίτι για τη μεταγραφή",
+          "url": "https://www.gazzetta.gr/football/la-liga/2560168/rodri-konta-se-symfonia-mpartselona-kai-siti-gia-ti-metagrafi",
+          "snippet": "Στην τελική ευθεία φαίνεται πως βρίσκονται οι διαπραγματεύσεις ανάμεσα σε Μπαρτσελόνα και Μάντσεστερ Σίτι για Ρόδρι, με τον Ισπανό να προβάρει τη φανέλα των Μπλαουγκράνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ελένη Ιακωβάκη: Χάλκινο μετάλλιο στα 400μ. εμπ. στο παγκόσμιο Κ20 στο Όρεγκον",
+          "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2560167/eleni-iakobaki-halkino-metallio-sta-400m-emp-sto",
+          "snippet": "Η Ελένη Ιακωβάκη κατέβασε το δικό της πανελλήνιο ρεκόρ Κ20 στα 400μ. εμπ. στα 55.99 και κατέκτησε το χάλκινο μετάλλιο στο παγκόσμιο πρωτάθλημα Κ20 στο Όρεγκον.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ζυγίζει 7.700 τόνους και κινείται πάνω σε μόλις 16 τροχούς: Το απίστευτο τηλεσκόπιο που «σκανάρει» το 85% του ουρανού",
+          "url": "https://www.gazzetta.gr/plus/2560162/zygizei-7700-tonoys-kai-kineitai-pano-se-molis-16-trohoys-apisteyto-tileskopio-poy",
+          "snippet": "Ολόκληρο το γιγάντιο τηλεσκόπιο στηρίζεται σε μόλις 16 τροχούς, ενώ η κεραία των 100 μέτρων μπορεί να στραφεί με ακρίβεια μόλις 2 arc seconds.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Νοβίτσκι: Αποχαιρέτησε τον Ντον Νέλσον",
+          "url": "https://www.gazzetta.gr/basketball/nba/2560166/nobitski-apohairetise-ton-nton-nelson",
+          "snippet": "Ο Ντιρκ Νοβίτσκι μέσω μίας ανάρτησης στα social media, αποχαιρέτησε τον παλιό προπονητή του, Ντον Νέλσον.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Ο Νίστρουπ πήρε ένα τεράστιο μπάτζετ και πρέπει να πετύχει",
+          "url": "https://www.gazzetta.gr/football/superleague/2560157/panathinaikos-o-nistroyp-pire-ena-terastio-mpatzet-kai-prepei-na",
+          "snippet": "Ο Τζέικομπ Νίστρουπ έχει μία τεράστια πίεση και οφείλει να πετύχει, για να μην πέσουν στον κουβά και τα εκατομμύρια της διοίκησης.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Δεν βάζουν μυαλό στην Σκιάθο: Τουρίστες «κυνηγούν» τις βαλίτσες τους στη θάλασσα! (vid)",
+          "url": "https://www.gazzetta.gr/plus/2560165/den-bazoyn-myalo-stin-skiatho-toyristes-kynigoyn-tis-balitses-toys-sti-thalassa-vid",
+          "snippet": "Αεροπλάνο απογειώνεται στη Σκιάθο και η δύναμη των τουρμπινών παρασύρει βαλίτσα στη θάλασσα.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Εθνική Παίδων: Αυτή είναι η αντίπαλός της στη φάση των «16»",
           "url": "https://www.gazzetta.gr/basketball/eurobasket/2560164/ethniki-paidon-ayti-einai-i-antipalos-tis-sti-fasi-ton-16",
@@ -333,54 +381,6 @@
           "title": "Μήτρου-Λονγκ: «Πολύ μεγάλο κίνητρο που θα παίξω στον ΠΑΟΚ»",
           "url": "https://www.gazzetta.gr/basketball/basket-league/2560158/mitroy-longk-poly-megalo-kinitro-poy-tha-paixo-ston-paok",
           "snippet": "Τις πρώτες του δηλώσεις μετά την άφιξή του στη Θεσσαλονίκη για λογαριασμό του ΠΑΟΚ έκανε ο Ναζ Μήτρου-Λονγκ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάρος: Συγκλονίζει ο πατέρας του 4χρονου που πνίγηκε σε πισίνα – «Έφυγε ένα δευτερόλεπτο από την προσοχή μου»",
-          "url": "https://www.gazzetta.gr/plus/2560154/paros-sygklonizei-o-pateras-toy-4hronoy-poy-pnigike-se-pisina-efyge-ena-deyterolepto",
-          "snippet": "Ο πατέρας του 4χρονου περιγράφει τις δραματικές στιγμές και καταγγέλλει ελλείψεις στα μέτρα ασφαλείας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μέσι: Αποχαιρέτησε τον πατέρα του στην κηδεία στο Ροζάριο",
-          "url": "https://www.gazzetta.gr/football/2560155/mesi-apohairetise-ton-patera-toy-stin-kideia-sto-rozario",
-          "snippet": "Τελέστηκε η κηδεία του πατέρα του Λιονέλ Μέσι, Χόρχε, στο Ροζάριο της Αργεντινής, με τον θρύλο της Μπαρτσελόνα να λέει το τελευταίο αντίο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ducati Monster: Όμορφο και με την... κόκκινη βούλα",
-          "url": "https://www.gazzetta.gr/gmotion/2559520/ducati-monster-omorfo-kai-me-tin-kokkini-boyla",
-          "snippet": "Στην πέμπτη γενιά της η Ducati Monster είναι πιο όμορφη από ποτέ. Δεν το λέμε εμείς, αλλά ο διεθνής οργανισμός Red Dot Design Award.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Έφτασαν στη Θεσσαλονίκη οι Αλεξάντερ, Μήτρου-Λονγκ και Χάτζινς",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2560153/paok-eftasan-sti-thessaloniki-oi-alexanter-mitroy-longk-kai",
-          "snippet": "Οι Ναζ Μήτρου-Λονγκ, Κάιλ Αλεξάντερ και Τρέβορ Χάτζινς προσγειώθηκαν το βράδυ της Κυριακής (09/08) στη Θεσσαλονίκη, συνεχίζοντας τις αφίξεις του ΠΑΟΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παρί Σεν Ζερμέν: Ανακοίνωσε τον Λούκας Ντιν",
-          "url": "https://www.gazzetta.gr/football/ligue-1/2560152/pari-sen-zermen-anakoinose-ton-loykas-ntin",
-          "snippet": "Ο Λούκας Ντιν ανήκει με κάθε επισημότητα στην Παρί Σεν Ζερμέν με τη γαλλική ομάδα να ανακοινώνει την επιστροφή του στον σύλλογο μετά από μια δεκαετία.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ευρωπαϊκό Στίβου 2026: Αρχή με Τεντόγλου και 14 συνολικά ελληνικές παρουσίες",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560151/eyropaiko-protathlima-stiboy-arhi-me-tentogloy",
-          "snippet": "Ο Μίλτος Τεντόγλου και 14 συνολικά Έλληνες αθλητές κι αθλήτριες θα αγωνιστούν τη Δευτέρα (10/9), στην 1η ημέρα του ευρωπαϊκού πρωταθλήματος ανδρών και γυναικών στο Μπέρμιγχαμ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Η Άντερλεχτ λυτρώθηκε στο 92' με αριθμητικό πλεονέκτημα",
-          "url": "https://www.gazzetta.gr/football/superleague/2560150/paok-i-anterleht-lytrothike-sto-92-me-arithmitiko-pleonektima",
-          "snippet": "Η Άντερλεχτ στον πρώτο της αγώνα για το πρωτάθλημα νίκησε τη Λα Λουβιέρ εντός έδρας με 2-1 και περιμένει τον ΠΑΟΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έφτιαξε μόνος του ρωμαϊκό θέατρο 1.600 ετών και έκοβε εισιτήρια 40 ευρώ: Απίστευτη απάτη στην Ιταλία",
-          "url": "https://www.gazzetta.gr/plus/2560149/eftiaxe-monos-toy-romaiko-theatro-1600-eton-kai-ekobe-eisitiria-40-eyro-apisteyti",
-          "snippet": "Τουρίστες πλήρωναν για να θαυμάσουν ένα υποτιθέμενο ρωμαϊκό θέατρο στην Ιταλία, χωρίς να γνωρίζουν ότι πίσω από το «αρχαίο» μνημείο κρυβόταν μία από τις πιο απίστευτες αρχαιολογικές απάτες.",
           "source": "Gazzetta"
         }
       ]
