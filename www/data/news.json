@@ -1,16 +1,82 @@
 {
-  "updated": "2026-08-10T01:04:51.057882+00:00",
+  "updated": "2026-08-10T05:17:13.664930+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Με Τεντόγλου η πρεμιέρα της Ελλάδας στο Ευρωπαϊκό πρωτάθλημα στίβου",
-        "url": "https://www.efsyn.gr/athlitismos/1444850/me-tentogloy-i-premiera-tis-elladas-sto-eyropaiko-protathlima-stivoy/",
-        "snippet": "Η Ελλάδα θα μετάσχει με αποστολή 59 αθλητών/τριών, που είναι η μεγαλύτερη της χώρας μας στην ιστορία της διοργάνωσης.",
+        "title": "Με σποτάκια στην παραλία: Ο ΣΥΡΙΖΑ ετοιμάζει βίντεο με πρωταγωνιστές Δούρου, Παππά και Πολάκη",
+        "url": "https://www.efsyn.gr/politiki/1444897/me-spotakia-stin-paralia-o-syriza-etoimazei-vinteo-me-protagonistes-doyroy-pappa-kai-polaki/",
+        "snippet": "Με πρωταγωνιστές τη Ρένα Δούρου, τον Νίκο Παππά και τον Παύλο Πολάκη, θέτει ως πολιτικό στόχο να... ξανασυστηθεί το κόμμα με τους πολίτες",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Τρία δεδομένα για τις υποκλοπές θέτει η Ολγα Γεροβασίλη",
+          "url": "https://www.efsyn.gr/politiki/1444877/tria-dedomena-gia-tis-ypoklopes-thetei-i-olga-gerovasili/",
+          "snippet": "«Τι φοβάται ο Αρειος Πάγος και δεν επιτρέπει να ερευνηθεί το σκάνδαλο των υποκλοπών;»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Υποκλοπές: Υπερασπίστρια των εισαγγελικών χειρισμών η Ένωση Εισαγγελέων – Τα επτά ερωτήματα του Ζαχαρία Κεσσέ",
+          "url": "https://www.efsyn.gr/ellada/1444872/ypoklopes-yperaspistria-ton-eisaggelikon-heirismon-i-enosi-eisaggeleon-ta-epta-erotimata-toy-zaharia-kesse/",
+          "snippet": "Ο Ζαχαρίας Κεσσές αναρωτιέται γιατί η Ενωση δεν εξέδωσε ανακοινώσεις όταν αποκαλύφθηκε ότι ο τότε οικονομικός εισαγγελέας Χρήστος Μπαρδάκης και η Βασιλική Βλάχου (εισαγγελέας που είχε την εποπτεία της ΕΥΠ) είχαν παγιδευτεί με Predator",
+          "source": "EfSyn"
+        },
+        {
+          "title": "«Τορπίλη» Νετανιάχου για τη Γάζα: Το «όχι» στο σχέδιο Τραμπ, η ρήξη με τις ΗΠΑ και οι εκλογές στο Ισραήλ",
+          "url": "https://www.efsyn.gr/kosmos/1444889/torpili-netaniahoy-gia-ti-gaza-to-ohi-sto-shedio-tramp-i-rixi-me-tis-ipa-kai-oi-ekloges-sto-israil/",
+          "snippet": "Η συμμαχία-γρίφος από Τουρκία, Σαουδική Αραβία και Πακιστάν ανακατεύει την τράπουλα της διπλωματίας ● Ρήξη μεταξύ Τελ Αβίβ και Ουάσινγκτον για την επόμενη μέρα στη Γάζα",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στενά του Ορμούζ: Το Ιράν επιμένει στο κλείσιμο – Οι όροι προς τις ΗΠΑ και η νέα ένταση",
+          "url": "https://www.efsyn.gr/kosmos/1444893/stena-toy-ormoyz-to-iran-epimenei-sto-kleisimo-oi-oroi-pros-tis-ipa-kai-i-nea-entasi/",
+          "snippet": "Η Τεχεράνη αρνείται την επιστροφή στο status quo ante, στην προπολεμική κατάσταση, κι εννοεί να επιβάλλει τέλη για παρεχόμενες υπηρεσίες στο Ορμούζ, παρά τη ρητή εναντίωση των ΗΠΑ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μαρούσι: Συναγερμός για φωτιά σε σπίτι τα ξημερώματα",
+          "url": "https://www.efsyn.gr/ellada/1444894/maroysi-synagermos-gia-fotia-se-spiti-ta-ximeromata/",
+          "snippet": "Η πυρκαγιά εκδηλώθηκε από άγνωστη μέχρι στιγμής αιτία.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Διάψευση από το ΠΑΣΟΚ για τον «μυστικό δείπνο» αλλά τα σενάρια επιμένουν – Νέος γύρος αντιδράσεων",
+          "url": "https://www.efsyn.gr/politiki/1444874/diapseysi-apo-to-pasok-gia-ton-mystiko-deipno-alla-ta-senaria-epimenoyn-neos-gyros-antidraseon/",
+          "snippet": "«Υπόγεια παιχνίδια κάποιων κύκλων εις βάρος του ΠΑΣΟΚ» καταγγέλλει η Χαρ. Τρικούπη μετά το νέο δημοσίευμα της «Εστίας»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "«Λευτεριά στην Παλαιστίνη»: Χιλιάδες άνθρωποι διαδήλωσαν σε όλη τη χώρα ενάντια στη γενοκτονία",
+          "url": "https://www.efsyn.gr/ellada/1444880/leyteria-stin-palaistini-hiliades-anthropoi-diadilosan-se-oli-ti-hora-enantia-sti-genoktonia/",
+          "snippet": "Χιλιάδες άνθρωποι διαδήλωσαν σε όλη τη χώρα ενάντια στη συνεχιζόμενη εθνοκάθαρση των Παλαιστινίων, στο πλαίσιο της Πανελλαδικής Ημέρας Δράσης",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Νίκος Καλογερόπουλος [1952-2026]: Το ταλέντο που δεν άντεχε τις εξουσίες",
+          "url": "https://www.efsyn.gr/tehnes/1444871/nikos-kalogeropoylos-to-talento-poy-den-antehe-tis-exoysies/",
+          "snippet": "Ο χθεσινός θάνατος του ανήσυχου δημιουργού, εμβληματικού ηθοποιού, ποιητή και σκηνοθέτη κλείνει μια αντισυμβατική διαδρομή, γεμάτη σπουδαίους ρόλους, ηχηρά «όχι» και αδιαπραγμάτευτη ελευθερία",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Σε Red Code 16 περιοχές σήμερα – Εκρηκτικό κοκτέιλ με 39άρια και ισχυρούς ανέμους",
+          "url": "https://www.efsyn.gr/ellada/1444866/kairos-se-red-code-16-periohes-simera-ekriktiko-kokteil-me-39aria-kai-ishyroys-anemoys-sto-kokkino-kai-i-attiki/",
+          "snippet": "Οι Αρχές απευθύνουν ισχυρή σύσταση στους πολίτες να αποφεύγουν κάθε δραστηριότητα στην ύπαιθρο που θα μπορούσε να προκαλέσει πυρκαγιά, ακόμη και από αμέλεια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 10 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1444863/eortologio-poioi-giortazoyn-simera-10-aygoystoy/",
+          "snippet": "Σε ποιους πρέπει να πείτε σήμερα χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Με Τεντόγλου η πρεμιέρα της Ελλάδας στο Ευρωπαϊκό πρωτάθλημα στίβου",
+          "url": "https://www.efsyn.gr/athlitismos/1444850/me-tentogloy-i-premiera-tis-elladas-sto-eyropaiko-protathlima-stivoy/",
+          "snippet": "Η Ελλάδα θα μετάσχει με αποστολή 59 αθλητών/τριών, που είναι η μεγαλύτερη της χώρας μας στην ιστορία της διοργάνωσης.",
+          "source": "EfSyn"
+        },
         {
           "title": "Gen Z: Η γενιά που αποταμιεύει τα λιγότερα και που «επενδύει» στην… κατανάλωση",
           "url": "https://www.efsyn.gr/life/1444845/gen-z-i-genia-poy-apotamieyei-ta-ligotera-kai-poy-ependyei-stin-katanalosi/",
@@ -27,72 +93,6 @@
           "title": "Πυρκαγιά σε χαμηλή βλάστηση στην Άνοιξη Αττικής",
           "url": "https://www.efsyn.gr/ellada/1444839/pyrkagia-se-hamili-vlastisi-stin-anoixi-attikis/",
           "snippet": "Φωτιά ξέσπασε, αργά το βράδυ της Κυριακής, σε χαμηλή βλάστηση στην Άνοιξη Αττικής. Ειδικότερα, το Κέντρο Επιχειρήσεων του Πυροσβεστικού Σώματος ενημερώθηκε για το περιστατικό περίπου στις 11 το βράδυ. Στο έργο της κατάσβεσης λαμβάνουν μέρος 35 πυροσβέστες με 16 οχήματα και Εθελον",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θάνατος 4χρονου σε πισίνα στην Πάρο: Θα κινηθεί νομικά ο πατέρας – Τι καταγγέλλει για τον ιδιοκτήτη του beach bar",
-          "url": "https://www.efsyn.gr/ellada/1444833/thanatos-4hronoy-se-pisina-stin-paro-tha-kinithei-nomika-o-pateras-ti-kataggellei-gia-ton-idioktiti-toy-beach-bar/",
-          "snippet": "«Εάν ήταν κάποιος πάνω από την πισίνα, δεν θα είχα θρηνήσει το παιδί μου», είπε ο πατέρας • «Θέλει κρέμασμα στο Σύνταγμα», λέει ο παππούς του παιδιού.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ο Τραμπ σταμάτησε τις απειλές στο Ιράν και μιλά τώρα για οικονομική πίεση στην Τεχεράνη",
-          "url": "https://www.efsyn.gr/kosmos/1444829/o-tramp-stamatise-tis-apeiles-sto-iran-kai-mila-tora-gia-oikonomiki-piesi-stin-teherani/",
-          "snippet": "Μόλις πριν από μια εβδομάδα, ο Τραμπ φερόταν στα πρόθυρα να διατάξει την επιστροφή σε μεγάλες στρατιωτικές επιχειρήσεις.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κοντά στους 40 βαθμούς το θερμόμετρο την Κυριακή – Δύσκολη μέρα η Δευτέρα, με Red Code σε 16 περιοχές",
-          "url": "https://www.efsyn.gr/ellada/1444822/konta-stoys-40-vathmoys-to-thermometro-tin-kyriaki-dyskoli-mera-i-deytera-me-red-code-se-16-periohes/",
-          "snippet": "Η θερμοκρασία θα κινηθεί σε ανάλογα επίπεδα, ενώ οι άνεμοι θα φτάσουν μέχρι τα 9 Μποφόρ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ολονύχτια μάχη με τις φλόγες στην Ηλεία: Ισχυρές επίγειες δυνάμεις προσπαθούν να θέσουν υπό έλεγχο την πυρκαγιά",
-          "url": "https://www.efsyn.gr/ellada/1444819/olonyhtia-mahi-me-tis-floges-stin-ileia-ishyres-epigeies-dynameis-prospathoyn-na-thesoyn-ypo-elegho-tin-pyrkagia/",
-          "snippet": "Η κατάσταση παραμένει δύσκολη, επειδή υπάρχουν πολλές ενεργές εστίες, καθώς και ο κίνδυνος αναζωπυρώσεων σε άλλα σημεία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά στο ΚΥΤ Αράχθου: Ελεύθεροι υπό όρους αφέθηκαν ο διευθυντής και ο τεχνικός ασφαλείας του ΔΕΔΔΗΕ",
-          "url": "https://www.efsyn.gr/ellada/1444814/pyrkagia-sto-kyt-arahthoy-eleytheroi-ypo-oroys-afethikan-o-dieythyntis-kai-o-tehnikos-asfaleias-toy-deddie/",
-          "snippet": "Τους επιβλήθηκε καταβολή εγγύησης, απαγόρευση εξόδου από τη χώρα και υποχρέωση τακτικής παρουσίας σε Αστυνομικό Τμήμα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Βόμβα» Γιαννακόπουλου για το μέλλον του στον Παναθηναϊκό: «Σε 5 χρόνια θα βλέπω τους αγώνες σαν οπαδός»",
-          "url": "https://www.efsyn.gr/athlitismos/1444812/vomva-giannakopoyloy-gia-to-mellon-toy-ston-panathinaiko-se-5-hronia-tha-vlepo-toys-agones-san-opados/",
-          "snippet": "Χαρακτήρισε την ομάδα του ως σύλλογο - γίγαντα στο ευρωπαϊκό μπάσκετ. Τι είπε για τον Ολυμπιακό.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Κακές τέχνες»: Όσα δεν θα ήθελε ποτέ να ζήσει ένας διευθυντής μουσείου",
-          "url": "https://www.efsyn.gr/tehnes/1444484/kakes-tehnes-osa-den-tha-ithele-pote-na-zisei-enas-dieythyntis-moyseioy/",
-          "snippet": "Τι σημαίνει να διοικείς σήμερα ένα μεγάλο μουσείο σύγχρονης τέχνης; Η αργεντίνικη σειρά που προβάλλεται αυτόν τον καιρό στο Cinobo απαντά με πικρό χιούμορ και δηλητηριώδη ειρωνεία",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Προσγείωση ελικοπτέρου στο Σαρακήνικο: Το νομικό κενό και η εισαγγελική παρέμβαση",
-          "url": "https://www.efsyn.gr/ellada/1444806/prosgeiosi-elikopteroy-sto-sarakiniko-to-nomiko-keno-kai-i-eisaggeliki-paremvasi/",
-          "snippet": "Θεωρείται παράνομη η προσγείωση μόνο σε περιοχή Natura. Συλλέγονται στοιχεία προκειμένου να εξεταστεί εάν θα ασκηθούν διώξεις στους εμπλεκόμενους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η Γερμανία καταγγέλλει «καθημερινό υβριδικό πόλεμο» εναντίον της – Ανέτοιμη η Ευρώπη για επιθέσεις με drones",
-          "url": "https://www.efsyn.gr/kosmos/1444799/i-germania-kataggellei-kathimerino-yvridiko-polemo-enantion-tis-anetoimi-i-eyropi-gia-epitheseis-me-drones/",
-          "snippet": "Το Βερολίνο επεκτείνει την έρευνα για την ασφάλεια από μη επανδρωμένα εναέρια οχήματα. Τα ευρωπαϊκά κράτη δεν είναι σε θέση να αποδώσουν με σαφήνεια την ευθύνη στη Ρωσία, τονίζει έκθεση.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Έφυγε από τη ζωή ο σπουδαίος ηθοποιός Νίκος Καλογερόπουλος",
-          "url": "https://www.efsyn.gr/tehnes/1444800/efyge-apo-ti-zoi-o-spoydaios-ithopoios-nikos-kalogeropoylos/",
-          "snippet": "Είχε πρωταγωνιστήσει σε σημαντικές ταινίες του ελληνικού κινηματογράφου, κερδίζοντας βραβεία και διακρίσεις.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ζελένσκι: Πάνω από 50.000 Βορειοκορεάτες στρατιώτες θα πολεμήσουν στο πλευρό της Ρωσίας",
-          "url": "https://www.efsyn.gr/kosmos/1444797/zelenski-pano-apo-50-000-voreiokoreates-stratiotes-tha-polemisoyn-sto-pleyro-tis-rosias/",
-          "snippet": "Πάντως, ο πρόεδρος της Ουκρανίας δεν έκανε γνωστό τον τρόπο με τον οποίο απέκτησε αυτήν την πληροφορία.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Daniel Kinahan Extradited From the U.A.E. to Ireland",
-          "url": "https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html",
-          "snippet": "Daniel Kinahan, accused of leading a family crime syndicate, was flown home from Dubai on an Irish government jet on Sunday.",
+          "title": "Explosive Wildfire in British Columbia Leaves 1 Dead",
+          "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
+          "snippet": "The Bald Range fire had burned more than 33,000 acres and remained out of control on Sunday, officials said. About 20,000 people were ordered to evacuate.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "O Περικλής Ιακωβάκης αποτρελάθηκε με την Ελένη: «Άσε μας ρε @iakovakii»",
-        "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2560174/o-periklis-iakobakis-apotrelathike-me-tin-eleni-ase-mas",
-        "snippet": "Ο Περικλής Ιακωβάκης κατέκτησε το 1ο χρυσό μετάλλιο για την Ελλάδα στα 400μ. εμπ. σε παγκόσμιο πρωτάθλημα Κ20 και τώρα βλέποντας την 17χρονη Ελένη να φορά μετάλλιο στο ίδιο αγώνισμα και στην ίδια διοργάνωση, «έχασε» τα λογικά του.",
+        "title": "Αθλητικές μεταδόσεις σήμερα: Το Βόλος - Καλαμάτα και το Ευρωπαϊκό Πρωτάθλημα στίβου",
+        "url": "https://www.gazzetta.gr/football/superleague/2560190/athlitikes-metadoseis-simera-bolos-kalamata-kai-eyropaiko-protathlima",
+        "snippet": "Δείτε το πρόγραμμα των αθλητικών μεταδόσεων της ημέρας, με το φιλικό Βόλος - Καλαμάτα και την πρεμιέρα του Ευρωπαϊκού Πρωταθλήματος στίβου 2026.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Πρόγραμμα τηλεόρασης: Όλοι οι αγώνες και οι αθλητικές μεταδόσεις σήμερα (10/8)",
+          "url": "https://www.gazzetta.gr/2560189/programma-tileorasis-oloi-oi-agones-kai-oi-athlitikes-metadoseis-simera-108",
+          "snippet": "Δείτε στον τηλεοπτικό οδηγό του Gazzetta ώρες και κανάλια για την αθλητική δράση της ημέρας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Το πρώτο «online» παιχνίδι έγινε το 1897 σε μία προσπάθεια να μειωθούν οι εντάσεις μεταξύ ΗΠΑ και Μεγάλης Βρετανίας",
+          "url": "https://www.gazzetta.gr/plus/2557264/proto-online-paihnidi-egine-1897-se-mia-prospatheia-na-meiothoyn-oi-entaseis-metaxy",
+          "snippet": "Πολύ πριν απ' την εμφάνιση του διαδικτύου, η ανάγκη των ανθρώπων για αναμέτρηση... εξ αποστάσεως οδήγησε σε διατλαντικούς αγώνες σκακιού μέσω τηλεγράφου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "O Περικλής Ιακωβάκης αποτρελάθηκε με την Ελένη: «Άσε μας ρε @iakovakii»",
+          "url": "https://www.gazzetta.gr/stibos/pagkosmio-protathlima-stiboy/2560174/o-periklis-iakobakis-apotrelathike-me-tin-eleni-ase-mas",
+          "snippet": "Ο Περικλής Ιακωβάκης κατέκτησε το 1ο χρυσό μετάλλιο για την Ελλάδα στα 400μ. εμπ. σε παγκόσμιο πρωτάθλημα Κ20 και τώρα βλέποντας την 17χρονη Ελένη να φορά μετάλλιο στο ίδιο αγώνισμα και στην ίδια διοργάνωση, «έχασε» τα λογικά του.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μπενφίκα - Ακαδέμικο Βισέου 2-2: Πρεμιέρα με απώλεια βαθμών για τους Αετούς",
           "url": "https://www.gazzetta.gr/football/primeira-liga/2560170/mpenfika-akademiko-biseoy-2-2-premiera-me-apoleia-bathmon-gia-toys",
@@ -363,24 +381,6 @@
           "title": "Μασούρας: Ο απόλυτος «στρατιώτης» του Ολυμπιακού και ένας από τους κορυφαίους Έλληνες εξτρέμ του",
           "url": "https://www.gazzetta.gr/football/superleague/2560146/masoyras-o-apolytos-stratiotis-toy-olympiakoy-kai-enas-apo-toys",
           "snippet": "Ο Δημήτρης Τομαράς γράφει στο blog του στο Gazzetta για τον Έλληνα μεσοεπιθετικό που αφήνει μία δυνατή αγωνιστική παρακαταθήκη στον Ολυμπιακό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Οι δηλώσεις των Χάτζινς και Αλεξάντερ μετά την άφιξή τους",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2560161/paok-oi-diloseis-ton-hatzins-kai-alexanter-meta-tin-afixi-toys",
-          "snippet": "Οι Κάιλ Αλεξάντερ και Τρέβορ Χάτζινς έκαναν τις πρώτες τους δηλώσεις μετά την άφιξή τους στη Θεσσαλονίκη για να αγωνιστούν στον ΠΑΟΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ελλάς Σύρου: Ανακοίνωσε τον Νιγηριανό Οτσοβέτσι",
-          "url": "https://www.gazzetta.gr/football/superleague-2/2560160/ellas-syroy-anakoinose-ton-nigiriano-otsobetsi",
-          "snippet": "Παίκτης της Ελλάδας Σύρου είναι ο Νιγηριανός Ότσε Οτσοβέτσι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μήτρου-Λονγκ: «Πολύ μεγάλο κίνητρο που θα παίξω στον ΠΑΟΚ»",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2560158/mitroy-longk-poly-megalo-kinitro-poy-tha-paixo-ston-paok",
-          "snippet": "Τις πρώτες του δηλώσεις μετά την άφιξή του στη Θεσσαλονίκη για λογαριασμό του ΠΑΟΚ έκανε ο Ναζ Μήτρου-Λονγκ.",
           "source": "Gazzetta"
         }
       ]
