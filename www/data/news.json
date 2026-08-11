@@ -1,16 +1,28 @@
 {
-  "updated": "2026-08-10T20:32:30.683012+00:00",
+  "updated": "2026-08-11T01:03:41.753586+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ο Άδωνις Γεωργιάδης για την κατάρρευση τμήματος οροφής στο Βενιζέλειο: «Παιδιά χαλαρώστε, σοβάς έπεσε…»",
-        "url": "https://www.efsyn.gr/politiki/1445552/o-adonis-georgiadis-gia-tin-katarreysi-tmimatos-orofis-sto-venizeleio-paidia-halaroste-sovas-epese/",
-        "snippet": "Οι εργαζόμενοι τονίζουν ότι από καθαρή τύχη δεν υπήρξε κάποιος τραυματισμός, όμως ο υπουργός μιλά για «συμμορία της μιζέριας».",
+        "title": "Βρετανία: Η ξηρασία σαρώνει την Αγγλία – 27 εκατ. άνθρωποι βιώνουν περιορισμούς στη χρήση νερού",
+        "url": "https://www.efsyn.gr/kosmos/1445556/vretania-i-xirasia-saronei-tin-agglia-27-ekat-anthropoi-vionoyn-periorismoys-sti-hrisi-neroy/",
+        "snippet": "Η ξηρασία επιδεινώνεται ραγδαία λόγω τόσο του χαμηλού επιπέδου βροχόπτωσης, όσο και των υψηλότερων θερμοκρασιών.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΗΠΑ: Ο Τραμπ αλλάζει τα δεδομένα και στα παιδικά εμβόλια",
+          "url": "https://www.efsyn.gr/kosmos/1445555/ipa-o-tramp-allazei-ta-dedomena-kai-sta-paidika-emvolia/",
+          "snippet": "Τα συνιστώμενα εμβόλια περιορίζονται μόλις σε 11, απορρίπτοντας έτσι το μέχρι σήμερα πρόγραμμα ανοσοποίησης που βασίστηκε σε δεκαετίες συλλογής δεδομένων.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ο Άδωνις Γεωργιάδης για την κατάρρευση τμήματος οροφής στο Βενιζέλειο: «Παιδιά χαλαρώστε, σοβάς έπεσε…»",
+          "url": "https://www.efsyn.gr/politiki/1445552/o-adonis-georgiadis-gia-tin-katarreysi-tmimatos-orofis-sto-venizeleio-paidia-halaroste-sovas-epese/",
+          "snippet": "Οι εργαζόμενοι τονίζουν ότι από καθαρή τύχη δεν υπήρξε κάποιος τραυματισμός, όμως ο υπουργός μιλά για «συμμορία της μιζέριας».",
+          "source": "EfSyn"
+        },
         {
           "title": "Ολυμπιακός: «Πρέπει να κερδίσουμε» τη Ναϊμέγκεν, είπε ο Μεντιλίμπαρ που παραδέχθηκε πως «ήμασταν κακοί στο πρώτο ματς»",
           "url": "https://www.efsyn.gr/athlitismos/1445549/olympiakos-prepei-na-kerdisoyme-ti-naimegken-eipe-o-mentilimpar-poy-paradehthike-pos-imastan-kakoi-sto-proto-mats/",
@@ -66,12 +78,6 @@
           "source": "EfSyn"
         },
         {
-          "title": "Βρετανία: Σχεδόν τα τρία τέταρτα της Αγγλίας σε κατάσταση ξηρασίας",
-          "url": "https://www.efsyn.gr/kosmos/1445507/vretania-shedon-ta-tria-tetarta-tis-agglias-se-katastasi-xirasias/",
-          "snippet": "Σχεδόν τα τρία τέταρτα της Αγγλίας (71,3%) βρίσκονται αντιμέτωπα με συνθήκες ξηρασίας, ανακοίνωσε σήμερα η βρετανική υπηρεσία Περιβάλλοντος, σε ένα δελτίο Τύπου που εξέδωσε. Η κατάσταση επιδεινώθηκε από την 29η Ιουλίου, όταν η ίδια υπηρεσία είχε αναφέρει πως το 50% και πλέον της ",
-          "source": "EfSyn"
-        },
-        {
           "title": "Φωτιά στην Αττικοβοιωτία: Διασώθηκαν 282 πυρόπληκτα ζώα",
           "url": "https://www.efsyn.gr/ellada/1445501/fotia-stin-attikovoiotia-diasothikan-282-pyroplikta-zoa/",
           "snippet": "Ο Δήμος Μεγαρέων κατέγραψε και μια εβδομάδα μετά τις φονικές πυρκαγιές δημοσιοποιεί τον απολογισμό της μεγάλης προσπάθειας να σωθούν πυρόπληκτα ζώα από την περιοχή της Αττικοβοιωτίας, στην οποία συμμετείχαν εθελοντές, φιλοζωικές οργανώσεις, κτηνίατροι και απλοί πολίτες. «Η δημοσι",
@@ -88,12 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1445489/epistoli-santers-se-tehnologikoys-kolossoys-zita-paysi-anaptyxis-toy-ai-den-einai-arga-na-apofygoyme-tin-katastrofi/",
           "snippet": "Καμπανάκι κινδύνου από τον πολιτικό, που κάνει λόγο για τεχνολογία την οποία «κανείς δεν μπορεί να κατανοήσει, να προβλέψει ή να ελέγξει πλήρως».",
           "source": "EfSyn"
-        },
-        {
-          "title": "Νίστρουπ: «Τα πάντα για την πρόκριση»",
-          "url": "https://www.efsyn.gr/athlitismos/1445498/nistroyp-ta-panta-gia-tin-prokrisi/",
-          "snippet": "Την κρισιμότητα του αυριανού (11/8, 21:30) αγώνα ρεβάνς του Παναθηναϊκού με την ΤΣΣΚΑ 1948, για τον Γ΄ προκριματικό γύρο του Conference League, υπογράμμισε ο Τζέικομπ Νίστρουπ, στην καθιερωμένη συνέντευξη Τύπου. «Νομίζω πως είμαστε εδώ όλοι για έναν λόγο. Ο Παναθηναϊκός είναι μια",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Live Updates: Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
+        "title": "Powerful 7.4 Earthquake Strikes Colombia, Killing More Than 100",
         "url": "https://www.nytimes.com/live/2026/08/10/world/colombia-earthquake-bogota-cali",
         "snippet": "The quake shook major cities, including Bogotá, Cali and Medellín. At least 111 people have died, the president said, and the death toll appeared likely to rise as rescuers searched damaged buildings.",
         "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Italian Diver Discovers Hundreds of Ancient Amphorae in Sicily",
-          "url": "https://www.nytimes.com/2026/08/10/world/europe/sicily-shipwreck-discovery.html",
-          "snippet": "Hundreds of ancient amphorae were found piled up about 150 feet underwater, suggesting the relics came from a Roman shipwreck from about 2,000 years ago.",
+          "title": "Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia",
+          "url": "https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html",
+          "snippet": "A propane tank and several containers of what were believed to be flammable liquids were found inside the man’s vehicle in a nearby parking garage, the police in Halifax said.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,48 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-        "snippet": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+        "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+        "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "snippet": "San Francisco's housing market is in trouble again.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+          "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "snippet": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Jeff Bezos might finally get his hands on a sports team",
+          "url": "https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/",
+          "snippet": "Jeff Bezos is reportedly close to buying his first stake in a sports team: the U.K.'s famed Liverpool Football Club.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Now Rippling is counter-suing tiny startup Runlayer",
+          "url": "https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/",
+          "snippet": "This lawsuit follows one filed last month by Runlayer that accused Rippling of stealing its product ideas. It's a seller- and buyer-beware market warning.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google co-founder Sergey Brin has now spent $100 million to fight the billionaire tax",
+          "url": "https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/",
+          "snippet": "California's Prop 40 would impose a one-time 5% tax on the net worth of the state's billionaires.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "snippet": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "snippet": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
           "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
@@ -250,42 +286,6 @@
           "url": "https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/",
           "snippet": "Companies that rely on Ceva Logistics for shipping their physical goods to customers say their personal data was taken during a recent cyberattack.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Signed up for Klaviyo? Dozens of advertisers may have seen your password",
-          "url": "https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/",
-          "snippet": "A bug in the tech giant's website the logo of US marketing automation company Klaviyo Inc. is seen displayed on a smartphone in front of an abstract background on a computer screen..",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-          "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-          "snippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Google Play adds Venmo as a payment option",
-          "url": "https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/",
-          "snippet": "The ability to add Venmo to Google Play comes as people are spending more money on apps and games.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-          "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-          "snippet": "The AI-focused hedge fund is still making some big bets.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Anthropic is turning Claude Code’s auto mode on by default",
-          "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-          "snippet": "Programming with Claude Code will soon require even less human oversight.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TechCrunch Mobility: Zoox prepares for launch and Uber’s AV empire",
-          "url": "https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/",
-          "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,60 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Γιαννακόπουλος: Μέχρι το ESPN έφτασε η δήλωση του ισχυρού άνδρα του Παναθηναϊκού για τον Γιόκιτς!",
-        "url": "https://www.gazzetta.gr/basketball/euroleague/2560419/giannakopoylos-mehri-espn-eftase-i-dilosi-toy-ishyroy-andra-toy",
-        "snippet": "Ο Δημήτρης Γιαννακόπουλος προκάλεσε... πανικό στις ΗΠΑ και στο NBA με την δήλωση που έκανε αναφορικά με τον Νίκολα Γιόκιτς και το γεγονός ότι θα τον υπογράψει το επόμενο καλοκαίρι.",
+        "title": "Χότζα: «Η Σκεντερμπέου κλείνει τον αρχηγό της U-19 του Παναιτωλικού», γράφουν στην Αλβανία",
+        "url": "https://www.gazzetta.gr/football/superleague/2560452/hotza-i-skentermpeoy-kleinei-ton-arhigo-tis-u-19-toy-panaitolikoy",
+        "snippet": "Σύμφωνα με δημοσιεύματα από την Αλβανία η Σκεντερμπέου είναι κοντά σε συμφωνία για την απόκτηση του Ντέιβιντ Χότζα από τον Παναιτωλικό.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "O Ινγκεμπρίγκτσεν παρέμεινε αήττητος, με 7ο χρυσό μετάλλιο στα ευρωπαϊκά πρωταθλήματα!",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560451",
+          "snippet": "Ο Γιάκομπ Ινγκεμπρίγκτσεν για 3η φορά έγινε πρωταθλητής Ευρώπης στα 5.000μ., παρέμεινε αήττητος στα ευρωπαϊκά ανοιχτού στίβου, ενώ συνολικά έφθασε στα 24 χρυσά μετάλλια σε πρωταθλήματα στη «γηραιά» ήπειρο!",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ευρωπαϊκό Κολύμβησης: Σίσκος, Βαζαίος και ελληνικές ελπίδες στο Παρίσι",
+          "url": "https://www.gazzetta.gr/kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2560454/eyropaiko-kolymbisis-siskos-bazaios-kai",
+          "snippet": "Ο Απόστολος Σίσκος ηγείται της ελληνικής αποστολής στο Ευρωπαϊκό του Παρισιού, με δυνατές συμμετοχές σε πολλά αγωνίσματα και στόχο τις προκρίσεις και τις διακρίσεις.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Οι τρεις «Ευρωλιγκάτοι»",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2560434/oi-metagrafes-tis-imeras-sto-mpasket-oi-treis-eyroligkatoi",
+          "snippet": "Πέντε μεταγραφές τη Δευτέρα (10/08) με τις τρεις να είναι στη EuroLeague και τις άλλες δύο στη Stoiximan GBL.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Κούσουλος: Ο Λεβαδειακός θέλει τον αρχηγό της Ομόνοιας, γράφουν στην Κύπρο",
+          "url": "https://www.gazzetta.gr/football/superleague/2560429/koysoylos-o-lebadeiakos-thelei-ton-arhigo-tis-omonoias-grafoyn-stin",
+          "snippet": "Σύμφωνα με δημοσίευμα από την Κύπρο ο αρχηγός της Ομόνοιας, Ιωάννης Κούσουλος, απασχολεί τον Λεβαδειακό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ευρωπαϊκό Στίβου 2026: Η Σκαρβέλη στην τελευταία βολή βρήκε τον τελικό στη σφυροβολία",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560428/eyropaiko-stiboy-2026-i-skarbeli-stin",
+          "snippet": "Η Σταματία Σκαρβέλη στην τελευταία της προσπάθεια με βολή στα 68,49μ. πήρε το 12ο εισιτήριο για τον τελικό της σφυροβολίας στο ευρωπαϊκό πρωτάθλημα στο Μπέρμιγχαμ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ακραίο: Στην Κίνα πίνουν λεμονάδα από τα πόδια cosplayers και πληρώνουν 6 ευρώ το ποτήρι (vid)",
+          "url": "https://www.gazzetta.gr/plus/2560427/akraio-stin-kina-pinoyn-lemonada-apo-ta-podia-cosplayers-kai-plironoyn-6-eyro-potiri",
+          "snippet": "Το αλλόκοτο trend εμφανίστηκε σε comic convention της Γκουανγκζού, προκαλώντας ουρές, viral βίντεο και έντονες αντιδράσεις.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Volos Elabet - Καλαμάτα: Η ομάδα της Μεσσηνίας πήρε το φιλικό με 2-0",
+          "url": "https://www.gazzetta.gr/football/superleague/2560423/volos-elabet-kalamata-i-omada-tis-messinias-pire-filiko-me-2-0",
+          "snippet": "Με γκολ των Μπολίβαρ και Μπονέτο η Καλαμάτα νίκησε 2-0 στο Πανθεσσαλικό των Volos Elabet και στον τελικό παίζει με τον Πανιώνιο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γιαννακόπουλος: Μέχρι το ESPN έφτασε η δήλωση του ισχυρού άνδρα του Παναθηναϊκού για τον Γιόκιτς!",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2560419/giannakopoylos-mehri-espn-eftase-i-dilosi-toy-ishyroy-andra-toy",
+          "snippet": "Ο Δημήτρης Γιαννακόπουλος προκάλεσε... πανικό στις ΗΠΑ και στο NBA με την δήλωση που έκανε αναφορικά με τον Νίκολα Γιόκιτς και το γεγονός ότι θα τον υπογράψει το επόμενο καλοκαίρι.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός: Η αλήθεια στα λόγια των Μεντιλίμπαρ – Ελ Καμπί και μία ενδιαφέρουσα δοκιμή",
           "url": "https://www.gazzetta.gr/football/champions-league/2560364/olympiakos-i-alitheia-sta-logia-ton-mentilimpar-el-kampi-kai-mia",
@@ -333,54 +381,6 @@
           "title": "Η στιγμή που γιοτ 50 εκατ. ευρώ προσκρούει στα τοιχώματα της Διώρυγας Κορίνθου (vid)",
           "url": "https://www.gazzetta.gr/plus/2560398/i-stigmi-poy-giot-50-ekat-eyro-proskroyei-sta-toihomata-tis-diorygas-korinthoy-vid",
           "snippet": "Το BLUE II προσέκρουσε επανειλημμένα στα πρανή της Διώρυγας Κορίνθου κατά τη διέλευσή του, με το λεγόμενο bank effect να αποτελεί πιθανή εξήγηση για το περιστατικό.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Kυζιρίδης - Τσορούμ: Οριστικά ποδοσφαιριστής των νεοφώτιστων Τουρκίας",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2560273/kyziridis-tsoroym-oristika-podosfairistis-ton-neofotiston",
-          "snippet": "O Αλέξανδρος Κυζιρίδης είναι οριστικά ποδοσφαιριστής της Τσόρουμ καθώς υπέγραψε το νέο του συμβόλαιο.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Έριξαν 250 κιλά μαλλιά στη θάλασσα: Η απίθανη «ασπίδα» των 350 μέτρων που απορροφά πετρέλαιο",
-          "url": "https://www.gazzetta.gr/plus/2560388/erixan-250-kila-mallia-sti-thalassa-i-apithani-aspida-ton-350-metron-poy-aporrofa",
-          "snippet": "250 κιλά ανθρώπινων μαλλιών τοποθετήθηκαν σε πλωτό φράγμα μήκους 350 μέτρων, με στόχο να παγιδεύουν πετρέλαιο και άλλους ρύπους πριν φτάσουν στα ευαίσθητα οικοσυστήματα του κόλπου Guanabara.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γαλατασαράι: Εκατομμύρια, χρυσός και όπλο στο σπίτι του αρχηγού των Ultras!",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2560386/galatasarai-ekatommyria-hrysos-kai-oplo-sto-spiti-toy",
-          "snippet": "Η αστυνομική έρευνα στο σπίτι του αρχηγού των UltrAslan της Γαλατά έφερε στο φως... εκατομμύρια, πολύτιμα αντικείμενα και όπλο, προκαλώντας έντονες αντιδράσεις.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μυκονίου: «Τα λόγια του Νίστρουπ, η ενδεκάδα και η ''πράσινη'' απόβαση»",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2560372/mykonioy-ta-logia-toy-nistroyp-i-endekada",
-          "snippet": "Τα τελευταία νέα του Παναθηναϊκού πριν από το κρίσιμο παιχνίδι με την ΤΣΣΚΑ 1948 στη Σόφια. Αποστολή στη Βουλγαρία: Σωτήρης Μυκονίου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το κουαρτέτο των δαιμόνων και ένα σαντουιτς με φυστικοβούτυρο",
-          "url": "https://www.gazzetta.gr/basketball/nba/2560366/koyarteto-ton-daimonon-kai-fystikoboytyro",
-          "snippet": "Ο Νίκος Παπαδογιάννης αποχαιρετάει τον Ντον Νέλσον και βυθίζεται σε γλυκόπικρες αναμνήσεις.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κρίστοφερ Βέλντε: Γιατί έκανε δηλώσεις έξαλλος",
-          "url": "https://www.gazzetta.gr/football/2560379/kristofer-belnte-giati-ekane-diloseis-exallos",
-          "snippet": "Ο Κρίστοφερ Βέλντε ήταν εμφανώς εκνευρισμένος μετά την ήττα των Πόρτλαντ Τίμπερς από την Κλαμπ Αμέρικα, όχι ωστόσο για το αποτέλεσμα...",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "WEC: Η επιστροφή της Ford στο Λε Μαν ξεκινά στο δυναμόμετρο",
-          "url": "https://www.gazzetta.gr/gmotion/2560250/wec-i-epistrofi-tis-ford-sto-le-man-xekina-sto-dinamometro",
-          "snippet": "Η Ford Racing συνεχίζει να ακολουθεί ένα άκρως εντατικό πρόγραμμα εξέλιξης για το νέο της Hypercar, το οποίο θα κάνει σύντομα ντεμπούτο στην πίστα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος: Οι νέες εμφανίσεις της σεζόν 2026-27",
-          "url": "https://www.gazzetta.gr/football/superleague/2560378/atromitos-oi-nees-emfaniseis-tis-sezon-2026-27",
-          "snippet": "Ο Ατρόμητος παρουσίασε τις δύο νέες εμφανίσεις του για την αγωνιστική περίοδο 2026-27 μέσω videο, στο οποίο πρωταγωνιστούν παιδιά της Ακαδημίας.",
           "source": "Gazzetta"
         }
       ]
