@@ -1,16 +1,82 @@
 {
-  "updated": "2026-08-11T01:03:41.753586+00:00",
+  "updated": "2026-08-11T04:59:14.884792+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Βρετανία: Η ξηρασία σαρώνει την Αγγλία – 27 εκατ. άνθρωποι βιώνουν περιορισμούς στη χρήση νερού",
-        "url": "https://www.efsyn.gr/kosmos/1445556/vretania-i-xirasia-saronei-tin-agglia-27-ekat-anthropoi-vionoyn-periorismoys-sti-hrisi-neroy/",
-        "snippet": "Η ξηρασία επιδεινώνεται ραγδαία λόγω τόσο του χαμηλού επιπέδου βροχόπτωσης, όσο και των υψηλότερων θερμοκρασιών.",
+        "title": "Δημήτρης Κουτσούμπας: Χόρεψε ζεϊμπέκικο σε συγκέντρωση του ΚΚΕ με την «Φάμπρικα» του Λάκη Χαλκιά",
+        "url": "https://www.efsyn.gr/politiki/1445624/dimitris-koytsoympas-horepse-zeimpekiko-se-sygkentrosi-toy-kke-me-tin-famprika-toy-laki-halkia/",
+        "snippet": "Γύρω του οι παρευρισκόμενοι χειροκροτούσαν και τραβούσαν βίντεο με τα κινητά τους.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Κουβαράς: Από κολόνα του ΔΕΔΔΗΕ φέρεται να ξεκίνησε η φωτιά",
+          "url": "https://www.efsyn.gr/ellada/1445609/koyvaras-apo-kolones-toy-dediee-feretai-na-xekinise-i-fotia/",
+          "snippet": "Μαρτυρίες κατοίκων της περιοχής αναφέρουν ότι είδαν σπινθήρες από τα καλώδια σε κολόνα χαμηλής τάσης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Χριστοδουλάκης: Καταγγέλλει στοχοποίηση από «συστήματα και συμφέροντα» – Η εταιρεία και το δημοσίευμα για απευθείας αναθέσεις",
+          "url": "https://www.efsyn.gr/politiki/1445577/hristodoylakis-kataggellei-stohopoiisi-apo-systimata-kai-symferonta-i-etaireia-kai-to-dimosieyma-gia-apeytheias-anatheseis/",
+          "snippet": "Δημοσίευμα της εφημερίδας «Δημοκρατία» αναφέρεται στις συμβάσεις της DATAMED Α.Ε., εταιρείας στην οποία συμμετέχουν συγγενικά του πρόσωπα, με φορείς του Δημοσίου",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σεισμός στην Κολομβία: Τουλάχιστον 132 νεκροί – Αγωνιώδης αναζήτηση για επιζώντες [εικόνες – βίντεο]",
+          "url": "https://www.efsyn.gr/kosmos/1445591/seismos-stin-kolomvia-agoniodis-anazitisi-gia-epizontes-toylahiston-111-nekroi/",
+          "snippet": "Η σεισμική δόνηση 7,4 βαθμών καταγράφτηκε χθες το πρωί (τοπική ώρα) στον νομό Τσοκό.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Έριν Μπρόκοβιτς: Δεν αντέγραψε τους κώδικες της εξουσίας για ν’ αποκτήσει κύρος",
+          "url": "https://www.efsyn.gr/nisides/1445342/erin-mprokovits-den-antegrapse-toys-kodikes-tis-exoysias-gia-n-apoktisei-kyros/",
+          "snippet": "Μετέτρεψε χιλιάδες απομονωμένες φωνές σε ορατό, συλλογικό γεγονός. Αυτή είναι η μοναδική αξία της Εριν Μπρόκοβιτς.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καρυστιανού: Προειδοποιεί με νομικές συνέπειες και καταγγέλλει «παρακίνημα»",
+          "url": "https://www.efsyn.gr/politiki/1445571/karystianoy-skliri-apantisi-stoys-apohorisantes-den-tha-dehtho-ekviasmoys/",
+          "snippet": "«Δεν θα δεχθώ εκβιασμούς», το μήνυμα της επικεφαλής της Ελπίδας προς όσους αποχώρησαν με αιχμές",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Αλέξης Τσίπρας: Πρόγευση του οικονομικού προγράμματος της ΕΛΑΣ – «Η ακρίβεια είναι ένα 4ο μνημόνιο»",
+          "url": "https://www.efsyn.gr/politiki/1445566/alexis-tsipras-to-oikonomiko-programma-i-akriveia-kai-to-4o-mnimonio/",
+          "snippet": "Στο πρώτο μέρος συνέντευξης στο in.gr, ο Αλέξης Τσίπρας προϊδέασε για το πρόγραμμα που θα παρουσιάσει στη ΔΕΘ, με την ελπίδα να αποτελέσει εφαλτήριο για την άνοδο των δημοσκοπικών ποσοστών του κόμματός του",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στέλιος Ράμφος [1939-2026]: Από το όνειρο της Αριστεράς στην αντίθετη όχθη",
+          "url": "https://www.efsyn.gr/tehnes/1445563/stelios-ramfos-1939-2026-apo-to-oneiro-tis-aristeras-stin-antitheti-ohthi/",
+          "snippet": "Πέθανε μία από τις πιο αναγνωρίσιμες αλλά και πλέον διχαστικές μορφές της μεταπολιτευτικής διανόησης",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Στους 38 βαθμούς σήμερα ο υδράργυρος – Ισχυροί άνεμοι έως 7 μποφόρ στο Αιγαίο",
+          "url": "https://www.efsyn.gr/ellada/1445574/kairos-stoys-38-vathmoys-simera-o-ydrargyros-ishyroi-anemoi-eos-7-mpofor-sto-aigaio/",
+          "snippet": "Ο καιρός θα είναι γενικά αίθριος, ενώ τις μεσημβρινές και απογευματινές ώρες θα αναπτυχθούν λίγες πρόσκαιρες νεφώσεις στα ηπειρωτικά ορεινά",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 11 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1445568/eortologio-poioi-giortazoyn-simera-11-aygoystoy/",
+          "snippet": "Σε ποιους πρέπει να πείτε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θρίλερ στον Άγιο Δημήτριο: Νεκρός εντοπίστηκε 38χρονος αστυνομικός μέσα σε υπηρεσιακό όχημα",
+          "url": "https://www.efsyn.gr/ellada/1445560/thriler-ston-agio-dimitrio-nekros-entopistike-38hronos-astynomikos-mesa-se-ypiresiako-ohima/",
+          "snippet": "Πληροφορίες αναφέρουν ότι είχε δηλωθεί ως εξαφανισμένος από το πρωί της Δευτέρας. Στο σώμα του φέρεται να εντοπίστηκαν εκδορές στην περιοχή του λαιμού, καθώς και μελανιές στα χέρια.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Βρετανία: Η ξηρασία σαρώνει την Αγγλία – 27 εκατ. άνθρωποι βιώνουν περιορισμούς στη χρήση νερού",
+          "url": "https://www.efsyn.gr/kosmos/1445556/vretania-i-xirasia-saronei-tin-agglia-27-ekat-anthropoi-vionoyn-periorismoys-sti-hrisi-neroy/",
+          "snippet": "Η ξηρασία επιδεινώνεται ραγδαία λόγω τόσο του χαμηλού επιπέδου βροχόπτωσης, όσο και των υψηλότερων θερμοκρασιών.",
+          "source": "EfSyn"
+        },
         {
           "title": "ΗΠΑ: Ο Τραμπ αλλάζει τα δεδομένα και στα παιδικά εμβόλια",
           "url": "https://www.efsyn.gr/kosmos/1445555/ipa-o-tramp-allazei-ta-dedomena-kai-sta-paidika-emvolia/",
@@ -27,72 +93,6 @@
           "title": "Ολυμπιακός: «Πρέπει να κερδίσουμε» τη Ναϊμέγκεν, είπε ο Μεντιλίμπαρ που παραδέχθηκε πως «ήμασταν κακοί στο πρώτο ματς»",
           "url": "https://www.efsyn.gr/athlitismos/1445549/olympiakos-prepei-na-kerdisoyme-ti-naimegken-eipe-o-mentilimpar-poy-paradehthike-pos-imastan-kakoi-sto-proto-mats/",
           "snippet": "Άφησε να εννοηθεί ότι ετοιμάζει αρκετές αλλαγές σε σχέση με το ματς της περασμένης εβδομάδας.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ρωσία: Το Ανώτατο Δικαστήριο μπλοκάρει τη συμμετοχή κόμματος της αντιπολίτευσης στις εκλογές",
-          "url": "https://www.efsyn.gr/kosmos/1445547/rosia-to-anotato-dikastirio-mplokarei-ti-symmetohi-kommatos-tis-antipoliteysis-stis-ekloges/",
-          "snippet": "Κατηγορείται πως είχε λάβει υποστήριξη από αδήλωτες πηγές, ορισμένες εκ των οποίων από τη Δύση.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Παναθηναϊκός: Πίστη Νίστρουπ για την πρόκριση – «Θα κάνουμε τα πάντα για τη νίκη»",
-          "url": "https://www.efsyn.gr/athlitismos/1445542/panathinaikos-pisti-nistroyp-gia-tin-prokrisi-tha-kanoyme-ta-panta-gia-ti-niki/",
-          "snippet": "«Ο Παναθηναϊκός είναι μια τεράστια ομάδα... έχει στην ταυτότητά του τα ευρωπαϊκά παιχνίδια».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κυψέλη: Οργή κατοίκων για δημοσίευμα σχετικά με τις ζημιές από τα έργα του Μετρό: «Ψεύδη και απόκρυψη στοιχείων»",
-          "url": "https://www.efsyn.gr/ellada/1445539/kypseli-orgi-katoikon-gia-dimosieyma-shetika-me-tis-zimies-apo-ta-erga-toy-metro-pseydi-kai-apokrypsi-stoiheion/",
-          "snippet": "«Όχι επικοινωνιακά τεχνάσματα στην πλάτη της γειτονιάς μας», τονίζουν οι κάτοικοι.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Χτύπημα» Πολάκη σε Άδωνη για το Βενιζέλειο: «Κουρτίνα δεν υπήρξε για να την τραβήξουν οι εργαζόμενοι»",
-          "url": "https://www.efsyn.gr/politiki/1445536/htypima-polaki-se-adoni-gia-to-venizeleio-koyrtina-den-ypirxe-gia-na-tin-travixoyn-oi-ergazomenoi/",
-          "snippet": "Επίθεση από τον βουλευτή του ΣΥΡΙΖΑ στον υπουργό Υγείας μετά την πτώση τμήματος της οροφής σε γραφείο του νοσοκομείου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σκιάθος: Τουρίστρια υπέστη κρανιοεγκεφαλικές κακώσεις από το ρεύμα αέρος που προκάλεσαν τουρμπίνες αεροπλάνου",
-          "url": "https://www.efsyn.gr/ellada/1445525/skiathos-toyristria-ypesti-kranioegkefalikes-kakoseis-apo-to-reyma-aeros-poy-prokalesan-toyrmpines-aeroplanoy/",
-          "snippet": "Μεταφέρθηκε αρχικά στο Πολυϊατρείο Σκιάθου και συνέχεια, εξαιτίας της σοβαρότητας του τραυματισμού της, στο Νοσοκομείο του Βόλου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βενιζέλειο Νοσοκομείο: Κατέρρευσε τμήμα της οροφής σε γραφείο γιατρών – Τι καταγγέλλουν οι εργαζόμενοι",
-          "url": "https://www.efsyn.gr/ellada/1445512/venizeleio-nosokomeio-katerreyse-tmima-tis-orofis-se-grafeio-giatron-ti-kataggelloyn-oi-ergazomenoi/",
-          "snippet": "Νέο περιστατικό κατάρρευσης τμήματος οροφής, αυτή τη φορά σε γραφείο γιατρών της Χειρουργικής Κλινικής • Από καθαρή τύχη δεν τραυματίστηκε εργαζόμενος • Περίπου 40 εκατ. ευρώ απαιτούνται για την ανακαίνιση του κεντρικού κτιρίου και του περιβάλλοντος χώρου • «Δεν ζητάμε άλλη ανακο",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Tupac: Nέα δίκη τριάντα χρόνια μετά τη δολοφονία του ράπερ – Στο εδώλιο αρχηγός συμμορίας",
-          "url": "https://www.efsyn.gr/tehnes/1445526/tupac-nea-diki-trianta-hronia-meta-ti-dolofonia-toy-raper-sto-edolio-arhigos-symmorias/",
-          "snippet": "Η δολοφονία του σπουδαίου Tupac Shakurτο 1996 αποτελεί ένα από τα πιο μεγάλα μυστήρια στον χώρο της παγκόσμιας μουσικής, καθώς τριάντα χρόνια μετά παραμένει ανεξιχνίαστη. Σήμερα ξεκίνησε στο Λας Βέγκας ακόμη μια δίκη για την πολύκροτη υπόθεση και αναμένεται να διαρκέσει για περίπ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κολομβία: Δραματικές ώρες μετά τον σεισμό των 7,4 Ρίχτερ – Εκατόμβη νεκρών, δεκάδες εγκλωβισμένοι στα ερείπια [εικόνες-βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1445503/kolomvia-dramatikes-ores-meta-ton-seismo-ton-74-rihter-ekatomvi-nekron-dekades-egklovismenoi-sta-ereipia-ktirion-eikones-vinteo/",
-          "snippet": "Κατάσταση έκτακτης ανάγκης κήρυξε η κυβέρνηση, μάχη με τον χρόνο δίνουν τα σωστικά συνεργεία που αναζητούν ζωή στα χαλάσματα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Φωτιά στην Αττικοβοιωτία: Διασώθηκαν 282 πυρόπληκτα ζώα",
-          "url": "https://www.efsyn.gr/ellada/1445501/fotia-stin-attikovoiotia-diasothikan-282-pyroplikta-zoa/",
-          "snippet": "Ο Δήμος Μεγαρέων κατέγραψε και μια εβδομάδα μετά τις φονικές πυρκαγιές δημοσιοποιεί τον απολογισμό της μεγάλης προσπάθειας να σωθούν πυρόπληκτα ζώα από την περιοχή της Αττικοβοιωτίας, στην οποία συμμετείχαν εθελοντές, φιλοζωικές οργανώσεις, κτηνίατροι και απλοί πολίτες. «Η δημοσι",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αδειάζουν τα ποτάμια, ματώνει η οικονομία: Πώς η λειψυδρία φέρνει αλυσιδωτές συνέπειες στην Ευρώπη",
-          "url": "https://www.efsyn.gr/periballon/1445195/adeiazoyn-ta-potamia-matonei-i-oikonomia-pos-i-leipsydria-fernei-alysidotes-synepeies-stin-eyropi/",
-          "snippet": "Τα σοβαρά φαινόμενα λειψυδρίας στην κεντρική και βόρεια Ευρώπη έχουν ρίξει τη στάθμη μεγάλων ποταμών σε ιστορικά χαμηλά επίπεδα και οι συνέπειες είναι αλυσιδωτές",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Επιστολή Σάντερς σε τεχνολογικούς κολοσσούς: Ζητά παύση ανάπτυξης του ΑΙ – «Δεν είναι αργά να αποφύγουμε την καταστροφή»",
-          "url": "https://www.efsyn.gr/kosmos/1445489/epistoli-santers-se-tehnologikoys-kolossoys-zita-paysi-anaptyxis-toy-ai-den-einai-arga-na-apofygoyme-tin-katastrofi/",
-          "snippet": "Καμπανάκι κινδύνου από τον πολιτικό, που κάνει λόγο για τεχνολογία την οποία «κανείς δεν μπορεί να κατανοήσει, να προβλέψει ή να ελέγξει πλήρως».",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Man in Custody Over Bomb Threat at U.S. Consulate in Nova Scotia",
-          "url": "https://www.nytimes.com/2026/08/10/world/americas/halifax-canada-bomb-threat-us-consulate.html",
-          "snippet": "A propane tank and several containers of what were believed to be flammable liquids were found inside the man’s vehicle in a nearby parking garage, the police in Halifax said.",
+          "title": "In a Sweltering Summer, These Italians Want Romans to Curl",
+          "url": "https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html",
+          "snippet": "By setting up a curling rink in the shadow of the Colosseum, sports officials hope to capitalize on the fresh popularity of the Winter Olympics phenomenon. Even in a heat wave and without any ice.",
           "source": "NYT World"
         }
       ]
