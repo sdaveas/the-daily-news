@@ -1,16 +1,22 @@
 {
-  "updated": "2026-08-11T20:35:37.113654+00:00",
+  "updated": "2026-08-12T01:11:11.638120+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Εκτός Champions League ο Ολυμπιακός: Με 10 παίκτες, λύγισε στην παράταση από τη Ναϊμέγκεν [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1446209/ektos-champions-league-o-olympiakos-me-10-paiktes-lygise-stin-paratasi-apo-ti-naimegken/",
-        "snippet": "Οι «ερυθρόλευκοι» θα συνεχίσουν την ευρωπαϊκή τους πορεία στη League Phase του Europa League.",
+        "title": "Έγραψε Ιστορία ο Τεντόγλου: Πρωταθλητής Ευρώπης για 4η συνεχή φορά",
+        "url": "https://www.efsyn.gr/athlitismos/1446214/egrapse-istoria-o-tentogloy-protathlitis-eyropis-gia-4i-synehi-fora/",
+        "snippet": "«Ήταν από τους πιο δύσκολους τελικούς που έχω κάνει», είπε ο Έλληνας πρωταθλητής του μήκους μετά το τέλος του αγώνα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Εκτός Champions League ο Ολυμπιακός: Με 10 παίκτες, λύγισε στην παράταση από τη Ναϊμέγκεν [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1446209/ektos-champions-league-o-olympiakos-me-10-paiktes-lygise-stin-paratasi-apo-ti-naimegken/",
+          "snippet": "Οι «ερυθρόλευκοι» θα συνεχίσουν την ευρωπαϊκή τους πορεία στη League Phase του Europa League.",
+          "source": "EfSyn"
+        },
         {
           "title": "Νίκη-πρόκριση για τον Παναθηναϊκό μέσα στη Βουλγαρία [βίντεο]",
           "url": "https://www.efsyn.gr/athlitismos/1446203/niki-prokrisi-gia-ton-panathinaiko-mesa-sti-voylgaria/",
@@ -87,12 +93,6 @@
           "title": "Πώς η ακρίβεια άλλαξε τις διατροφικές συνήθειες: Είδος πολυτελείας το ωμό κρέας – Στροφή στα έτοιμα και προψημένα",
           "url": "https://www.efsyn.gr/oikonomia/1445829/pos-i-akriveia-allaxe-tis-diatrofikes-synitheies-eidos-polyteleias-to-omo-kreas-strofi-sta-etoima-kai-propsimena/",
           "snippet": "Οι αλλαγές δεν αποτυπώνονται μόνο στη μείωση της κατανάλωσης, αλλά και στον τρόπο που ψωνίζουμε και στα προϊόντα στο καλάθι του σουπερμάρκετ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά στο Νότιο Πήλιο – Ήχησε το 112",
-          "url": "https://www.efsyn.gr/ellada/1446160/pyrkagia-sto-notio-pilio-ihise-to-112/",
-          "snippet": "Πύρινο μέτωπο ξέσπασε το απόγευμα της Τρίτης σε αγροτοδασική έκταση στην περιοχή παραλία Πάου στο Νότιο Πήλιο. Στο σημείο μετέβησαν και επιχειρούν 40 πυροσβέστες με 2 ομάδες πεζού από την 10η ΕΜΟΔΕ , 10 οχήματα, 3 αεροσκάφη και 1 ελικόπτερο ενώ συνδρομή παρέχουν υδροφόρες ΟΤΑ. Οι",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Searching for Survivors After Colombia’s Earthquake",
-          "url": "https://www.nytimes.com/video/world/americas/100000011085349/searching-for-survivors-after-colombias-earthquake.html",
-          "snippet": "Our Colombia-based reporter Genevieve Glatsky witnesses the search for survivors after a five-story apartment building in the city of Cali collapsed in an earthquake.",
+          "title": "Total Eclipse",
+          "url": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html",
+          "snippet": "If you’re in Europe, get ready to gaze at the sky. But not without the right glasses.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Uber surprised robotics company Serve by selling its entire stake",
-        "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
-        "snippet": "The divesture comes comes as the two once-tight companies have started to diverge on the business side.",
+        "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+        "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+        "snippet": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber surprised robotics company Serve by selling its entire stake",
+          "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+          "snippet": "The divestiture comes as the two once-tight companies have started to diverge on the business side.",
+          "source": "TechCrunch"
+        },
         {
           "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
           "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
@@ -216,9 +228,9 @@
           "source": "TechCrunch"
         },
         {
-          "title": "Google’s Gemini app surges to one billion users",
+          "title": "Google’s Gemini app surges to 1 billion users",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-          "snippet": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+          "snippet": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 million images every day, according to Google.",
           "source": "TechCrunch"
         },
         {
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
           "snippet": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "FlightAware sues Kalshi over flight cancellation prediction markets",
-          "url": "https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/",
-          "snippet": "FlightAware says that Kalshi used its name and data to offer bets on flight cancellations without the flight tracker's permission.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Kyoto Fusioneering starts work on key fusion power plant device",
-          "url": "https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/",
-          "snippet": "Fusion power startups are turning to Kyoto Fusioneering to supply components for future power plants. The Japan-based startup just received a grant to build a part of the fuel system.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΤΣΣΚΑ 1948 - Παναθηναϊκός 1-2: Παίκτες και κόσμος πανηγύρισαν την πρόκριση",
-        "url": "https://www.gazzetta.gr/football/europa-conference-league/2560696/tsska-1948-panathinaikos-paiktes-kai-kosmos-panigyrisan",
-        "snippet": "Οι παίκτες του Παναθηναϊκού πανηγύρισαν με τους οπαδούς την πρόκριση.",
+        "title": "Σάκκαρη: Η κλήρωσή της στο τουρνουά του Σινσινάτι",
+        "url": "https://www.gazzetta.gr/tennis/wta/2560728/sakkari-i-klirosi-tis-sto-toyrnoya-toy-sinsinati",
+        "snippet": "Το μονοπάτι της στο τουρνουά του Σινσινάτι έμαθε η Μαρία Σάκκαρη.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Μπαρτσελόνα: Νέα πρόταση για τον Ρόδρι",
-          "url": "https://www.gazzetta.gr/football/la-liga/2560695/mpartselona-nea-protasi-gia-ton-rodri",
-          "snippet": "Οι Μπλαουγκράνα θέλουν διακαώς τον, πρωταθλητή κόσμου, Ρόντρι και επανέρχονται με βελτιωμένη πρόταση στη Μάντσεστερ Σίτι για την απόκτησή του.",
+          "title": "Τσιτσιπάς: Γαλλικό «εμπόδιο» στην πρεμιέρα του στο Σινσινάτι",
+          "url": "https://www.gazzetta.gr/tennis/atp/2560727/tsitsipas-galliko-empodio-stin-premiera-toy-sto-sinsinati",
+          "snippet": "Τον πρώτο του αντίπαλο και το μονοπάτι ενόψει συνέχειας στο τουρνουά του Σινσινάτι έμαθε ο Στέφανος Τσιτσιπάς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Στο 1ο γκρουπ του Europa League – Οι πιθανοί αντίπαλοι",
-          "url": "https://www.gazzetta.gr/football/europa-league/2560694/olympiakos-sto-1o-gkroyp-toy-europa-league-oi-pithanoi-antipaloi",
-          "snippet": "Ο Ολυμπιακός θα βρεθεί στη league phase του Europa League, εκεί όπου θα μπει στο 1ο γκρουπ δυναμικότητας.",
+          "title": "Με το βλέμμα στο βάθρο Σίσκος και Μάρκος στο Ευρωπαϊκό του Παρισιού",
+          "url": "https://www.gazzetta.gr/kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2560730/me-blemma-sto-bathro-siskos-kai-markos-sto",
+          "snippet": "Ο Απόστολος Σίσκος και ο Δημήτρης Μάρκος αγωνίζονται στους τελικούς του Ευρωπαϊκού, με την Ελλάδα να κυνηγά το πρώτο της μετάλλιο στο Παρίσι.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τεντόγλου: «Πέταξε» στα 8.44μ στην τέταρτη προσπάθεια",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560693/tentogloy-petaxe-sta-844m-stin-tetarti",
-          "snippet": "Μία εκπληκτική τέταρτη προσπάθεια πραγματοποίησε ο Μίλτος Τεντόγλου, περνώντας και πάλι στην πρώτη θέση του τελικού του μήκους στο Ευρωπαϊκό πρωτάθλημα.",
+          "title": "Ολυμπιακός: Η στήριξη του κόσμου προς τους παίκτες παρά τον αποκλεισμό",
+          "url": "https://www.gazzetta.gr/football/champions-league/2560726/olympiakos-i-stirixi-toy-kosmoy-pros-toys-paiktes-para-ton",
+          "snippet": "Οι παίκτες του Ολυμπιακού πήγαν προς τον κόσμο για να τον ευχαριστήσουν για τη στήριξή του στην Ολλανδία. Ολλανδία - αποστολή: Δημήτρης Τομαράς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τομάς Aνρί: «Αναμένεται να υπογράψει στον Παναιτωλικό, ψάχνει σχολείο για τα παιδιά του», γράφουν στο Βέλγιο",
-          "url": "https://www.gazzetta.gr/football/superleague/2560692/tomas-anri-anamenetai-na-ypograpsei-ston-panaitoliko-psahnei-sholeio",
-          "snippet": "Δημοσίευμα από το Βέλγιο αναφέρει πως ο Τομάς Ανρί αναμένται να λύσει το συμβόλαιο του και να υπογράψει στον Παναιτωλικό, ενώ υποστηρίζει πως ο Γάλλος ψάχνει σχολείο για τα παιδιά του.",
+          "title": "Τεντόγλου: Η απονομή του 4ου χρυσού μεταλλίου στα ευρωπαϊκά στο Μπέρμιγχαμ",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560724/tentogloy-i-aponomi-toy-4oy-hrysoy-metallioy",
+          "snippet": "Ο Μίλτος Τεντόγλου στο Μπέρμιγχαμ φόρεσε στο στήθος του το 4ο χρυσό μετάλλιο από ευρωπαϊκά πρωταθλήματα ανοιχτού στίβου.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΤΣΣΚΑ 1948 - Παναθηναϊκός 1-2: Τα highlights του αγώνα",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2560691/tsska-1948-panathinaikos-1-2-ta-highlights-toy-agona",
-          "snippet": "Τα γκολ και οι καλύτερες φάσεις της νίκης του Παναθηναϊκού επί της ΤΣΣΚΑ Σόφιας 1948 με 2-1.",
+          "title": "Μεντιλίμπαρ: «Πρέπει να διορθώσουμε πολλά πράγματα»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2560723/mentilimpar-prepei-na-diorthosoyme-polla-pragmata",
+          "snippet": "Η συνέντευξη Τύπου του Χοσέ Λουίς Μεντιλίμπαρ μετά την εκτός έδρας ήττα από την ομάδα της Ναϊμέγκεν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βαθμολογία UEFA: Ολοζώντανη για το 5/5 η Ελλάδα",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-champions-league/2560690/bathmologia-uefa-olozontani-gia-55-i-ellada",
-          "snippet": "Δείτε πώς διαμορφώνεται η κατάσταση στη βαθμολογία της UEFA μετά τα ματς της Τρίτης (11/8).",
+          "title": "Ιντρίτ Τούτσι: Ο Παναιτωλικός έχει ψηλά στη λίστα τον Αλβανό φορ",
+          "url": "https://www.gazzetta.gr/football/superleague/2560597/intrit-toytsi-o-panaitolikos-ehei-psila-sti-lista-ton-albano",
+          "snippet": "Όπως προκύπτει από το ρεπορτάζ του Gazzetta, ο Παναιτωλικός έχει ξεχωρίσει την περίπτωση του διεθνή Αλβανού φορ της Σπάρτα Πράγας, Ιντρίτ Τούτσι.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ναϊμέγκεν – Ολυμπιακός 2-1 παρ. (1-1 κ.α): Αναψε... κόκκινο για τα «αστέρια», συνεχίζει στη League Phase του Europa!",
-          "url": "https://www.gazzetta.gr/football/champions-league/2560689/naimegken-olympiakos-2-1-par-1-1-ka-anapse-kokkino-gia-ta-asteria",
-          "snippet": "Το όνειρο του Ολυμπιακού για παρουσία στη League Phase του Champions League... έσβησε στο Ναϊμέγκεν. Η αποβολή του Φορτούνη αποδείχθηκε καθοριστική για τους Πειραιώτες, που αν και προηγήθηκαν έχασαν 2-1 στην παράταση. Απευθείας στη League Phase του Europa League οι «ερυθρόλευκοι»",
+          "title": "Ολυμπιακός: Η δυσαρέσκεια για τον Μαριάνι για τουλάχιστον 3 φάσεις",
+          "url": "https://www.gazzetta.gr/football/champions-league/2560722/olympiakos-i-dysareskeia-gia-ton-mariani-gia-toylahiston-3-faseis",
+          "snippet": "Ο διαιτητής Μαριάνι συγκέντρωσε τα... βέλη των διαμαρτυριών των ανθρώπων του Ολυμπιακού και αυτό δεν ήταν μόνο για την αποβολή του Φορτούνη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Συνεχίζει στη League Phase του Europa League, η οικονομική διαφορά με το Champions League",
-          "url": "https://www.gazzetta.gr/football/europa-league/2560688/olympiakos-synehizei-sti-league-phase-toy-europa-league",
-          "snippet": "Ο Ολυμπιακός από τη στιγμή που αποκλείστηκε στην Ολλανδία θα αγωνιστεί στη League Phase του Europa League.",
+          "title": "Τεντόγλου: Η ατελείωτη λίστα χρυσού, που φέρνει ζαλάδα",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560719/tentogloy-i-ateleioti-lista-hrysoy-poy-fernei",
+          "snippet": "Ο Μίλτος Τεντόγλου στο Μπέρμιγχαμ έγινε πρωταθλητής Ευρώπης για 4η φορά στην καριέρα του και η απίθανη συλλογή του μεγαλώνει.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κριστιάνο Ρονάλντο: Παντρεύτηκε τη Χεορχίνα Ροντρίγκες",
-          "url": "https://www.gazzetta.gr/football/2560687/kristiano-ronalnto-pantreytike-ti-heorhina-rontrigkes",
-          "snippet": "Κριστιάνο Ρονάλντο και Χεορχίνα Ροντρίγκες ενώθηκαν με τα ιερά δεσμά του γάμου.",
+          "title": "Κάλενς: «Φεύγω περήφανος που φόρεσα αυτή τη φανέλα, ευχαριστώ που μου επιτρέψατε να αποχαιρετήσω ως πρωταθλητής»",
+          "url": "https://www.gazzetta.gr/football/superleague/2560718/kalens-feygo-perifanos-poy-foresa-ayti-ti-fanela-eyharisto-poy-moy",
+          "snippet": "Το «αντίο» του Αλεξάντερ Κάλενς στην οικογένεια της ΑΕΚ μετά από κοινή πορεία τριών ετών.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΤΣΣΚΑ 1948 – Παναθηναϊκός 1-2 παρ. (1-1 κ.α): Λιβάι και Ντέσερς τον έστειλαν στα play offs με χτυποκάρδι!",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2560686/tsska-1948-panathinaikos-1-2-par-1-1-ka",
-          "snippet": "Ο Λιβάι Γκαρσία στην πρώτη του με τα «πράσινα» και ο Ντέσερς στην επιστροφή του μετά από 8 μήνες, βρήκαν δίχτυα και ο Παναθηναϊκός που... καρδιοχτύπησε στη Σόφια, επικράτησε 2-1 της ΤΣΣΚΑ 1948 στην παράταση και προκρίθηκε στα play offs του Conference.",
+          "title": "Απολαυστικός Τεντόγλου: «Έκανα μ@λ@κ!α, ξέχασα το μετάλλιο»",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560717/apolaystikos-tentogloy-ekana-mlka-xehasa",
+          "snippet": "Μία επική... γκάφα έκανε ο Μίλτος Τεντόγλου, ο οποίος αντιλήφθηκε πως έχει ξεχάσει το μετάλλιό του κατά τη διάρκεια των δηλώσεών του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Τα χρήματα που διεκδικεί το τριφύλλι στο Conference League",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2560685/panathinaikos-ta-hrimata-poy-diekdikei-trifylli-sto",
-          "snippet": "Τα ποσά που κυνηγάει ο Παναθηναϊκός με συμμετοχή στη League Phase του Conference League.",
+          "title": "Παναθηναϊκός: Θρίλερ, αδυναμίες αλλά η πρόκριση είναι πρόκριση!",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2560716/panathinaikos-thriler-adynamies-alla-i-prokrisi-einai",
+          "snippet": "Ο Νίκος Αθανασίου γράφει στο Gazzetta για την πρόκριση του Παναθηναϊκού επί της ΤΣΣΚΑ 1948 και την συνέχειά του στο Conference League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Η μέρα, ο πιθανός αντίπαλος και το κανάλι του επόμενου αγώνα",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2560684/panathinaikos-i-mera-o-pithanos-antipalos-kai-kanali-toy",
-          "snippet": "Ο Παναθηναϊκός πέρασε το εμπόδιο της ΤΣΣΚΑ 1948 και περιμένει Χράντετς Κράλοβε ή Μπεσίκτας.",
+          "title": "Ευρωπαϊκό Στίβου 2026: Η Στεφανίδη και η Αδαμοπούλου υπέροχο δίδυμο και στον τελικό",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560715/eyropaiko-stiboy-2026-i-stefanidi-kai-i",
+          "snippet": "Η Κατερίνα Στεφανίδη και η Αριάδνη Αδαμοπούλου θα είναι στον τελικό του επί κοντώ στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπορεί ένα από τα πιο απλά φυτά της Γης να λειτουργεί σαν εγκέφαλος: Τι ανακάλυψαν οι επιστήμονες",
-          "url": "https://www.gazzetta.gr/plus/2560671/mporei-ena-apo-ta-pio-apla-fyta-tis-gis-na-leitoyrgei-san-egkefalos-ti-anakalypsan-oi",
-          "snippet": "Νέα μελέτη δείχνει ότι τα βρύα μεταδίδουν ηλεκτρικά σήματα μέσα στις πυκνές πράσινες «μάζες» τους",
+          "title": "Ρέτσος: «Κατώτεροι των περιστάσεων, να σηκωθούμε όπως κάνουμε συνέχεια»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2560713/retsos-katoteroi-ton-peristaseon-na-sikothoyme-opos-kanoyme",
+          "snippet": "Οι δηλώσεις του Παναγιώτη Ρέτσου στην κάμερα του Mega μετά την ήττα του Ολυμπιακού από τη Ναϊμέγκεν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ναϊμέγκεν - Ολυμπιακός: O Μεντιλίμπαρ έκανε αλλαγή στην αλλαγή τον Μουζακίτη",
-          "url": "https://www.gazzetta.gr/football/champions-league/2560683/naimegken-olympiakos-o-mentilimpar-ekane-allagi-stin-allagi-ton",
-          "snippet": "Ο Χοσέ Λουίς Μεντιλίμπαρ έκανε αλλαγή στην αλλαγή τον Χρήστο Μουζακίτη στην παράταση της ρεβάνς του Ολυμπιακού με την Ναϊμέγκεν.",
+          "title": "Ολυμπιακός: Μια δύσκολη βραδιά στο Ναϊμέγκεν και μια δυσκολότερη επόμενη μέρα...",
+          "url": "https://www.gazzetta.gr/football/champions-league/2560712/olympiakos-mia-dyskoli-bradia-sto-naimegken-kai-mia-dyskoloteri",
+          "snippet": "Ο Ολυμπιακός έμεινε εκτός από την προοπτική του Champions League και ο Δημήτρης Τομαράς γράφει για μια βραδιά στο Ναϊμέγκεν που ξεκίνησε καλά, αλλά συνεχίστηκε και ολοκληρώθηκε με τον χειρότερο τρόπο, ενώ αναφέρεται και στην επόμενη δύσκολη μέρα!",
           "source": "Gazzetta"
         }
       ]
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
-          "url": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
-          "snippet": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.",
+          "title": "Spotify Will Label A.I. Artists and Avoid Promoting Them",
+          "url": "https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html",
+          "snippet": "The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Barack Obama to Host New Podcast, ‘A Great Book’",
-          "url": "https://www.nytimes.com/2026/08/10/arts/obama-books-podcast.html",
-          "snippet": "The former president will discuss works by James Baldwin, Toni Morrison and Marilynne Robinson, among others, in a podcast that will premiere in September.",
+          "title": "Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End",
+          "url": "https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html",
+          "snippet": "The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Duane Davis, Who Wrote About Role in Tupac’s Murder, Now Says Memoir Was Fiction",
-          "url": "https://www.nytimes.com/2026/08/10/arts/music/tupac-shakur-murder-trial.html",
-          "snippet": "Duane Davis’s book boasted of his role in the killing of Tupac Shakur. The memoir, which he now disavows, has become prime evidence in his murder trial, which starts this week.",
+          "title": "My Summer of Bob Dylan",
+          "url": "https://www.nytimes.com/2026/08/11/arts/music/amplifier-newsletter-bob-dylan.html",
+          "snippet": "Hear tracks inspired by his Long Hot Summer Tour, including “My Back Pages” and “Mississippi.”",
           "source": "NYT Arts"
         }
       ]
