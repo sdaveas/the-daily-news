@@ -1,16 +1,88 @@
 {
-  "updated": "2026-08-12T01:11:11.638120+00:00",
+  "updated": "2026-08-12T05:24:19.125457+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Έγραψε Ιστορία ο Τεντόγλου: Πρωταθλητής Ευρώπης για 4η συνεχή φορά",
-        "url": "https://www.efsyn.gr/athlitismos/1446214/egrapse-istoria-o-tentogloy-protathlitis-eyropis-gia-4i-synehi-fora/",
-        "snippet": "«Ήταν από τους πιο δύσκολους τελικούς που έχω κάνει», είπε ο Έλληνας πρωταθλητής του μήκους μετά το τέλος του αγώνα.",
+        "title": "Έβρος: Σκόνη και θρύψαλα το πρόγραμμα των 3 δισ. – Αντιδράσεις από την αντιπολίτευση",
+        "url": "https://www.efsyn.gr/politiki/1446250/evros-skoni-kai-thrypsala-to-programma-ton-3-dis-antidraseis-apo-tin-antipoliteysi/",
+        "snippet": "Χάρη στο ρεπορτάζ της «Εφ.Συν.», η κυβέρνηση επαναδεσμεύτηκε, διά του Κώστα Κατσαφάδου, ότι το master plan παραμένει στο αρχικό ποσό, ωστόσο από εκεί και πέρα αρχίζει η σαλαμοποίηση",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Press Point: Οι ξένοι κάνουν απόβαση σε χώρες και τράπεζες της Ε.Ε.",
+          "url": "https://www.efsyn.gr/media/1446290/press-point-oi-xenoi-kanoyn-apovasi-se-hores-kai-trapezes-tis-e-e/",
+          "snippet": "«Οι Αµερικανοί έχουν εξελιχθεί σε μια ευρεία τάξη οικονομικά εύρωστων και αεικίνητων διεθνών ταξιδιωτών, που έχουν στην κορυφή των επιλογών τους την Ελλάδα», σημειώνει η Wall Street Journal σε άρθρο της με θέμα την «άνοδο του Αμερικανού τουρίστα». «Το 2025, η &#8220;απόβαση&#8221",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μίλτος Τεντόγλου: Η απονομή του χρυσού μεταλλίου και η ανάκρουση του Εθνικού Ύμνου [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1446283/miltos-tentogloy-i-stigmi-tis-aponomis-toy-hrysoy-metallioy-ston-ellina-alti-vinteo/",
+          "snippet": "Η απονομή πραγματοποιήθηκε μέσα σε θερμό χειροκρότημα από το κοινό.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Tο σκάνδαλο των υποκλοπών αναπαύεται στο αρχείο",
+          "url": "https://www.efsyn.gr/politiki/1446284/to-skandalo-ton-ypoklopon-anapayetai-sto-arheio/",
+          "snippet": "Τέτοιες μέρες το 1974 παραιτείται ο Ρίτσαρντ Νίξον από τη θέση του προέδρου των ΗΠΑ λόγω του σκανδάλου του Watergate. Τέτοιες μέρες το 2026, δηλαδή στις μέρες μας, στην Ελλάδα, το σκάνδαλο των υποκλοπών αναπαύεται στο αρχείο, η κυβέρνηση Μητσοτάκη, που το οργάνωσε με το παρακράτο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιράν: Ακόμη πιο σκληρή γραμμή για τα Στενά του Ορμούζ από τον νέο «ισχυρό άνδρα» της Τεχεράνης",
+          "url": "https://www.efsyn.gr/kosmos/1446242/iran-akomi-pio-skliri-grammi-gia-ta-stena-toy-ormoyz-apo-ton-neo-ishyro-andra-tis-teheranis/",
+          "snippet": "Κάθε μέρα και πιο βαθιά εγκλωβισμένος στο αδιέξοδο που δημιούργησε, βρίσκεται ο Ντόναλντ Τραμπ ● Ο νέος γραμματέας Εθνικής Ασφάλειας του Ιράν θέτει ακόμα πιο σκληρή γραμμή για το Ορμούζ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μίλτος Τεντόγλου: Η ξεκαρδιστική αντίδραση όταν κατάλαβε ότι ξέχασε το μετάλλιο [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1446262/miltos-tentogloy-i-xekardistiki-antidrasi-toy-otan-xehase-to-metallio-mas-to-edosan-alla-to-paratisa-vinteo/",
+          "snippet": "«Μας το έδωσαν αλλά το παράτησα εκεί, έκανα μ@@@@α, παιδιά το έβγαλα και το άφησα εκεί», είπε ο Μίλτος Τεντόγλου.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σεισμός στην Κολομβία: «Τα χάσαμε όλα» – Πάνω από 250 νεκροί, μάχη με τον χρόνο στα συντρίμμια",
+          "url": "https://www.efsyn.gr/kosmos/1446244/seismos-stin-kolomvia-pano-apo-250-nekroi-mikra-thaymata-meta-apo-30-ores-mesa-sta-halasmata/",
+          "snippet": "Επαγγελματίες διασώστες, εθελοντές, κάποιοι στρατιωτικοί, ειδικά εκπαιδευμένα σκυλιά, μηχανήματα έργου έχουν ριχτεί στα συντρίμμια και εργάζονται ασταμάτητα.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μήνυμα Τσίπρα για τα «γαλάζια» σκάνδαλα: «Ζήτημα της Δικαιοσύνης το ποιος θα καθίσει στο σκαμνί»",
+          "url": "https://www.efsyn.gr/politiki/1446234/alexis-tsipras-i-dikaiosyni-den-tha-heiragogeitai-ti-eipe-gia-skandala-kai-ekloges/",
+          "snippet": "«Σε μια δημοκρατική κυβέρνηση, η Δικαιοσύνη θα είναι ελεύθερη να αξιολογεί και να δικάζει με ανεξαρτησία και χωρίς παρεμβάσεις» τόνισε ο Αλέξης Τσίπρας στο δεύτερο μέρος της συνέντευξής του στο in.gr, διαμηνύοντας, μεταξύ άλλων, ότι «το 80% των ψηφοδελτίων μας είναι έτοιμο»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΠΑΣΟΚ: «Μεγάλη χαμένη ευκαιρία» το Ταμείο Ανάκαμψης για οικογένεια και κοινωνική πολιτική",
+          "url": "https://www.efsyn.gr/politiki/1446231/pasok-megali-hameni-eykairia-to-tameio-anakampsis-gia-oikogeneia-kai-koinoniki-politiki/",
+          "snippet": "Το έκτο σποτ της καμπάνιας εστιάζει σε κριτική για το δημογραφικό και την κοινωνική πολιτική, σχολιάζοντας έργα και στόχους που απεντάχθηκαν, διαγράφηκαν ή περιορίστηκαν κατά τις αναθεωρήσεις του «Ελλάδα 2.0»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Συνεχίζεται η ζέστη με 38άρια και ισχυρά μελτέμια στο Αιγαίο – Πτώση της θερμοκρασίας από Πέμπτη",
+          "url": "https://www.efsyn.gr/ellada/1446239/kairos-synehizetai-i-zesti-me-38aria-kai-ishyra-meltemia-sto-aigaio-ptosi-tis-thermokrasias-apo-pempti/",
+          "snippet": "Οι άνεμοι θα πνέουν από βόρειες διευθύνσεις και θα φτάσουν τα 7 μποφόρ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Marfin: Στη φυλακή η 46χρονη χωρίς στοιχεία εναντίον της – «Θα γίνει προσφυγή» λέει ο δικηγόρος της",
+          "url": "https://www.efsyn.gr/ellada/1446228/marfin-sti-fylaki-i-46hroni-ti-ypostirixe-stin-apologia-tis-i-profylakisi-einai-adiki/",
+          "snippet": "Η ανακρίτρια αποφάσισε την προφυλάκιση της 46χρονης που κατηγορείται ότι είχε υποστηρικτικό ρόλο στον εμπρησμό της 10ης Μαΐου 2010",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 12 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1446235/eortologio-poioi-giortazoyn-simera-12-aygoystoy/",
+          "snippet": "Σε ποιους λέμε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Έγραψε Ιστορία ο Τεντόγλου: Πρωταθλητής Ευρώπης για 4η συνεχή φορά",
+          "url": "https://www.efsyn.gr/athlitismos/1446214/egrapse-istoria-o-tentogloy-protathlitis-eyropis-gia-4i-synehi-fora/",
+          "snippet": "«Ήταν από τους πιο δύσκολους τελικούς που έχω κάνει», είπε ο Έλληνας πρωταθλητής του μήκους μετά το τέλος του αγώνα.",
+          "source": "EfSyn"
+        },
         {
           "title": "Εκτός Champions League ο Ολυμπιακός: Με 10 παίκτες, λύγισε στην παράταση από τη Ναϊμέγκεν [βίντεο]",
           "url": "https://www.efsyn.gr/athlitismos/1446209/ektos-champions-league-o-olympiakos-me-10-paiktes-lygise-stin-paratasi-apo-ti-naimegken/",
@@ -21,78 +93,6 @@
           "title": "Νίκη-πρόκριση για τον Παναθηναϊκό μέσα στη Βουλγαρία [βίντεο]",
           "url": "https://www.efsyn.gr/athlitismos/1446203/niki-prokrisi-gia-ton-panathinaiko-mesa-sti-voylgaria/",
           "snippet": "Σκόραρε στο ντεμπούτο του ο Λιβάι Γκαρσία, το γκολ της νίκης ο Ντέσερς στην παράταση.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ζιμπάμπουε: Φέριμποτ με 95 επιβαίνοντες ανατράπηκε μέσα σε λίμνη – Επιχείρηση διάσωσης των αγνοουμένων",
-          "url": "https://www.efsyn.gr/kosmos/1446200/zimpampoye-ferimpot-me-95-epivainontes-anatrapike-mesa-se-limni-epiheirisi-diasosis-ton-agnooymenon/",
-          "snippet": "Πλοίο που μετέφερε 95 ανθρώπους ανατράπηκε σήμερα στη λίμνη Καρίμπα, στη Ζιμπάμπουε, ανακοίνωσε η αστυνομία. Σε εξέλιξη βρίσκονται οι επιχειρήσεις διάσωσης, ενώ απροσδιόριστος είναι ο αριθμός επιβατών που έχει διασωθεί. Το πλοίο «Mbuya Nehanda», που συνδέει την πόλη της Καρίμπα μ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Champions League: Με Λέφσκι Σόφιας η ΑΕΚ στα play off",
-          "url": "https://www.efsyn.gr/athlitismos/1446198/champions-league-me-lefski-sofias-i-aek-sta-play-off/",
-          "snippet": "Ο πρώτος αγώνας θα γίνει στη Σόφια στις 18 Αυγούστου και η ρεβάνς στη Νέα Φιλαδέλφεια στις 26 Αυγούστου.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ερυθρά Θάλασσα: Τουλάχιστον έξι οι νεκροί από την επίθεση σε εμπορικό πλοίο",
-          "url": "https://www.efsyn.gr/kosmos/1446195/erythra-thalassa-toylahiston-exi-oi-nekroi-apo-tin-epithesi-se-emporiko-ploio/",
-          "snippet": "Μετά το πρώτο χτύπημα, ένα δεύτερο πλήγμα στόχευσε το πλοίο, καθώς οι διασώστες πραγματοποιούσαν επιχείρηση εκκένωσης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βίντεο – ντοκουμέντο: Η φυγάδευση του Τραμπ από την Τουρκία, κρυμμένος σε όχημα τροφοδοσίας",
-          "url": "https://www.efsyn.gr/kosmos/1446190/vinteo-ntokoymento-i-fygadeysi-toy-tramp-apo-tin-toyrkia-krymmenos-se-ohima-trofodosias/",
-          "snippet": "Στο φως έρχεται βίντεο που καταγράφει τη μυστική επιχείρηση που έλαβε χώρα για την έξοδο του Αμερικανού προέδρου Ντόναλντ Τραμπ από την Τουρκία, μετά τη Σύνοδο του ΝΑΤΟ που έγινε εκεί στις αρχές Ιουλίου. Ο Τραμπ χρησιμοποίησε μυστικά άλλο στρατιωτικό αεροσκάφος (κι όχι το Air For",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στενά του Ορμούζ: Επιμένει η Τεχεράνη στην επιβολή όρων προς τις ΗΠΑ – Σε προχωρημένες συζητήσεις Ιράν και Ομάν",
-          "url": "https://www.efsyn.gr/kosmos/1446186/stena-toy-ormoyz-epimenei-i-teherani-stin-epivoli-oron-pros-tis-ipa-se-prohorimenes-syzitiseis-iran-kai-oman/",
-          "snippet": "Οι Ηνωμένες Πολιτείες και το Ιράν είναι κοντά «σε κάποιου είδους διευθέτηση», δηλώνει ο υπουργός Άμυνας του Πακιστάν.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Χτύπημα από ΕΛΑΣ μετά το πρωτοσέλιδο της «Εφ.Συν.»: Ο Έβρος χρειάζεται ένα Masterplan που υλοποιείται",
-          "url": "https://www.efsyn.gr/politiki/1446185/htypima-apo-elas-meta-to-protoselido-tis-ef-syn-o-evros-hreiazetai-ena-masterplan-poy-ylopoieitai/",
-          "snippet": "Οκτώ κρίσιμα ερωτήματα προς την κυβέρνηση απευθύνει η ΕΛΑΣ για την ανασυγκρότηση του Έβρου, μετά από το αποκαλυπτικό δημοσίευμα της «Εφημερίδας των Συντακτών». Με ανάρτησή της η Κατερίνα Μπέρδου αναπληρώτρια τομεάρχης Άμυνας του κόμματος, με καταγωγή από τον Έβρο, υπογραμμίζει ότ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γκιντίκι: «Έχουμε ξεκάθαρη θέση για την Παλαιστίνη – Όποιος έχει πρόβλημα ας μη μας καλέσει να παίξουμε»",
-          "url": "https://www.efsyn.gr/tehnes/1446188/gkintiki-ehoyme-xekathari-thesi-gia-tin-palaistini-opoios-ehei-provlima-as-mi-mas-kalesei-na-paixoyme/",
-          "snippet": "Μια καθαρή τοποθέτηση μέσω social media έκανε η γνωστή ελληνική εναλλακτική μπάντα, με αφορμή το θέμα της Παλαιστίνης και της γενοκτονίας στη Γάζα. Το σχήμα που είναι γνωστό για τις εκρηκτικές συναυλίες του και αυτή τη στιγμή βρίσκεται σε περιοδεία στην Ελλάδα και τα Βαλκάνια δια",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης για πρωτοσέλιδο «Εφ.Συν.»: «Ούτε πόροι μειώθηκαν, ούτε ακυρώθηκε ο σχεδιασμός»",
-          "url": "https://www.efsyn.gr/ellada/1446182/perifereia-anatolikis-makedonias-kai-thrakis-gia-protoselido-ef-syn-oyte-poroi-meiothikan-oyte-akyrothike-o-shediasmos/",
-          "snippet": "«Ο συνολικός αναπτυξιακός σχεδιασμός για τον Έβρο, όχι μόνο δεν περιορίζεται, αλλά διευρύνεται σημαντικά, από τα 2,83 δισ. ευρώ του αρχικού σχεδιασμού στα 2,96 δισ. ευρώ σήμερα», αναφέρει σε ανακοίνωσή της η Περιφέρεια Ανατολικής Μακεδονίας και Θράκης, μετά το σημερινό αποκαλυπτι",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΗΠΑ: Η Ουάσινγκτον ανακοινώνει νέο κύκλο συνομιλιών μεταξύ Ισραήλ και Λιβάνου",
-          "url": "https://www.efsyn.gr/kosmos/1446177/ipa-i-oyasingkton-anakoinonei-neo-kyklo-synomilion-metaxy-israil-kai-livanoy/",
-          "snippet": "Οι Ηνωμένες Πολιτείες, διαμεσολαβήτρια χώρα, θα υποστηρίξουν ένα νέο κύκλο συνομιλιών μεταξύ του Ισραήλ και του Λιβάνου στις αρχές Σεπτεμβρίου στη Ρώμη, ανακοίνωσε σήμερα αξιωματούχος του αμερικανικού υπουργείου Εξωτερικών, εκφράζοντας «ικανοποίηση για τον τρόπο με τον οποίο εξελ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σεισμός στην Κολομβία: Ψάχνουν 3.800 αγνοούμενους στα συντρίμμια – Μαρτυρίες που συγκλονίζουν [εικόνες-βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1446164/seismos-stin-kolomvia-psahnoyn-3-8000-agnooymenoys-sta-syntrimmia-martyries-poy-sygklonizoyn-eikones-vinteo/",
-          "snippet": "Στρατιώτες, σωστικά συνεργεία και οικογένειες σκάβουν -ακόμα και με γυμνά χέρια- στα χαλάσματα, αναζητώντας επιζώντες. Κάποιοι άλλοι στέκονται κοντά, προσπαθώντας να ακούσουν ήχους χτυπημάτων ή κραυγές.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Marfin: Προσφυγή κατά της προφυλάκισης θα ασκήσει η 46χρονη – «Είμαι αθώα, δεν έχω σχέση με τα επεισόδια»",
-          "url": "https://www.efsyn.gr/ellada/1446169/marfin-prosfygi-kata-tis-profylakisis-tha-askisei-i-46hroni-eimai-athoa-den-eho-shesi-me-ta-epeisodia/",
-          "snippet": "Το σκεπτικό των δικαστών για την απόφαση περί προσωρινής κράτησης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πώς η ακρίβεια άλλαξε τις διατροφικές συνήθειες: Είδος πολυτελείας το ωμό κρέας – Στροφή στα έτοιμα και προψημένα",
-          "url": "https://www.efsyn.gr/oikonomia/1445829/pos-i-akriveia-allaxe-tis-diatrofikes-synitheies-eidos-polyteleias-to-omo-kreas-strofi-sta-etoima-kai-propsimena/",
-          "snippet": "Οι αλλαγές δεν αποτυπώνονται μόνο στη μείωση της κατανάλωσης, αλλά και στον τρόπο που ψωνίζουμε και στα προϊόντα στο καλάθι του σουπερμάρκετ",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Total Eclipse",
-          "url": "https://www.nytimes.com/2026/08/11/world/total-eclipse-trump-secret-escape.html",
-          "snippet": "If you’re in Europe, get ready to gaze at the sky. But not without the right glasses.",
+          "title": "Zambia Election: President Hichilema Faces Backlash Ahead of Vote",
+          "url": "https://www.nytimes.com/2026/08/12/world/africa/zambia-presidential-election-hichilema.html",
+          "snippet": "President Hakainde Hichilema was elected five years ago, promising to protect civil liberties in his copper-rich African nation. Now, he’s accused of trampling on them.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,18 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
-        "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
-        "snippet": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+        "title": "India’s Yulu raises $93M as quick-commerce boom fuels e-bike demand",
+        "url": "https://techcrunch.com/2026/08/11/indias-yulu-raises-93m-as-quick-commerce-boom-fuels-e-bike-demand/",
+        "snippet": "Yulu aims to have a fleet of 200,000 bikes in the next two years and faster electric two-wheelers, aiming at new logistics use cases.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+          "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+          "snippet": "Phia, the shopping startup co-founded by Phoebe Gates and Sophia Kianni, is once again under fire for its alleged business practices.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
           "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -280,12 +286,6 @@
           "url": "https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/",
           "snippet": "Block Blast!, the most downloaded mobile game of 2025, is coming to Apple Arcade in September, where it will be ad-free.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Rivian CEO RJ Scaringe is betting on EVs, robots, and autonomy all at once — he’ll explain why at Disrupt 2026",
-          "url": "https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/",
-          "snippet": "Rivian's CEO RJ Scaringe is speaking at TechCrunch Disrupt 2026 to detail his journey, and the lessons it’s bestowed.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Σάκκαρη: Η κλήρωσή της στο τουρνουά του Σινσινάτι",
-        "url": "https://www.gazzetta.gr/tennis/wta/2560728/sakkari-i-klirosi-tis-sto-toyrnoya-toy-sinsinati",
-        "snippet": "Το μονοπάτι της στο τουρνουά του Σινσινάτι έμαθε η Μαρία Σάκκαρη.",
+        "title": "Eurobasket U16: Πού θα δείτε τη «μάχη» της Εθνικής κόντρα στη Λετονία",
+        "url": "https://www.gazzetta.gr/basketball/2560749/eurobasket-u16-poy-tha-deite-ti-mahi-tis-ethnikis-kontra-sti-letonia",
+        "snippet": "Δείτε πού θα παρακολουθήσετε την αναμέτρηση της Εθνικής κόντρα στη Λετονία για τα προημιτελικά του Eurobasket U16.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Τελικός Super Cup 2026: Πού θα δείτε το ΑΕΚ - ΟΦΗ",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560748/telikos-super-cup-2026-poy-tha-deite-aek-ofi",
+          "snippet": "Η ώρα και το κανάλι μετάδοσης του αποψινού (12/8) τελικού του Super Cup ανάμεσα σε ΑΕΚ και ΟΦΗ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αγρότης πλήρωσε 2.200 δολάρια για τρακτέρ: Έξι δεκαετίες μετά ο εγγονός του το πήρε πίσω για να του δώσει μια δεύτερη ζωή",
+          "url": "https://www.gazzetta.gr/plus/2559394/agrotis-plirose-2200-dolaria-gia-trakter-exi-dekaeties-meta-o-eggonos-toy-pire-piso",
+          "snippet": "Άνδρας από το Ουισκόνσιν των ΗΠΑ κατάφερε να εντοπίσει και να αναπαλαιώσει το ιστορικό τρακτέρ του παππού του, 62 χρόνια μετά την πώλησή του.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σάκκαρη: Η κλήρωσή της στο τουρνουά του Σινσινάτι",
+          "url": "https://www.gazzetta.gr/tennis/wta/2560728/sakkari-i-klirosi-tis-sto-toyrnoya-toy-sinsinati",
+          "snippet": "Το μονοπάτι της στο τουρνουά του Σινσινάτι έμαθε η Μαρία Σάκκαρη.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Τσιτσιπάς: Γαλλικό «εμπόδιο» στην πρεμιέρα του στο Σινσινάτι",
           "url": "https://www.gazzetta.gr/tennis/atp/2560727/tsitsipas-galliko-empodio-stin-premiera-toy-sto-sinsinati",
@@ -363,24 +381,6 @@
           "title": "Παναθηναϊκός: Θρίλερ, αδυναμίες αλλά η πρόκριση είναι πρόκριση!",
           "url": "https://www.gazzetta.gr/football/europa-conference-league/2560716/panathinaikos-thriler-adynamies-alla-i-prokrisi-einai",
           "snippet": "Ο Νίκος Αθανασίου γράφει στο Gazzetta για την πρόκριση του Παναθηναϊκού επί της ΤΣΣΚΑ 1948 και την συνέχειά του στο Conference League.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ευρωπαϊκό Στίβου 2026: Η Στεφανίδη και η Αδαμοπούλου υπέροχο δίδυμο και στον τελικό",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560715/eyropaiko-stiboy-2026-i-stefanidi-kai-i",
-          "snippet": "Η Κατερίνα Στεφανίδη και η Αριάδνη Αδαμοπούλου θα είναι στον τελικό του επί κοντώ στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρέτσος: «Κατώτεροι των περιστάσεων, να σηκωθούμε όπως κάνουμε συνέχεια»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2560713/retsos-katoteroi-ton-peristaseon-na-sikothoyme-opos-kanoyme",
-          "snippet": "Οι δηλώσεις του Παναγιώτη Ρέτσου στην κάμερα του Mega μετά την ήττα του Ολυμπιακού από τη Ναϊμέγκεν.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Μια δύσκολη βραδιά στο Ναϊμέγκεν και μια δυσκολότερη επόμενη μέρα...",
-          "url": "https://www.gazzetta.gr/football/champions-league/2560712/olympiakos-mia-dyskoli-bradia-sto-naimegken-kai-mia-dyskoloteri",
-          "snippet": "Ο Ολυμπιακός έμεινε εκτός από την προοπτική του Champions League και ο Δημήτρης Τομαράς γράφει για μια βραδιά στο Ναϊμέγκεν που ξεκίνησε καλά, αλλά συνεχίστηκε και ολοκληρώθηκε με τον χειρότερο τρόπο, ενώ αναφέρεται και στην επόμενη δύσκολη μέρα!",
           "source": "Gazzetta"
         }
       ]
