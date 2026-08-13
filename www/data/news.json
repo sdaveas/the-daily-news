@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-13T16:46:13.609473+00:00",
+  "updated": "2026-08-13T20:32:38.695732+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πανικός στην Τουρκία: Φωτιά σε τουριστικό σκάφος – Πήδηξαν στη θάλασσα πάνω από 100 επιβάτες [βίντεο]",
-        "url": "https://www.efsyn.gr/kosmos/1447505/panikos-stin-toyrkia-fotia-se-toyristiko-skafos-pidixan-sti-thalassa-pano-apo-100-epivates-vinteo/",
-        "snippet": "Φωτιά που ξέσπασε σήμερα σε τουριστικό σκάφος στα ανοιχτά της νοτιοδυτικής τουρκικής παραθαλάσσιας πόλης Φέτιγιε, ανάγκασε τους 115 επιβαίνοντες, μεταξύ των οποίων παιδιά, να πηδήξουν με σωσίβια στη θάλασσα, μετέδωσαν τουρκικά μέσα ενημέρωσης. Οι εθνικότητες των επιβαινόντων δεν ",
+        "title": "Ryanair: Κομμάτι από εξάρτημα του κινητήρα η αιτία που παραλίγο να βγει επιβάτης από το παράθυρο",
+        "url": "https://www.efsyn.gr/ellada/1447589/ryanair-kommati-apo-exartima-toy-kinitira-i-aitia-poy-paraligo-na-vgei-epivatis-apo-to-parathyro/",
+        "snippet": "Φως στο τι ακριβώς συνέβη σε πτήση της Ryanair (από τη Θεσσαλονίκη, στις 10 Ιουλίου), όταν 61χρονος Σέρβος παραλίγο να χάσει τη ζωή του αφού έσπασε παράθυρο μέσα στο αεροπλάνο, ρίχνουν Αμερικανοί ερευνητές. Σύμφωνα με έκθεση της Εθνικής Επιτροπής Ασφάλειας Μεταφορών (NTSB), αιτία",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Φωτιά στη Χαλκιδική: Πυροσβέστης έπεσε από τη σκάλα ενώ επιχειρούσε σε στέγη σπιτιού [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1447498/fotia-sti-halkidiki-pyrosvestis-epese-apo-ti-skala-eno-epiheiroyse-se-stegi-spitioy-vinteo/",
-          "snippet": "Αναφορές για τραυματισμό τεσσάρων πυροσβεστών στο μεγάλο πύρινο μέτωπο.",
+          "title": "Έμπολα: Εξαπλώνεται ο φονικός ιός στη Λ.Δ. του Κονγκό – Έντονος προβληματισμός από τους επιστήμονες",
+          "url": "https://www.efsyn.gr/kosmos/1447585/empola-exaplonetai-o-fonikos-ios-sti-l-d-toy-kongko-entonos-provlimatismos-apo-toys-epistimones/",
+          "snippet": "Η επιδημία μπορεί να εξελιχθεί στη χειρότερη που έχει καταγραφεί ποτέ στα χρονικά.",
           "source": "EfSyn"
         },
         {
-          "title": "Πυρκαγιά στις Αχαρνές – Εστάλη μήνυμα από το 112 για ετοιμότητα",
-          "url": "https://www.efsyn.gr/ellada/1447499/pyrkagia-stis-aharnes-estali-minyma-apo-to-112-gia-etoimotita/",
-          "snippet": "Πυρκαγιά σε χαμηλή βλάστηση έχει ξεσπάσει κοντά στο στρατόπεδο «ΚΑΠΟΤΑ» στις Αχαρνές Αττικής. Σύμφωνα με την ενημέρωση στο σημείο έσπευσαν και επιχειρούν 73 πυροσβέστες με 3 ομαδες πεζοπόρων της 1ης ΕΜΟΔΕ και 25 οχήματα, ενώ για την αεροπυρόσβεση κινητοποιήθηκαν 2 ελικόπτερα. Στη",
+          "title": "Έξι συλλήψεις για εμπρησμούς από αμέλεια: Το πεταμένο τσιγάρο και το μαγείρεμα στην ύπαιθρο",
+          "url": "https://www.efsyn.gr/ellada/1447583/exi-syllipseis-gia-emprismoys-apo-ameleia-to-petameno-tsigaro-kai-to-mageirema-stin-ypaithro/",
+          "snippet": "Τρεις άνθρωποι έκαναν θερμές εργασίες την ώρα που ο κίνδυνος πυρκαγιάς ήταν πολύ υψηλός.",
           "source": "EfSyn"
         },
         {
-          "title": "Ιράν: Ο Τραμπ λέει ψέματα για τα Στενά του Ορμούζ – Εχουμε τον πλήρη έλεγχο",
-          "url": "https://www.efsyn.gr/kosmos/1447495/iran-o-tramp-leei-psemata-gia-ta-stena-toy-ormoyz-ehoyme-ton-pliri-elegho/",
-          "snippet": "Οι ιρανικές ένοπλες δυνάμεις στηλίτευσαν σήμερα «τα ψέματα» του προέδρου των ΗΠΑ Ντόναλντ Τραμπ, ο οποίος υποστήριξε χθες πως η χώρα του έχει τον «πλήρη» έλεγχο των στρατηγικής σημασίας Στενών του Ορμούζ. «Οι αναληθείς ισχυρισμοί των ΗΠΑ σύμφωνα με τους οποίους τα πλοία διασχίζου",
+          "title": "Προσήχθη ο οδηγός που προσπέρασε σε «τυφλή» στροφή – «Άμα είχα αυτοκίνητο, δεν θα τον απέφευγα», λέει ο μοτοσικλετιστής",
+          "url": "https://www.efsyn.gr/ellada/1447580/prosihthi-o-odigos-poy-prosperase-se-tyfli-strofi-ama-eiha-aytokinito-den-tha-ton-apefeyga-leei-o-motosikletistis/",
+          "snippet": "Σε βάρος του οδηγού του βυτιοφόρου σχηματίζεται δικογραφία για επικίνδυνη οδήγηση.",
           "source": "EfSyn"
         },
         {
-          "title": "ΣΥΡΙΖΑ: «Καμία νομιμοποίηση στις μεθοδεύσεις της Ν.Δ. για τα ιδιωτικά πανεπιστήμια»",
-          "url": "https://www.efsyn.gr/politiki/1447491/syriza-kamia-nomimopoiisi-stis-methodeyseis-tis-n-d-gia-ta-idiotika-panepistimia/",
-          "snippet": "«Ο νόμος Πιερρακάκη πρέπει να καταργηθεί» υπογραμμίζει ο ΣΥΡΙΖΑ σε ανακοίνωσή του σχετικά με την απόφαση του ΣτΕ να ακυρώσει τις άδειες για τρία ιδιωτικά πανεπιστήμια. Η Κουμουνδούρου σημειώνει ότι η απόφαση εκθέτει τον κυβερνητικό σχεδιασμό της Ν.Δ. και καταγγέλλει ότι «η κυβέρν",
+          "title": "Ολυμπιακός: Στα «ερυθρόλευκα» ο Εντιαγέ",
+          "url": "https://www.efsyn.gr/athlitismos/1447571/olympiakos-sta-erythroleyka-o-entiage/",
+          "snippet": "Και με τη&#8230; βούλα παίκτης του Ολυμπιακού είναι ο Εμπαγέ Εντιαγέ, καθώς η «ερυθρόλευκη» ΚΑΕ γνωστοποίησε την απόκτηση του Σενεγαλέζου φόργουορντ για δύο χρόνια. Ο 27χρονος άσος αγωνιζόταν την τελευταία τριετία στη γαλλική Βιλερμπάν και μπορεί να παίξει τόσο στη θέση «3», όσο ",
           "source": "EfSyn"
         },
         {
-          "title": "Θεσσαλονίκη: Νεκρός 79χρονος λουόμενος στην παραλία της Νέας Μηχανιώνας",
-          "url": "https://www.efsyn.gr/ellada/1447493/thessaloniki-nekros-79hronos-loyomenos-stin-paralia-tis-neas-mihanionas/",
-          "snippet": "Χωρίς τις αισθήσεις του ανασύρθηκε, το απόγευμα της Τετάρτης, από τη θαλάσσια περιοχή της παραλίας Νέας Μηχανιώνας. άνδρας 79 ετών. Στον άνδρα αρχικά παρασχέθηκαν οι πρώτες βοήθειες και πραγματοποιήθηκαν προσπάθειες ανάνηψης, με αρνητικά αποτελέσματα. Στη συνέχεια, ο 79χρονος δια",
+          "title": "Νύχτα αγωνίας στο πύρινο μέτωπο της Χαλκιδικής: Εικόνες καταστροφής, ζημιές σε σπίτια και δραματικοί απεγκλωβισμοί [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1447501/halkidiki-nyhta-agonias-sta-pyrina-metopa-terastia-idi-i-katastrofi-eikones-vinteo/",
+          "snippet": "Κάηκαν σπίτια και οχήματα, απεγκλωβίστηκαν διά θαλάσσης εκατοντάδες κάτοικοι και παραθεριστές • Στο νοσοκομείο δύο πυροσβέστες, ζημιές σε υποδομές.",
           "source": "EfSyn"
         },
         {
-          "title": "ΠΑΣΟΚ: Καταρρέει ο νόμος Πιερρακάκη για τα μη κρατικά πανεπιστήμια – Εκτεθειμένη η κυβέρνηση",
-          "url": "https://www.efsyn.gr/politiki/1447487/pasok-katarreei-o-nomos-pierrakaki-gia-ta-mi-kratika-panepistimia-ektetheimeni-i-kyvernisi/",
-          "snippet": "Με αυστηρή κριτική στη κυβέρνηση σχολίασε το ΠΑΣΟΚ-Κίνημα Αλλαγής την απόφαση του ΣτΕ για την ακύρωση τριών αδειών λειτουργίας μη κρατικών πανεπιστημίωνμη κρατικών πανεπιστημίων. Ο Στέφανος Παραστατίδης, υπεύθυνος του ΚΤΕ Παιδείας, σχολίασε σε δήλωσή του πώς «η πολιτική επιλογή τ",
+          "title": "Ήττα Τραμπ στην αγωγή κατά του Χάρβαρντ: Δικαστής απέρριψε τις αιτιάσεις για ανοχή στον αντισημιτισμό",
+          "url": "https://www.efsyn.gr/kosmos/1447543/itta-tramp-stin-agogi-kata-toy-harvarnt-dikastis-aperripse-tis-aitiaseis-gia-anohi-ston-antisimitismo/",
+          "snippet": "Ομοσπονδιακός δικαστής απέρριψε σήμερα την αγωγή που είχε καταθέσει η διοίκηση του προέδρου Ντόναλντ Τραμπ σε βάρος του πανεπιστημίου Χάρβαρντ, στη σκιά των μεγάλων διαδηλώσεων υπέρ της Παλαιστίνης και κατά της γενοκτονίας στη Γάζα. Ο Αμερικανός πρόεδρος είχε τότε κατηγορήσει το ",
           "source": "EfSyn"
         },
         {
-          "title": "Χαλκιδική: Συγκλονιστικές εικόνες από τους απεγκλωβισμούς πολιτών με πλοία του Λιμενικού και ιδιωτικά σκάφη [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1447482/halkidiki-sygklonistikes-eikones-apo-toys-apegklovismoys-politon-me-ploia-toy-limenikoy-kai-idiotika-skafi-vinteo/",
-          "snippet": "Στο κόκκινο η αγωνία στην περιοχή Σίβηρη της Χαλκιδικής, εκεί όπου από νωρίς το μεσημέρι της Πέμπτης καίει ανεξέλεγκτη η μεγάλη πυρκαγιά. Διαβάστε live ΕΔΩ όλες τις εξελίξεις από το μέτωπο. Μετά από το μπαράζ μηνυμάτων του 112 για εκκένωση, ξεκίνησαν επιχειρήσεις απεγκλωβισμού πο",
+          "title": "Συγκλονιστικό βίντεο από τη Χαλκιδική: Κατέρρευσε πυροσβέστης, λιμενικός του έδωσε τις πρώτες βοήθειες",
+          "url": "https://www.efsyn.gr/ellada/1447539/sygklonistiko-vinteo-apo-ti-halkidiki-katerreyse-pyrosvestis-limenikos-toy-edose-tis-protes-voitheies/",
+          "snippet": "Δυνατές εικόνες από τη μάχη με τις φλόγες στη Χαλκιδική, όταν ένας πυροσβέστης έχασε τις αισθήσεις του κι έπεσε πάνω στην αμμουδιά. Αμέσως ένας άνδρας του Λιμενικού έσπευσε στο πλευρό του, τον τράβηξε στη στεριά και του έδωσε τις πρώτες βοήθειες. Το περιστατικό είναι ενδεικτικό τ",
           "source": "EfSyn"
         },
         {
-          "title": "Politico: Οι τρεις παράγοντες που μπλοκάρουν τα ουκρανικά σιτηρά – «Άσχημα νέα για τις παγκόσμιες τιμές τροφίμων»",
-          "url": "https://www.efsyn.gr/kosmos/1447452/politico-oi-treis-paragontes-poy-mplokaroyn-ta-oykranika-sitira-ashima-nea-gia-tis-pagkosmies-times-trofimon/",
-          "snippet": "«Αν συνεχίσουμε έτσι, θα δούμε ξανά μια παγκόσμια αύξηση των τιμών τουλάχιστον κατά 25-30%, με όλες τις συνέπειες που είχαμε το 2022».",
+          "title": "Σκιάθος: Δεύτερος τραυματισμός τουρίστριας από ρεύμα αέρα αεροπλάνου",
+          "url": "https://www.efsyn.gr/ellada/1447523/skiathos-deyteros-traymatismos-toyristrias-apo-reyma-aera-aeroplanoy/",
+          "snippet": "Μια 50χρονη Ιταλία κατέληξε στο νοσοκομείο με σοβαρό κάταγμα στο χέρι, καθώς τραυματίστηκε το μεσημέρι της Παρασκευής ξανά στη Σκιάθο. Η γυναίκα παρασύρθηκε από ισχυρό ρεύμα αέρα που προκάλεσε τουρμπίνα αεροπλάνου κατά τη διάρκεια της απογείωσης. Η τουρίστρια βρέθηκε στη δίνη του",
           "source": "EfSyn"
         },
         {
-          "title": "Ιδιωτικά πανεπιστήμια: Πώς σχολιάζει το υπουργείο Παιδείας την απόφαση του ΣτΕ – «Δεν χάνεται το έτος»",
-          "url": "https://www.efsyn.gr/politiki/1447463/idiotika-panepistimia-pos-sholiazei-to-ypoyrgeio-paideias-tin-apofasi-toy-ste-den-hanetai-to-etos/",
-          "snippet": "«Οι πλημμέλειες που εντοπίζονται από το Δικαστήριο δεν αφορούν τον ν. 5094/2024, αλλά επιμέρους ζητήματα διοικητικής διαδικασίας», αναφέρεται σε ανακοίνωση.",
+          "title": "Βραχνάς η ανεργία στους νέους: Οι κάτω των 30 ετών αντιμετωπίζουν μεγαλύτερες δυσκολίες στην εύρεση αξιοπρεπούς εργασίας",
+          "url": "https://www.efsyn.gr/oikonomia/1447205/vrahnas-i-anergia-stoys-neoys-oi-kato-ton-30-eton-antimetopizoyn-megalyteres-dyskolies-stin-eyresi-axioprepoys-ergasias/",
+          "snippet": "Οι άνθρωποι κάτω των 30 ετών αντιμετωπίζουν μεγαλύτερες δυσκολίες στην εύρεση αξιοπρεπούς εργασίας στη Δύση ● Πολύ λίγες αξιοπρεπείς θέσεις εργασίας στις αναπτυσσόμενες οικονομίες, όπου ελάχιστοι αντέχουν να μείνουν χωρίς δουλειά",
           "source": "EfSyn"
         },
         {
-          "title": "Τι ισχύει για το IRIS και το χαρτζιλίκι: Διευκρινίσεις από την ΑΑΔΕ για τη φορολογία",
-          "url": "https://www.efsyn.gr/oikonomia/1447465/ti-ishyei-gia-to-iris-kai-to-hartziliki-dieykriniseis-apo-tin-aade-gia-ti-forologia/",
-          "snippet": "Ποια ποσά δεν αποτελούν αντικείμενο ιδιαίτερου φορολογικού ελέγχου.",
+          "title": "Πειθαρχικές διαδικασίες με τα σχολεία κλειστά: Διώξεις εκπαιδευτικών μεσούντος του Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1447252/peitharhikes-diadikasies-me-sholeia-kleista-kai-ergazomenoys-se-diakopes-dioxeis-ekpaideytikon-mesoyntos-toy-aygoystoy/",
+          "snippet": "Ενώ τα σχολεία είναι κλειστά και οι καθηγητές περιμένουν τη νέα χρονιά, οι πειθαρχικές διαδικασίες συνεχίζονται ● Στο επίκεντρο πέντε συνδικαλιστές της ΕΛΜΕ Πειραιά για συμμετοχή σε κινητοποίηση το 2023",
           "source": "EfSyn"
         },
         {
-          "title": "Ταυτοποιήθηκε ο οδηγός του βυτιοφόρου που έκανε την προσπέραση σε «τυφλή» στροφή [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1447461/taytopoiithike-o-odigos-toy-vytioforoy-poy-ekane-tin-prosperasi-se-tyfli-strofi-vinteo/",
-          "snippet": "Η επικίνδυνη προσπέραση που καταγράφηκε από κάμερα μοτοσικλετιστή.",
+          "title": "Μόλις το 24% των πόρων του ΕΣΠΑ φτάνει στους πολίτες!",
+          "url": "https://www.efsyn.gr/oikonomia/1447211/molis-to-24-ton-poron-toy-espa-ftanei-stoys-polites/",
+          "snippet": "Εξαιρετικά χαμηλό είναι το ποσοστό των χρημάτων από τα Ταμεία Συνοχής που φτάνει στους τελικούς αποδέκτες των προγραμμάτων",
           "source": "EfSyn"
         },
         {
-          "title": "Πυρκαγιά στη Χαλκιδική: Τραυματίστηκε πυροσβέστης – Μεταφέρεται στο νοσοκομείο",
-          "url": "https://www.efsyn.gr/ellada/1447458/pyrkagia-sti-halkidiki-traymatistike-pyrosvestis-metaferetai-sto-nosokomeio/",
-          "snippet": "Ένας πυροσβέστης τραυματίστηκε στα κάτω άκρα κατά την επιχείρηση κατάσβεσης της μεγάλης πυρκαγιάς στη Χαλκιδική. Δείτε live όλες τις εξελίξεις από το πύρινο μέτωπο ΕΔΩ. Ο πυροσβέστης, σύμφωνα με πληροφορίες, μεταφέρεται σε νοσοκομείο με ασθενοφόρο του ΕΚΑΒ. Σημειώνεται ότι το ΕΚΑ",
+          "title": "Ακυρώνεται η συναυλία του Σωκράτη Μάλαμα στη Σίβηρη λόγω της μεγάλης πυρκαγιάς – Η ανακοίνωση του καλλιτέχνη",
+          "url": "https://www.efsyn.gr/tehnes/1447529/akyronetai-i-synaylia-toy-sokrati-malama-sti-siviri-logo-tis-megalis-pyrkagias-i-anakoinosi-toy-kallitehni/",
+          "snippet": "Δεν θα πραγματοποιηθεί η προγραμματισμένη για τις 14 Αυγούστου συναυλία του Σωκράτη Μάλαμα στη Σίβηρη της Χαλκιδικής. Η μεγάλη πυρκαγιά που κατακαίει από το μεσημέρι της Πέμπτης δοκιμάζει την ευρύτερη περιοχή και για λόγους ασφαλείας αποφασίστηκε να μην πραγματοποιηθεί η αυριανή ",
           "source": "EfSyn"
         },
         {
-          "title": "LIVE: Πύρινος εφιάλτης στη Χαλκιδική – Τραυματίστηκαν πυροσβέστες, απεγκλωβισμός κατοίκων από τη θάλασσα [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1447445/live-dramatikes-stigmes-logo-tis-megalis-fotias-sti-halkidiki-kaikan-spitia-mparaz-ekkenoseon-me-112-vinteo/",
-          "snippet": "Το μέτωπο εκτείνεται στα τρία χιλιόμετρα, οι φλόγες έφτασαν στα πρώτα σπίτια • Από τη θάλασσα με πλωτά μέσα απομακρύνονται κάτοικοι • Ζωντανή ενημέρωση με όλες τις εξελίξεις.",
+          "title": "Σοβαρή καταγγελία στην Άρτα: Το ασθενοφόρο δεν είναι ταξί",
+          "url": "https://www.efsyn.gr/ellada/1447231/sovari-kataggelia-stin-arta-to-asthenoforo-den-einai-taxi/",
+          "snippet": "Αρτα: καταγγελία της Ενωσης Ιατρών Νοσοκομείου Ηπείρου για μεταφορά εμφραγματία και άλλου καρδιολογικού ασθενούς στο ίδιο νοσοκομειακό όχημα συνοδεία ειδικευόμενης παιδιάτρου (!)",
           "source": "EfSyn"
         },
         {
-          "title": "Νέος εκπρόσωπος του υπουργείου Εξωτερικών ο Παναγιώτης Γιαννακούλιας",
-          "url": "https://www.efsyn.gr/politiki/1447446/neos-ekprosopos-toy-ypoyrgeioy-exoterikon-o-panagiotis-giannakoylias/",
-          "snippet": "Καθήκοντα εκπροσώπου του υπουργείου Εξωτερικών αναλαμβάνει από σήμερα, Πέμπτη 13 Αυγούστου, ο Παναγιώτης Γιαννακούλιας, σύμβουλος πρεσβείας Α&#8217;, με απόφαση του υπουργού Εξωτερικών Γιώργου Γεραπετρίτη. Ο κ. Γιαννακούλιας διαδέχεται στη θέση τη Λάνα Ζωχιού, η οποία ολοκληρώνει",
+          "title": "Πυρκαγιά στη Χαλκιδική: Τηλεοπτικό συνεργείο του Mega δέχθηκε επίθεση – «Μας έβρισαν, μας έφτυσαν, μας χτύπησαν»",
+          "url": "https://www.efsyn.gr/ellada/1447520/pyrkagia-sti-halkidiki-tileoptiko-synergeio-toy-mega-dehthike-epithesi-mas-evrisan-mas-eftysan-mas-htypisan/",
+          "snippet": "Ένα πρωτοφανές βίαιο σκηνικό κατήγγειλε η δημοσιογράφος του Mega Μαρία Γουγουτσά, η οποία βρίσκεται στο πύρινο μέτωπο της Χαλκιδικής και καλύπτει της εξελίξεις. Η δημοσιογράφος ανέφερε ότι κάτοικοι της περιοχής απαίτησαν από το τηλεοπτικό συνεργείο να αποχωρήσει, ενώ ανέφερε ότι ",
           "source": "EfSyn"
         }
       ]
@@ -114,15 +114,21 @@
           "source": "NYT World"
         },
         {
-          "title": "How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland",
+          "title": "How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland",
           "url": "https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html",
           "snippet": "A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.",
           "source": "NYT World"
         },
         {
-          "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
-          "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
-          "snippet": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+          "title": "Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake",
+          "url": "https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html",
+          "snippet": "Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Israeli Settlers Resume West Bank Siege After Eviction",
+          "url": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
+          "snippet": "The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
           "source": "NYT World"
         },
         {
@@ -135,6 +141,18 @@
           "title": "The Man on a Mission to Build India’s Most Livable City",
           "url": "https://www.nytimes.com/2026/08/13/world/asia/one-mans-quest-to-build-indias-most-livable-city.html",
           "snippet": "The chief minister of Andhra Pradesh has 25,000 workers building his dream capital with waterways, bike lanes and a “Quantum Valley” tech hub.",
+          "source": "NYT World"
+        },
+        {
+          "title": "How China Remembers Zhu Rongji, the Premier Who Spoke His Mind",
+          "url": "https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html",
+          "snippet": "Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
+          "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
+          "snippet": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.",
           "source": "NYT World"
         },
         {
@@ -168,27 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Ecuadorean Fishing Boats Hit by Mystery Attackers",
-          "url": "https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html",
-          "snippet": "Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.",
-          "source": "NYT World"
-        },
-        {
-          "title": "How Nigel Farage Ended Up Running Against Count Binface in Clacton",
-          "url": "https://www.nytimes.com/2026/08/12/world/europe/count-binface-nigel-farage-clacton.html",
-          "snippet": "Nigel Farage forced a new election in his parliamentary seat after coming under pressure over his finances. His main challenger is Count Binface, a novelty candidate.",
-          "source": "NYT World"
-        },
-        {
-          "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-          "url": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
-          "snippet": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Train Derails in Southern England",
-          "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-          "snippet": "Emergency services said they were working at the scene of a train derailment near Lewes, in East Sussex, on Thursday.",
+          "title": "Electric Thrills",
+          "url": "https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html",
+          "snippet": "Electric motorcycle sales are surging in Pakistan, as wartime prices accelerate the pivot away from fossil fuels in the developing world.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
-        "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
-        "snippet": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+        "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+          "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+          "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "IBM partners with OpenAI to bolster enterprise AI push",
+          "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+          "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+          "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+          "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI hires new CRO as executive shake-up continues",
+          "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+          "snippet": "Dali Rajic will take over as OpenAI's top salesperson.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Ford on track to complete $2B factory overhaul for Fathom EV truck",
+          "url": "https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/",
+          "snippet": "Ford expects to begin prototype builds of the Fathom EV in the first quarter of 2027.",
+          "source": "TechCrunch"
+        },
         {
           "title": "X open sources its ranking algorithm, letting users see if they’ve been ‘shadowbanned’",
           "url": "https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
           "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "AI nuclear power firm Fermi finally has a new CEO",
-          "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
-          "snippet": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
-          "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
-          "snippet": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-          "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
-          "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
-          "snippet": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-          "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-          "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Γουέστμπρουκ: Υποψήφιος για το Hall of Fame του 2029",
-        "url": "https://www.gazzetta.gr/basketball/nba/2561127/goyestmproyk-ypopsifios-gia-hall-fame-toy-2029",
-        "snippet": "Ο Ράσελ Γουέστμπρουκ έβαλε τέλος σε μια μεγαλειώδη καριέρα στον «μαγικό κόσμο του NBA» και πλέον είναι υποψήφιος για το Hall of Fame του 2029.",
+        "title": "Άντερλεχτ - ΠΑΟΚ: Ένταση με Ζίβκοβιτς και Μπιανκόν και αποβολή του Σέρβου μετά το 3-2 του Γερεμέγεφ",
+        "url": "https://www.gazzetta.gr/football/europa-league/2561176/anterleht-paok-entasi-me-zibkobits-kai-mpiankon-kai-apoboli-toy",
+        "snippet": "Στο 89' ο ΠΑΟΚ μείωσε σε 3-2 με εύστοχο πέναλτι του Γερεμέγεφ, αλλά αμέσως μετά ο Αντρίγια Ζίβκοβιτς είδε την κόκκινη κάρτα.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Άρης: Διαπραγματεύεται την αγορά του Κριστιάν Μακούν",
-          "url": "https://www.gazzetta.gr/football/superleague/2561126/aris-diapragmateyetai-tin-agora-toy-kristian-makoyn",
-          "snippet": "Ο Άρης πλησιάζει στην απόκτηση κεντρικού αμυντικού και θέλει τον 26χρονο Κριστιάν Μακούν από τη Βενεζουέλα ο οποίος έχει βελγικο διαβατήριο.",
+          "title": "Αντερλεχτ – ΠΑΟΚ 3-2: Κατώτερος της περίστασης και... ρέστα Ευρώπης μέσω Μπραν!",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561175/anterleht-paok-3-2-katoteros-tis-peristasis-kai-resta-eyropis-meso",
+          "snippet": "Ο ΠΑΟΚ στις Βρυξέλλες έκανε το ένα λάθος μετά το άλλο, έδωσε γκολ-δώρα και μοιραία αποχαιρέτισε το Europa League με μια 2η ήττα από την Αντερλεχτ (3-2). Στα play offs του Conference League κόντρα στη Μπραν θα παίξουν οι Θεσσαλονικείς την ευρωπαϊκή τους επιβίωση! Κόκκινες στο φινά",
           "source": "Gazzetta"
         },
         {
-          "title": "Απόλλων Σμύρνης: Ανακοίνωσε την απόκτηση του Μπερδέ",
-          "url": "https://www.gazzetta.gr/polo/a1-andron/2561124/apollon-smyrnis-anakoinose-tin-apoktisi-toy-mperde",
-          "snippet": "Ο Απόλλων Σμύρνης ανακοίνωσε την απόκτηση του τερματοφύλακα, Δημήτρη Μπερδέ, υπογράφοντας μαζί του μονοετές συμβόλαιο.",
+          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Καμαρά που ακυρώθηκε μέσω VAR",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561173/anterleht-paok-gkol-toy-kamara-poy-akyrothike-meso-var",
+          "snippet": "Στο 73' ο ΠΑΟΚ σκόραρε με τον Μαντί Καμαρά, αλλά το γκολ δεν μέτρησε μετά από τον έλεγχο του VAR για οφσάιντ στον Γερεμέγεφ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παρί Σεν Ζερμέν-Άστον Βίλα: Ο διαιτητής που δεν πήγε στο Μουντιάλ",
-          "url": "https://www.gazzetta.gr/football/2561122/pari-sen-zermen-aston-bila-o-diaititis-poy-den-pige-sto-moyntial",
-          "snippet": "Ο Ομάρ Αρτάν ήταν ο άρχων του αγώνα στον τελικό του UEFA Super Cup ανάμεσα στη Παρί Σεν Ζερμέν και την Άστον Βίλα ως μια αναγνώριση στην αδικία της μη συμμετοχής στο Μουντιάλ.",
+          "title": "Ντουράντ για Γουέστμπρουκ: «Ό,τι κι αν συμβεί, κανείς δεν μπορεί να διαγράψει αυτό που ζήσαμε»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2561172/ntoyrant-gia-goyestmproyk-oti-ki-symbei-kaneis-den-mporei-na-diagrapsei-ayto",
+          "snippet": "Ο Κέβιν Ντουράντ είπε το δικό του «αντίο» στον Ράσελ Γουέστμπρουκ από το NBA, ο οποίος αποφάσισε να ρίξει τους τίτλους τέλους στην καριέρα του.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μάρκο Πετσάρσκι: Βρήκε την επόμενη ομάδα του μετά την ΑΕΚ",
-          "url": "https://www.gazzetta.gr/basketball/mpasket-toyrkia/2561121/marko-petsarski-brike-tin-epomeni-omada-toy-meta-tin-aek",
-          "snippet": "Μετά τη σεζόν του στην ΑΕΚ, ο Μάρκο Πετσάρσκι βρήκε τον επόμενο σταθμό της καριέρας του επιστρέφοντας σε... γνώριμα αποδυτήρια.",
+          "title": "Το μυστήριο του «σκοτεινού οξυγόνου» επανέρχεται: 11.000 μέτρα κάτω από τη θάλασσα οι επιστήμονες ψάχνουν την απάντηση",
+          "url": "https://www.gazzetta.gr/plus/2561171/mystirio-toy-skoteinoy-oxygonoy-epanerhetai-11000-metra-kato-apo-ti-thalassa-oi",
+          "snippet": "Το οξυγόνο που εντοπίστηκε 4.000 μέτρα κάτω από την επιφάνεια προκάλεσε επιστημονική διαμάχη και τώρα μια νέα αποστολή επιχειρεί να δώσει οριστική απάντηση.",
           "source": "Gazzetta"
         },
         {
-          "title": "Θυελλώδεις άνεμοι έως την Κυριακή: Σε ποιες περιοχές θα ξεπεράσουν τα 100 χλμ./ώρα οι ριπές",
-          "url": "https://www.gazzetta.gr/plus/2561120/thyellodeis-anemoi-eos-tin-kyriaki-se-poies-periohes-tha-xeperasoyn-ta-100-hlmora-oi",
-          "snippet": "Σε επιφυλακή βρίσκονται οι Αρχές για τους ισχυρούς ανέμους που αυξάνουν και τον κίνδυνο εκδήλωσης και γρήγορης εξάπλωσης πυρκαγιών.",
+          "title": "ΟΦΗ: Οι ημερομηνίες των αγώνων με την ΤΣΣΚΑ Σόφιας",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561170/ofi-oi-imerominies-ton-agonon-me-tin-tsska-sofias",
+          "snippet": "Ο ΟΦΗ θα αντιμετωπίσει την ΤΣΣΚΑ Σόφιας, η οποία απέκλεισε τη Μακάμπι Τελ Αβίβ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Την Παρασκευή το ραντεβού των Μαρινάκη - Μεντιλίμπαρ",
-          "url": "https://www.gazzetta.gr/football/superleague/2561119/olympiakos-tin-paraskeyi-ranteboy-ton-marinaki-mentilimpar",
-          "snippet": "Το ραντεβού των Βαγγέλη Μαρινάκη και Χοσέ Λουίς Μεντιλίμπαρ θα γίνει την Παρασκευή και από αυτό θα προκύψουν οι πλέον κρίσιμες αποφάσεις.",
+          "title": "ΤΣΣΚΑ Σόφιας: Οι Βούλγαροι στον δρόμο του ΟΦΗ",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2561169/tsska-sofias-oi-boylgaroi-ston-dromo-toy-ofi",
+          "snippet": "Η ΤΣΣΚΑ Σόφιας είναι το εμπόδιο του ΟΦΗ προκειμένου να βρεθεί στη League Phase του Europa League.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Μας έδιωξαν κλωτσηδόν»: Επίθεση σε συνεργείο του MEGA που καλύπτει τη φωτιά στη Χαλκιδική",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Φορώντας ένα μαύρο μπικίνι, η Ναταλία Δραγούμη πόζαρε μπροστά στον καθρέφτη της και μοιράστηκε τις φωτογραφίες με τους ακόλουθούς της στο Instagram.",
+          "title": "ΟΦΗ: Ηττήθηκε, αγχώθηκε, αλλά... προκρίθηκε η ΤΣΣΚΑ Σόφιας!",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2561168/ofi-aghothike-ittithike-alla-prokrithike-i-tsska-sofias",
+          "snippet": "Η ΤΣΣΚΑ γνώρισε την ήττα 3-1 από τη Μακάμπι Τελ Αβίβ στη Σόφια, αλλά η μεγάλη εκτός έδρας νίκη στη Γεωργία την έστειλε στα Playoffs και απέναντι στον ΟΦΗ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Σερβία: Ποιοι διεθνείς δεν πήραν το «OK» των ομάδων τους",
-          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2561118/serbia-poioi-diethneis-den-piran-ok-ton-omadon-toys",
-          "snippet": "Η Σερβία θα αγωνιστεί στα παράθυρα του Αυγούστου με αρκετές απουσίες εξαιτίας του «βέτο» που άσκησαν αρκετές ομάδες ως προς τη συμμετοχή των παικτών τους με το εθνόσημο.",
+          "title": "Άντερλεχτ - ΠΑΟΚ: Φοβερό γκολ των Βέλγων στο 3-1 αλλά με αδράνεια της άμυνας",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561166/anterleht-paok-fobero-gkol-ton-belgon-sto-3-1-alla-me-adraneia-tis",
+          "snippet": "Στο 55ο λεπτό η άμυνα του ΠΑΟΚ αντέδρασε κάκιστα και ο Σίκαν με εξαιρετικό σουτ με φάλτσο έκανε το 3-1 για την Άντερλεχτ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λεσόρ: Κάνει ατομικές και... μετράει αντίστροφα για την προετοιμασία του Παναθηναϊκού",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2561115/lesor-kanei-atomikes-kai-metraei-antistrofa-gia-tin-proetoimasia-toy",
-          "snippet": "Ο Ματίας Λεσόρ έχει ξεκινήσει ήδη την... δική του προετοιμασία πριν από την «πρώτη» του Παναθηναϊκού ενόψει της νέας σεζόν.",
+          "title": "Η Σάρα Κούρτις back to back στα παγκόσμιο ρεκόρ στα 50μ. ύπτιο στο Παρίσι",
+          "url": "https://www.gazzetta.gr/kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2561165/i-sara-koyrtis-back-back-sta-pagkosmio-rekor",
+          "snippet": "Η 19χρονη Ιταλίδα, Σάρα Κούρτις έγινε πρωταθλήτρια Ευρώπης στα 50μ. ύπτιο με παγκόσμιο ρεκόρ στα 26.56, βελτιώνοντας το παγκόσμιο ρεκόρ (26.63) που είχε πετύχει στον ημιτελικό.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπεσίκτας: Ανακοίνωσε τον Ντούσαν Βλάχοβιτς",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2561114/mpesiktas-anakoinose-ton-ntoysan-blahobits",
-          "snippet": "Η Μπεσίκτας έκανε μια από τις μεταγραφές της χρονιάς στη Τουρκία, ανακοινώνοντας επίσημα τον Ντούσαν Βλάχοβιτς.",
+          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Αμπρος για το 2-1",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561164/anterleht-paok-gkol-toy-ampros-gia-2-1",
+          "snippet": "Στο 47' η Άντερλεχτ πήρε ξανά κεφάλι στο σκορ απέναντι στον ΠΑΟΚ με σκόρερ τον Άμπρος.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χάαλαντ με… άρωμα καρτέλ: Το πρόσωπό του σε φορτίο κοκαΐνης",
-          "url": "https://www.gazzetta.gr/football/premier-league/2561113/haalant-me-aroma-kartel-prosopo-toy-se-fortio-kokainis",
-          "snippet": "Στα χέρια των αρχών του Ισημερινού έπεσε φορτηγό που μετέφερε σχεδόν μισό τόνο κοκαΐνης, με τα πακέτα της να φέρουν πάνω τους το πρόσωπο του Έρλινγκ Χάαλαντ.",
+          "title": "Λέικερς: Στο στόχαστρο ο Κρις Πολ για την ανάληψη ρόλου στην ομάδα",
+          "url": "https://www.gazzetta.gr/basketball/nba/2561162/leikers-sto-stohastro-o-kris-pol-gia-tin-analipsi-roloy-stin-omada",
+          "snippet": "Σύμφωνα με τη Ραμόνα Σέλμπερν του ESPN, οι Λος Άντζελες Λέικερς είναι πολύ πιθανό να προτείνουν στον Κρις Πολ την ανάληψη ρόλου στον οργανισμό.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γουέστμπρουκ: Η ζωή και η καριέρα του Mr. Triple-Double",
-          "url": "https://www.gazzetta.gr/basketball/nba/2561110/goyestmproyk-i-zoi-kai-i-kariera-toy-mr-triple-double",
-          "snippet": "Η διαδρομή του Ράσελ Γουέστμπρουκ από τα παιδικά χρόνια και τα πρώτα του βήματα στο μπάσκετ, έως την παγκόσμια καταξίωση στα παρκέ του NBA και τη ζωή που ονειρεύτηκε.",
+          "title": "Κλήρωση Τζόκερ 13/8: Οι τυχεροί αριθμοί που κερδίζουν 3,3 εκατ. ευρώ",
+          "url": "https://www.gazzetta.gr/plus/2561163/klirosi-tzoker-138-oi-tyheroi-arithmoi-poy-kerdizoyn-33-ekat-eyro",
+          "snippet": "Oι τυχεροί αριθμοί στη σημερινή (13/08) κλήρωση του Τζόκερ, που μοιράζει τουλάχιστον 3.300.000 ευρώ στην πρώτη κατηγορία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Έχασε το Rolex του πριν 30 χρόνια σε μια λίμνη: Έχει κάνει πάνω από 50 καταδύσεις για να το βρει",
-          "url": "https://www.gazzetta.gr/plus/2561112/ehase-rolex-toy-prin-30-hronia-se-mia-limni-ehei-kanei-pano-apo-50-katadyseis-gia-na",
-          "snippet": "Αγόρασε το Rolex με όλες του τις οικονομίες και όταν το έχασε στη λίμνη άρχισε μια αναζήτηση που συνεχίζεται μέχρι σήμερα.",
+          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Ζίβκοβιτς για το 1-1",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561160/anterleht-paok-gkol-toy-zibkobits-gia-1-1",
+          "snippet": "Στο 34' ο ΠΑΟΚ έφερε το παιχνίδι του Κονστάντ Βάντεν Στοκ στα ίσια με σκόρερ τον Αντρίγια Ζίβκοβιτς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η Όντρεϊ Βερό από την πτώση και τον αποκλεισμό, στον τελικό των 800μ. στο ευρωπαϊκό",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561111/i-ontrei-bero-apo-tin-ptosi-kai-ton-apokleismo",
-          "snippet": "Η πτώση της Όντρεϊ Βερό στα ημιτελικά των 800μ. και η απόφαση τελικά να τρέξει στον τελικό των 800μ. είναι ήδη ένα από τα highlight του ευρωπαϊκού πρωταθλήματος στο Μπέρμιγχαμ.",
+          "title": "Αντετοκούνμπο: Τότε επιστρέφει στο Μιλγουόκι ως αντίπαλος των Μπακς",
+          "url": "https://www.gazzetta.gr/basketball/nba/2561161/antetokoynmpo-tote-epistrefei-o-antetokoynmpo-sto-milgoyoki-os-antipalos",
+          "snippet": "Το NBA ανακοίνωσε το πλήρες πρόγραμμα του NBA και έγινε γνωστή και η ημερομηνία που ο Γιάννης Αντετοκούνμπο θα επιστρέψει ως αντίπαλος των Μπακς στο Μιλγουόκι.",
           "source": "Gazzetta"
         }
       ]
@@ -395,6 +395,18 @@
         "source": "NYT Arts"
       },
       "items": [
+        {
+          "title": "This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.",
+          "url": "https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html",
+          "snippet": "California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.",
+          "source": "NYT Science"
+        },
+        {
+          "title": "Kennedy Center Board Decides to Inscribe Trump’s Name on Building",
+          "url": "https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html",
+          "snippet": "The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.",
+          "source": "NYT Arts"
+        },
         {
           "title": "Telescope Spots Two Black Holes on the Cusp of Merging",
           "url": "https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html",
@@ -444,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
+          "title": "Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired",
           "url": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
-          "snippet": "A medical issue during Mr. Fincke’s fourth space journey resulted in an early medical evacuation, the first ever from the International Space Station.",
+          "snippet": "Mike Fincke spent 459 days in space across four missions, the fourth most time of any NASA astronaut.",
           "source": "NYT Science"
         },
         {
@@ -465,18 +477,6 @@
           "title": "A Print Maestro With a Birdwatcher’s Eye and a Socialist Soul",
           "url": "https://www.nytimes.com/2026/08/13/arts/design/mabel-dwight-prints-whitney-museum-art.html",
           "snippet": "At the Whitney, Mabel Dwight’s caricatures from the 1930s, some gentle and some acidic, show her mastery of lithography and the democratic gesture.",
-          "source": "NYT Arts"
-        },
-        {
-          "title": "This A.I. Just Created Viruses Not Found in Nature",
-          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-          "snippet": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.",
-          "source": "NYT Science"
-        },
-        {
-          "title": "5 Classical Music Albums You Can Listen to Right Now",
-          "url": "https://www.nytimes.com/2026/08/13/arts/music/best-classical-music-albums-august-2026.html",
-          "snippet": "Wild Up’s latest volume of music by Julius Eastman, Mitsuko Uchida’s Beethoven and works by Joe Hisaishi are among our selections.",
           "source": "NYT Arts"
         }
       ]
