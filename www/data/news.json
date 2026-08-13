@@ -1,16 +1,40 @@
 {
-  "updated": "2026-08-12T20:34:20.327636+00:00",
+  "updated": "2026-08-13T01:13:05.598399+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Αθλητικός πολιτισμός στο Σούπερ Καπ: Ο Μάριος Ηλιόπουλος χειροκρότησε τους παίκτες του ΟΦΗ στην απονομή [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1446915/athlitikos-politismos-sto-soyper-kap-o-marios-iliopoylos-heirokrotise-toys-paiktes-toy-ofi-stin-aponomi-vinteo/",
-        "snippet": "Στη συνέχεια αγκαλιάστηκαν οι ιδιοκτήτες των δύο ομάδων.",
+        "title": "Κυρίαρχος της Ευρώπης η Παρί: Κατέκτησε και το Super Cup κόντρα στην Άστον Βίλα",
+        "url": "https://www.efsyn.gr/athlitismos/1446931/kyriarhos-tis-eyropis-i-pari-katektise-kai-to-super-cup-kontra-stin-aston-vila/",
+        "snippet": "Η ομάδα του Λουΐς Ενρίκε κατακτά για δεύτερη συνεχόμενη χρονιά το Champions League και το Super Cup.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Στίβος: Ο 44χρονος Τσιάμης προκρίθηκε στον πέμπτο ευρωπαϊκό τελικό της καριέρας του [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1446926/eyropaiko-protathlima-stivoy-o-44hronos-tsiamis-prokrithike-ston-pempto-eyropaiko-teliko-tis-karieras-toy-vinteo/",
+          "snippet": "Δεκαέξι χρόνια μετά το ντεμπούτο του και οχτώ μετά το πιο πολύτιμο μετάλλιό του, το χάλκινο στο Βερολίνο, θα βρεθεί ξανά σε τελικό.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "ΗΠΑ: Η Κάρολαϊν Λέβιτ αποχωρεί από εκπρόσωπος Τύπου του Λευκού Οίκου",
+          "url": "https://www.efsyn.gr/kosmos/1446923/ipa-i-karolain-levit-apohorei-apo-ekprosopos-typoy-toy-leykoy-oikoy/",
+          "snippet": "«Πήρα τη γλυκόπικρη απόφαση να αποχωρήσω από τον Λευκό Οίκο και να ανοίξω ένα νέο κεφάλαιο στη ζωή μου».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στη Χιλή θα ελέγχουν πλέον τις τσάντες των μαθητών για όπλα",
+          "url": "https://www.efsyn.gr/kosmos/1446920/sti-hili-tha-eleghoyn-pleon-tis-tsantes-ton-mathiton-gia-opla/",
+          "snippet": "Τη χρονιά που πέρασε, η αστυνομία κατέγραψε 893 καταγγελίες για οπλοκατοχή σε εκπαιδευτικά ιδρύματα της χώρας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Αθλητικός πολιτισμός στο Σούπερ Καπ: Ο Μάριος Ηλιόπουλος χειροκρότησε τους παίκτες του ΟΦΗ στην απονομή [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1446915/athlitikos-politismos-sto-soyper-kap-o-marios-iliopoylos-heirokrotise-toys-paiktes-toy-ofi-stin-aponomi-vinteo/",
+          "snippet": "Στη συνέχεια αγκαλιάστηκαν οι ιδιοκτήτες των δύο ομάδων.",
+          "source": "EfSyn"
+        },
         {
           "title": "Κίεβο: Ο ουκρανικός στρατός έπληξε τρία ρωσικά πολεμικά πλοία",
           "url": "https://www.efsyn.gr/kosmos/1446910/kievo-o-oykranikos-stratos-eplixe-tria-rosika-polemika-ploia/",
@@ -30,7 +54,7 @@
           "source": "EfSyn"
         },
         {
-          "title": "Τι σημαίνει η απόδραση του Τραμπ από την Άγκυρα: Μια επικοινωνιακή νίκη του Ιράν σε έναν πόλεμο που δεν λέει να τελειώσει",
+          "title": "Τι σημαίνει η «απόδραση» του Τραμπ από την Άγκυρα: Μια επικοινωνιακή νίκη του Ιράν σε έναν πόλεμο που δεν λέει να τελειώσει",
           "url": "https://www.efsyn.gr/kosmos/1446883/ti-simainei-i-apodrasi-toy-tramp-apo-tin-agkyra-mia-epikoinoniaki-niki-toy-iran-se-enan-polemo-poy-den-leei-na-teleiosei/",
           "snippet": "Πώς μπορεί ο πρόεδρος των ΗΠΑ να πείσει ότι κερδίζει το Ιράν, όταν φυγαδεύτηκε μέσα σε φορτηγό τροφοδοσίας από το έδαφος μιας χώρας – σύμμαχο του ΝΑΤΟ;",
           "source": "EfSyn"
@@ -70,30 +94,6 @@
           "url": "https://www.efsyn.gr/kosmos/1446835/ipa-paremvasi-sto-kogkreso-yper-tis-ilektrikis-diasyndesis-elladas-kyproy-kai-israil/",
           "snippet": "Αμερικανοί νομοθέτες κάνουν λόγο για «βασικό στρατηγικό έργο υποδομής, κεντρικό για την ανάπτυξη του διαδρόμου».",
           "source": "EfSyn"
-        },
-        {
-          "title": "Ολική έκλειψη Ηλίου 2026: Δείτε ζωντανά το σπάνιο φαινόμενο",
-          "url": "https://www.efsyn.gr/kosmos/1446827/oliki-ekleipsi-ilioy-2026-deite-zontana-to-spanio-fainomeno/",
-          "snippet": "Δείτε εικόνα από τη NASA και τον Ευρωπαϊκό Οργανισμό Διαστήματος.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Παιχνίδια κατασκόπων: Η Γερμανία δίνει υπερεξουσίες στις μυστικές υπηρεσίες… με το βλέμμα στον Πούτιν",
-          "url": "https://www.efsyn.gr/kosmos/1446814/germania-dinoyn-yperexoysies-stis-mystikes-ypiresies-ypo-ton-fovo-yvridikon-apeilon/",
-          "snippet": "Αλλάζει άρδην το δόγμα ασφαλείας: για πρώτη φορά προβλέπονται «ενεργητικά μέτρα άμυνας» για τις γερμανικές μυστικές υπηρεσίες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νεοδιόριστος ετών 45: Το αβέβαιο μέλλον της νέας γενιάς δασκάλων και καθηγητών",
-          "url": "https://www.efsyn.gr/ellada/1446485/neodioristos-eton-45-to-avevaio-mellon-tis-neas-genias-daskalon-kai-kathigiton/",
-          "snippet": "Η μακρόχρονη παραμονή στην αναπλήρωση δημιουργεί ένα μεγάλο ασφαλιστικό κενό που δεν αναπληρώνεται ακόμη κι αν ο εκπαιδευτικός «αποστρατευτεί» στα 67",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ευρωπαϊκό πρωτάθλημα κολύμβησης: Ασημένιος ο Σίσκος στα 200μ. ύπτιο με πανελλήνιο ρεκόρ [βίντεο]",
-          "url": "https://www.efsyn.gr/athlitismos/1446818/eyropaiko-protathlima-kolymvisis-asimenios-o-siskos-sta-200m-yptio-me-panellinio-rekor/",
-          "snippet": "Μετάλλιο για τα ελληνικά χρώματα.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -101,7 +101,7 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Live Updates: First Total Eclipse in Europe in Decades Turns Day to Night",
+        "title": "First Total Eclipse in Europe in Decades Turns Day to Night",
         "url": "https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates",
         "snippet": "From Iceland to Spain, people flocked to viewing spots to see the moon completely block out the sun.",
         "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "A Bright Spot in Colombia as Rescuers Free Quake Victim",
-          "url": "https://www.nytimes.com/2026/08/12/world/americas/colombia-earthquake-rescue.html",
-          "snippet": "",
+          "title": "Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker",
+          "url": "https://www.nytimes.com/2026/08/12/world/middleeast/oil-spill-oman.html",
+          "snippet": "The spill of Russian crude bound for India compounds the environmental damage from spills in and around the Strait of Hormuz, where tankers and oil facilities have come under attack.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-        "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "AI nuclear power firm Fermi finally has a new CEO",
+          "url": "https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/",
+          "snippet": "Lee McIntire, an independent member of Fermi's board, has been hired as CEO, more than three months since the company fired co-founder Toby Neugebauer from the top post.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+          "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+          "snippet": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+          "source": "TechCrunch"
+        },
         {
           "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
           "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
@@ -268,24 +286,6 @@
           "url": "https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/",
           "snippet": "The new app launches with Facebook's AI creator assistant built into it, providing creators with personalized recommendations based on their content style, performance, audience engagement, and goals.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-          "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-          "snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "After Microsoft threatened legal action, a security researcher publishes a new Windows zero-day bug",
-          "url": "https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/",
-          "snippet": "This is the latest zero-day released by security researcher Nightmare Eclipse, despite Microsoft publicly threatening to take legal action against them.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Silkroad Innovation Hub’s Road to Battlefield competition continues",
-          "url": "https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/",
-          "snippet": "The Road to Battlefield competition is now in its second year, and its purpose is to give founders across Central Eurasia a direct route to Startup Battlefield",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Μπούσης: «Δώσαμε ένα όνειρο σε όλες τις ομάδες, το επόμενο βήμα είναι να κάνουμε το γήπεδο»",
-        "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560944/mpoysis-dosame-ena-oneiro-se-oles-tis-omades-epomeno-bima-einai",
-        "snippet": "Ο ισχυρός άνδρας του ΟΦΗ, Μιχάλης Μπούσης εξέφρασε την περηφάνεια του για την κατάκτηση του Super Cup και μίλησε για τον μεγάλο του στόχο, την κατασκευή του νέου γηπέδου.",
+        "title": "Κόντης: «Είμαι συλλέκτης τροπαίων, σημαντικό για το ποδόσφαιρο να έχουμε εικόνες όπως αυτή με τον Μάριο Ηλιόπουλο»",
+        "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560961/kontis-eimai-syllektis-tropaion-simantiko-gia-podosfairo-na",
+        "snippet": "Η συνέντευξη Τύπου του Χρήστου Κόντη μετά τον θρίαμβο του ΟΦΗ στον τελικό του Super Cup με την ΑΕΚ.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "ΑΕΚ: Λάθος (κακή) νοοτροπία και (αντίστοιχα) απώλεια κούπας!",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560941/aek-lathos-kaki-nootropia-kai-antistoiha-apoleia-koypas",
-          "snippet": "Ο Γιώργος Τσακίρης γράφει για την ΑΕΚ και το χαμένο Σούπερ Καπ λόγω κάκιστης νοοτροπίας και αντιμετώπισης του ματς από το 65' κι έπειτα...",
+          "title": "Τελικός Super Cup 2026: Το Ομιλίτικο «πάρτι» συνεχίστηκε στους δρόμους του Ηρακλείου",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560960/telikos-super-cup-2026-omilitiko-parti-synehistike-stoys-dromoys",
+          "snippet": "Το «πάρτι» για την κατάκτηση του Super Cup από τον ΟΦΗ μεταφέρθηκε από τις εξέδρες στου δρόμους του Ηρακλείου.",
           "source": "Gazzetta"
         },
         {
-          "title": "H Στεφανίδη στον 6ο τελικό της σε ευρωπαϊκά πρωταθλήματα",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560943/h-stefanidi-ston-6o-teliko-tis-se-eyropaika",
-          "snippet": "H Kατερίνα Στεφανίδη το βράδυ της Πέμπτης (13/8) θα αγωνιστεί για 6η φορά σε τελικό του ευρωπαϊκού πρωταθλήματος, μετρώντας πέντε μετάλλια στις προηγούμενες πέντε παρουσίες της, όλες οι ελληνικές συμμετοχές της ημέρας.",
+          "title": "Γρηγορίου: «Κρατάω το πρώτο ημίχρονο, θα γίνουν κι άλλες μεταγραφές»",
+          "url": "https://www.gazzetta.gr/football/superleague/2560959/grigorioy-kratao-proto-imihrono-tha-ginoyn-ki-alles-metagrafes",
+          "snippet": "Ο Μιχάλης Γρηγορίου αναφέρθηκε στα διαφορετικά αγωνιστικά πρόσωπα του Άρη στη βαριά ήττα από τη Νάπολι σε φιλικό παιχνίδι στην Ιταλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Εντιαγέ: Το συμβόλαιό του με τον Ολυμπιακό και οι απολαβές",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2560942/entiage-symbolaio-toy-me-ton-olympiako-kai-oi-apolabes",
-          "snippet": "Ο Ολυμπιακός έχει έρθει σε συμφωνία με τον Εμπαγιέ Εντιαγέ, ο οποίος έρχεται από τη Βιλερμπάν για να ενισχύσει τους «ερυθρόλευκους» στη θέση του φόργουορντ.",
+          "title": "ΑΕΚ - ΟΦΗ (τελικός Super Cup): Ο Κόντης... τράβηξε τον Τζώρτζογλου για να σηκώσουν το Κύπελλο οι παίκτες!",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560958/aek-ofi-telikos-super-cup-o-kontis-trabixe-ton-tzortzogloy-gia",
+          "snippet": "Ευτράπελο κατά την ώρα της απονομής με τον Χρήστο Κόντη να ζητάει από τον αναπλ. πρόεδρο της ΕΠΟ, Νίκο Τζώρτζογλου να αφήσει την κούπα στους παίκτες και εν συνεχεία να τον τραβάει για να συνεχιστεί η διαδικασία!",
           "source": "Gazzetta"
         },
         {
-          "title": "Ντέσερς: Παναθηναϊκός - Ο Νιγηριανός σκοράρει κατά ριπάς στο Conference League",
-          "url": "https://www.gazzetta.gr/football/superleague/2560876/ntesers-panathinaikos-o-nigirianos-skorarei-kata-ripas-sto-conference",
-          "snippet": "Το Conference League είναι η διοργάνωση του Σίριλ Ντέσερς. Οι εκπληκτικοί αριθμοί του στην Ευρώπη και το ένα γκολ ανά παιχνίδι με τον Παναθηναϊκό.",
+          "title": "Η Χρυσή Βίβλος του Super Cup Ευρώπης: H Παρί έκανε το back to back!",
+          "url": "https://www.gazzetta.gr/football/2560956/i-hrysi-biblos-toy-super-cup-eyropis-h-pari-ekane-back-back",
+          "snippet": "Η Παρί Σεν Ζερμέν ήταν η κυρίαρχος του παιχνιδιού, καταφέρνοντας να λυγίσει την Άστον Βίλα με 2-1 και να κατακτήσει το UEFA Super Cup για δεύτερη φορά στην ιστορία της.",
           "source": "Gazzetta"
         },
         {
-          "title": "Χαλ: Έσπασε τα ταμεία για αμυντικό της Ράγιο και τον κάνει συμπαίκτη του Τζολάκη",
-          "url": "https://www.gazzetta.gr/football/premier-league/2560940/hal-espase-ta-tameia-gia-amyntiko-tis-ragio-kai-ton-kanei-sympaikti",
-          "snippet": "Η Χαλ έβγαλε το ποσό των 25 εκατομμυρίων ευρώ από την τσέπη και προχώρησε στην απόκτηση του Σενεγαλέζου αμυντικού, Νομπέλ Μεντί, από τη Ράγιο Βαγιεκάνο.",
+          "title": "Τα ενθύμια του Φούντα από το Super Cup: Το καρεκλάκι, το διχτάκι και το πούρο του θριάμβου",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560955/ta-enthymia-toy-foynta-apo-super-cup-kareklaki-dihtaki-kai-poyro",
+          "snippet": "Ο περιχαρής Ταξιάρχης Φούντας έφυγε από το Παγκρήτιο Στάδιο με τα... λάφυρα του θριάμβου. Αποστολή στο Ηράκλειο: Βασίλης Μπαλατσός.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ευρωπαϊκό Στίβου: Οι Εμμανουηλίδου και Σπανουδάκη εκτός τελικού στα 200μ.",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560939/eyropaiko-stiboy-oi-emmanoyilidoy-kai",
-          "snippet": "Η Πολυνίκη Εμμανουηλίδου βελτίωσε τη φετινή της ατομική της επίδοση στα 200μ. στα 23.06, καταλαμβάνοντας τη 10η θέση στα ημιτελικά του ευρωπαϊκού πρωταθλήματος στο Μπέρμιγχαμ, στην 21η θέση η Σπανουδάκη με 23.45.",
+          "title": "Παρί Σεν Ζερμέν - Άστον Βίλα: Η απονομή των Παριζιάνων",
+          "url": "https://www.gazzetta.gr/football/2560954/pari-sen-zermen-aston-bila-i-aponomi-ton-parizianon",
+          "snippet": "Η Παρί Σεν Ζερμέν λύγισε με 2-1 την Άστον Βίλα στον τελικό του Super Cup Ευρώπης και σήκωσε στον ουρανό του Ζάλτσμπουργκ το πρώτο τρόπαιο της σεζόν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολική έκλειψη Ηλίου: Η Ευρώπη σκοτείνιασε – Εντυπωσιακές εικόνες από Ισλανδία και Ισπανία",
-          "url": "https://www.gazzetta.gr/plus/2560938/oliki-ekleipsi-ilioy-i-eyropi-skoteiniase-entyposiakes-eikones-apo-islandia-ispania",
-          "snippet": "Η ολική έκλειψη Ηλίου της 12ης Αυγούστου 2026 πέρασε από Γροιλανδία, Ισλανδία, Πορτογαλία και Ισπανία, μετατρέποντας για λίγα λεπτά τη μέρα σε νύχτα",
+          "title": "Πανιώνιος - Καλαμάτα: Πήραν το τουρνουά στα πέναλτι οι Νεοσμυρνιώτες",
+          "url": "https://www.gazzetta.gr/football/superleague/2560952/panionios-kalamata-piran-toyrnoya-sta-penalti-oi-neosmyrniotes",
+          "snippet": "Ισόπαλο 0-0 στην κανονική διάρκεια το φιλικό, ο Πανιώνιος επικράτησε 5-4 στα πέναλτι της Καλαμάτας",
           "source": "Gazzetta"
         },
         {
-          "title": "F1: Αιφνιδιαστική αλλαγή ηγεσίας στην ομάδα της Cadillac",
-          "url": "https://www.gazzetta.gr/gmotion/2560937/f1-aifnidiastiki-allagi-igesias-stin-omada-tis-cadillac",
-          "snippet": "Ο Γκρέιμ Λόουντον αποχωρεί από τη θέση του επικεφαλής της Cadillac στη Formula 1, με τον Μάρτσιν Μπουτκόφσκι να αναλαμβάνει άμεσα τα ηνία πριν από το GP Ολλανδίας.",
+          "title": "Νίκολιτς: «Κάποιοι ίσως έχουν το μυαλό τους ακόμα στους εορτασμούς, να βγούμε όλοι από αυτόν τον τρόπο σκέψης»",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560951/nikolits-kapoioi-isos-ehoyn-myalo-toys-akoma-stoys-eortasmoys-na",
+          "snippet": "Ο Μάρκο Νίκολιτς... έκρουσε καμπανάκια στην ΑΕΚ μετά την ήττα από τον ΟΦΗ στον τελικό του Super Cup και την απώλεια του τροπαίου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ανδρούτσος: «Δεν μας το χάρισε κανείς, ονειρευόμαστε κι άλλα»",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560936/androytsos-den-mas-harise-kaneis-oneireyomaste-ki-alla",
-          "snippet": "Οι δηλώσεις του αρχηγού του ΟΦΗ και MVP του τελικού του Super Cup, Θανάση Ανδρούτσου, μετά την κατάκτηση του τροπαίου.",
+          "title": "Παρί Σεν Ζερμέν - Άστον Βίλα 2-1: Παρέμεινε στο θρόνο ως υπερπρωταθλήτρια Ευρώπης!",
+          "url": "https://www.gazzetta.gr/football/2560950/pari-sen-zermen-aston-bila-2-1-paremeine-sto-throno-os-yperprotathlitria-eyropis",
+          "snippet": "Εθισμένη στις κούπες! Η Παρί Σεν Ζερμέν αποδείχθηκε κεφάτη στην πρεμιέρα της στη νέα σεζόν, αφού επικράτησε 2-1 επί της Άστον Βίλα και κατέκτησε το Super Cup Ευρώπης.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ευρωπαϊκό Στίβου: Έβδομη η Σκαρβέλη με season best στον τελικό της σφυροβολίας",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560935/eyropaiko-stiboy-ebdomi-i-skarbeli-me-season",
-          "snippet": "Στην έβδομη θέση ολοκλήρωσε την προσπάθειά της στον τελικό της σφυροβολίας στο Ευρωπαϊκό πρωτάθλημα Ανοιχτού στίβου, η Σταματία Σκαρβέλη, πραγματοποιώντας season best.",
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Έκλεισε Εντιαγέ ο Ολυμπιακός",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2560949/oi-metagrafes-tis-imeras-sto-mpasket-ekleise-entiage-o-olympiakos",
+          "snippet": "Έντονη κινητικότητα στη μεταγραφική αγορά την Τετάρτη (12/08), με τον Ολυμπιακό να έχει έρθει σε συμφωνία με τον Εμπιαγιέ Εντιαγέ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κόντης: «Ήμουν σίγουρος μετά το 2-2 ότι το κάρμα και ο Θεός θα μας δικαιώσει»",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560933/kontis-imoyn-sigoyros-meta-2-2-oti-karma-kai-o-theos-tha-mas",
-          "snippet": "Σίγουρος ότι ο ΟΦΗ θα έπαιρνε το τρόπαιο στα πέναλτι επί της ΑΕΚ ήταν ο Χρήστος Κόντης.",
+          "title": "Νάπολι - Άρης 6-2: Τα λάθη πληρώνονται και ο Άρης έκανε πολλά…",
+          "url": "https://www.gazzetta.gr/football/superleague/2560948/napoli-aris-6-2-ta-lathi-plironontai-kai-o-aris-ekane-polla",
+          "snippet": "Ο Άρης πλήρωσε το τίμημα των σοβαρών λαθών που έκανε στο δεύτερο ημίχρονο αλλά και την έλλειψη συγκέντρωσης στη βαριά ήττα με 6-2 από τη Νάπολι στην Ιταλία.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - ΟΦΗ (Τελικός Super Cup): Τα highlights από τη νίκη των Κρητικών στα πέναλτι",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560932/aek-ofi-telikos-super-cup-ta-highlights-apo-ti-niki-ton-kritikon",
-          "snippet": "Δείτε τα γκολ και τις καλύτερες στιγμές από τον τελικό του Super Cup με τον ΟΦΗ να επικρατεί της ΑΕΚ στα πέναλτι κατακτώντας το τρόπαιο.",
+          "title": "Ο 44χρονος Δημήτρης Τσιάμης επιστρέφει σε τελικό ευρωπαϊκού πρωταθλήματος",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2560947/o-44hronos-dimitris-tsiamis-epistrefei-se",
+          "snippet": "Ο Δημήτρης Τσιάμης είχε τον τρόπο του και στην 8η συμμετοχή του σε ευρωπαϊκό πρωτάθλημα, για 4η φορά θα αγωνιστεί σε τελικό στο τριπλούν, δεν τα κατάφεραν οι Πανταζής και Ανδρικόπουλος.",
           "source": "Gazzetta"
         },
         {
-          "title": "AEK – ΟΦΗ (τελικός Super Cup): Η αποθέωση του Fair Play όταν ο Μάριος Ηλιόπουλος βρέθηκε μπροστά στο βάθρο και χειροκρότησε την απονομή των Κυπελλούχων!",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560931/aek-ofi-telikos-super-cup-i-apotheosi-toy-fair-play-otan-o",
-          "snippet": "Σε μια ασυνήθιστη κίνηση, η οποία όμως είναι ο ορισμός του Fair Play προχώρησε ο ιδιοκτήτης της ΑΕΚ Μάριος Ηλιόπουλος, την ώρα που γινόταν η απονομή του τροπαίου στους παίκτες του ΟΦΗ!",
+          "title": "Κίνα: Πειραματικό τρένο έπιασε 800 χλμ./ώρα σε 5,3 δευτερόλεπτα – Στο στόχαστρο και οι εκτοξεύσεις πυραύλων",
+          "url": "https://www.gazzetta.gr/plus/2560927/kina-peiramatiko-treno-epiase-800-hlmora-se-53-deyterolepta-sto-stohastro-kai-oi",
+          "snippet": "Πειραματικό τρένο maglev στην Κίνα έφτασε τα 800 χλμ./ώρα σε 5,3 δευτερόλεπτα, ενώ οι μηχανικοί εξετάζουν εφαρμογές σε πυραύλους και drones.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - ΟΦΗ (Τελικός Super Cup): Το Ομιλίτικο πάρτι για την κούπα και η απονομή",
-          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560929/aek-ofi-telikos-super-cup-omilitiko-parti-gia-tin-koypa-kai-i",
-          "snippet": "Οι παίκτες του κυπελλούχου ΟΦΗ πανηγύρισαν με την καρδιά τους την κατάκτηση του Super Cup κόντρα στην πρωταθλήτρια ΑΕΚ. Σήκωσε το τρόπαιο ο αρχηγός Ανδρούτσος.",
+          "title": "Πουρσανίδης: «Ευθύνη για μας αυτό που ζει τώρα ο κόσμος μας»",
+          "url": "https://www.gazzetta.gr/football/super-cup-elladas/2560946/poyrsanidis-eythyni-gia-mas-ayto-poy-zei-tora-o-kosmos-mas",
+          "snippet": "Όσα δήλωσε ο γενικός διευθυντής του ΟΦΗ, Ηλίας Πουρσανίδης μετά την κατάκτηση του Super Cup.",
           "source": "Gazzetta"
         }
       ]
@@ -396,9 +396,9 @@
       },
       "items": [
         {
-          "title": "A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.",
-          "url": "https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html",
-          "snippet": "Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of partygoers came too.",
+          "title": "The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight",
+          "url": "https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html",
+          "snippet": "Unlike the total solar eclipse that swept across Europe, the Perseids can be seen at night by anyone in the Northern Hemisphere.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely",
-          "url": "https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html",
-          "snippet": "We’re answering some questions about the solar eclipse on Aug. 12, and providing a place for you to ask more of them.",
+          "title": "The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death",
+          "url": "https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html",
+          "snippet": "During early calibration tests, the MOTHRA telescope’s array of lenses, which will soon number 1,140, captured stellar debris dissolving into space around the Helix Nebula.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death",
-          "url": "https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html",
-          "snippet": "During early calibration tests, the MOTHRA telescope’s array of lenses, which will soon number 1,140, captured stellar debris dissolving into space around the Helix Nebula.",
+          "title": "Telescope Spots Two Black Holes on the Cusp of Merging",
+          "url": "https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html",
+          "snippet": "New images from the James Webb telescope show a galaxy with a trio of supermassive black holes. Two of them appear to be locked in a tight tango.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Telescope Spots Two Black Holes on the Cusp of Merging",
-          "url": "https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html",
-          "snippet": "New images from the James Webb telescope show a galaxy with a trio of supermassive black holes. Two of them appear to be locked in a tight tango.",
+          "title": "See the 2026 European Solar Eclipse, in Photos and Videos",
+          "url": "https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html",
+          "snippet": "People gathered across the continent to watch the total solar eclipse on Wednesday.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
-          "url": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
-          "snippet": "The Perseids will be most active on Wednesday into Thursday morning, on the moonless night after a total solar eclipse.",
+          "title": "Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired",
+          "url": "https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html",
+          "snippet": "A medical issue during Mr. Fincke’s fourth space journey resulted in an early medical evacuation, the first ever from the International Space Station.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "This A.I. Just Created Viruses Not Found in Nature",
-          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
-          "snippet": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.",
+          "title": "The Perseid Meteor Shower Is Peaking. Here’s How to Watch.",
+          "url": "https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html",
+          "snippet": "The Perseids will be most active on Wednesday into Thursday morning, on the moonless night after a total solar eclipse.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Capybaras Were the Newest Lobbyists in This Brazilian Legislature",
-          "url": "https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html",
-          "snippet": "In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion.",
+          "title": "This A.I. Just Created Viruses Not Found in Nature",
+          "url": "https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html",
+          "snippet": "Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.",
           "source": "NYT Science"
         },
         {
