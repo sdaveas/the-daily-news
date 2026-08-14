@@ -1,16 +1,88 @@
 {
-  "updated": "2026-08-14T01:11:53.500765+00:00",
+  "updated": "2026-08-14T05:25:34.065386+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ευρωπαϊκό στίβου: Έκτη η Στεφανίδη που έκανε ξανά την υπέρβαση – Η αγκαλιά με το παιδί της μετά τον αγώνα [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1447597/eyropaiko-stivoy-ekti-i-stefanidi-poy-ekane-xana-tin-ypervasi-i-agkalia-me-to-paidi-tis-meta-ton-agona-vinteo/",
-        "snippet": "Η Ελληνίδα πρωταθλήτρια του επί κοντώ είχε καλύτερο άλμα στα 4,60 μέτρα.",
+        "title": "Απαράδεκτη παράλειψη",
+        "url": "https://www.efsyn.gr/politiki/1447672/aparadekti-paraleipsi/",
+        "snippet": "Αφροδίτη Λατινοπούλου: «Σε αυτή τη χώρα που κυβερνάει 7 χρόνια η Ν.Δ. αν είσαι γύφτος, ρουβίκωνας, φριπλαστελινάκιας, αντισημίτης, αναρχομπάχαλος, λαθρομετανάστης, αριστερούλης, δικαιωματιστής και το κακό συναπάντημα, κάνεις ό,τι γουστάρεις!». Ξέχασε τους ομοφυλόφιλους, τους μουσ",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Τροχαίο στη Χαλκιδική: Επιστρέφει στη Μολδαβία η 7χρονη που έχασε την οικογένειά της",
+          "url": "https://www.efsyn.gr/ellada/1447665/trohaio-sti-halkidiki-epistrefei-sti-moldavia-i-7hroni-poy-ehase-tin-oikogeneia-tis/",
+          "snippet": "Το τροχαίο σημειώθηκε στο ύψος της Μεταμόρφωσης, όταν το Ι.Χ. αυτοκίνητο που οδηγούσε ο πατέρας της 7χρονης συγκρούστηκε με βυτιοφόρο. Από τη σφοδρή σύγκρουση έχασαν τη ζωή τους οι γονείς της και η μόλις έξι μηνών αδελφή της.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πάρος: Βίντεο κατέγραψε τις τελευταίες στιγμές του 4χρονου στην πισίνα – Χωρίς πιστοποίηση ο ναυαγοσώστης",
+          "url": "https://www.efsyn.gr/ellada/1447658/paros-vinteo-kategrapse-tis-teleytaies-stigmes-toy-4hronoy-stin-pisina-horis-pistopoiisi-o-nayagosostis/",
+          "snippet": "Ο πατέρας του παιδιού φέρεται να προτίθεται να προσφύγει στη Δικαιοσύνη, αποδίδοντας την ευθύνη για την τραγωδία στον ιδιοκτήτη.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Απαγορευτικό απόπλου από Ραφήνα και Λαύριο λόγω ισχυρών ανέμων – Προβλήματα στον Πειραιά",
+          "url": "https://www.efsyn.gr/ellada/1447643/dekapentaygoystos-apagoreytiko-apoploy-apo-rafina-kai-layrio-provlimata-ston-peiraia/",
+          "snippet": "Η εικόνα αναμένεται να επανεκτιμηθεί μετά τις 11 το πρωί.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Στενά του Ορμούζ: Η Τεχεράνη σκληραίνει συνεχώς τη στάση της – Σχεδόν μηδενίστηκαν οι διελεύσεις πλοίων",
+          "url": "https://www.efsyn.gr/kosmos/1447644/stena-toy-ormoyz-i-teherani-sklirainei-synehos-ti-stasi-tis-shedon-midenistikan-oi-dieleyseis-ploion/",
+          "snippet": "Παρά τις επίμονες διαβεβαιώσεις του μυθομανούς Τραμπ, πως η θαλάσσια δίοδος «ελέγχεται πλήρως» από τις ΗΠΑ, το Ιράν έχει σχεδόν μηδενίσει τη διέλευση πλοίων και αξιώνει την πλήρη και χωρίς όρους υλοποίηση του «μνημονίου κατανόησης»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Θεσσαλονίκη: Στον ανακριτή ο 59χρονος για τις έξι φωτιές στη Σίνδο",
+          "url": "https://www.efsyn.gr/ellada/1447635/thessaloniki-ston-anakriti-o-59hronos-gia-tis-exi-foties-sti-sindo/",
+          "snippet": "Μάλιστα, σε μία από τις πυρκαγιές που εκδηλώθηκαν στην περιοχή χρειάστηκε και η επέμβαση ελικοπτέρου της Πυροσβεστικής, προκειμένου να περιοριστεί η φωτιά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιδιωτικά πανεπιστήμια: Οι συνεργασίες – φαντάσματα που είδε το ΣτΕ – Ανοίγει ο δρόμος για νέες προσφυγές",
+          "url": "https://www.efsyn.gr/ellada/1447627/idiotika-panepistimia-oi-synergasies-fantasmata-poy-eide-to-ste-anoigei-o-dromos-gia-nees-prosfyges/",
+          "snippet": "Το Συμβούλιο της Επικρατείας έκρινε μη σύννομη την αδειοδότηση και τα προγράμματα σπουδών των Anatolia University, University of York και Keele, που συνάψανε συνεργασίες - φάντασμα με ξένα ΑΕΙ • Βαριά εκτεθειμένο είναι το υπουργείο Παιδείας, και ακόμη περισσότερο η Εθνική Αρχή Αν",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κίμωλος: «Με χτυπάει κι εμένα το ρεύμα αυτή τη στιγμή» – Το τηλεφώνημα της μητέρας στον γιατρό",
+          "url": "https://www.efsyn.gr/ellada/1447618/kimolos-me-htypaei-ki-emena-to-reyma-ayti-ti-stigmi-sygklonizei-to-tilefonima-tis-miteras-ston-giatro/",
+          "snippet": "«Όπως καταλαβαίνετε, μπορεί να είχε πάθει ηλεκτροπληξία κι εκείνη και να ’χαμε δύο δράματα, αντί για ένα».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ποιητής… εκ του προχείρου",
+          "url": "https://www.efsyn.gr/nisides/1446727/poiitis-ek-toy-proheiroy-10/",
+          "snippet": "Φύσηξαν άνεμοι τρελοί κι Ευρώπη και Ελλάδα στις φλόγες τυλιχτήκανε κι ανάψαν σαν λαμπάδα Φωτιές εδώ, φωτιές εκεί, φωτιές και παραπέρα κι ελικοπτέρων σύγκρουση είδαμε στον αέρα Χαθήκαν μες σε μια στιγμή δυο παλικάρια νέα… Εκδίκηση για την κλεψιά από τον Προμηθέα λες και ζητάει η φ",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Φωτιά στη Σίβηρη Χαλκιδικής: Χωρίς ενιαίο μέτωπο, διάσπαρτες εστίες – 481 άνθρωποι μεταφέρθηκαν σε ασφαλή σημεία",
+          "url": "https://www.efsyn.gr/ellada/1447606/fotia-sti-siviri-halkidikis-horis-eniaio-metopo-481-anthropoi-metaferthikan-se-asfali-simeia/",
+          "snippet": "Ιδιαίτερα μεγάλη ήταν η επιχείρηση απομάκρυνσης πολιτών και επισκεπτών από την περιοχή που απειλήθηκε από τις φλόγες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κίνδυνος πυρκαγιάς: Άνεμοι έως 9 μποφόρ και ριπές άνω των 100 χλμ/ώρα – Οι περιοχές σε Red Code",
+          "url": "https://www.efsyn.gr/ellada/1447604/kindynos-pyrkagias-red-code-se-attiki-kai-polles-periohes-anemoi-eos-9-mpofor-kai-ripes-ano-ton-100-hlm-ora/",
+          "snippet": "Οι ισχυροί άνεμοι αναμένεται να προκαλέσουν προβλήματα στις θαλάσσιες συγκοινωνίες στο Αιγαίο, ενώ θα συνοδευτούν από αισθητή πτώση της θερμοκρασίας, η οποία θα φτάσει τους 6 με 7 βαθμούς, κυρίως στις ανατολικές περιοχές της χώρας.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 14 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1447602/eortologio-poioi-giortazoyn-simera-14-aygoystoy/",
+          "snippet": "Σε ποιους να πείτε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ευρωπαϊκό στίβου: Έκτη η Στεφανίδη που έκανε ξανά την υπέρβαση – Η αγκαλιά με το παιδί της μετά τον αγώνα [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1447597/eyropaiko-stivoy-ekti-i-stefanidi-poy-ekane-xana-tin-ypervasi-i-agkalia-me-to-paidi-tis-meta-ton-agona-vinteo/",
+          "snippet": "Η Ελληνίδα πρωταθλήτρια του επί κοντώ είχε καλύτερο άλμα στα 4,60 μέτρα.",
+          "source": "EfSyn"
+        },
         {
           "title": "ΠΑΟΚ: Υπέστη δεύτερη ήττα από την Άντερλεχτ και αποχαιρέτισε το Europa League",
           "url": "https://www.efsyn.gr/athlitismos/1447591/paok-ypesti-deyteri-itta-apo-tin-anterleht-kai-apohairetise-to-europa-league/",
@@ -21,78 +93,6 @@
           "title": "Ryanair: Κομμάτι από εξάρτημα του κινητήρα η αιτία που παραλίγο να βγει επιβάτης από το παράθυρο",
           "url": "https://www.efsyn.gr/ellada/1447589/ryanair-kommati-apo-exartima-toy-kinitira-i-aitia-poy-paraligo-na-vgei-epivatis-apo-to-parathyro/",
           "snippet": "Φως στο τι ακριβώς συνέβη σε πτήση της Ryanair (από τη Θεσσαλονίκη, στις 10 Ιουλίου), όταν 61χρονος Σέρβος παραλίγο να χάσει τη ζωή του αφού έσπασε παράθυρο μέσα στο αεροπλάνο, ρίχνουν Αμερικανοί ερευνητές. Σύμφωνα με έκθεση της Εθνικής Επιτροπής Ασφάλειας Μεταφορών (NTSB), αιτία",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Έμπολα: Εξαπλώνεται ο φονικός ιός στη Λ.Δ. του Κονγκό – Έντονος προβληματισμός από τους επιστήμονες",
-          "url": "https://www.efsyn.gr/kosmos/1447585/empola-exaplonetai-o-fonikos-ios-sti-l-d-toy-kongko-entonos-provlimatismos-apo-toys-epistimones/",
-          "snippet": "Η επιδημία μπορεί να εξελιχθεί στη χειρότερη που έχει καταγραφεί ποτέ στα χρονικά.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Έξι συλλήψεις για εμπρησμούς από αμέλεια: Το πεταμένο τσιγάρο και το μαγείρεμα στην ύπαιθρο",
-          "url": "https://www.efsyn.gr/ellada/1447583/exi-syllipseis-gia-emprismoys-apo-ameleia-to-petameno-tsigaro-kai-to-mageirema-stin-ypaithro/",
-          "snippet": "Τρεις άνθρωποι έκαναν θερμές εργασίες την ώρα που ο κίνδυνος πυρκαγιάς ήταν πολύ υψηλός.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Προσήχθη ο οδηγός που προσπέρασε σε «τυφλή» στροφή – «Άμα είχα αυτοκίνητο, δεν θα τον απέφευγα», λέει ο μοτοσικλετιστής",
-          "url": "https://www.efsyn.gr/ellada/1447580/prosihthi-o-odigos-poy-prosperase-se-tyfli-strofi-ama-eiha-aytokinito-den-tha-ton-apefeyga-leei-o-motosikletistis/",
-          "snippet": "Σε βάρος του οδηγού του βυτιοφόρου σχηματίζεται δικογραφία για επικίνδυνη οδήγηση.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ολυμπιακός: Στα «ερυθρόλευκα» ο Εντιαγέ",
-          "url": "https://www.efsyn.gr/athlitismos/1447571/olympiakos-sta-erythroleyka-o-entiage/",
-          "snippet": "Και με τη&#8230; βούλα παίκτης του Ολυμπιακού είναι ο Εμπαγέ Εντιαγέ, καθώς η «ερυθρόλευκη» ΚΑΕ γνωστοποίησε την απόκτηση του Σενεγαλέζου φόργουορντ για δύο χρόνια. Ο 27χρονος άσος αγωνιζόταν την τελευταία τριετία στη γαλλική Βιλερμπάν και μπορεί να παίξει τόσο στη θέση «3», όσο ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νύχτα αγωνίας στο πύρινο μέτωπο της Χαλκιδικής: Εικόνες καταστροφής, ζημιές σε σπίτια και δραματικοί απεγκλωβισμοί [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1447501/halkidiki-nyhta-agonias-sta-pyrina-metopa-terastia-idi-i-katastrofi-eikones-vinteo/",
-          "snippet": "Κάηκαν σπίτια και οχήματα, απεγκλωβίστηκαν διά θαλάσσης εκατοντάδες κάτοικοι και παραθεριστές • Στο νοσοκομείο δύο πυροσβέστες, ζημιές σε υποδομές.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ήττα Τραμπ στην αγωγή κατά του Χάρβαρντ: Δικαστής απέρριψε τις αιτιάσεις για ανοχή στον αντισημιτισμό",
-          "url": "https://www.efsyn.gr/kosmos/1447543/itta-tramp-stin-agogi-kata-toy-harvarnt-dikastis-aperripse-tis-aitiaseis-gia-anohi-ston-antisimitismo/",
-          "snippet": "Ομοσπονδιακός δικαστής απέρριψε σήμερα την αγωγή που είχε καταθέσει η διοίκηση του προέδρου Ντόναλντ Τραμπ σε βάρος του πανεπιστημίου Χάρβαρντ, στη σκιά των μεγάλων διαδηλώσεων υπέρ της Παλαιστίνης και κατά της γενοκτονίας στη Γάζα. Ο Αμερικανός πρόεδρος είχε τότε κατηγορήσει το ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συγκλονιστικό βίντεο από τη Χαλκιδική: Κατέρρευσε πυροσβέστης, λιμενικός του έδωσε τις πρώτες βοήθειες",
-          "url": "https://www.efsyn.gr/ellada/1447539/sygklonistiko-vinteo-apo-ti-halkidiki-katerreyse-pyrosvestis-limenikos-toy-edose-tis-protes-voitheies/",
-          "snippet": "Δυνατές εικόνες από τη μάχη με τις φλόγες στη Χαλκιδική, όταν ένας πυροσβέστης έχασε τις αισθήσεις του κι έπεσε πάνω στην αμμουδιά. Αμέσως ένας άνδρας του Λιμενικού έσπευσε στο πλευρό του, τον τράβηξε στη στεριά και του έδωσε τις πρώτες βοήθειες. Το περιστατικό είναι ενδεικτικό τ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σκιάθος: Δεύτερος τραυματισμός τουρίστριας από ρεύμα αέρα αεροπλάνου",
-          "url": "https://www.efsyn.gr/ellada/1447523/skiathos-deyteros-traymatismos-toyristrias-apo-reyma-aera-aeroplanoy/",
-          "snippet": "Μια 50χρονη Ιταλία κατέληξε στο νοσοκομείο με σοβαρό κάταγμα στο χέρι, καθώς τραυματίστηκε το μεσημέρι της Παρασκευής ξανά στη Σκιάθο. Η γυναίκα παρασύρθηκε από ισχυρό ρεύμα αέρα που προκάλεσε τουρμπίνα αεροπλάνου κατά τη διάρκεια της απογείωσης. Η τουρίστρια βρέθηκε στη δίνη του",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βραχνάς η ανεργία στους νέους: Οι κάτω των 30 ετών αντιμετωπίζουν μεγαλύτερες δυσκολίες στην εύρεση αξιοπρεπούς εργασίας",
-          "url": "https://www.efsyn.gr/oikonomia/1447205/vrahnas-i-anergia-stoys-neoys-oi-kato-ton-30-eton-antimetopizoyn-megalyteres-dyskolies-stin-eyresi-axioprepoys-ergasias/",
-          "snippet": "Οι άνθρωποι κάτω των 30 ετών αντιμετωπίζουν μεγαλύτερες δυσκολίες στην εύρεση αξιοπρεπούς εργασίας στη Δύση ● Πολύ λίγες αξιοπρεπείς θέσεις εργασίας στις αναπτυσσόμενες οικονομίες, όπου ελάχιστοι αντέχουν να μείνουν χωρίς δουλειά",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πειθαρχικές διαδικασίες με τα σχολεία κλειστά: Διώξεις εκπαιδευτικών μεσούντος του Αυγούστου",
-          "url": "https://www.efsyn.gr/ellada/1447252/peitharhikes-diadikasies-me-sholeia-kleista-kai-ergazomenoys-se-diakopes-dioxeis-ekpaideytikon-mesoyntos-toy-aygoystoy/",
-          "snippet": "Ενώ τα σχολεία είναι κλειστά και οι καθηγητές περιμένουν τη νέα χρονιά, οι πειθαρχικές διαδικασίες συνεχίζονται ● Στο επίκεντρο πέντε συνδικαλιστές της ΕΛΜΕ Πειραιά για συμμετοχή σε κινητοποίηση το 2023",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μόλις το 24% των πόρων του ΕΣΠΑ φτάνει στους πολίτες!",
-          "url": "https://www.efsyn.gr/oikonomia/1447211/molis-to-24-ton-poron-toy-espa-ftanei-stoys-polites/",
-          "snippet": "Εξαιρετικά χαμηλό είναι το ποσοστό των χρημάτων από τα Ταμεία Συνοχής που φτάνει στους τελικούς αποδέκτες των προγραμμάτων",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ακυρώνεται η συναυλία του Σωκράτη Μάλαμα στη Σίβηρη λόγω της μεγάλης πυρκαγιάς – Η ανακοίνωση του καλλιτέχνη",
-          "url": "https://www.efsyn.gr/tehnes/1447529/akyronetai-i-synaylia-toy-sokrati-malama-sti-siviri-logo-tis-megalis-pyrkagias-i-anakoinosi-toy-kallitehni/",
-          "snippet": "Δεν θα πραγματοποιηθεί η προγραμματισμένη για τις 14 Αυγούστου συναυλία του Σωκράτη Μάλαμα στη Σίβηρη της Χαλκιδικής. Η μεγάλη πυρκαγιά που κατακαίει από το μεσημέρι της Πέμπτης δοκιμάζει την ευρύτερη περιοχή και για λόγους ασφαλείας αποφασίστηκε να μην πραγματοποιηθεί η αυριανή ",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
-          "url": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
-          "snippet": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
+          "title": "Farage Wins Special U.K. Election That He Initiated, as Expected",
+          "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-binface-clacton-result-byelection.html",
+          "snippet": "Nigel Farage, the leader of Reform U.K., won the parliamentary by-election in Clacton. Count Binface, his costumed main rival, came second.",
           "source": "NYT World"
         }
       ]
@@ -293,12 +293,30 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τσιτσιπάς: Ανοίγει το πρόγραμμα της Παρασκευής (14/8)",
-        "url": "https://www.gazzetta.gr/tennis/atp/2561193/tsitsipas-anoigei-programma-sto-deytero-court",
-        "snippet": "Την ώρα της πρεμιέρας του στο τουρνουά του Σινσινάτι έμαθε ο Στέφανος Τσιτσιπάς, ο οποίος αντιμετωπίζει τον Βαλεντίν Ρουάγιε.",
+        "title": "Αθλητικές μεταδόσεις σήμερα: Ο αγώνας του Τσιτσιπά, η Σπόρτινγκ και το ευρωπαϊκό πρωτάθλημα στίβου",
+        "url": "https://www.gazzetta.gr/football/primeira-liga/2561224/athlitikes-metadoseis-simera-o-agonas-toy-tsitsipa-i-sportingk-kai",
+        "snippet": "Οι ώρες και τα κανάλια μετάδοσης των σημερινών (14/8) αθλητικών γεγονότων.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Eurobasket U16: Πού θα δείτε Πολωνία - Ελλάδα για τις θέσεις 5-8",
+          "url": "https://www.gazzetta.gr/basketball/2561223/eurobasket-u16-poy-tha-deite-polonia-ellada-gia-tis-theseis-5-8",
+          "snippet": "Δείτε πού θα παρακολουθήσετε την αναμέτρηση της Ελλάδας κόντρα στην Πολωνία για τις θέσεις 5-8 στο Eurobasket U16.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ο 64χρονος μοναδικός κάτοικος σε «χωριό-φάντασμα» της Ισπανίας: Ζει μόνος εκεί εδώ και 12 χρόνια και προσπαθεί να το ξαναχτίσει",
+          "url": "https://www.gazzetta.gr/plus/2561078/o-64hronos-monadikos-katoikos-se-horio-fantasma-tis-ispanias-zei-monos-ekei-edo-kai-12",
+          "snippet": "Ο 64χρονος Τομάς Μπαγέστε ζει μόνος στο εγκαταλελειμμένο Σολανέλ και εδώ και 12 χρόνια προσπαθεί να αναστήσει το χωριό και να του δώσει ξανά ζωή.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τσιτσιπάς: Ανοίγει το πρόγραμμα της Παρασκευής (14/8)",
+          "url": "https://www.gazzetta.gr/tennis/atp/2561193/tsitsipas-anoigei-programma-sto-deytero-court",
+          "snippet": "Την ώρα της πρεμιέρας του στο τουρνουά του Σινσινάτι έμαθε ο Στέφανος Τσιτσιπάς, ο οποίος αντιμετωπίζει τον Βαλεντίν Ρουάγιε.",
+          "source": "Gazzetta"
+        },
         {
           "title": "ΑΕΚ: Ο Πένραϊς κλείνει δανεικός στους Ρέιντζερς, πάει για αριστερό μπακ η Ένωση",
           "url": "https://www.gazzetta.gr/football/superleague/2561192/aek-o-penrais-kleinei-daneikos-stoys-reintzers-paei-gia-aristero-mpak",
@@ -363,24 +381,6 @@
           "title": "Παναθηναϊκός: Καταθέτει αίτημα για αναβολή της πρεμιέρας με την Κηφισιά",
           "url": "https://www.gazzetta.gr/football/superleague/2561183/panathinaikos-katathetei-aitima-gia-anaboli-tis-premieras-me-tin",
           "snippet": "Ο Παναθηναϊκός προχωράει στο αίτημα Joker Right για αναβολή της πρεμιέρας με την Κηφισιά μεταξύ του πρώτου και του δεύτερου παιχνιδιού με τη Χράντετς Κράλοβε.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Νάπολι: Παίρνει Μπαντιασίλε από την Τσέλσι",
-          "url": "https://www.gazzetta.gr/football/premier-league/2561182/napoli-pairnei-mpantiasile-apo-tin-tselsi",
-          "snippet": "Η Νάπολι ήρθε σε συμφωνία με την Τσέλσι για την απόκτηση του κεντρικού αμυντικού Μπαντιασίλε ως δανεικό με οψιόν αγοράς.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Οι ημερομηνίες των αγώνων με τη Μπραν",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2561181/paok-oi-imerominies-ton-agonon-me-ti-mpran",
-          "snippet": "Ο ΠΑΟΚ θα παίξει με τη Μπραν στις 20 και 27 Αυγούστου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Άντερλεχτ - ΠΑΟΚ 3-1: Τα Highlights της ήττας του Δικεφάλου του Βορρά",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561180/anterleht-paok-3-1-ta-highlights-tis-ittas-toy-dikefaloy-toy-borra",
-          "snippet": "Ο ΠΑΟΚ ηττήθηκε με σκορ 3-1 από την Άντερλεχτ σε ένα ματς όπου είχε εκτός των άλλων και τις αποβολές των Ζίβκοβιτς και Γερεμέγεφ.",
           "source": "Gazzetta"
         }
       ]
