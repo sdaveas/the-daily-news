@@ -1,16 +1,28 @@
 {
-  "updated": "2026-08-13T20:32:38.695732+00:00",
+  "updated": "2026-08-14T01:11:53.500765+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ryanair: Κομμάτι από εξάρτημα του κινητήρα η αιτία που παραλίγο να βγει επιβάτης από το παράθυρο",
-        "url": "https://www.efsyn.gr/ellada/1447589/ryanair-kommati-apo-exartima-toy-kinitira-i-aitia-poy-paraligo-na-vgei-epivatis-apo-to-parathyro/",
-        "snippet": "Φως στο τι ακριβώς συνέβη σε πτήση της Ryanair (από τη Θεσσαλονίκη, στις 10 Ιουλίου), όταν 61χρονος Σέρβος παραλίγο να χάσει τη ζωή του αφού έσπασε παράθυρο μέσα στο αεροπλάνο, ρίχνουν Αμερικανοί ερευνητές. Σύμφωνα με έκθεση της Εθνικής Επιτροπής Ασφάλειας Μεταφορών (NTSB), αιτία",
+        "title": "Ευρωπαϊκό στίβου: Έκτη η Στεφανίδη που έκανε ξανά την υπέρβαση – Η αγκαλιά με το παιδί της μετά τον αγώνα [βίντεο]",
+        "url": "https://www.efsyn.gr/athlitismos/1447597/eyropaiko-stivoy-ekti-i-stefanidi-poy-ekane-xana-tin-ypervasi-i-agkalia-me-to-paidi-tis-meta-ton-agona-vinteo/",
+        "snippet": "Η Ελληνίδα πρωταθλήτρια του επί κοντώ είχε καλύτερο άλμα στα 4,60 μέτρα.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "ΠΑΟΚ: Υπέστη δεύτερη ήττα από την Άντερλεχτ και αποχαιρέτισε το Europa League",
+          "url": "https://www.efsyn.gr/athlitismos/1447591/paok-ypesti-deyteri-itta-apo-tin-anterleht-kai-apohairetise-to-europa-league/",
+          "snippet": "Οι Αντρίγια Ζίβκοβιτς και Αλεξάντερ Γερεμέγεφ αποβλήθηκαν στα τελευταία λεπτά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ryanair: Κομμάτι από εξάρτημα του κινητήρα η αιτία που παραλίγο να βγει επιβάτης από το παράθυρο",
+          "url": "https://www.efsyn.gr/ellada/1447589/ryanair-kommati-apo-exartima-toy-kinitira-i-aitia-poy-paraligo-na-vgei-epivatis-apo-to-parathyro/",
+          "snippet": "Φως στο τι ακριβώς συνέβη σε πτήση της Ryanair (από τη Θεσσαλονίκη, στις 10 Ιουλίου), όταν 61χρονος Σέρβος παραλίγο να χάσει τη ζωή του αφού έσπασε παράθυρο μέσα στο αεροπλάνο, ρίχνουν Αμερικανοί ερευνητές. Σύμφωνα με έκθεση της Εθνικής Επιτροπής Ασφάλειας Μεταφορών (NTSB), αιτία",
+          "source": "EfSyn"
+        },
         {
           "title": "Έμπολα: Εξαπλώνεται ο φονικός ιός στη Λ.Δ. του Κονγκό – Έντονος προβληματισμός από τους επιστήμονες",
           "url": "https://www.efsyn.gr/kosmos/1447585/empola-exaplonetai-o-fonikos-ios-sti-l-d-toy-kongko-entonos-provlimatismos-apo-toys-epistimones/",
@@ -82,18 +94,6 @@
           "url": "https://www.efsyn.gr/tehnes/1447529/akyronetai-i-synaylia-toy-sokrati-malama-sti-siviri-logo-tis-megalis-pyrkagias-i-anakoinosi-toy-kallitehni/",
           "snippet": "Δεν θα πραγματοποιηθεί η προγραμματισμένη για τις 14 Αυγούστου συναυλία του Σωκράτη Μάλαμα στη Σίβηρη της Χαλκιδικής. Η μεγάλη πυρκαγιά που κατακαίει από το μεσημέρι της Πέμπτης δοκιμάζει την ευρύτερη περιοχή και για λόγους ασφαλείας αποφασίστηκε να μην πραγματοποιηθεί η αυριανή ",
           "source": "EfSyn"
-        },
-        {
-          "title": "Σοβαρή καταγγελία στην Άρτα: Το ασθενοφόρο δεν είναι ταξί",
-          "url": "https://www.efsyn.gr/ellada/1447231/sovari-kataggelia-stin-arta-to-asthenoforo-den-einai-taxi/",
-          "snippet": "Αρτα: καταγγελία της Ενωσης Ιατρών Νοσοκομείου Ηπείρου για μεταφορά εμφραγματία και άλλου καρδιολογικού ασθενούς στο ίδιο νοσοκομειακό όχημα συνοδεία ειδικευόμενης παιδιάτρου (!)",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πυρκαγιά στη Χαλκιδική: Τηλεοπτικό συνεργείο του Mega δέχθηκε επίθεση – «Μας έβρισαν, μας έφτυσαν, μας χτύπησαν»",
-          "url": "https://www.efsyn.gr/ellada/1447520/pyrkagia-sti-halkidiki-tileoptiko-synergeio-toy-mega-dehthike-epithesi-mas-evrisan-mas-eftysan-mas-htypisan/",
-          "snippet": "Ένα πρωτοφανές βίαιο σκηνικό κατήγγειλε η δημοσιογράφος του Mega Μαρία Γουγουτσά, η οποία βρίσκεται στο πύρινο μέτωπο της Χαλκιδικής και καλύπτει της εξελίξεις. Η δημοσιογράφος ανέφερε ότι κάτοικοι της περιοχής απαίτησαν από το τηλεοπτικό συνεργείο να αποχωρήσει, ενώ ανέφερε ότι ",
-          "source": "EfSyn"
         }
       ]
     },
@@ -152,7 +152,7 @@
         {
           "title": "Train Derails Near Town of Lewes in East Sussex, U.K.",
           "url": "https://www.nytimes.com/2026/08/13/world/europe/train-derails-southern-england.html",
-          "snippet": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Nine other people were less seriously hurt.",
+          "snippet": "Emergency services said they were working at the scene of a derailment near Lewes, in East Sussex, on Thursday. Eighteen other people were less badly hurt.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Electric Thrills",
-          "url": "https://www.nytimes.com/2026/08/13/world/pakistan-e-bikes-europe-heat.html",
-          "snippet": "Electric motorcycle sales are surging in Pakistan, as wartime prices accelerate the pivot away from fossil fuels in the developing world.",
+          "title": "After 2 Plasma Donor Deaths, Company Pauses Clinics in Canada",
+          "url": "https://www.nytimes.com/2026/08/13/world/canada/plasma-blood-donation-deaths-grifols.html",
+          "snippet": "Grifols, a Spanish company, said “unfounded attention” on its blood plasma business in Canada had led it to temporarily end collections at 17 clinics.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,36 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-        "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-        "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
+        "url": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
+        "snippet": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Flock says its new tool will help identify police abuse, but hasn’t explained how it works",
+          "url": "https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/",
+          "snippet": "The surveillance company announced it's making a tool called \"Audit Assistance\" mandatory for all customers, claiming it's already helped catch abuse. But the company has yet to explain how the tool works in detail, raising questions about its effectiveness.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
+          "url": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
+          "snippet": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+          "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+          "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
           "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
@@ -224,7 +248,7 @@
         {
           "title": "OpenAI hires new CRO as executive shake-up continues",
           "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-          "snippet": "Dali Rajic will take over as OpenAI's top salesperson.",
+          "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
           "source": "TechCrunch"
         },
         {
@@ -262,30 +286,6 @@
           "url": "https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/",
           "snippet": "Bartesian's cocktail makers would be best described like a Keurig or Nespresso machine, but for alcoholic drinks.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-          "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-          "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "In a first, US will allow some private firms to carry out cyberattacks",
-          "url": "https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/",
-          "snippet": "The new order sweeps away decades of existing U.S. cybersecurity policy prohibiting private companies from conducting 'hack back' attacks or offensive cyber operations.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Can social media start over? Bluesky’s CEO and COO deliver their case at TechCrunch Disrupt 2026",
-          "url": "https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/",
-          "snippet": "Bluesky CEO Toni Schneider is joined by COO Rose Wang for a Disrupt Stage session on whether social media can start over and where Bluesky fits into that potential reboot.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-          "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Άντερλεχτ - ΠΑΟΚ: Ένταση με Ζίβκοβιτς και Μπιανκόν και αποβολή του Σέρβου μετά το 3-2 του Γερεμέγεφ",
-        "url": "https://www.gazzetta.gr/football/europa-league/2561176/anterleht-paok-entasi-me-zibkobits-kai-mpiankon-kai-apoboli-toy",
-        "snippet": "Στο 89' ο ΠΑΟΚ μείωσε σε 3-2 με εύστοχο πέναλτι του Γερεμέγεφ, αλλά αμέσως μετά ο Αντρίγια Ζίβκοβιτς είδε την κόκκινη κάρτα.",
+        "title": "Τσιτσιπάς: Ανοίγει το πρόγραμμα της Παρασκευής (14/8)",
+        "url": "https://www.gazzetta.gr/tennis/atp/2561193/tsitsipas-anoigei-programma-sto-deytero-court",
+        "snippet": "Την ώρα της πρεμιέρας του στο τουρνουά του Σινσινάτι έμαθε ο Στέφανος Τσιτσιπάς, ο οποίος αντιμετωπίζει τον Βαλεντίν Ρουάγιε.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Αντερλεχτ – ΠΑΟΚ 3-2: Κατώτερος της περίστασης και... ρέστα Ευρώπης μέσω Μπραν!",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561175/anterleht-paok-3-2-katoteros-tis-peristasis-kai-resta-eyropis-meso",
-          "snippet": "Ο ΠΑΟΚ στις Βρυξέλλες έκανε το ένα λάθος μετά το άλλο, έδωσε γκολ-δώρα και μοιραία αποχαιρέτισε το Europa League με μια 2η ήττα από την Αντερλεχτ (3-2). Στα play offs του Conference League κόντρα στη Μπραν θα παίξουν οι Θεσσαλονικείς την ευρωπαϊκή τους επιβίωση! Κόκκινες στο φινά",
+          "title": "ΑΕΚ: Ο Πένραϊς κλείνει δανεικός στους Ρέιντζερς, πάει για αριστερό μπακ η Ένωση",
+          "url": "https://www.gazzetta.gr/football/superleague/2561192/aek-o-penrais-kleinei-daneikos-stoys-reintzers-paei-gia-aristero-mpak",
+          "snippet": "Όπως αποκάλυψε ο Φαμπρίτσιο Ρομάνο η ΑΕΚ ήρθε σε συμφωνία με τους Ρέιντζερς για δανεισμό του Τζέιμς Πένραϊς με οψιόν αγοράς, με την Ένωση να κινείται πλέον για απόκτηση αριστερού μπακ!",
           "source": "Gazzetta"
         },
         {
-          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Καμαρά που ακυρώθηκε μέσω VAR",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561173/anterleht-paok-gkol-toy-kamara-poy-akyrothike-meso-var",
-          "snippet": "Στο 73' ο ΠΑΟΚ σκόραρε με τον Μαντί Καμαρά, αλλά το γκολ δεν μέτρησε μετά από τον έλεγχο του VAR για οφσάιντ στον Γερεμέγεφ.",
+          "title": "Ντρκούσιτς: ΠΑΟΚ - Ναυάγησε του Σλοβένου, καταλήγει στην Εσπανιόλ",
+          "url": "https://www.gazzetta.gr/football/superleague/2561191/ntrkoysits-paok-nayagise-toy-slobenoy-kataligei-stin-espaniol",
+          "snippet": "Ο Σλοβένος στόπερ Βάνια Ντρκούσιτς δεν έρχεται στον ΠΑΟΚ, επέλεξε την Εσπανιόλ!",
           "source": "Gazzetta"
         },
         {
-          "title": "Ντουράντ για Γουέστμπρουκ: «Ό,τι κι αν συμβεί, κανείς δεν μπορεί να διαγράψει αυτό που ζήσαμε»",
-          "url": "https://www.gazzetta.gr/basketball/nba/2561172/ntoyrant-gia-goyestmproyk-oti-ki-symbei-kaneis-den-mporei-na-diagrapsei-ayto",
-          "snippet": "Ο Κέβιν Ντουράντ είπε το δικό του «αντίο» στον Ράσελ Γουέστμπρουκ από το NBA, ο οποίος αποφάσισε να ρίξει τους τίτλους τέλους στην καριέρα του.",
+          "title": "Άντερλεχτ - ΠΑΟΚ 3-2: Στήριξη του κόσμου στους παίκτες",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2561190/anterleht-paok-3-2-stirixi-toy-kosmoy-stoys-paiktes",
+          "snippet": "Οι οπαδοί του ΠΑΟΚ χειροκρότησαν με τη λήξη τους παίκτες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Το μυστήριο του «σκοτεινού οξυγόνου» επανέρχεται: 11.000 μέτρα κάτω από τη θάλασσα οι επιστήμονες ψάχνουν την απάντηση",
-          "url": "https://www.gazzetta.gr/plus/2561171/mystirio-toy-skoteinoy-oxygonoy-epanerhetai-11000-metra-kato-apo-ti-thalassa-oi",
-          "snippet": "Το οξυγόνο που εντοπίστηκε 4.000 μέτρα κάτω από την επιφάνεια προκάλεσε επιστημονική διαμάχη και τώρα μια νέα αποστολή επιχειρεί να δώσει οριστική απάντηση.",
+          "title": "Ευρωπαϊκό Στίβου: Στην οκτάδα της Ευρώπης ο Παυλίδης",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561189/eyropaiko-stiboy-stin-oktada-tis-eyropis-o",
+          "snippet": "Σπουδαία εμφάνιση από τον 23χρονο Έλληνα πρωταθλητή, που με βολή στα 64,34 μ. κατέλαβε την 8η θέση στον τελικό της δισκοβολίας.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ: Οι ημερομηνίες των αγώνων με την ΤΣΣΚΑ Σόφιας",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561170/ofi-oi-imerominies-ton-agonon-me-tin-tsska-sofias",
-          "snippet": "Ο ΟΦΗ θα αντιμετωπίσει την ΤΣΣΚΑ Σόφιας, η οποία απέκλεισε τη Μακάμπι Τελ Αβίβ.",
+          "title": "ΠΑΟΚ: Το «ασπρόμαυρο πυραυλάκι» κάηκε στις Βρυξέλλες και τώρα do or die με την Μπραν!",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561188/paok-aspromayro-pyraylaki-kaike-stis-bryxelles-kai-tora-do-or-die-me",
+          "snippet": "Ο Σταύρος Σουντουλίδης γράφει στο blog του στο Gazzetta για τον ΠΑΟΚ που κάηκε από τα λάθη του στις Βρυξέλλες, έχασε το πρώτο ευρωπαϊκό «πυραυλάκι» και παίζει πλέον τα πάντα στα δύο ματς με την Μπραν.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΤΣΣΚΑ Σόφιας: Οι Βούλγαροι στον δρόμο του ΟΦΗ",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2561169/tsska-sofias-oi-boylgaroi-ston-dromo-toy-ofi",
-          "snippet": "Η ΤΣΣΚΑ Σόφιας είναι το εμπόδιο του ΟΦΗ προκειμένου να βρεθεί στη League Phase του Europa League.",
+          "title": "Σβάρνας: Με χρυσό γκολ έστειλε την Ράκοβ στα playoffs του Conference League",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2561187/sbarnas-me-hryso-gkol-esteile-tin-rakob-sta",
+          "snippet": "Ο Στράτος Σβάρνας έδωσε μεγάλη πρόκριση στην Ράκοβ με γκολ στο ημίχρονο του παιχνιδιού.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ: Ηττήθηκε, αγχώθηκε, αλλά... προκρίθηκε η ΤΣΣΚΑ Σόφιας!",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2561168/ofi-aghothike-ittithike-alla-prokrithike-i-tsska-sofias",
-          "snippet": "Η ΤΣΣΚΑ γνώρισε την ήττα 3-1 από τη Μακάμπι Τελ Αβίβ στη Σόφια, αλλά η μεγάλη εκτός έδρας νίκη στη Γεωργία την έστειλε στα Playoffs και απέναντι στον ΟΦΗ.",
+          "title": "Σπουδαία Στεφανίδη πάλεψε για το μετάλλιο στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561186/spoydaia-stefanidi-stin-6i-thesi-sto-eyropaiko",
+          "snippet": "Η 36χρονη Κατερίνα Στεφανίδη στην 6η παρουσία της σε τελικό ευρωπαϊκού πρωταθλήματος έφθασε σε ρεκόρ περιόδου στα 4,60μ. και στην 6η θέση, έχοντας την ευκαιρία να διεκδικήσει μετάλλιο.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άντερλεχτ - ΠΑΟΚ: Φοβερό γκολ των Βέλγων στο 3-1 αλλά με αδράνεια της άμυνας",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561166/anterleht-paok-fobero-gkol-ton-belgon-sto-3-1-alla-me-adraneia-tis",
-          "snippet": "Στο 55ο λεπτό η άμυνα του ΠΑΟΚ αντέδρασε κάκιστα και ο Σίκαν με εξαιρετικό σουτ με φάλτσο έκανε το 3-1 για την Άντερλεχτ.",
+          "title": "Στεφανίδη: Η αγκαλιά με το γιο της μετά το τέλος των προσπαθειών της",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561185/stefanidi-i-agkalia-me-gio-tis-meta-telos-ton",
+          "snippet": "Η Κατερίνα Στεφανίδη ολοκλήρωσε τις προσπάθειές της στον τελικό του επί κοντώ στο Ευρωπαϊκό πρωτάθλημα Ανοιχτού στίβου, χαρίζοντας μία πολύ όμορφη στιγμή μετά το τέλος των προσπαθειών της.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η Σάρα Κούρτις back to back στα παγκόσμιο ρεκόρ στα 50μ. ύπτιο στο Παρίσι",
-          "url": "https://www.gazzetta.gr/kolymbisi/eyropaiko-protathlima-ygroy-stiboy/2561165/i-sara-koyrtis-back-back-sta-pagkosmio-rekor",
-          "snippet": "Η 19χρονη Ιταλίδα, Σάρα Κούρτις έγινε πρωταθλήτρια Ευρώπης στα 50μ. ύπτιο με παγκόσμιο ρεκόρ στα 26.56, βελτιώνοντας το παγκόσμιο ρεκόρ (26.63) που είχε πετύχει στον ημιτελικό.",
+          "title": "Βαθμολογία UEFA: Τσεχία και Πολωνία άνοιξαν την ψαλίδα από την Ελλάδα",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561184/bathmologia-uefa-tsehia-kai-polonia-anoixan-tin-psalida-apo-tin",
+          "snippet": "Κάκιστη βραδιά για την Ελλάδα, καθώς η ήττα του ΠΑΟΚ σε συνδυασμό με τα αποτελέσματα Τσέχων και Πολωνών μας απομάκρυναν λίγο περισσότερο από την 10η θέση της UEFA.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Αμπρος για το 2-1",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561164/anterleht-paok-gkol-toy-ampros-gia-2-1",
-          "snippet": "Στο 47' η Άντερλεχτ πήρε ξανά κεφάλι στο σκορ απέναντι στον ΠΑΟΚ με σκόρερ τον Άμπρος.",
+          "title": "Οι μεταγραφές της ημέρας στο μπάσκετ: Ανακοίνωσε Εντιάι ο Ολυμπιακός",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2561167/oi-metagrafes-tis-imeras-sto-mpasket-anakoinose-entiai-o-olympiakos",
+          "snippet": "Ο Εμπάι Εντιάι έκλεψε ολοκληρωτικά την παράσταση όσον αφορά τις μεταγραφικές κινήσεις της ημέρας στον χώρο του ευρωπαϊκού μπάσκετ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέικερς: Στο στόχαστρο ο Κρις Πολ για την ανάληψη ρόλου στην ομάδα",
-          "url": "https://www.gazzetta.gr/basketball/nba/2561162/leikers-sto-stohastro-o-kris-pol-gia-tin-analipsi-roloy-stin-omada",
-          "snippet": "Σύμφωνα με τη Ραμόνα Σέλμπερν του ESPN, οι Λος Άντζελες Λέικερς είναι πολύ πιθανό να προτείνουν στον Κρις Πολ την ανάληψη ρόλου στον οργανισμό.",
+          "title": "Παναθηναϊκός: Καταθέτει αίτημα για αναβολή της πρεμιέρας με την Κηφισιά",
+          "url": "https://www.gazzetta.gr/football/superleague/2561183/panathinaikos-katathetei-aitima-gia-anaboli-tis-premieras-me-tin",
+          "snippet": "Ο Παναθηναϊκός προχωράει στο αίτημα Joker Right για αναβολή της πρεμιέρας με την Κηφισιά μεταξύ του πρώτου και του δεύτερου παιχνιδιού με τη Χράντετς Κράλοβε.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κλήρωση Τζόκερ 13/8: Οι τυχεροί αριθμοί που κερδίζουν 3,3 εκατ. ευρώ",
-          "url": "https://www.gazzetta.gr/plus/2561163/klirosi-tzoker-138-oi-tyheroi-arithmoi-poy-kerdizoyn-33-ekat-eyro",
-          "snippet": "Oι τυχεροί αριθμοί στη σημερινή (13/08) κλήρωση του Τζόκερ, που μοιράζει τουλάχιστον 3.300.000 ευρώ στην πρώτη κατηγορία.",
+          "title": "Νάπολι: Παίρνει Μπαντιασίλε από την Τσέλσι",
+          "url": "https://www.gazzetta.gr/football/premier-league/2561182/napoli-pairnei-mpantiasile-apo-tin-tselsi",
+          "snippet": "Η Νάπολι ήρθε σε συμφωνία με την Τσέλσι για την απόκτηση του κεντρικού αμυντικού Μπαντιασίλε ως δανεικό με οψιόν αγοράς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αντερλεχτ - ΠΑΟΚ: Το γκολ του Ζίβκοβιτς για το 1-1",
-          "url": "https://www.gazzetta.gr/football/europa-league/2561160/anterleht-paok-gkol-toy-zibkobits-gia-1-1",
-          "snippet": "Στο 34' ο ΠΑΟΚ έφερε το παιχνίδι του Κονστάντ Βάντεν Στοκ στα ίσια με σκόρερ τον Αντρίγια Ζίβκοβιτς.",
+          "title": "ΠΑΟΚ: Οι ημερομηνίες των αγώνων με τη Μπραν",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2561181/paok-oi-imerominies-ton-agonon-me-ti-mpran",
+          "snippet": "Ο ΠΑΟΚ θα παίξει με τη Μπραν στις 20 και 27 Αυγούστου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Αντετοκούνμπο: Τότε επιστρέφει στο Μιλγουόκι ως αντίπαλος των Μπακς",
-          "url": "https://www.gazzetta.gr/basketball/nba/2561161/antetokoynmpo-tote-epistrefei-o-antetokoynmpo-sto-milgoyoki-os-antipalos",
-          "snippet": "Το NBA ανακοίνωσε το πλήρες πρόγραμμα του NBA και έγινε γνωστή και η ημερομηνία που ο Γιάννης Αντετοκούνμπο θα επιστρέψει ως αντίπαλος των Μπακς στο Μιλγουόκι.",
+          "title": "Άντερλεχτ - ΠΑΟΚ 3-1: Τα Highlights της ήττας του Δικεφάλου του Βορρά",
+          "url": "https://www.gazzetta.gr/football/europa-league/2561180/anterleht-paok-3-1-ta-highlights-tis-ittas-toy-dikefaloy-toy-borra",
+          "snippet": "Ο ΠΑΟΚ ηττήθηκε με σκορ 3-1 από την Άντερλεχτ σε ένα ματς όπου είχε εκτός των άλλων και τις αποβολές των Ζίβκοβιτς και Γερεμέγεφ.",
           "source": "Gazzetta"
         }
       ]
