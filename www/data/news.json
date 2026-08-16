@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T00:46:16.156558+00:00",
+  "updated": "2026-08-16T04:26:55.564186+00:00",
   "sections": [
     {
       "id": "greek",
@@ -101,12 +101,24 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-        "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-        "snippet": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+        "title": "After Women in India Joined Protests, Online Harassment Followed",
+        "url": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
+        "snippet": "Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society.",
         "source": "NYT World"
       },
       "items": [
+        {
+          "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
+          "url": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
+          "snippet": "Immigrants have long eased labor shortages on farms and factories in Italy. But churches also need foreign-born priests, like the Rev. Vincent Souly of the Ivory Coast.",
+          "source": "NYT World"
+        },
+        {
+          "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
+          "url": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
+          "snippet": "Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.",
+          "source": "NYT World"
+        },
         {
           "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
           "url": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
@@ -177,18 +189,6 @@
           "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
           "url": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
           "snippet": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
-          "url": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
-          "snippet": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Quit Lit",
-          "url": "https://www.nytimes.com/2026/08/15/briefing/quit-lit.html",
-          "snippet": "There are good reasons to abandon books we’re not enjoying, but our attenuated attention might lead us to tap out too early.",
           "source": "NYT World"
         }
       ]
