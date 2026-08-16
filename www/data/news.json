@@ -1,16 +1,34 @@
 {
-  "updated": "2026-08-15T20:12:25.507195+00:00",
+  "updated": "2026-08-16T00:46:16.156558+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Συνεχίζεται η μάχη με τις φλόγες στη Σκύρο: Ενισχύονται οι επίγειες δυνάμεις – Αναμένεται δύσκολη νύχτα",
-        "url": "https://www.efsyn.gr/ellada/1448469/synehizetai-i-mahi-me-tis-floges-sti-skyro-enishyontai-oi-epigeies-dynameis-anamenetai-dyskoli-nyhta/",
-        "snippet": "Στην περιοχή πνέουν θυελλώδεις άνεμοι που δυσχεραίνουν σημαντικά το έργο της πυροσβεστικής.",
+        "title": "Εύβοια: Σύγκρουση ταχύπλοου με ιστιοφόρο έξω από την Ερέτρια – Δύο τραυματίες",
+        "url": "https://www.efsyn.gr/ellada/1448480/eyvoia-sygkroysi-tahyplooy-me-istioforo-exo-apo-tin-eretria-dyo-traymaties/",
+        "snippet": "Οι Αρχές ερευνούν τα αίτια του ατυχήματος.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Bloomberg: Ιράν και Ομάν κοντά σε συμφωνία για τα Στενά του Ορμούζ",
+          "url": "https://www.efsyn.gr/kosmos/1448478/bloomberg-iran-kai-oman-konta-se-symfonia-gia-ta-stena-toy-ormoyz/",
+          "snippet": "Ο «ναυτιλιακός χάρτης» που φέρεται να επεξεργάζονται οι δύο σύμμαχοι με στόχο την κυριαρχία τους και την ασφαλή διέλευση των πλοίων.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πυρκαγιά στη Βοιωτία: Ενδείξεις για σοβαρές αστοχίες στο αιολικό πάρκο – Τι έδειξε η αυτοψία",
+          "url": "https://www.efsyn.gr/ellada/1448475/pyrkagia-sti-voiotia-endeixeis-gia-sovares-astohies-sto-aioliko-parko-ti-edeixe-i-aytopsia/",
+          "snippet": "Στο μικροσκόπιο κατασκευαστικές ελλείψεις στο δίκτυο του αιολικού πάρκου, απ' όπου ξεκίνησε η μεγαλύτερη πυρκαγιά του φετινού καλοκαιριού.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Συνεχίζεται η μάχη με τις φλόγες στη Σκύρο: Ενισχύονται οι επίγειες δυνάμεις – Αναμένεται δύσκολη νύχτα",
+          "url": "https://www.efsyn.gr/ellada/1448469/synehizetai-i-mahi-me-tis-floges-sti-skyro-enishyontai-oi-epigeies-dynameis-anamenetai-dyskoli-nyhta/",
+          "snippet": "Στην περιοχή πνέουν θυελλώδεις άνεμοι που δυσχεραίνουν σημαντικά το έργο της πυροσβεστικής.",
+          "source": "EfSyn"
+        },
         {
           "title": "Πάρος: Απολύθηκε ο οδηγός ταξί που ξυλοκόπησε υπάλληλο εταιρείας για μια θέση πάρκινγκ",
           "url": "https://www.efsyn.gr/ellada/1448467/paros-apolythike-o-odigos-taxi-poy-xylokopise-ypallilo-etaireias-gia-mia-thesi-parkingk/",
@@ -76,24 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1448444/anoixan-oi-oyranoi-sti-mani-potamia-oi-dromoi-apo-mpoyrini-to-nero-mpike-sta-spitia-vinteo/",
           "snippet": "Ισχυρό μπουρίνι έπληξε τη Μάνη ανήμερα του Δεκαπενταύγουστου, μετατρέποντας τους δρόμους σε χειμάρρους. Πλημμύρισαν σπίτια και καταλύματα, παρασύρθηκαν ΙΧ.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Έγραψε ιστορία στο Ευρωπαϊκό Κολύμβησης ο Σίσκος – Χάλκινο στα 200μ. πεταλούδα και πανελλήνιο ρεκόρ",
-          "url": "https://www.efsyn.gr/athlitismos/1448441/egrapse-istoria-sto-eyropaiko-kolymvisis-o-siskos-halkino-sta-200m-petaloyda-kai-panellinio-rekor/",
-          "snippet": "Νέο πανελλήνιο ρεκόρ με 1:54.13 σημείωσε ο Απόστολος Σίσκος, κατακτώντας το χάλκινο μετάλλιο στα 200μ. πεταλούδα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ινδονησία: Αυξάνονται δραματικά οι νεκροί από τον σεισμό – «Σαν να βρισκόμασταν πάνω σε τραμπολίνο»",
-          "url": "https://www.efsyn.gr/kosmos/1448437/indonisia-ayxanontai-dramatika-oi-nekroi-apo-ton-seismo-san-na-vriskomastan-pano-se-trampolino/",
-          "snippet": "Σοκάρουν οι μαρτυρίες από τον σεισμό των 7,7 Ρίχτερ που σάρωσε τη χώρα. Οι αρχές συνεχίζουν τις προσπάθειες διάσωσης, ενώ οι μετασεισμοί εντείνουν την ανησυχία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αμπντούλ ελ Σαγέντ: Ενας υποψήφιος των Δημοκρατικών με «ταυτότητα»",
-          "url": "https://www.efsyn.gr/stiles/1447738/ampntoyl-el-sagent-enas-ypopsifios-ton-dimokratikon-me-taytotita/",
-          "snippet": "Η επικράτηση του αριστερού υποψηφίου, γιου Αιγύπτιου μετανάστη, στις εσωκομματικές εκλογές των Δημοκρατικών επιβεβαιώνει ότι το κόμμα βρίσκεται σε κρίσιμο σταυροδρόμι",
-          "source": "EfSyn"
         }
       ]
     },
@@ -123,6 +123,12 @@
           "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
           "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
           "snippet": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 170,000 Canadians want him gone.",
+          "source": "NYT World"
+        },
+        {
+          "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
+          "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
+          "snippet": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
           "source": "NYT World"
         },
         {
@@ -174,15 +180,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Britain’s Farage Takes a Page From Trump’s Playbook Amid Investigations",
-          "url": "https://www.nytimes.com/2026/08/14/world/europe/farage-britain-trump-playbook-analysis.html",
-          "snippet": "Nigel Farage, the Reform U.K. leader who resigned from Parliament and won back his seat on Thursday, stays on the offensive and says voters don’t care about allegations of financial impropriety.",
-          "source": "NYT World"
-        },
-        {
-          "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-          "url": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-          "snippet": "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune.",
+          "title": "Bou Meng, Rare Survivor of Khmer Rouge Torture House, Dies at 85",
+          "url": "https://www.nytimes.com/2026/08/15/world/asia/bou-meng-dead.html",
+          "snippet": "Saved by his ability to paint, he was one of only a handful of prisoners to make it out of the brutal prison Tuol Sleng.",
           "source": "NYT World"
         },
         {
@@ -197,12 +197,18 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-        "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "source": "TechCrunch"
+        },
         {
           "title": "SpaceX officially closes its Cursor acquisition",
           "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -280,12 +286,6 @@
           "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
           "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-          "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-          "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Eurobasket U16: MVP ο Μπερουέ, στην καλύτερη πεντάδα ο ανιψιός του Γιασικεβίτσιους",
-        "url": "https://www.gazzetta.gr/basketball/2561591/eurobasket-u16-mvp-o-mperoye-stin-kalyteri-pentada-o-anipsios-toy",
-        "snippet": "Ο Μπέντζαμιν Μπερουέ οδήγησε τη Λετονία στην κατάκτηση του Eurobasket U16 και αναδείχθηκε πολυτιμότερος παίκτης της διοργάνωσης.",
+        "title": "Ραχίμοβα - Σάκκαρη 0-2: Πρόκριση στον δεύτερο γύρο με σκαμπανεβάσμα",
+        "url": "https://www.gazzetta.gr/tennis/wta/2561606/rahimoba-sakkari-0-2-prokrisi-ston-deytero-gyro-me-skampanebasma",
+        "snippet": "Στον τρίτο γύρο του τουρνουά στο Σινσινάτι προκρίθηκε η Μαρία Σάκκαρη επικρατώντας με 6-2, 5-7, 6-1 της Καμίλα Ραχίμοβα στον δεύτερο γύρο της διοργάνωσης.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Ευρωπαϊκό Στίβου 2026: Ο O Τσίτσος στη 12η θέση στον ακοντισμό",
-          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561589/eyropaiko-stiboy-2026-o-o-tsitsos-sti-12i",
-          "snippet": "Ο Δημήτρης Τσίτσος έμεινε μακριά από το ατομικό ρεκόρ του προκριματικού και με 71.45μ. περιορίστηκε στη 12η θέση στον τελικό του ακοντισμού στο ευρωπαϊκό πρωτάθλημα στο Παρίσι.",
+          "title": "Φρόιλερ - Ολυμπιακός: Διετές το deal με τον Ελβετό που έφτασε Ελλάδα",
+          "url": "https://www.gazzetta.gr/football/superleague/2561605/froiler-olympiakos-dietes-deal-me-ton-elbeto-poy-eftase-ellada",
+          "snippet": "Ο πολύπειρος Ρέμο Φρόιλερ θα κλείσει στον Ολυμπιακό με ένα διετές συμβόλαιο και ήδη είναι στην Αθήνα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Η Τουρκία στο στόχαστρο της Ρωσίας: «Οι σχέσεις των δύο χωρών θα επιβαρυνθούν περαιτέρω» λέει η Μαρία Ζαχάροβα",
-          "url": "https://www.gazzetta.gr/plus/2561577/i-toyrkia-sto-stohastro-tis-rosias-oi-sheseis-ton-dyo-horon-tha-epibarynthoyn",
-          "snippet": "Το ρωσικό ΥΠΕΞ καλεί ΗΠΑ και Τουρκία να εξηγήσουν τις αναφορές για νέες αποστολές όπλων στην Ουκρανία και προειδοποιεί για επιπτώσεις στις σχέσεις τους.",
+          "title": "La Liga: Ανατροπή στο 90΄+7΄για τη Σεβίλλη, πρεμιέρα με τριάρα για την Αλαβές",
+          "url": "https://www.gazzetta.gr/football/la-liga/2561602/la-liga-anatropi-sto-907gia-ti-sebilli-premiera-me-triara-gia-tin-alabes",
+          "snippet": "Αγχωτική νίκη για τη Σεβίλλη, η οποία υπέταξε τη Βαγιεκάνο με ανατροπή 2-1 στις καθυστερήσεις. Με το δεξί στη La Liga η Αλαβές που επικράτησε 3-0 επί της Χετάφε.",
           "source": "Gazzetta"
         },
         {
-          "title": "Κωνσταντέλιας: ΠΑΟΚ - Στη Γερμανία επιμένουν για Ντόρτμουντ",
-          "url": "https://www.gazzetta.gr/football/superleague/2561588/konstantelias-paok-sti-germania-epimenoyn-gia-ntortmoynt",
-          "snippet": "Οι δηλώσεις του τεχνικού της Ντόρτμουντ και η νέα αναφορά των Γερμανών στον άσο του ΠΑΟΚ Γιάννη Κωνσταντέλια.",
+          "title": "Ευρωπαϊκό Στίβου: Ο Άντι Ντίαζ Χερνάντεζ με 18,15μ. στο Νο.4 όλων των εποχών στο τριπλούν",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561601/eyropaiko-stiboy-o-anti-ntiaz-hernantez-me",
+          "snippet": "Το άλμα από τον Άντι Ντίαζ Χερνάντεζ στα 18,15μ. στον τελικό του τριπλούν σημάδεψε την 5η ημέρα στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γαλλία - Λετονία 69-75: Ο τρομερός Μπερουέ την έστεψε πρωταθλήτρια Ευρώπης U16!",
-          "url": "https://www.gazzetta.gr/basketball/2561586/gallia-letonia-69-75-o-tromeros-mperoye-tin-estepse-protathlitria-eyropis-u16",
-          "snippet": "Η Λετονία κατέκτησε το Eurobasket U16 Παίδων καθώς στον μεγάλο τελικό επικράτησε της Γαλλίας με 75-69 χάρη στον απίθανο, Μπέντζαμιν Μπερουέ.",
+          "title": "Κωνσταντέλιας: ΠΑΟΚ - Η Θύρα 4 απαίτησε την παραμονή του",
+          "url": "https://www.gazzetta.gr/football/superleague/2561599/konstantelias-paok-i-thyra-4-apaitise-tin-paramoni-toy",
+          "snippet": "Η ανάρτηση της θύρας 4 για τον διεθνή άσο του ΠΑΟΚ Γιάννη Κωνσταντέλια.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μαχμούτογλου: Ευστόχησε σε 71 σερί τρίποντα σε ατομική προπόνηση!",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2561585/mahmoytogloy-eystohise-se-71-seri-triponta-se-atomiki-proponisi",
-          "snippet": "Εντυπωσίασε άπαντες το βίντεο με τον Μελίχ Μαχμούτογλου να ευστοχεί σε 71 συνεχόμενα τρίποντα κατά την ατομική του προπόνηση.",
+          "title": "Τσιάμης: Αξιοπρεπέστατη παρουσία και 8η θέση στο ευρωπαϊκό",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561598/tsiamis-axioprepestati-paroysia-kai-8i-thesi",
+          "snippet": "Ο Δημήτρης Τσιάμης συνδύασε την 8η παρουσία του σε ευρωπαϊκό πρωτάθλημα, με την 8η θέση στο τριπλούν στη διοργάνωση του Μπέρμιγχαμ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Φρόιλερ: Ολυμπιακός - Σε αναμονή του Ελβετού οι Πειραιώτες",
-          "url": "https://www.gazzetta.gr/football/superleague/2561584/froiler-olympiakos-se-anamoni-toy-elbetoy-oi-peiraiotes",
-          "snippet": "Ο Ρέμο Φρόιλερ έρχεται στην Αθήνα για να ολοκληρώσει τη μεταγραφή του στον Ολυμπιακό.",
+          "title": "Ολυμπιακός - μεταγραφές: Φορτσάρει για να κλείσει τον Γκονζάλες",
+          "url": "https://www.gazzetta.gr/football/superleague/2561597/olympiakos-metagrafes-fortsarei-gia-na-kleisei-tpn-gkonzales",
+          "snippet": "Ο Ολυμπιακός κινείται άκρως δυναμικά.για να κλείσει τον νεαρό Μεξικανό σέντερ φορ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μουσιάλα: Λιποθύμησε κατά τη διάρκεια φιλικού της Μπάγερν με 33 βαθμούς Κελσίου",
-          "url": "https://www.gazzetta.gr/football/2561583/moysiala-lipothymise-kata-ti-diarkeia-filikoy-mats-me-33-bathmoys-kelsioy",
-          "snippet": "Ανησύχησαν στη Μπάγερν με τον Τζαμάλ Μουσιάλα, ο οποίος υπέστη λιποθυμικό επεισόδιο λόγω της υψηλής θερμοκρασίας που επικρατούσε στο φιλικό με τη Λειψία.",
+          "title": "Ευρωπαϊκό Στίβου 2026: Η εθνική ομάδα 4Χ100μ. ανδρών στην 6η θέση",
+          "url": "https://www.gazzetta.gr/stibos/eyropaiko-protathlima-anoihtoy-stiboy/2561596/eyropaiko-stiboy-2026-i-ethniki-omada-4h100m",
+          "snippet": "Οι Γιάννης Βοσκόπουλος, Νίκος Παναγιωτόπουλος, Σωτήρης Γκαργκάνης και Βασίλης Μυριανθόπουλος ήταν εξαιρετικοί και στον τελικό στα 4Χ100μ. ανδρών και με 39.21 κατέκτησε την 6η θέση στο ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ.",
           "source": "Gazzetta"
         },
         {
-          "title": "F1, Alpine H2H: Ο Γκασλί το προβάδισμα, ο Κολαπίντο βελτιώθηκε",
-          "url": "https://www.gazzetta.gr/gmotion/2561567/f1-alpine-h2h-o-gkasli-probadisma-o-kolapinto-beltiothike",
-          "snippet": "Τι συνέβη ανάμεσα στους Πιέρ Γκασλί και Φράνκο Κολαπίντο στην εσωτερική μάχη της Alpine μετά από 11 αγώνες στο 2026; Ακολουθούν οι απαντήσεις.",
+          "title": "Χαλιμπέρτον για Αντετοκούνμπο: «Ο Γιάννης είναι από τους πιο σκληρούς παίκτες που έχουμε αντιμετωπίσει!»",
+          "url": "https://www.gazzetta.gr/basketball/nba/2561592/halimperton-gia-antetokoynmpo-o-giannis-einai-apo-toys-pio-skliroys-paiktes",
+          "snippet": "Ο Τάιρις Χαλιμπέρτον μίλησε για τις δυσκολίες που έχουν αντιμετωπίσειοι Πέισερς απέναντι στον Γιάννη Αντετοκούνμπο, χαρακτηρίζοντάς τον τον πιο σκληρό παίκτη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Σαλάχ: Ντεμπούτο στην Τουρκία κόντρα στην Κασίμπασα του Γιαννιώτη",
-          "url": "https://www.gazzetta.gr/football/super-league-toyrkias/2561582/salah-ntempoyto-stin-toyrkia-kontra-stin-kasimpasa-toy",
-          "snippet": "Ο Μοχάμεντ Σαλάχ πραγματοποίησε το ντεμπούτο του στην Τουρκία με τη φανέλα της Τράμπζονσπορ, όταν πέρασε αλλαγή στον αγώνα απέναντι στην Κασίμπασα του Γιαννιώτη.",
+          "title": "Έδωσε 2 λίρες για το νυφικό των ονείρων της: «Δεν μπορούσα να το πιστέψω»",
+          "url": "https://www.gazzetta.gr/plus/2561587/edose-2-lires-gia-nyfiko-ton-oneiron-tis-den-mporoysa-na-pistepso",
+          "snippet": "Μια κοπέλα από την Αγγλία βρήκε το νυφικό των ονείρων της σε μια βιτρίνα και αυτό κόστιζε μόλις 2 λίρες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπάνκι: Εξήγησε τον λόγο που απέρριψε προτάσεις ομάδων",
-          "url": "https://www.gazzetta.gr/basketball/2561581/mpanki-exigise-ton-logo-poy-aperripse-protaseis-omadon",
-          "snippet": "Σε συνέντευξή του ο Λούκα Μπάνκι μίλησε για την εικόνα της εθνικής Ιταλίας, αλλά αναφέρθηκε και στον λόγο που απέρριψε προτάσεις από συλλόγους.",
+          "title": "Παρί Σεν Ζερμέν: Ανακοίνωσε την απόκτηση του Μίκα Γκοντς από τον Άγιαξ",
+          "url": "https://www.gazzetta.gr/football/ligue-1/2561595/pari-sen-zermen-anakoinose-tin-apoktisi-toy-mika-gkonts-apo-ton-agiax",
+          "snippet": "Ενίσχυση στα «φτερά» της επίθεσης για την Παρί Σεν Ζερμέν, η οποία ανακοίνωσε την προσθήκη του 21χρονου, Μίκα Γκοντς, από τον Άγιαξ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ξεκίνησε το 1998 και βρίσκεται ακόμη στον δρόμο: Η διαδρομή του ανθρώπου που αρνείται να πάρει μεταφορικό μέσο",
-          "url": "https://www.gazzetta.gr/plus/2561568/xekinise-1998-kai-brisketai-akomi-ston-dromo-i-diadromi-toy-anthropoy-poy-arneitai-na",
-          "snippet": "Ένα ταξίδι που υπολόγιζε ότι θα διαρκούσε περίπου 12 χρόνια έχει εξελιχθεί σε μια αποστολή σχεδόν τριών δεκαετιών.",
+          "title": "Τσιτσιπάς: Βράδυ Κυριακής (16/8) η αναμέτρηση με τον Οζέρ Αλιασίμ",
+          "url": "https://www.gazzetta.gr/tennis/atp/2561594/tsitsipas-brady-kyriakis-168-i-anametrisi-me-ton-ozer-aliasim",
+          "snippet": "Την ώρα της αναμέτρησής του με τον Φελίξ Οζέρ Αλιασίμ έμαθε ο Στέφανος Τσιτσιπάς, στο πλαίσιο του δεύτερου γύρου στο τουρνουά του Σινσινάτι.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ευρωπαϊκό Υγρού Στίβου: Ο Χρήστου με την 3η επίδοση στον τελικό στα 100μ. ύπτιο στο Παρίσι",
-          "url": "https://www.gazzetta.gr/kolymbisi/2561580/eyropaiko-ygroy-stiboy-o-hristoy-me-tin-3i-epidosi-ston-teliko-sta-100m-yptio-sto",
-          "snippet": "Ο Απόστολος Χρήστου σημείωσε τον 3ο καλύτερο χρόνο των ημιτελικών (52.94) και το απόγευμα της Κυριακής (16/8) καλείται να υπερασπιστεί τον τίτλο του στα 100μ. ύπτιο στο ευρωπαϊκό πρωτάθλημα στο Παρίσι.",
+          "title": "ΑΕΚ: Την ευκαιρία ελέω ανταγωνισμού, την εκμεταλλεύεσαι μόνο με υπέρβαση!",
+          "url": "https://www.gazzetta.gr/football/superleague/2561557/aek-tin-eykairia-eleo-antagonismoy-tin-ekmetalleyesai-mono-me-yperbasi",
+          "snippet": "Ο Γιώργος Τσακίρης εστιάζει στην ανάγκη για απόκτηση αριστερού μπακ, στόπερ και μέσου που θα απογειώσουν τις πιθανότητες της ΑΕΚ να διατηρήσει τα κεκτημένα...",
           "source": "Gazzetta"
         },
         {
-          "title": "Αρμάντο Γκονζάλες: Ολυμπιακός - «Οι Έλληνες έκαναν πρόταση 8 εκατ. δολάρια»",
-          "url": "https://www.gazzetta.gr/football/superleague/2561579/armanto-gkonzales-olympiakos-oi-ellines-ekanan-protasi-8-ekat-dolaria",
-          "snippet": "Στο Μεξικό υποστηρίζουν ότι ο Ολυμπιακός δίνει 7 εκατ. ευρώ για τον Αρμάντο Γκονζάλες.",
+          "title": "Ολυμπιακός: Ο Ικάρντι απέρριψε πρόταση των ερυθρόλευκων, σύμφωνα με τον Ντι Μάρτζιο",
+          "url": "https://www.gazzetta.gr/football/superleague/2561593/olympiakos-o-ikarnti-aperripse-protasi-ton-erythroleykon-symfona-me",
+          "snippet": "Ο Τζανλούκα Ντι Μάρτζιο υποστηρίζει πως ο Μάουρο Ικάνρτι έχει πει «όχι» σε πρόταση του Ολυμπιακού.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τσιτσιπάς: «Θα πάμε με τον Καραλή να δούμε αγώνα του Αντετοκούνμπο στο Μαϊάμι!»",
-          "url": "https://www.gazzetta.gr/tennis/nba/2561578/tsitsipas-tha-pame-me-ton-karali-na-doyme-agona-toy-antetokoynmpo-sto-maiami",
-          "snippet": "Διαβάστε τη συνέντευξη που παραχώρησε ο Στέφανος Τσιτσιπάς στο Tennis Channel όπου αναφέρθηκε στη στενή του φιλία με τον Γιάννη Αντετοκούνμπο και τον Εμμανουήλ Καραλή.",
+          "title": "Αντετοκούνμπο: Προκάλεσε τον Γουεμπανιάμα σε παρτίδα... σκάκι!",
+          "url": "https://www.gazzetta.gr/basketball/nba/2561590/antetokoynmpo-prokalese-ton-goyempaniama-se-partida-skaki",
+          "snippet": "Στο πλαίσιο συνέντευξης που παραχώρησε ο Γιάννης Αντετοκούνμπο, προκάλεσε τον Βίκτορ Γουεμπανιάμα σε σκάκι.",
           "source": "Gazzetta"
         }
       ]
