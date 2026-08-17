@@ -1,16 +1,58 @@
 {
-  "updated": "2026-08-17T00:44:12.377672+00:00",
+  "updated": "2026-08-17T04:32:44.153883+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "«Ασημένιος» ο Καραλής στο Ευρωπαϊκό Πρωτάθλημα Στίβου",
-        "url": "https://www.efsyn.gr/athlitismos/1448773/asimenios-o-karalis-sto-eyropaiko-protathlima-stivoy/",
-        "snippet": "Ο «Μανόλο» έκανε άλμα στα 5,95 μ. και «κλείδωσε» το ασημένιο μετάλλιο.",
+        "title": "Πέθανε στα 36 της η Χέιντεν Πανετιέρ – Η γνωστή ηθοποιός των «Heroes» και «Nashville»",
+        "url": "https://www.efsyn.gr/life/1448806/pethane-sta-36-tis-i-heinten-panetier-i-gnosti-ithopoios-ton-heroes-kai-nashville/",
+        "snippet": "Η ηθοποιός είχε μιλήσει ανοιχτά τα προηγούμενα χρόνια για τη μάχη της με τον εθισμό στο αλκοόλ και την κατάθλιψη.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Σεισμός στην Κολομβία: 300 νεκροί και πάνω 140 αγνοούμενοι – Συνεχίζονται οι έρευνες χωρίς πολλές ελπίδες",
+          "url": "https://www.efsyn.gr/kosmos/1448795/seismos-stin-kolomvia-300-nekroi-kai-pano-140-agnooymenoi-synehizontai-oi-ereynes-horis-polles-elpides/",
+          "snippet": "Σε κέντρα υποδοχής, χρησιμοποιούνται κωδικοί QR ώστε σεισμοπαθείς να δηλώσουν εξαφανίσεις συγγενών τους, ή τις ζημιές που υπέστησαν τα ακίνητά τους.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ρωσία – Ουκρανία: Σφοδρό «πινγκ πονγκ» με drones και πυραύλους σε κρίσιμες υποδομές",
+          "url": "https://www.efsyn.gr/kosmos/1448783/rosia-oykrania-sfodro-pingk-pongk-me-drones-kai-pyrayloys-se-krisimes-ypodomes/",
+          "snippet": "Συνεχίστηκε και το Σαββατοκύριακο το πολύνεκρο πυραυλικό πινγκ πονγκ μεταξύ Ρωσίας και Ουκρανίας, με το Κίεβο να εξαπολύει νέα μαζική επίθεση με περίπου 600 drones - καμικάζι κατά της Μόσχας, την ώρα που η Ρωσία απαντά με συστηματικό βομβαρδισμό των ουκρανικών λιμανιών και στρατο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πάρος: «Φοβήθηκα, θα μπορούσε να με είχε σκοτώσει – Τον χτύπησα σε άμυνα» λέει ο 71χρονος μετά το επεισόδιο",
+          "url": "https://www.efsyn.gr/ellada/1448791/paros-fovithika-tha-mporoyse-na-me-eihe-skotosei-ton-htypisa-se-amyna-leei-o-71hronos-meta-to-epeisodio/",
+          "snippet": "«Έκανα μήνυση. Ήρθε χτες και μου ζήταγε συγγνώμη, αλλά του είπα “δεν σε συγχωρώ. Πρώτα θα βγεις να ζητήσεις δημόσια συγγνώμη στην Πάρο”».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Φονικές πυρκαγιές στη Σαλαμίνα: Πώς εξαπλώθηκαν μέσα σε λίγα λεπτά – Τα σενάρια και οι καταγγελίες",
+          "url": "https://www.efsyn.gr/ellada/1448776/fotia-sti-salamina-pos-exaplothike-mesa-se-liga-lepta-dyo-nekroi-502-apegklovistikan/",
+          "snippet": "Τον θάνατο ενός ζευγαριού ηλικιωμένων και καταστροφές κατοικιών προκάλεσε η πύρινη λαίλαπα που, όπως καταγγέλλει κάτοικος της περιοχής, ξεκίνησε από οικόπεδο-σκουπιδότοπο",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Εως 36°C σήμερα, εξασθενούν τα μελτέμια – Τοπικές βροχές και καταιγίδες στα δυτικά",
+          "url": "https://www.efsyn.gr/ellada/1448785/kairos-eos-36c-simera-exasthenoyn-ta-meltemia-topikes-vrohes-kai-kataigides-sta-dytika/",
+          "snippet": "Στο μεγαλύτερο μέρος της χώρας θα επικρατήσει ηλιοφάνεια για αρκετές ώρες.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 17 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1448782/eortologio-poioi-giortazoyn-simera-17-aygoystoy/",
+          "snippet": "Η 17η Αυγούστου είναι ημέρα γιορτής για αρκετούς πιστούς, λίγες ημέρες μετά τη μεγάλη γιορτή της Κοιμήσεως της Θεοτόκου.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "«Ασημένιος» ο Καραλής στο Ευρωπαϊκό Πρωτάθλημα Στίβου",
+          "url": "https://www.efsyn.gr/athlitismos/1448773/asimenios-o-karalis-sto-eyropaiko-protathlima-stivoy/",
+          "snippet": "Ο «Μανόλο» έκανε άλμα στα 5,95 μ. και «κλείδωσε» το ασημένιο μετάλλιο.",
+          "source": "EfSyn"
+        },
         {
           "title": "Μαντόνα: Στην Κέρκυρα για τα 68ά γενέθλιά της – Η έκπληξη και ο χορός πάνω στο σκάφος",
           "url": "https://www.efsyn.gr/life/1448771/mantona-stin-kerkyra-gia-ta-68a-genethlia-tis-i-ekplixi-kai-o-horos-pano-sto-skafos/",
@@ -51,48 +93,6 @@
           "title": "Φωτιά στην Κάλυμνο: «Παραμείνετε σε ετοιμότητα» λέει το 112",
           "url": "https://www.efsyn.gr/ellada/1448754/fotia-stin-kalymno-parameinete-se-etoimotita-leei-to-112/",
           "snippet": "Πυρκαγιά στην περιοχή Βλυχάδια στην Κάλυμνο.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Απάντηση Αθήνας σε Άγκυρα: Παράνομα τα δύο νέα θαλάσσια πάρκα, δεν δημιουργούν τετελεσμένα",
-          "url": "https://www.efsyn.gr/politiki/1448752/apantisi-athinas-se-agkyra-paranoma-ta-dyo-nea-thalassia-parka-den-dimioyrgoyn-tetelesmena/",
-          "snippet": "Η τουρκική ενέργεια «δεν παράγει κανένα απολύτως έννομο αποτέλεσμα», τονίζει το ΥΠΕΞ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σπάει το φράγμα Χαμάς – ΗΠΑ: Αναμένεται συνάντηση με Κούσνερ για το σχέδιο Τραμπ για τη Γάζα",
-          "url": "https://www.efsyn.gr/kosmos/1448750/spaei-to-fragma-hamas-ipa-anamenetai-synantisi-me-koysner-gia-to-shedio-tramp-gia-ti-gaza/",
-          "snippet": "Οι ΗΠΑ φαίνεται να επισπεύδουν το σχέδιο που προτείνει ο Τραμπ για τη Γάζα και πρόκειται να συναντηθούν με τη Χαμάς, την οποία χαρακτήριζαν χρόνια «τρομοκρατική οργάνωση».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Καίγεται εργοστάσιο με πλαστικά στη Λάρισα – Ήχησε το 112",
-          "url": "https://www.efsyn.gr/ellada/1448748/kaigetai-ergostasio-me-plastika-sti-larisa-ihise-to-112/",
-          "snippet": "Πυκνό νέφος καπνού στην περιοχή.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Φωτιά στο Μεσολόγγι: Αναγκαστική προσθαλάσσωση πυροσβεστικού αεροσκάφους",
-          "url": "https://www.efsyn.gr/ellada/1448745/fotia-sto-mesologgi-anagkastiki-prosthalassosi-pyrosvestikoy-aeroskafoys/",
-          "snippet": "Σώος ο πιλότος.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ιδιωτικά πανεπιστήμια: Ο καθηγητής που έκανε την προσφυγή εξηγεί τι σημαίνει η απόφαση του ΣτΕ",
-          "url": "https://www.efsyn.gr/ellada/1448743/idiotika-panepistimia-o-kathigitis-poy-ekane-tin-prosfygi-exigei-ti-simainei-i-apofasi-toy-ste/",
-          "snippet": "«Σοβαρότατες συνέπειες» βλέπει ο καθηγητής της Νομικής Σχολής Αθηνών Παναγιώτης Λαζαράτος - Τι υποστηρίζει για το κανονιστικό πλαίσιο και τις άδειες των ΝΠΠΕ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τουρκία: Δύο νέα θαλάσσια πάρκα με διατάγματα Ερντογάν σε Αιγαίο και Ανατολική Μεσόγειο – Οι χάρτες",
-          "url": "https://www.efsyn.gr/kosmos/1448736/toyrkia-dyo-nea-thalassia-parka-me-diatagmata-erntogan-se-aigaio-kai-anatoliki-mesogeio-oi-hartes/",
-          "snippet": "Αποκλεισμός της περιοχής γύρω από το Καστελλόριζο και χωροθέτηση «προστατευόμενης ζώνης» μεταξύ Λήμνου και Σαμοθράκης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Επάνοδος στην κοιτίδα του αθλητισμού!",
-          "url": "https://www.efsyn.gr/stiles/1447844/epanodos-stin-koitida-toy-athlitismoy/",
-          "snippet": "Επειτα από 1.611 (!) χρόνια επίσημοι αθλητές (αλλά και αθλήτριες) ρίπτες σφαίρας πάτησαν (18/8/2004) την Αρχαία Ολυμπία. Δέος αλλά και βρόμα ντόπινγκ",
           "source": "EfSyn"
         }
       ]
@@ -182,13 +182,13 @@
         {
           "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
           "url": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-          "snippet": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 190,000 Canadians want him gone.",
+          "snippet": "Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 200,000 Canadians want him gone.",
           "source": "NYT World"
         },
         {
-          "title": "No Way Out",
-          "url": "https://www.nytimes.com/2026/08/16/world/deportations-eswatini-italy-heist.html",
-          "snippet": "The U.S. is building an archipelago of overseas detention sites where deportees are often held indefinitely without charge.",
+          "title": "U.S. and Iran Blow Through Deadline to Agree to a Broad Deal to End War",
+          "url": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-mou-deadline.html",
+          "snippet": "President Trump said a cease-fire agreed in June would lead to limits on Iran’s nuclear program and finish the conflict, but the countries appear far apart.",
           "source": "NYT World"
         }
       ]
