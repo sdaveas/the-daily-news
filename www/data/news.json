@@ -1,16 +1,64 @@
 {
-  "updated": "2026-08-18T00:43:04.517821+00:00",
+  "updated": "2026-08-18T04:26:37.527395+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Κύπελλο Ελλάδας: Ποιες ομάδες πέρασαν στη League Phase [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1449509/kypello-elladas-poies-omades-poy-perasan-sti-league-phase-vinteo/",
-        "snippet": "Εντυπωσίασαν στους πρώτους τους αγώνες οι Βόλος, ΑΕΛ και Άρης.",
+        "title": "ΗΠΑ: Γυρίζουν την πλάτη στον Τραμπ οι Αμερικανοί – Στο 33% η δημοτικότητά του, αρνητικό ρεκόρ",
+        "url": "https://www.efsyn.gr/kosmos/1449538/ipa-gyrizoyn-tin-plati-ston-tramp-oi-amerikanoi-sto-33-i-dimotikotita-toy-arnitiko-rekor/",
+        "snippet": "Οι Αμερικανοί ψηφοφόροι πιστεύουν πως οι δημοκρατικοί θα έκαναν καλύτερη δουλειά από τους ρεπουμπλικάνους.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ερντογάν: «Περιμένω να τηρηθεί η υπόσχεση Τραμπ για τα F-35» – Τι είπε για τη «Συμφωνία της Μέκκας»",
+          "url": "https://www.efsyn.gr/politiki/1449524/erntogan-perimeno-na-tirithei-i-yposhesi-tramp-gia-ta-f-35-ti-eipe-gia-ti-symfonia-tis-mekkas/",
+          "snippet": "Σε συνέντευξή του στο Al Jazeera ο Τούρκος πρόεδρος αναφέρθηκε επίσης στα της ένταξης στην Ε.Ε. και στη νέα «Συμφωνία της Μέκκας»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ιράν: Απειλεί με «πλήρη επίθεση» μετά το αδιέξοδο στις διαπραγματεύσεις – Στο επίκεντρο τα Στενά του Ορμούζ",
+          "url": "https://www.efsyn.gr/kosmos/1449533/iran-apeilei-me-pliri-epithesi-meta-to-adiexodo-stis-diapragmateyseis-sto-epikentro-ta-stena-toy-ormoyz/",
+          "snippet": "Οι ένοπλες δυνάμεις και σύμμαχοι του Ιράν ετοιμάζονται να «κλιμακώσουν» τη δράση τους στα Στενά του Ορμούζ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πολύτιμα πετράδια ιστορικής μνήμης",
+          "url": "https://www.efsyn.gr/nisides/1449243/polytima-petradia-istorikis-mnimis/",
+          "snippet": "Η συγγραφέας κατορθώνει να μετατρέψει την ατομική εμπειρία σε συλλογική μνήμη, φωτίζοντας αξίες όπως η ελευθερία, η αξιοπρέπεια, η αγάπη και η αντίσταση στην αδικία.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Φωτιά στη Σαλαμίνα: Ξεκινούν οι αυτοψίες – Πόσα σπίτια έχουν υποστεί ζημιές, «ευτυχώς που φυσούσε βοριάς»",
+          "url": "https://www.efsyn.gr/ellada/1449516/fotia-sti-salamina-xekinoyn-oi-aytopsies-posa-spitia-ehoyn-ypostei-zimies-eytyhos-poy-fysoyse-vorias/",
+          "snippet": "Εκτός από την τιτάνια προσπάθεια της Πυροσβεστικής, η φορά του ανέμου έσωσε το νησί από μια τεράστια καταστροφή",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Εως 37 βαθμούς η θερμοκρασία – Πού αναμένονται τοπικές βροχές",
+          "url": "https://www.efsyn.gr/ellada/1449519/kairos-eos-37-vathmoys-i-thermokrasia-poy-anamenontai-topikes-vrohes/",
+          "snippet": "Η θερμοκρασία αναμένεται να σημειώσει μικρή άνοδο.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σίφνος: Μυστήριο με την πτώση του ελικοπτέρου – Τι εξετάζουν οι αρχές, τα κρίσιμα λεπτά πριν από την τραγωδία",
+          "url": "https://www.efsyn.gr/ellada/1449513/sifnos-mystirio-me-tin-ptosi-toy-elikopteroy-ti-exetazoyn-oi-arhes-ta-krisima-lepta-prin-apo-tin-tragodia/",
+          "snippet": "Συνετρίβη μερικές δεκάδες μέτρα μακριά από το ελικοδρόμιο του νησιού και τυλίχθηκε άμεσα στις φλόγες ξυπνώντας μνήμες από τη σύγκρουση των δύο πυροσβεστικών στην Ψάθα",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 18 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1449517/eortologio-poioi-giortazoyn-simera-18-aygoystoy/",
+          "snippet": "Σε ποιους θα πείτε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κύπελλο Ελλάδας: Ποιες ομάδες πέρασαν στη League Phase [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1449509/kypello-elladas-poies-omades-poy-perasan-sti-league-phase-vinteo/",
+          "snippet": "Εντυπωσίασαν στους πρώτους τους αγώνες οι Βόλος, ΑΕΛ και Άρης.",
+          "source": "EfSyn"
+        },
         {
           "title": "Γάζα: Παλαιστίνιοι κατακρίνουν τη στάση των ΗΠΑ – «Δίνουν το ελεύθερο στον Νετανιάχου να συνεχίσει τους βομβαρδισμούς»",
           "url": "https://www.efsyn.gr/kosmos/1449504/gaza-palaistinioi-katakrinoyn-ti-stasi-ton-ipa-dinoyn-to-eleythero-ston-netaniahoy-na-synehisei-toys-vomvardismoys/",
@@ -45,54 +93,6 @@
           "title": "Νέο «άκυρο» από το Ανώτατο Δικαστήριο σε προσφυγή του Τραμπ κατά της καταβολής αποζημίωσης για σεξουαλική επίθεση",
           "url": "https://www.efsyn.gr/kosmos/1449490/neo-akyro-apo-to-anotato-dikastirio-se-prosfygi-toy-tramp-kata-tis-katavolis-apozimiosis-gia-sexoyaliki-epithesi/",
           "snippet": "Το Ανώτατο Δικαστήριο των ΗΠΑ αρνήθηκε σήμερα να εξετάσει την τελευταία προσφυγή που είχε καταθέσει ο Ντόναλντ Τραμπ για την αναίρεση της καταδίκης του από αστικό δικαστήριο, η οποία προβλέπει να καταβάλει το ποσό των 5,6 εκατομμυρίων δολαρίων στη συγγραφέα Ε. Τζιν Κάρολ, που τον",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μετά την πώληση Κωνσταντέλια ο ΠΑΟΚ πήρε 17χρονο Έλληνα από τη Ντόρτμουντ",
-          "url": "https://www.efsyn.gr/athlitismos/1449486/meta-ti-metagrafi-konstantelia-o-paok-pire-17hrono-ellina-apo-ti-ntortmoynt/",
-          "snippet": "Η μεταγραφή του Γιάννη Κωνσταντέλια στην Μπορούσια Ντόρτμουντ μπορεί να άνοιξε&#8230; πληγές στον αγωνιστικό σχεδιασμό του ΠΑΟΚ, ωστόσο άνοιξε και δίαυλο επικοινωνίας με τον σπουδαίο γερμανικό σύλλογο. Στο πλαίσιο των διαπραγματεύσεων για τη μετακίνηση του Κωνσταντέλια, οι ιθύνον",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θρήνος στη Ζιμπάμπουε: Ο απολογισμός του ναυαγίου φέρι ανέρχεται σε 92 νεκρούς",
-          "url": "https://www.efsyn.gr/kosmos/1449483/thrinos-sti-zimpampoye-o-apologismos-toy-nayagioy-feri-anerhetai-se-92-nekroys/",
-          "snippet": "Ο απολογισμός του ναυαγίου πορθμείου στην λίμνη Καρίμπα αυξήθηκε περαιτέρω σε 92 νεκρούς, ανακοίνωσε σήμερα η αστυνομία μετά την περισυλλογή άλλων οκτώ σορών. Το υπερφορτωμένο επιβατικό πλοίο, το οποίο εκμεταλλευόταν κυβερνητική υπηρεσία στη Ζιμπάμπουε, ανατράπηκε λόγω της κακοκα",
-          "source": "EfSyn"
-        },
-        {
-          "title": "«Βόμβα» για Ινφαντίνο: Δεν έχει δικαίωμα επανεκλογής – Έχει ήδη κάνει τρεις θητείες",
-          "url": "https://www.efsyn.gr/athlitismos/1449481/vomva-gia-infantino-ehei-ypiretisei-to-megisto-orio-ton-trion-thiteion-den-ehei-dikaioma-epaneklogis/",
-          "snippet": "«Η FIFA δεν μπορεί απλώς να παρακάμψει αυτόν τον κανόνα...», τονίζει η οργάνωση FairSquare.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βίντεο – ντοκουμέντο: Η στιγμή της πτώσης του μοιραίου ελικοπτέρου στη Σίφνο",
-          "url": "https://www.efsyn.gr/ellada/1449476/vinteo-ntokoymento-i-stigmi-tis-ptosis-toy-moiraioy-elikopteroy-sti-sifno/",
-          "snippet": "Τραγικό θάνατο βρήκαν τρεις άνθρωποι από την πτώση ιδιωτικού ελικοπτέρου στη Σίφνο σήμερα το απόγευμα. Την ώρα που οι αρχές διερευνούν τις συνθήκες του φονικού συμβάντος, η ΕΡΤ έδωσε στη δημοσιότητα το ακόλουθο βίντεο &#8211; ντοκουμέντο που καταγράφει την πτώση του ελικοπτέρου σ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βουλή: Δέκα μήνες αδιάκοπων συγκρούσεων – Από τον ΟΠΕΚΕΠΕ και τις υποκλοπές, έως την αναβίωση του σκανδάλου Novartis",
-          "url": "https://www.efsyn.gr/politiki/1449085/voyli-deka-mines-adiakopon-sygkroyseon-apo-ton-opekepe-kai-tis-ypoklopes-eos-tin-anaviosi-toy-skandaloy-novartis/",
-          "snippet": "Με φόντο τα σκάνδαλα του ΟΠΕΚΕΠΕ και των υποκλοπών και εν μέσω της αναδιάταξης του πολιτικού σκηνικού, εξελίχθηκε η κοινοβουλευτική δραστηριότητα της τρέχουσας περιόδου",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Θάνατος Χέιντεν Πανετιέρ: Τι έδειξε η ιατροδικαστική εξέταση",
-          "url": "https://www.efsyn.gr/life/1449466/heinten-panetier-den-proekypsan-ihni-traymatismoy-stin-iatrodikastiki-exetasi-anafores-gia-ypervoliki-dosi/",
-          "snippet": "«Η νεκροψία ολοκληρώθηκε σήμερα. Από τα ευρήματα δεν προέκυψαν ίχνη τραυματισμού ο οποίος να συνέβαλε στον θάνατό της», αναφέρεται.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ρωσία: Δεκάδες συλλήψεις υποστηρικτών του αντιπολιτευόμενου «Γιάμπλακο» – Κάθειρξη 11 ετών στον αντιπρόεδρο του κόμματος",
-          "url": "https://www.efsyn.gr/kosmos/1449464/rosia-dekades-syllipseis-ypostirikton-toy-antipoliteyomenoy-giamplako-katheirxi-11-eton-ston-antiproedro-toy-kommatos/",
-          "snippet": "Το «Γιάμπλακο» είναι το μοναδικό κόμμα στη Ρωσία που τάσσεται κατά του πολέμου στην Ουκρανία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συντριβή ελικοπτέρου στη Σίφνο: Πώς έγινε το δυστύχημα με τους τρεις νεκρούς – Το γαμήλιο ταξίδι που κατέληξε σε τραγωδία",
-          "url": "https://www.efsyn.gr/ellada/1449442/syntrivi-elikopteroy-sti-sifno-to-gamilio-taxidi-poy-katelixe-se-tragodia-pos-egine-to-dystyhima-me-toys-treis-nekroys/",
-          "snippet": "Σύμφωνα με τον δήμαρχο Σίφνου, τα τρία άτομα σκοτώθηκαν ακαριαία και από το ελικόπτερο, πρακτικά «δεν έμεινε τίποτα».",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "After the Earthquakes",
-          "url": "https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html",
-          "snippet": "Venezuela and Japan both experienced major quakes this summer. Their responses differed, and not just because of money.",
+          "title": "Chocó, Colombia, Faces Deeper Hardship After an Earthquake",
+          "url": "https://www.nytimes.com/2026/08/18/world/americas/colombia-earthquake-choco.html",
+          "snippet": "In Chocó, a predominantly Afro-Colombian and Indigenous region, “pain, hunger and homelessness await” survivors of last week’s earthquake, the governor says.",
           "source": "NYT World"
         }
       ]
