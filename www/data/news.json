@@ -1,16 +1,34 @@
 {
-  "updated": "2026-08-17T20:16:19.880878+00:00",
+  "updated": "2026-08-18T00:43:04.517821+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ανακοίνωσε Αριάγκα η ΑΕΚ: Ποιος είναι ο 28χρονος χαφ από την Ονδούρα",
-        "url": "https://www.efsyn.gr/athlitismos/1449499/anakoinose-ariagka-i-aek-poios-einai-o-28hronos-haf-apo-tin-ondoyra/",
-        "snippet": "Ο ποδοσφαιριστής υπέγραψε συμβόλαιο συνεργασίας μέχρι το 2030.",
+        "title": "Κύπελλο Ελλάδας: Ποιες ομάδες πέρασαν στη League Phase [βίντεο]",
+        "url": "https://www.efsyn.gr/athlitismos/1449509/kypello-elladas-poies-omades-poy-perasan-sti-league-phase-vinteo/",
+        "snippet": "Εντυπωσίασαν στους πρώτους τους αγώνες οι Βόλος, ΑΕΛ και Άρης.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Γάζα: Παλαιστίνιοι κατακρίνουν τη στάση των ΗΠΑ – «Δίνουν το ελεύθερο στον Νετανιάχου να συνεχίσει τους βομβαρδισμούς»",
+          "url": "https://www.efsyn.gr/kosmos/1449504/gaza-palaistinioi-katakrinoyn-ti-stasi-ton-ipa-dinoyn-to-eleythero-ston-netaniahoy-na-synehisei-toys-vomvardismoys/",
+          "snippet": "«Οι ΗΠΑ αντί να πουν στον Νετανιάχου ότι πρέπει να σεβαστεί αυτό που έχει αποδεχτεί στο παρελθόν και να αρχίσει να το εφαρμόζει, του δίνουν ευελιξία κινήσεων», τονίζει Παλαιστίνιος πολιτικός.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πυρκαγιά σε δασική έκταση στο Καρπενήσι",
+          "url": "https://www.efsyn.gr/ellada/1449502/pyrkagia-se-dasiki-ektasi-sto-karpenisi/",
+          "snippet": "Η πυρκαγιά δεν βρίσκεται κοντά σε οικισμό, ενώ σύμφωνα με την Πυροσβεστική, είναι μικρής έκτασης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Ανακοίνωσε Αριάγκα η ΑΕΚ: Ποιος είναι ο 28χρονος χαφ από την Ονδούρα",
+          "url": "https://www.efsyn.gr/athlitismos/1449499/anakoinose-ariagka-i-aek-poios-einai-o-28hronos-haf-apo-tin-ondoyra/",
+          "snippet": "Ο ποδοσφαιριστής υπέγραψε συμβόλαιο συνεργασίας μέχρι το 2030.",
+          "source": "EfSyn"
+        },
         {
           "title": "Σύγκρουση ελικοπτέρων στην Ψάθα: Τι κατέθεσαν οι πιλότοι – «Δεν είχαμε οπτική επαφή, νομίζαμε ότι πέσαμε σε καλώδια»",
           "url": "https://www.efsyn.gr/ellada/1449497/sygkroysi-elikopteron-stin-psatha-ti-katethesan-oi-pilotoi-den-eihame-optiki-epafi-nomizame-oti-pesame-se-kalodia/",
@@ -75,24 +93,6 @@
           "title": "Συντριβή ελικοπτέρου στη Σίφνο: Πώς έγινε το δυστύχημα με τους τρεις νεκρούς – Το γαμήλιο ταξίδι που κατέληξε σε τραγωδία",
           "url": "https://www.efsyn.gr/ellada/1449442/syntrivi-elikopteroy-sti-sifno-to-gamilio-taxidi-poy-katelixe-se-tragodia-pos-egine-to-dystyhima-me-toys-treis-nekroys/",
           "snippet": "Σύμφωνα με τον δήμαρχο Σίφνου, τα τρία άτομα σκοτώθηκαν ακαριαία και από το ελικόπτερο, πρακτικά «δεν έμεινε τίποτα».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Στο παιδικό δωμάτιο μέχρι τα 34 τους οι νέοι στην Ελλάδα – Τα στοιχεία της Eurostat",
-          "url": "https://www.efsyn.gr/oikonomia/1449039/sto-paidiko-domatio-mehri-ta-34-toys-oi-neoi-stin-ellada-ta-stoiheia-tis-eurostat/",
-          "snippet": "Περισσότεροι από ένας στους δύο Έλληνες από 25-34 ετών, μένει στο σπίτι των γονιών του.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Συνελήφθη 40χρονος για πυρκαγιά από πρόθεση στην Τροιζήνα – Εξετάζεται η εμπλοκή του σε άλλους 9 εμπρησμούς",
-          "url": "https://www.efsyn.gr/ellada/1449454/synelifthi-40hronos-gia-pyrkagia-apo-prothesi-stin-troizina-exetazetai-i-emploki-toy-se-alloys-9-emprismoys/",
-          "snippet": "Ο 40χρονος φέρεται να ομολόγησε τη δράση του.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ευρώπη: Καύσωνας και ξηρασία «καίνε» τη γεωργία – Πρωτοφανής κρίση, δραματικές μειώσεις στην αγροτική παραγωγή",
-          "url": "https://www.efsyn.gr/kosmos/1449431/eyropi-kaysonas-kai-xirasia-kaine-ti-georgia-protofanis-krisi-dramatikes-meioseis-stin-agrotiki-paragogi/",
-          "snippet": "Οι καλλιεργητές λαχανικών και σιτηρών κάνουν έκκληση για επείγουσα βοήθεια, αρνητικές συνέπειες και στην κτηνοτροφία.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "American Hiker Dies After Lightning Strike on Mount Etna in Italy",
-          "url": "https://www.nytimes.com/2026/08/17/world/europe/mount-etna-hiker-lightning-strike-death.html",
-          "snippet": "Rescuers found a 29-year-old man in serious condition on the volcano’s eastern slope on Sunday. He was later pronounced dead at a hospital in Catania.",
+          "title": "After the Earthquakes",
+          "url": "https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html",
+          "snippet": "Venezuela and Japan both experienced major quakes this summer. Their responses differed, and not just because of money.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,30 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
-        "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-        "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+        "title": "Anthropic’s annualized revenue surges to $65B",
+        "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+        "snippet": "The model maker added $18 billion in annualized revenue in two months.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+          "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+          "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+          "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+          "snippet": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+          "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+          "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+          "source": "TechCrunch"
+        },
         {
           "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
           "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
@@ -268,24 +286,6 @@
           "url": "https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/",
           "snippet": "WordPress.com Education lets teachers offer their students free domains, plug-in support, and professional website-building tools.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Uber adds Zipline drones to its Eats delivery network",
-          "url": "https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/",
-          "snippet": "Uber is also making investing in Zipline a part of the tie-up.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-          "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-          "snippet": "Wispr’s total funding is now over $361 million.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Crypto hardware wallet owners face fresh security risks after recent spate of personal data thefts",
-          "url": "https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/",
-          "snippet": "The hacks at shipping companies used to mail out hardware wallets puts crypto owners at greater risk of real-world attacks.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,78 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ελλάδα-Ιταλία 21-11: Πρόκριση στην οκτάδα του παγκοσμίου πόλο νεανίδων",
-        "url": "https://www.gazzetta.gr/polo/2562040/ellada-italia-21-11-prokrisi-stin-oktada-toy-pagkosmioy-polo-neanidon",
-        "snippet": "Η εθνική ομάδα πόλο νεανίδων κάνοντας επίδειξη δύναμης απέναντι στην Ιταλία (21-11), πέρασε απευθείας στην προημιτελική φάση στο παγκόσμιο πρωτάθλημα Κ18.",
+        "title": "Τούτσι: Ο Παναιτωλικός κινείται γι' άλλο φορ, ο Αλβανός υπέγραψε στην Ολίμπια Λιουμπλιάνας",
+        "url": "https://www.gazzetta.gr/football/superleague/2562052/toytsi-o-panaitolikos-kineitai-gi-allo-o-albanos-ypegrapse-stin",
+        "snippet": "Ο Παναιτωλικός έφτασε κοντά στον Ιντρίτ Τούτσι, ο οποίος όμως υπέγραψε στην Ολίμπια Λιουμπλιάνας.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Κάζα Πία - Μπενφίκα 0-7: Τη διέλυσε με χατ τρικ Παυλίδη",
+          "url": "https://www.gazzetta.gr/football/primeira-liga/2562049/kaza-pia-mpenfika-0-7-ti-dielyse-me-hat-trik-paylidi",
+          "snippet": "Η Μπενφίκα διέλυσε με 7-0 εκτός έδρας την Κάζα Πία, με τον Βαγγέλη Παυλίδη να κάνει χατ τρικ και να μοιράζει μία ασίστ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λα Κορούνια - Έλτσε 1-1: Μοιρασιά στο Ριαθόρ",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562048/la-koroynia-eltse-1-1-moirasia-sto-riathor",
+          "snippet": "Λα Κορούνια και Έλτσε έμειναν στο 1-1 στο Ριαθόρ, για την πρώτη αγωνιστική της La Liga.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τεράστιος βόας σκαρφάλωσε σε κολώνα στο Περού: Έπαθε ηλεκτροπληξία κυνηγώντας περιστέρια (vid)",
+          "url": "https://www.gazzetta.gr/plus/2562004/terastios-boas-skarfalose-se-kolona-sto-peroy-epathe-ilektroplixia-kynigontas",
+          "snippet": "Ένας τεράστιος βόας βρήκε τραγικό θάνατο όταν ανέβηκε σε ηλεκτρική κολόνα, προσπαθώντας να πλησιάσει περιστέρια, και ήρθε σε επαφή με καλώδιο υπό τάση.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Λέικερς: Πουλάει και αποχωρεί η οικογένεια Μπας",
+          "url": "https://www.gazzetta.gr/basketball/nba/2562047/leikers-poylaei-kai-apohorei-i-oikogeneia-mpas",
+          "snippet": "Πωλητήριο στις μετοχές που έχει στους Λος Άντζελες Λέικερς έβαλε η οικογένεια Μπας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βαγγέλης Παυλίδης: Έκανε χατ τρικ σε επτά λεπτά!",
+          "url": "https://www.gazzetta.gr/football/primeira-liga/2562046/baggelis-paylidis-ekane-hat-trik-mesa-se-epta-lepta",
+          "snippet": "Ο Βαγγέλης Παυλίδης έκανε χατ τρικ μέσα σε επτά λεπτά στον εκτός έδρας αγώνα της Μπενφίκα με την Κάζα Πία.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπάρλος: «Δείξαμε πως η γενιά μας μπορεί να φτάσει αρκετά ψηλά τις επόμενες χρονιές»",
+          "url": "https://www.gazzetta.gr/basketball/2562039/mparlos-deixame-pos-i-genia-mas-mporei-na-ftasei-arketa-psila-tis-epomenes",
+          "snippet": "Ο γκαρντ της Εθνικής Παίδων Ανδρέας Μπάρλος έκανε... ταμείο στην παρουσία της ομάδας στο Ευρωμπάσκετ U16.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ολυμπιακός: Διπλό «χτύπημα», παίρνει και τον Γκονζάλες από την Τσίβας!",
+          "url": "https://www.gazzetta.gr/football/superleague/2562045/olympiakos-diplo-htypima-pairnei-kai-ton-gkonzales-apo-tin-tsibas",
+          "snippet": "Σπριντάρει στα μεταγραφικά του θέματα ο Ολυμπιακός, ο οποίος μετά από τον Κρίστιαν Κάσερες έκλεισε και τον Αρμάντο Γκονζάλες, αφού οι Ερυθρόλευκοι τα βρήκαν και με την Τσίβας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Τα δυο ερωτήματα για το πρώτο βήμα προς τα «αστέρια»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562015/aek-etoimi-gia-proto-bima-pros-ta-asteria",
+          "snippet": "Η ΑΕΚ ολοκλήρωσε την προετοιμασία της για το πρώτο πρώτο ματς με τη Λέφσκι στο Εθνική Στάδιο Σόφιας. Αποστολή στη Βουλγαρία: Βασίλης Μπαλατσός",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΑΕΚ: Ο Αριάγκα μπήκε στην ευρωπαϊκή λίστα για Λέφσκι",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562043/aek-o-ariagka-mpike-stin-eyropaiki-lista-gia-lefski",
+          "snippet": "Ο Κέρβιν Αριάγκα ανακοινώθηκε από την ΑΕΚ και μπήκε και στη λίστα της για τα παιχνίδια με τη Λέφσκι Σόφιας αντικαθιστώντας τον Χακίμ Σαχαμπό.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ηρακλής – Βόλος Elabet 1-3: Τα highlights της πρόκριση της ομάδας της Μαγνησίας",
+          "url": "https://www.gazzetta.gr/football/kypello-elladas/2562042/iraklis-bolos-elabet-1-3-ta-highlights-tis-prokrisi-tis-omadas-tis",
+          "snippet": "Ο Βόλος Elabet επικράτησε με 3-1 του Ηρακλή και προκρίθηκε στην League Phase του Κυπέλλου. Δείτε τις καλύτερες φάσεις του αγώνα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Ελλάδα-Ιταλία 21-11: Πρόκριση στην οκτάδα του παγκοσμίου πόλο νεανίδων",
+          "url": "https://www.gazzetta.gr/polo/2562040/ellada-italia-21-11-prokrisi-stin-oktada-toy-pagkosmioy-polo-neanidon",
+          "snippet": "Η εθνική ομάδα πόλο νεανίδων κάνοντας επίδειξη δύναμης απέναντι στην Ιταλία (21-11), πέρασε απευθείας στην προημιτελική φάση στο παγκόσμιο πρωτάθλημα Κ18.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Ολυμπιακός: Κάσερες - Κλείνει τον χαφ της Τουλούζ με 10 εκατ. ευρώ",
           "url": "https://www.gazzetta.gr/football/superleague/2562038/olympiakos-kaseres-kleinei-ton-haf-tis-toyloyz-me-10-ekat-eyro",
@@ -315,72 +381,6 @@
           "title": "Ηρακλής – Βόλος Elabet 1-3: Πέρασαν εύκολα από Σέρρες και προκρίθηκαν στην League Phase οι Βολιώτες",
           "url": "https://www.gazzetta.gr/football/kypello-elladas/2562037/iraklis-bolos-elabet-1-3-perasan-eykola-apo-serres-kai",
           "snippet": "Σε ένα πολύ όμορφο παιχνίδι ο Βόλος Elabet επικράτησε με 3-1 του Ηρακλή στις Σέρρες και προκρίθηκε στην League Phase του Κυπέλλου.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μπαρτσελόνα - Ρόδρι: Έφτασε στη Βαρκελώνη ο Ισπανός",
-          "url": "https://www.gazzetta.gr/football/la-liga/2562036/mpartselona-rodri-eftase-sti-barkeloni-o-ispanos",
-          "snippet": "Ο Ρόδρι έφτασε στη Βαρκελώνη προκειμένου να ολοκληρωθεί η μεταγραφή του από τη Μάντσεστερ Σίτι στην Μπαρτσελόνα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Μαρούσι: Πρώτη προπόνηση για τη νέα σεζόν",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2562035/maroysi-proti-proponisi-gia-ti-nea-sezon",
-          "snippet": "Το Μαρούσι έκανε την πρώτη προπόνηση για τη νέα χρονιά στο κλειστό του Αγίου Θωμά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πετρούνιας: Το «Ζάγκρεμπ 2026» τον καλωσορίζει για το ευρωπαϊκό πρωτάθλημα",
-          "url": "https://www.gazzetta.gr/gymnastiki/2562034/petroynias-zagkremp-2026-ton-kalosorizei-gia-eyropaiko-protathlima",
-          "snippet": "Ο Λευτέρης Πετρούνιας είναι ο σταρ του ευρωπαϊκού πρωταθλήματος του Ζάγρκεμπ, που αρχίζει την Τετάρτη (19/8) στην Arena της κροατικής πρωτεύουσας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "FIFA: Παρελθόν υψηλόβαθμο στέλεχος που άσκησε κριτική στον Ινφαντίνο",
-          "url": "https://www.gazzetta.gr/football/2562033/fifa-parelthon-ypsilobathmo-stelehos-poy-askise-kritiki-ston-infantino",
-          "snippet": "Η FIFA ανακοίνωσε την αποχώρηση του γενικού διευθυντή επιχειρήσεων, Κέβιν Λαμούρ, ο οποίος είχε ασκήσει κριτική στον Τζάνι Ινφαντίνο...",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γκραντ: Πώς ο Ομπράντοβιτς εμπόδισε τη μεταγραφή του σε άλλη ομάδα της EuroLeague (vid)",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562030/gkrant-pos-o-omprantobits-empodise-ti-metagrafi-toy-se-alli-omada-tis",
-          "snippet": "Σύμφωνα με πηγή από την Τουρκία, ο Ζέλικο Ομπράντοβιτς απέτρεψε τη μεταγραφή του Τζέριαν Γκραντ στην Μπεσίκτας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ηρακλής - Βόλος Elabet: Το γκολ του Τζόκα για το 1-3",
-          "url": "https://www.gazzetta.gr/football/kypello-elladas/2562032/iraklis-bolos-elabet-gkol-toy-tzoka-gia-1-3",
-          "snippet": "Στο 60' ο Βόλος Elabet έφτασε σε τρίτο τέρμα απέναντι στον Ηρακλή με σκόρερ τον Τζόκα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Γκονζάλες - Ολυμπιακός: Τα βρήκε με τον παίκτη, απομένει η Τσίβας",
-          "url": "https://www.gazzetta.gr/football/superleague/2562029/gkonzales-olympiakos-ta-brike-me-ton-paikti-apomenei-i-tsibas",
-          "snippet": "Ο Ολυμπιακός έκανε το πρώτο βήμα για τον Μεξικανό στράικερ καθώς τα βρήκε με τον παίκτη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός-Γουόκαπ: Σε «τεντωμένο σχοινί» οι σχέσεις παίκτη και «ερυθρολεύκων», άγνωστο αν θα εμφανιστεί στην «πρώτη» συγκέντρωση",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562028/olympiakos-goyokap-se-tentomeno-shoini-oi-sheseis-paikti-kai",
-          "snippet": "Καμία επικοινωνία μεταξύ του Τόμας Γουόκαπ και της διοίκησης του Ολυμπιακού, με την υπόθεση της Ντουμπάι να έχει φέρει τις δύο πλευρές σε πλήρες αδιέξοδο. Στον αέρα ακόμη και η παρουσία του παίκτη στην «πρώτη» συγκέντρωση της ομάδας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Η Ιντερνασιονάλ ανακοίνωσε τον δανεισμό του Ελίασον",
-          "url": "https://www.gazzetta.gr/football/superleague/2562027/aek-i-internasional-anakoinose-ton-daneismo-toy-eliason",
-          "snippet": "Και επίσημα παίκτης της Ιντερνασιονάλ είναι πλέον ο Νίκλας Ελίασον, ο οποίος ολοκλήρωσε τον δανεισμό του από την ΑΕΚ για ένα χρόνο με οψιόν αγοράς το επόμενο καλοκαίρι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κύπελλο Ελλάδος: Με πανό για τις φωτιές οι οπαδοί του Ηρακλή στον αγώνα",
-          "url": "https://www.gazzetta.gr/plus/2562021/kypello-ellados-me-pano-gia-tis-foties-oi-opadoi-toy-irakli-ston-agona",
-          "snippet": "Ξεχωριστή θέση στην εξέδρα του Ηρακλή στον αγώνα με τον Βόλο είχε ένα μήνυμα για τις πυρκαγιές που πλήττουν κάθε χρόνο τη χώρα μας, με τους φίλους του της ομάδας να στέλνουν το δικό τους κοινωνικό μήνυμα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΑΕΚ: Το «γερασμένο» Στάδιο Βασίλ Λέφσκι, η θύρα των Ενωσιτών και ο... Βεζένκοφ",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562022/aek-gerasmeno-stadio-basil-lefski-i-thyra-ton-enositon-kai-o",
-          "snippet": "Η ΑΕΚ θα αντιμετωπίσει τη Λέφσκι στο Στάδιο Βασίλ Λέφσκι και το Gazzetta σας μεταφέρει εικόνες από το... γερασμένο Εθνικό Στάδιο της πόλης. Αποστολή στη Βουλγαρία: Βασίλης Μπαλατσός",
           "source": "Gazzetta"
         }
       ]
@@ -402,7 +402,7 @@
           "source": "NYT Science"
         },
         {
-          "title": "Hayden Panettiere’s Death and Police Investigation: What We Know",
+          "title": "Hayden Panettiere Was in Cardiac Arrest When Authorities Responded to 911 Call",
           "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html",
           "snippet": "After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”",
           "source": "NYT Arts"
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
-          "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
-          "snippet": "Prosecutors say Duane Davis and three other men who are now deceased were involved in the fatal confrontation in 1996.",
+          "title": "Tupac Shakur Murder Trial: Takeaways From Opening Statements",
+          "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
+          "snippet": "Prosecutors said Duane Keith Davis participated in the shooting as an act of gang retaliation, while the defense pointed to what it described as a lack of hard evidence.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Tupac Shakur Murder Trial: Takeaways From Day 1",
-          "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html",
-          "snippet": "Prosecutors said Duane Keith Davis participated in the shooting as an act of gang retaliation, while the defense pointed to what it described as a lack of hard evidence.",
+          "title": "Elizabeth Smart Is Rethinking the True-Crime Podcast",
+          "url": "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html",
+          "snippet": "Her abduction as a child became a national story. In a new true crime podcast, Smart speaks to survivors of violent crimes about what they endured and the lifelong process of healing.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Elizabeth Smart Is Rethinking the True-Crime Podcast",
-          "url": "https://www.nytimes.com/2026/08/17/arts/elizabeth-smart-kidnapping-podcast-true-crime.html",
-          "snippet": "Her abduction as a child became a national story. In a new true crime podcast, Smart speaks to survivors of violent crimes about what they endured and the lifelong process of healing.",
+          "title": "There Are Few Witnesses to Tupac Shakur’s Drive-by Shooting",
+          "url": "https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-duane-davis-suge-knight-witnesses.html",
+          "snippet": "Prosecutors say Duane Davis and three other men who are now deceased were involved in the fatal confrontation in 1996.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "As the Old Files Open, One Family Confronts Another’s Dark Nazi Past",
-          "url": "https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html",
-          "snippet": "A woman who secured the criminal file of her grandmother, a collaborator, offered to share it with a Jewish family that had been betrayed. Then she balked and a new dispute ensued.",
+          "title": "‘Benevolent’ Review: Trapped Women Dreaming of Escape",
+          "url": "https://www.nytimes.com/2026/08/17/theater/benevolent-review-sophie-mcintosh.html",
+          "snippet": "With her usual irreverent humor, the playwright Sophie McIntosh mines the experiences of four young, cooped-up women at a Manhattan reformatory in 1917.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Benevolent’ Review: Trapped Women Dreaming of Escape",
-          "url": "https://www.nytimes.com/2026/08/17/theater/benevolent-review-sophie-mcintosh.html",
-          "snippet": "With her usual irreverent humor, the playwright Sophie McIntosh mines the experiences of four young, cooped-up women at a Manhattan reformatory in 1917.",
+          "title": "Hayden Panettiere’s Best Performances: Where to Stream",
+          "url": "https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-nashville-heroes-streaming.html",
+          "snippet": "The actress was a staple of two popular network TV dramas and had memorable early-career roles in film.",
           "source": "NYT Arts"
         }
       ]
