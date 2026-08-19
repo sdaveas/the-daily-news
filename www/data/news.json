@@ -1,16 +1,40 @@
 {
-  "updated": "2026-08-18T20:13:48.870453+00:00",
+  "updated": "2026-08-19T00:43:49.209785+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Τουρκοκύπριος πρώην ευρωβουλευτής ζητά συγγνώμη για τις δολοφονίες Ισαάκ και Σολωμού – Τι απαντά η κόρη του Ισαάκ",
-        "url": "https://www.efsyn.gr/kosmos/1450176/toyrkokyprios-proin-eyrovoyleytis-zita-syggnomi-gia-tis-dolofonies-isaak-kai-solomoy-ti-apanta-i-kori-toy-isaak/",
-        "snippet": "«Χρέος όλων σας δεν είναι να μου ζητάτε συγγνώμη. Χρέος όλων σας είναι να αναλάβετε την ευθύνη για να τιμωρηθούν οι δολοφόνοι...».",
+        "title": "ΑΕΚ: Λευκή ισοπαλία κόντρα στη Λέφσκι Σόφιας – Στη Νέα Φιλαδέλφεια θα κριθεί η πρόκριση",
+        "url": "https://www.efsyn.gr/athlitismos/1450189/aek-leyki-isopalia-kontra-sti-lefski-sofias-sti-nea-filadelfeia-tha-krithei-i-prokrisi/",
+        "snippet": "Η Ένωση δημιούργησε αρκετές ευκαιρίες, με μεγαλύτερη το δοκάρι του Γιόβιτς, όμως δεν κατάφερε να σκοράρει.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Η Λιβερία συνδράμει την ακροδεξιά πολιτική του Τραμπ: Θα δεχθεί έως 1.200 μετανάστες που απελαύνονται από τις ΗΠΑ",
+          "url": "https://www.efsyn.gr/kosmos/1450187/i-liveria-syndramei-tin-akrodexia-politiki-toy-tramp-tha-dehthei-eos-1-200-metanastes-poy-apelaynontai-apo-tis-ipa/",
+          "snippet": "Η κυβέρνηση Τραμπ δεν μπορεί νομίμως να στείλει πίσω στις πατρίδες τους τους συγκεκριμένους μετανάστες, επειδή δικαστήρια αποφάνθηκαν ότι απειλείται η ζωή τους.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Οι ΗΠΑ κλιμακώνουν τον πόλεμο κατά του ΔΠΔ: Επέβαλαν κυρώσεις στην πρόεδρο του Δικαστηρίου και σε ανώτερο λειτουργό",
+          "url": "https://www.efsyn.gr/kosmos/1450183/oi-ipa-klimakonoyn-ton-polemo-kata-toy-dpd-epevalan-kyroseis-stin-proedro-toy-dikastirioy-kai-se-anotero-leitoyrgo/",
+          "snippet": "Οι κυρώσεις αποτελούν σε μεγάλο βαθμό «απάντηση» στις έρευνες του ΔΠΔ κατά του Ισραήλ, συμμάχου των ΗΠΑ.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Λέσβος: Διασώθηκαν πέντε άτομα μετά τη βύθιση ερασιτεχνικού σκάφους",
+          "url": "https://www.efsyn.gr/ellada/1450181/lesvos-diasothikan-pente-atoma-meta-ti-vythisi-erasitehnikoy-skafoys/",
+          "snippet": "Οι πέντε διασωθέντες μεταφέρθηκαν στην παραλία Τάρτι και είναι καλά στην υγεία τους.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Τουρκοκύπριος πρώην ευρωβουλευτής ζητά συγγνώμη για τις δολοφονίες Ισαάκ και Σολωμού – Τι απαντά η κόρη του Ισαάκ",
+          "url": "https://www.efsyn.gr/kosmos/1450176/toyrkokyprios-proin-eyrovoyleytis-zita-syggnomi-gia-tis-dolofonies-isaak-kai-solomoy-ti-apanta-i-kori-toy-isaak/",
+          "snippet": "«Χρέος όλων σας δεν είναι να μου ζητάτε συγγνώμη. Χρέος όλων σας είναι να αναλάβετε την ευθύνη για να τιμωρηθούν οι δολοφόνοι...».",
+          "source": "EfSyn"
+        },
         {
           "title": "Μπαράζ τουρκικών παραβιάσεων στο Αιγαίο",
           "url": "https://www.efsyn.gr/ellada/1450177/mparaz-toyrkikon-paraviaseon-sto-aigaio/",
@@ -70,30 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1450061/apo-ta-vathi-tis-kardias-moy-stin-koryfi-toy-kosmoy-ekthesi-fotografias-apo-tin-femartact/",
           "snippet": "Η εκδήλωση έχει συνολικό θέμα «Όλυμπος – Έβερεστ: Η απόλαυση της ομορφιάς της φύσης και η ανάγκη προστασίας της» · Θα παρέμβει μεταξύ άλλων ο πρόεδρος της Παλαιστινιακής Παροικίας Ελλάδος, και θα εκτεθούν φωτογραφικά έργα του Νεπαλέζου ορειβάτη Khim Lal Gautam για το Έβερεστ.",
           "source": "EfSyn"
-        },
-        {
-          "title": "Εργολάβοι, η «λύση» για κάθε πρόβλημα: Ολοένα και περισσότερες λειτουργίες του ΕΣΥ σε ιδιώτες",
-          "url": "https://www.efsyn.gr/ellada/1449769/ergolavoi-i-lysi-gia-kathe-provlima-oloena-kai-perissoteres-leitoyrgies-toy-esy-se-idiotes/",
-          "snippet": "Ολοένα και περισσότερες λειτουργίες της δημόσιας Υγείας εκχωρούνται σε ιδιωτικές εταιρείες ● Σαν να μην ήταν αυτό από μόνο του αρκετά προβληματικό, προκύπτουν και ζητήματα ελλιπών δικαιολογητικών ή ελλιπούς κατάρτισης των εργολαβικών συνεργείων.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γάζα: Νέο φονικό ισραηλινό πλήγμα στο λιμάνι – Τουλάχιστον έξι νεκροί",
-          "url": "https://www.efsyn.gr/kosmos/1450124/gaza-neo-foniko-israilino-pligma-sto-limani-toylahiston-exi-nekroi/",
-          "snippet": "Σύμφωνα με το υπουργείο Υγείας στη Λωρίδα της Γάζας, τουλάχιστον 1.265 Παλαιστίνιοι έχουν σκοτωθεί από τις 10 Οκτωβρίου 2025.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τραγωδία στη Σίφνο: Τα απανθρακωμένα συντρίμμια του ελικοπτέρου – Νέα πλάνα",
-          "url": "https://www.efsyn.gr/ellada/1450122/tragodia-sti-sifno-ta-apanthrakomena-syntrimmia-toy-elikopteroy-nea-plana/",
-          "snippet": "Σε πλήρη εξέλιξη βρίσκονται οι έρευνες των Αρχών στην περιοχή Εξάμπελα της Σίφνου όπου το απόγευμα της Δευτέρας κατέπεσε ελικόπτερο, από το οποίο ανασύρθηκαν τρεις νεκροί. Πρόκειται για τον Έλληνα χειριστή του ελικοπτέρου, και ένα νιόπαντρο ζευγάρι από τη Βρετανία, οι σοροί των ο",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Η νέα ελληνική κανονικότητα: Νέοι με πτυχία εξακολουθούν να κοιμούνται στο παιδικό τους δωμάτιο",
-          "url": "https://www.efsyn.gr/ellada/1449795/i-nea-elliniki-kanonikotita-neoi-me-ptyhia-exakoloythoyn-na-koimoyntai-sto-paidiko-toys-domatio/",
-          "snippet": "Νέοι με τίτλους ΑΕΙ, μεταπτυχιακά, ξένες γλώσσες, πιστοποιήσεις και αρκετά χρόνια εργασίας αναγκάζονται να μένουν στο εφηβικό τους δωμάτιο όχι επειδή δεν θέλουν να φύγουν, αλλά γιατί δεν τους το επιτρέπει το ολοένα αυξανόμενο κόστος διαβίωσης",
-          "source": "EfSyn"
         }
       ]
     },
@@ -128,7 +128,7 @@
         {
           "title": "Israel Strikes Air Base in Syria, Drawing Ire From the U.S.",
           "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israel-airstrikes-syria-air-base.html",
-          "snippet": "American and Syrian officials said Israel carried out the attack, the latest in a series of military interventions in Syria over the past two years.",
+          "snippet": "The attack was the latest in a series of Israeli military interventions in Syria over the past two years.",
           "source": "NYT World"
         },
         {
@@ -138,7 +138,7 @@
           "source": "NYT World"
         },
         {
-          "title": "It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs",
+          "title": "Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs",
           "url": "https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html",
           "snippet": "Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?",
           "source": "NYT World"
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "A Rescue Mission in Remote Colombia",
-          "url": "https://www.nytimes.com/video/world/americas/100000011097252/a-rescue-mission-in-remote-colombia.html",
-          "snippet": "Our photographer Federico Rios joined aid flights in Chocó to document earthquake rescue efforts in remote communities.",
+          "title": "Deadly Israeli Strike on Gaza Raises Doubts About Trump Peace Plan",
+          "url": "https://www.nytimes.com/2026/08/18/world/middleeast/israeli-strike-gaza-cafe-peace-plan.html",
+          "snippet": "A day after President Trump’s envoy, Jared Kushner, visited Israel to advance a stalled plan for demilitarizing and rebuilding Gaza, the Israeli military said it targeted Hamas commanders.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "TikTok explores peer-to-peer payments via DMs, report says",
-        "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-        "snippet": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+        "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+        "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+        "snippet": "Cursor, known for its AI Code Editor, is launching a new code-hosting platform to rival developers' long preferred favorite, GitHub.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+          "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+          "snippet": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TikTok explores peer-to-peer payments via DMs, report says",
+          "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+          "snippet": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+          "source": "TechCrunch"
+        },
         {
           "title": "OpenAI institutes new safeguards after Hugging Face breach",
           "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -230,7 +242,7 @@
         {
           "title": "Comcast adds motion sensing to millions of its newer routers, with a privacy catch",
           "url": "https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/",
-          "snippet": "A new feature added to Comcast's newest routers can detect if there is motion is inside your home without needing traditional motion sensors.",
+          "snippet": "A new feature added to Comcast's newest routers can detect if there is motion inside your home without needing traditional motion sensors.",
           "source": "TechCrunch"
         },
         {
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
           "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Apple’s new macOS update reportedly contains a video of AirPods with a camera",
-          "url": "https://techcrunch.com/2026/08/18/apples-new-macos-update-reportedly-contains-a-video-of-airpods-with-a-camera/",
-          "snippet": "A video in a MacOS Tahoe release candidate version shows a user wearing AirPods, looking at a book, and talking to Siri.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Daniel Ek’s body-scanning startup Neko Health opens first US office, in New York",
-          "url": "https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/",
-          "snippet": "The scanning and bloodwork health startup founded by Spotify's founder will officially launch in New York in about a month.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Λεβαδειακός – Αστέρας Τρίπολης 2-0: Πρόκριση με διπλό τάνγκο από τον Ούρζι",
-        "url": "https://www.gazzetta.gr/football/kypello-elladas/2562240/lebadeiakos-asteras-tripolis-2-0-prokrisi-me-diplo-tangko-apo-ton",
-        "snippet": "Με πρωταγωνιστή και σκόρερ δύο γκολ τον... «νέο» Ογκουστίν Ούρζι από την Αργεντινή, ο Λεβαδειακός επικράτησε εύκολα με 2-0 του αστέρα Aktor ο οποίος αγωνίστηκε με δέκα παίκτες από το 34' λόγω αποβολής του Σίλβα.",
+        "title": "Βάργκας - Ολυμπιακός: Στη λίστα του ο εξτρέμ της Σεβίλλης",
+        "url": "https://www.gazzetta.gr/football/superleague/2562259/bargkas-olympiakos-sti-lista-toy-o-extrem-tis-sebillis",
+        "snippet": "Νέο όνομα για τη λίστα του Ολυμπιακού για τη θέση του εξτρέμ είναι αυτό του Βάργκας της Σεβίλλης.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Σκαριόλο: Ο νέος ρόλος του στη Ρόμα του Λούκα Ντόντσιτς",
-          "url": "https://www.gazzetta.gr/basketball/2562239/skariolo-o-neos-rolos-toy-sti-roma-toy-loyka-ntontsits",
-          "snippet": "Μετά την θητεία του στη Ρεάλ Μαδρίτης, ο Σέρτζιο Σκαριόλο θα έχει έναν διαφορετικό ρόλο στην BC Ρόμα, την ομάδα που βρίσκεται υπό την διοικητική καθοδήγηση του Λούκα Ντόντσιτς!",
+          "title": "Ρέλβας: «Μας έλειψε το... άγγιγμα για τη νίκη, πιστεύουμε στην πρόκριση»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562257/relbas-mas-eleipse-aggigma-gia-ti-niki-pisteyoyme-stin-prokrisi",
+          "snippet": "Όσα είπε ο Φιλίπε Ρέλβας μετά το 0-0 της ΑΕΚ με τη Λέφσκι στη Σόφια.",
           "source": "Gazzetta"
         },
         {
-          "title": "Απάτη με αναπάντητες κλήσεις από το εξωτερικό: Οι διεθνείς κωδικοί που «φουσκώνουν» τους λογαριασμούς",
-          "url": "https://www.gazzetta.gr/plus/2562234/apati-me-anapantites-kliseis-apo-exoteriko-oi-diethneis-kodikoi-poy-foyskonoyn-toys",
-          "snippet": "Μια ιδιαίτερα επικίνδυνη απάτη με αναπάντητες κλήσεις από συγκεκριμένους διεθνείς κωδικούς βρίσκεται σε έξαρση, χρεώνοντας υπέρογκα ποσά όσους ανυποψίαστους πολίτες καλέσουν πίσω.",
+          "title": "Νίκολιτς: «Δεν είχαμε την κατάλληλη τελική απόφαση, το ελληνικό πρωτάθλημα μας έφτασε εδώ»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562256/nikolits-den-eihame-tin-katallili-teliki-apofasi-elliniko",
+          "snippet": "Η συνέντευξη Τύπου του Μάρκο Νίκολιτς μετά την ισοπαλία της ΑΕΚ με τη Λέφσκι στη Σόφια. Αποστολή στη Βουλγαρία: Βασίλης Μπαλατσός",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ: Δύο μεγάλες ευκαιρίες μέσα σε ένα λεπτό με Μουκουντί και Γιόβιτς",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562238/lefski-sofias-aek-dyo-megales-eykairies-mesa-se-ena-lepto-me",
-          "snippet": "Στο 32' και στο 33' η ΑΕΚ είχε άλλες δύο μεγάλες στιγμές για να πάρει το προβάδισμα στη Σόφια.",
+          "title": "ΑΕΚ: Τα αστέρια περνάνε από της Φιλαδέλφειας τα μέρη...",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562255/aek-ta-asteria-pernane-apo-tis-filadelfeias-ta-meri",
+          "snippet": "Ο Γιώργος Τσακίρης γράφει για την ΑΕΚ η οποία άξιζε, βάση ευκαιριών, τη νίκη αλλά φέρνει την εξίσωση της πρόκρισης στην έδρα της με σύμμαχο το κόσμο της. Σούπερ Κάιρινεν...",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ: Το δοκάρι στο σουτ του Γιόβιτς",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562237/lefski-sofias-aek-dokari-sto-soyt-toy-giobits",
-          "snippet": "Η ΑΕΚ στο 20' άγγιξε το προβάδισμα στη Σόφια, αλλά η προσπάθεια του Λούκα Γιόβιτς σταμάτησε στο οριζόντιο δοκάρι και πέρασε άουτ.",
+          "title": "Μουκουντί: «Νιώθω ότι αξίζαμε να νικήσουμε»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562254/moykoynti-niotho-oti-axizame-na-nikisoyme",
+          "snippet": "Ο Αρόλντ Μουκουντί στις τηλεοπτικές του επισημάνσεις αναφέρθηκε στην εικόνα του αγώνα της ΑΕΚ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπλατ: Υπέγραψε στην Χάποελ, δεν τον θέλει ο Ιτούδης και αποχωρεί!",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562236/mplat-ypegrapse-stin-hapoel-den-ton-thelei-o-itoydis-kai-apohorei",
-          "snippet": "Οι Ισραηλινοί αναφέρουν ότι ο Ταμίρ Μπλατ δεν βρίσκεται καθόλου στα πλάνα του Δημήτρη Ιτούδη, παρά το γεγονός ότι αποκτήθηκε από την Χάποελ πριν από μερικές εβδομάδες!",
+          "title": "Λέφσκι Σόφιας - ΑΕΚ: Ο Ηλιόπουλος κατέβηκε στον αγωνιστικό χώρο και αγκάλιασε τους παίκτες",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562253/lefski-sofias-aek-o-iliopoylos-katebike-ston-agonistiko-horo-kai",
+          "snippet": "Ο ισχυρός άνδρας της ΑΕΚ, Μάριος Ηλιόπουλος συνεχάρη τους παίκτες της Ένωσης για την προσπάθειά τους στο ματς με τη Λέφσκι. Αποστολή στη Σόφια: Βασίλης Μπαλατσός",
           "source": "Gazzetta"
         },
         {
-          "title": "Μουσιάλα για το λιποθυμικό επεισόδιο: «Είναι ζήτημα νευρολογικής δυσλειτουργίας, εύκολα αντιμετωπίσιμο»",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2562235/moysiala-einai-zitima-neyrikis-dysleitoyrgias-eykola-antimetopisimo",
-          "snippet": "Ο Τζαμάλ Μουσιάλα ξεκαθάρισε την κατάσταση μετά το νέο λιποθυμικό επεισόδιο σε αγώνα της Μπάγερν και φάνηκε καθησυχαστικός μέσα από ανάρτηση στα social media.",
+          "title": "Πινέιρο - Ολυμπιακός: Στη λίστα των Πειραιωτών για τη θέση του δεξιού μπακ",
+          "url": "https://www.gazzetta.gr/football/superleague/2562252/pineiro-olympiakos-sti-lista-ton-peiraioton-gia-ti-thesi-toy-dexioy",
+          "snippet": "Ο 23χρονος δεξιός μπακ της ομάδας της Φαμαλικάο βρίσκεται στη λίστα του Ολυμπιακού για την ενίσχυσή του ως προς την θέση του δεξιού μπακ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Στο νέο υπερσύγχρονο προπονητήριο η προετοιμασία της ομάδας",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562233/olympiakos-sto-neo-ypersyghrono-proponitirio-i-proetoimasia-tis",
-          "snippet": "Ο Ολυμπιακός μετράει αντίστροφα για την έναρξη της προετοιμασίας, η οποία και θα διεξαχθεί στο νέο προπονητήριο του Σταδίου Ειρήνης και Φιλίας.",
+          "title": "Champions League: Ανοιχτοί λογαριασμοί για Φενέρ και Λιόν, όρθια η Βίκινγκ στο Ζάγκρεμπ!",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562251/champions-league-anoihtoi-logariasmoi-gia-fener-kai-lion-orthia-i",
+          "snippet": "Φενέρμπαχτσε και Λιόν κόλλησαν στο 1-1, με το εισιτήριο για το Champions League να κρίνεται στη ρεβάνς της Γαλλίας. Μεγάλο αποτέλεσμα για τη Βίκινγκ επί της Ντινάμο Ζάγκρεμπ!",
           "source": "Gazzetta"
         },
         {
-          "title": "Οικοδόμοι γκρέμισαν τοίχο και σκόνταψαν πάνω σε θησαυρό 9 εκατ. € σε ράβδους χρυσού: «Νόμιζα ότι ήταν κέρματα του ευρώ»",
-          "url": "https://www.gazzetta.gr/plus/2562213/oikodomoi-gkremisan-toiho-kai-skontapsan-pano-se-thisayro-9-ekat-eu-se-rabdoys-hrysoy",
-          "snippet": "Δύο εργάτες στο Βέλγιο ανακάλυψαν έναν αμύθητο θησαυρό αξίας 9 εκατομμυρίων ευρώ σε χρυσό, θαμμένο στο υπόγειο κτιρίου που ανακαινιζόταν.",
+          "title": "Λέφσκι Σόφιας - ΑΕΚ 0-0: Τα highlights της αναμέτρησης",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562250/lefski-sofias-aek-0-0-ta-highlights-tis-anametrisis",
+          "snippet": "Δείτε τις καλύτερες στιγμές από το ισόπαλο 0-0 της ΑΕΚ απέναντι στη Λέφσκι Σόφιας στη Βουλγαρία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ: Στο πλευρό των παικτών και στη Βουλγαρία ο Μάριος Ηλιόπουλος",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562232/lefski-sofias-aek-sto-pleyro-ton-paikton-toy-kai-sti-boylgaria",
-          "snippet": "Όπως αναμενόταν, ο διοικητικός ηγέτης της ΑΕΚ, Μάριος Ηλιόπουλος, ταξίδεψε στη Σόφια για το σπουδαίο ματς με τη Λέφσκι. Αποστολή στη Βουλγαρία: Βασίλης Μπαλατσός",
+          "title": "Νίκολιτς: «Ήμασταν πιο κοντά στο να σκοράρουμε»",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562249/nikolits-imastan-pio-konta-sto-na-skoraroyme",
+          "snippet": "Ο Μάρκο Νίκολιτς έκανε το πρώτο του σχόλιο on camera μετά το 0-0 της ΑΕΚ με αντίπαλο τη Λέσφκι Σόφιας εκτός έδρας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Γουόκαπ: Τι ζητάει στην καταγγελία του και πώς θα αντιδράσει ο Ολυμπιακός",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562231/goyokap-ti-zitaei-stin-kataggelia-toy-kai-pos-tha-antidrasei-o",
-          "snippet": "Δείτε τι ακριβώς ζητάει ο Τόμας Γουόκαπ ο οποίος ζήτησε να μείνει ελεύθερος από τον Ολυμπιακό και ποια αναμένεται να είναι η αντίδραση των «ερυθρολεύκων».",
+          "title": "Λέφσκι Σόφιας - ΑΕΚ: Παίκτες και Ενωσίτες έγιναν «ένα» κι έδωσαν... ραντεβού στη Νέα Φιλαδέλφεια",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562248/lefski-sofias-aek-paiktes-kai-enosites-eginan-ena-ki-edosan",
+          "snippet": "Οι παίκτες της ΑΕΚ πήγαν στους 2.000 Ενωσίτες μετά τη «λευκή» ισοπαλία με τη Λέφσκι κι έδωσαν «ραντεβού» για τη Νέα Φιλαδέλφεια, όπου θα κριθεί η πρόκριση. Αποστολή στη Σόφια: Βασίλης Μπαλατσός",
           "source": "Gazzetta"
         },
         {
-          "title": "Η πρώην McLaren F1 GTR του Νικ Μέισον έσπασε ρεκόρ σε δημοπρασία",
-          "url": "https://www.gazzetta.gr/gmotion/2562154/i-proin-mclaren-f1-gtr-toy-nik-meison-espase-rekor-se-dimoprasia",
-          "snippet": "Το πρώτο βρετανικό supercar που ξεπερνά το φράγμα των 30 εκατ. δολαρίων, αποδεικνύοντας ότι η ιστορία υπερνικά κάθε ζημιά του παρελθόντος.",
+          "title": "Βαθμολογία UEFA: Σε... αναμονή για την αντεπίθεση η Ελλάδα",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562247/bathmologia-uefa-se-anamoni-gia-tin-antepithesi-i-ellada",
+          "snippet": "Η ισοπαλία της ΑΕΚ επί της Λέφσκι Σόφιας μείωσε προσωρινά την απόσταση της Ελλάδας από τη 10η θέση στη βαθμολογία της UEFA, αλλά η διαδρομή παραμένει ακόμα μεγάλη...",
           "source": "Gazzetta"
         },
         {
-          "title": "Τραγωδία στην Κύπρο: 27χρονος βούτηξε στη θάλασσα να πιάσει το κινητό του και πνίγηκε",
-          "url": "https://www.gazzetta.gr/plus/2562227/tragodia-stin-kypro-27hronos-boytixe-sti-thalassa-na-piasei-kinito-toy-kai-pnigike",
-          "snippet": "Ένα θλιβερό γεγονός έλαβε χώρα στην Κύπρο, όπου ένας 27χρονος βούτηξε στη θάλασσα προκειμένου να πιάσει το κινητό του, τελικά πνίγηκε.",
+          "title": "Λέφσκι Σόφιας – ΑΕΚ 0-0: Eτοιμη για σεντόνι στη Νέα Φιλαδέλφεια!",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562246/lefski-sofias-aek-0-0-etoimi-gia-sentoni-sti-nea-filadelfeia",
+          "snippet": "Η ΑΕΚ ξόδεψε τρεις σπουδαίες ευκαιρίες στο α' ημίχρονο, έμεινε στο 0-0 με τη Λέφσκι Σόφιας, αλλά στη Νέα Φιλαδέλφεια θα είναι φαβορί για πρόκριση στη League Phase του Champions League.",
           "source": "Gazzetta"
         },
         {
-          "title": "Από το νησί στο σπίτι: 6 αλλαγές που κάνουν πιο όμορφη την επιστροφή",
-          "url": "https://www.gazzetta.gr/plus/2562229/apo-nisi-sto-spiti-6-allages-poy-kanoyn-pio-omorfi-tin-epistrofi",
-          "snippet": "Η επιστροφή από τις διακοπές γίνεται πιο όμορφη με μικρές αλλαγές στο σπίτι που φέρνουν φρεσκάδα, άνεση και καλοκαιρινή διάθεση.",
+          "title": "ΑΕΚ - Λέφσκι Σόφιας: Η μέρα, η ώρα και το κανάλι της ρεβάνς",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562245/aek-lefski-sofias-i-mera-i-ora-kai-kanali-tis-rebans",
+          "snippet": "Η ΑΕΚ θα φιλοξενήσει τη Λέφσκι Σόφιας στη ρεβάνς των δυο ομάδων, στη Νέα Φιλαδέλφεια, την Τετάρτη 26 Αυγούστου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μουσιάλα: Ανησυχία στη Μπάγερν, κατέρρευσε ξανά σε φιλικό ματς!",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2562228/moysiala-anisyhia-sti-mpagern-katerreyse-xana-se-filiko-mats",
-          "snippet": "Εντείνεται η ανησυχία στη Μπάγερν με την κατάσταση με τον Τζαμάλ Μουσιάλα, ο οποίος κατέρρευσε ξανά σε φιλικό ματς λίγες μέρες μετά το λιποθυμικό επεισόδιο με τη Λειψία.",
+          "title": "Μονακό: Ώρα μηδέν, στις 20 Αυγούστου η ακρόαση στην Εθνική Ολυμπιακή και Αθλητική Επιτροπή",
+          "url": "https://www.gazzetta.gr/basketball/mpasket-gallia/2562244/monako-ora-miden-stis-20-aygoystoy-i-akroasi-stin-ethniki",
+          "snippet": "Την ερχόμενη Πέμπτη (20/08) θα κριθεί και το μέλλον της Μονακό τη νέα αγωνιστική σεζόν, με την ομάδα του Πριγκιπάτου να προσπαθεί να δώσει κανονικά το «παρών» στις επόμενες διοργανώσεις.",
           "source": "Gazzetta"
         }
       ]
@@ -389,9 +389,9 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
-        "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
-        "snippet": "The “Heroes” and “Nashville” star, who died Sunday at 36, endured personal struggles that were compounded by her public profile.",
+        "title": "‘Les Miz’ Offers a Lifeline to a Battered Theater Industry",
+        "url": "https://www.nytimes.com/2026/08/18/theater/les-miserables.html",
+        "snippet": "Regional theaters can once again produce “Les Misérables” because a national tour has ended. One veteran actor called the popular show “an instant moneymaker.”",
         "source": "NYT Arts"
       },
       "items": [
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Les Miz’ Offers a Lifeline to a Battered Theater Industry",
-          "url": "https://www.nytimes.com/2026/08/18/theater/les-miserables.html",
-          "snippet": "Regional theaters can once again produce “Les Misérables” because a national tour has ended. One veteran actor called the popular show “an instant moneymaker.”",
+          "title": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
+          "url": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
+          "snippet": "The actor went from oracle to angel of vengeance in the HBO drama. In an interview, he discusses his two Emmy nods for two very different characters.",
           "source": "NYT Arts"
         },
         {
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Colman Domingo Discusses His Emmy-Nominated Roles in ‘Euphoria’ and ‘Four Seasons’",
-          "url": "https://www.nytimes.com/2026/08/18/arts/television/colman-domingo-euphoria-four-seasons-emmys.html",
-          "snippet": "The actor went from oracle to angel of vengeance in the HBO drama. In an interview, he discusses his two Emmy nods for two very different characters.",
+          "title": "Broadway Goes Coachella for a Weekend in the Country",
+          "url": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
+          "snippet": "Among the stars and stans at a Hudson River retreat, two reporters beheld the big belters and niche merchandise at a new musical theater festival.",
           "source": "NYT Arts"
         },
         {
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Broadway Goes Coachella for a Weekend in the Country",
-          "url": "https://www.nytimes.com/2026/08/18/theater/broadway-musicals-festival-kingston.html",
-          "snippet": "Among the stars and stans at a Hudson River retreat, two reporters beheld the big belters and niche merchandise at a new musical theater festival.",
+          "title": "Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.",
+          "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html",
+          "snippet": "The “Heroes” and “Nashville” star, who died Sunday at 36, endured personal struggles that were compounded by her public profile.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’",
-          "url": "https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html",
-          "snippet": "“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said.",
+          "title": "5 New Songs I’m Excited About",
+          "url": "https://www.nytimes.com/2026/08/18/arts/music/amplifier-newsletter-phoebe-bridgers-lrain.html",
+          "snippet": "Hear a track from L’Rain and the song our critic wishes Phoebe Bridgers had made her lead single.",
           "source": "NYT Arts"
         }
       ]
