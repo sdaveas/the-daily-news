@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-19T04:28:48.078064+00:00",
+  "updated": "2026-08-19T08:25:37.672436+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "ΗΠΑ – Ιράν: Το «ναυάγιο» της συμφωνίας των 60 ημερών – Από τους πανηγυρισμούς Τραμπ στο απόλυτο αδιέξοδο",
-        "url": "https://www.efsyn.gr/kosmos/1450195/ipa-iran-to-nayagio-tis-symfonias-ton-60-imeron-apo-tis-panigyrikes-yposheseis-sto-apolyto-adiexodo/",
-        "snippet": "Δύο μήνες και πλέον μετά την υπογραφή του συμφώνου συνεννόησης μεταξύ ΗΠΑ και Ιράν για τη λήξη του πολέμου, βρισκόμαστε ακόμα πιο μακριά από τη λύση",
+        "title": "Χίος: Ολοκληρώθηκαν οι πληρωμές σε 59 επιχειρήσεις για τις πυρκαγιές του 2025",
+        "url": "https://www.efsyn.gr/oikonomia/1450382/hios-oloklirothikan-oi-pliromes-se-59-epiheiriseis-gia-tis-pyrkagies-toy-2025/",
+        "snippet": "Καταβλήθηκαν 509.643,30 ευρώ σε 59 επιχειρήσεις της Περιφερειακής Ενότητας (ΠΕ) Χίου.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Λήρος Δεκαπενταυγούστου",
-          "url": "https://www.efsyn.gr/nisides/1449291/liros-dekapentaygoystoy/",
-          "snippet": "Πάτησε πάλι τα μάρμαρα της Καταπολιανής. Το πρωί είχε ψηφίσει δακρυόεις το μνημόνιο.",
+          "title": "Εύβοια: 22χρονος έπεσε σε γκρεμό 15 μέτρων μετά από τροχαίο – Βίντεο από την επιχείρηση διάσωσης",
+          "url": "https://www.efsyn.gr/ellada/1450397/eyvoia-22hronos-epese-se-gkremo-15-metron-meta-apo-trohaio-vinteo-apo-tin-epiheirisi-diasosis/",
+          "snippet": "Πέντε πυροσβέστες, κάτω από ιδιαίτερα δύσκολες συνθήκες, κατάφεραν να απεγκλωβίσουν τον 22χρονο και να τον μεταφέρουν με φορείο στον δρόμο.",
           "source": "EfSyn"
         },
         {
-          "title": "Ινστιτούτο Τσίπρα: Η πρόταση για «Ενεργειακή Δημοκρατία» απέναντι στο ακριβό ρεύμα",
-          "url": "https://www.efsyn.gr/politiki/1450201/institoyto-tsipra-i-protasi-gia-energeiaki-dimokratia-apenanti-stoys-ypsiloys-logariasmoys-reymatos/",
-          "snippet": "Δεσμευμένο ηλεκτρικό χώρο, εθνική στρατηγική με στόχους, ένταξη 50.000 ευάλωτων νοικοκυριών, στήριξη δήμων και αγροτών, περιλαμβάνει η εισήγηση",
+          "title": "Καλλιάνος: Το κομμάτι του Πάριου που τραγούδησε στα social και η απάντηση στην κριτική",
+          "url": "https://www.efsyn.gr/politiki/1450379/kallianos-to-kommati-toy-parioy-poy-tragoydise-sta-social-kai-i-apantisi-stin-kritiki/",
+          "snippet": "«Και ποιο είναι, άραγε, το παράπτωμά μου;»",
           "source": "EfSyn"
         },
         {
-          "title": "Ρένα Δούρου: Επίδειξη δύναμης με μηνύματα εντός και εκτός Κουμουνδούρου",
-          "url": "https://www.efsyn.gr/politiki/1450192/rena-doyroy-epideixi-dynamis-me-minymata-entos-kai-ektos-koymoyndoyroy/",
-          "snippet": "Η είδηση της επιστολής ήταν η διαγραφή της Νίνας Κασιμάτη και η αναφορά στην παράδοση της έδρας από την Ολγα Γεροβασίλη",
+          "title": "Χαλκιδική: «Φύτρωσαν» ξανά οι ρεζερβέ ομπρέλες και ξαπλώστρες λίγες ώρες μετά το ξήλωμά τους [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1450369/halkidiki-fytrosan-xana-oi-rezerve-ompreles-kai-xaplostres-liges-ores-meta-to-xiloma-toys-vinteo/",
+          "snippet": "Το πρωί της Τρίτης, ο δήμος Πολυγύρου προχώρησε σε επιχείρηση απελευθέρωσης κοινόχρηστου χώρου στη Γερακινή.",
           "source": "EfSyn"
         },
         {
-          "title": "Το βαθύ μπλε της ζωής",
-          "url": "https://www.efsyn.gr/nisides/1449266/to-vathy-mple-tis-zois/",
-          "snippet": "Ψάχνοντας να βρω ακόμα ένα διαμαντάκι ανάμεσα στα τόσα ντοκιμαντέρ του National Geographic, σκόνταψε το βλέμμα μου σε ένα διαφημιστικό τρέιλερ που τίτλο είχε «Time &#38; Water». O νους μου βιάστηκε να ανοίξει τον φάκελο Masaru Emoto. Ενός Ιάπωνα ερευνητή που μίλησε πολλά χρόνια π",
+          "title": "Θεσσαλονίκη: Ζευγάρι συνελήφθη με 120 παγωτά και 21 μπουκάλια ποτών",
+          "url": "https://www.efsyn.gr/ellada/1450365/thessaloniki-zeygari-synelifthi-me-120-pagota-kai-21-mpoykalia-poton/",
+          "snippet": "Οι δύο συλληφθέντες καταδικάστηκαν.",
           "source": "EfSyn"
         },
         {
-          "title": "Καιρός: Μπόρες και καταιγίδες μέχρι την Πέμπτη – Ερχονται 39άρια το Σαββατοκύριακο",
-          "url": "https://www.efsyn.gr/ellada/1450204/kairos-mpores-kai-kataigides-mehri-tin-pempti-erhontai-39aria-to-savvatokyriako/",
-          "snippet": "Οι περιοχές που θα επηρεαστούν.",
+          "title": "Ο Λαθραίος",
+          "url": "https://www.efsyn.gr/stiles/1450317/o-lathraios/",
+          "snippet": "Το μεταναστευτικό στην Ευρώπη σήμερα είναι ένα ζήτημα ασφάλειας, είναι ένα ζήτημα πολιτικής εργαλειοποίησης, είναι ένα ζήτημα πολιτιστικής ταυτότητας, είναι και ένα ζήτημα ανθρωπιστικό",
           "source": "EfSyn"
         },
         {
-          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 19 Αυγούστου",
-          "url": "https://www.efsyn.gr/ellada/1450198/eortologio-poioi-giortazoyn-simera-19-aygoystoy/",
-          "snippet": "Σε ποιους πρέπει να πείτε χρόνια πολλά.",
+          "title": "Λεξιλογικά του ποδοσφαίρου",
+          "url": "https://www.efsyn.gr/stiles/1450309/lexilogika-toy-podosfairoy/",
+          "snippet": "Αρχίζει το Σαββατοκύριακο το πρωτάθλημα ποδοσφαίρου, ταιριάζει λοιπόν να λεξιλογήσουμε γι’ αυτό το άθλημα, το πιο αγαπημένο στην Ελλάδα.",
           "source": "EfSyn"
         },
         {
-          "title": "ΑΕΚ: Λευκή ισοπαλία κόντρα στη Λέφσκι Σόφιας – Στη Νέα Φιλαδέλφεια θα κριθεί η πρόκριση",
-          "url": "https://www.efsyn.gr/athlitismos/1450189/aek-leyki-isopalia-kontra-sti-lefski-sofias-sti-nea-filadelfeia-tha-krithei-i-prokrisi/",
-          "snippet": "Η Ένωση δημιούργησε αρκετές ευκαιρίες, με μεγαλύτερη το δοκάρι του Γιόβιτς, όμως δεν κατάφερε να σκοράρει.",
+          "title": "Το ΥΠΠΟ και η γυναίκα του Καίσαρα",
+          "url": "https://www.efsyn.gr/stiles/1450301/to-yppo-kai-i-gynaika-toy-kaisara/",
+          "snippet": "Πώς δικαιολογείται λοιπόν το υπουργείο στην υπόθεση του Αρχαιολογικού Μουσείου Χίου για τις καθυστερήσεις που οδήγησαν τελικά στην απένταξη του έργου και στην αλλαγή του χρηματοδοτικού πλαισίου προκειμένου να παραμείνει ζωντανό;",
           "source": "EfSyn"
         },
         {
-          "title": "Η Λιβερία συνδράμει την ακροδεξιά πολιτική του Τραμπ: Θα δεχθεί έως 1.200 μετανάστες που απελαύνονται από τις ΗΠΑ",
-          "url": "https://www.efsyn.gr/kosmos/1450187/i-liveria-syndramei-tin-akrodexia-politiki-toy-tramp-tha-dehthei-eos-1-200-metanastes-poy-apelaynontai-apo-tis-ipa/",
-          "snippet": "Η κυβέρνηση Τραμπ δεν μπορεί νομίμως να στείλει πίσω στις πατρίδες τους τους συγκεκριμένους μετανάστες, επειδή δικαστήρια αποφάνθηκαν ότι απειλείται η ζωή τους.",
+          "title": "Χώρα να (μη) ζεις",
+          "url": "https://www.efsyn.gr/stiles/1450287/hora-na-mi-zeis/",
+          "snippet": "Δύο ειδήσεις που μας ήρθαν χθες από το εξωτερικό, αλλά αφορούν τη χώρα μας δένουν γλυκά… Ή μάλλον πολύ πικρά",
           "source": "EfSyn"
         },
         {
-          "title": "Οι ΗΠΑ κλιμακώνουν τον πόλεμο κατά του ΔΠΔ: Επέβαλαν κυρώσεις στην πρόεδρο του Δικαστηρίου και σε ανώτερο λειτουργό",
-          "url": "https://www.efsyn.gr/kosmos/1450183/oi-ipa-klimakonoyn-ton-polemo-kata-toy-dpd-epevalan-kyroseis-stin-proedro-toy-dikastirioy-kai-se-anotero-leitoyrgo/",
-          "snippet": "Οι κυρώσεις αποτελούν σε μεγάλο βαθμό «απάντηση» στις έρευνες του ΔΠΔ κατά του Ισραήλ, συμμάχου των ΗΠΑ.",
+          "title": "Τροιζήνα: Βίντεο από τη δράση του 40χρονου εμπρηστή – «Δεν θυμάμαι πόσες φωτιές έχω βάλει»",
+          "url": "https://www.efsyn.gr/ellada/1450356/troizina-vinteo-ntokoymento-apo-ti-drasi-40hronoy-empristi-den-thymamai-poses-foties-eho-valei/",
+          "snippet": "Στο «μικροσκόπιο» των ανακριτών βρίσκονται ακόμη εννέα ανεξιχνίαστοι εμπρησμοί.",
           "source": "EfSyn"
         },
         {
-          "title": "Λέσβος: Διασώθηκαν πέντε άτομα μετά τη βύθιση ερασιτεχνικού σκάφους",
-          "url": "https://www.efsyn.gr/ellada/1450181/lesvos-diasothikan-pente-atoma-meta-ti-vythisi-erasitehnikoy-skafoys/",
-          "snippet": "Οι πέντε διασωθέντες μεταφέρθηκαν στην παραλία Τάρτι και είναι καλά στην υγεία τους.",
+          "title": "ΣΥΡΙΖΑ: Η υποχρηματοδότηση της Παιδείας είναι πολιτική επιλογή – Τι προτείνουμε",
+          "url": "https://www.efsyn.gr/politiki/1450355/syriza-i-ypohrimatodotisi-tis-paideias-einai-politiki-epilogi-ti-proteinoyme/",
+          "snippet": "Η Κουμουνδούρου σχολιάζει την προτελευταία θέση της Ελλάδας στις κρατικές δαπάνες για την Παιδεία, τονίζοντας πέντε πολιτικούς στόχους για δημόσια και δωρεάν εκπαίδευση.",
           "source": "EfSyn"
         },
         {
-          "title": "Τουρκοκύπριος πρώην ευρωβουλευτής ζητά συγγνώμη για τις δολοφονίες Ισαάκ και Σολωμού – Τι απαντά η κόρη του Ισαάκ",
-          "url": "https://www.efsyn.gr/kosmos/1450176/toyrkokyprios-proin-eyrovoyleytis-zita-syggnomi-gia-tis-dolofonies-isaak-kai-solomoy-ti-apanta-i-kori-toy-isaak/",
-          "snippet": "«Χρέος όλων σας δεν είναι να μου ζητάτε συγγνώμη. Χρέος όλων σας είναι να αναλάβετε την ευθύνη για να τιμωρηθούν οι δολοφόνοι...».",
+          "title": "Συμφωνία ΗΠΑ – Καναδά στο παρά ένα: Ο Τραμπ αναστέλλει τους δασμούς 50% για τρεις ημέρες",
+          "url": "https://www.efsyn.gr/kosmos/1450357/symfonia-ipa-kanada-sto-para-ena-o-tramp-anastellei-toys-dasmoys-50-gia-treis-imeres/",
+          "snippet": "Οι επιπρόσθετοι τελωνειακοί δασμοί, που είχαν αναγγελθεί στα μέσα Ιουλίου, θα εφαρμόζονταν σε καναδικά εισαγόμενα προϊόντα αξίας 20 δισεκατομμυρίων δολαρίων, διαφόρων τομέων -- από το τσιμέντο ως τα μπαστούνια του χόκεϊ επί πάγου και τη μπίρα.",
           "source": "EfSyn"
         },
         {
-          "title": "Μπαράζ τουρκικών παραβιάσεων στο Αιγαίο",
-          "url": "https://www.efsyn.gr/ellada/1450177/mparaz-toyrkikon-paraviaseon-sto-aigaio/",
-          "snippet": "Δεκάδες παραβιάσεις με μαχητκά F-16, drones, αλλά και κατασκοπευτικό αεροσκάφος πραγματοποίησε τις τελευταίες ώρες η Τουρκία, σε μια περίοδο κατά την οποία τα «ήρεμα νερά» στο Αιγαίο δεν είναι καθόλου&#8230; ήρεμα. Όπως σημειώνει η ΕΡΤ σήμερα καταγράφηκε ακόμη και αερομαχία ανάμε",
+          "title": "Σίφνος: Εικόνες drone από το σημείο συντριβής – Λιωμένοι έλικες, απανθρακωμένη άτρακτος, καμένη γη",
+          "url": "https://www.efsyn.gr/ellada/1450342/sifnos-apokardiotikes-eikones-apo-to-simeio-syntrivis-liomenoi-elikes-apanthrakomeni-atraktos-kameni-gi-vinteo/",
+          "snippet": "Νέα πλάνα από τα διαλυμένα συντρίμμια - Στην Αθήνα μεταφέρονται οι τρεις σοροί για ιατροδικαστική εξέταση.",
           "source": "EfSyn"
         },
         {
-          "title": "Συμφώνησαν Μπαρτσελόνα με Ρόδρι, ολοκληρώθηκε η πιο μεγάλη μεταγραφή του καλοκαιριού",
-          "url": "https://www.efsyn.gr/athlitismos/1450170/symfonisan-mpartselona-me-rodri-oloklirothike-i-pio-megali-metagrafi-toy-kalokairioy/",
-          "snippet": "Μετακομίζει στη Βαρκελώνη ο κάτοχος της Χρυσής Μπάλας του 2024, πρωταθλητής Ευρώπης και Κόσμου με την Ισπανία και MVP του Παγκοσμίου Κυπέλλου 2026.",
+          "title": "Πέθανε ο Χρήστος Γατσέλης πολιτευτής του ΠΑΣΟΚ – Το αντίο του Ευάγγελου Βενιζέλου",
+          "url": "https://www.efsyn.gr/politiki/1450336/pethane-o-hristos-gatselis-politeytis-toy-pasok-to-antio-toy-eyaggeloy-venizeloy/",
+          "snippet": "«Τον αποχαιρετώ με μεγάλη θλίψη».",
           "source": "EfSyn"
         },
         {
-          "title": "Το νέο «ναυάγιο» μεταξύ ΗΠΑ – Ιράν και οι απειλές του Τραμπ στο Ομάν έφεραν άλμα στις τιμές του πετρελαίου",
-          "url": "https://www.efsyn.gr/oikonomia/1450160/to-neo-nayagio-metaxy-ipa-iran-kai-oi-apeiles-toy-tramp-sto-oman-eferan-alma-stis-times-toy-petrelaioy/",
-          "snippet": "Το μεγάλο πρόβλημα με τα Στενά του Ορμούζ και ο κίνδυνος για το «διπλό πλήγμα».",
+          "title": "Καραχάλιος: «Ο Καραμανλής και ο Σαμαράς είναι ο Γιαμάλ και ο Εμπαπέ» – Με ποιον παρομοίασε τον Μητσοτάκη",
+          "url": "https://www.efsyn.gr/politiki/1450296/karahalios-o-karamanlis-kai-o-samaras-einai-o-giamal-kai-o-empape-me-poion-paromoiase-ton-mitsotaki/",
+          "snippet": "«Δείτε πόσες φωτογραφίες έχουν δίπλα-δίπλα ο κ. Καραμανλής με τον κ. Σαμαρά, και πόσες έχουν με τον κ. Μητσοτάκη».",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "In a Faltering Chinese Economy, Working-Class Stories Strike a Chord",
-          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-working-class-writers-books.html",
-          "snippet": "Poems, essays and books written by working-class writers have garnered recognition in recent years — as well as increasing government attention.",
+          "title": "Iran war: Trump tries economic pressure — again",
+          "url": "https://www.nytimes.com/2026/08/19/world/europe/iran-trump-economic-sanctions-leverage.html",
+          "snippet": "Iran has survived decades of sanctions. Faced with more, it is likely to escalate rather than surrender, analysts said.",
           "source": "NYT World"
         }
       ]
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Γκονζάλες - Ολυμπιακός: Συμφωνία με τη Τσίβας για τον Μεξικανό φορ",
-        "url": "https://www.gazzetta.gr/football/superleague/2562261/gkonzales-olympiakos-i-symfonia-me-ti-tsibas-gia-tpn-mexikano",
-        "snippet": "Θέμα ημερών είναι πλέον η άφιξη του νεαρού φορ Γκονζάλες στην Ελλάδα μετά το deal των Ολυμπιακού - Τσίβας.",
+        "title": "Μπάρτλει: Άλλαξε ατζέντη, ποια είναι η πρόταση της ΑΕΚ για ανανέωση συμβολαίου",
+        "url": "https://www.gazzetta.gr/basketball/basket-league/2562318/mpartlei-allaxe-atzenti-poia-einai-i-protasi-tis-aek-gia-ananeosi",
+        "snippet": "Το Gazzetta παρουσιάζει το status του Φρανκ Μπάρτλεϊ και την πρόταση για ανανέωση συμβολαίου, την οποία ακόμα δεν έχει αποδεχθεί.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Βάργκας - Ολυμπιακός: Στη λίστα του ο εξτρέμ της Σεβίλλης",
-          "url": "https://www.gazzetta.gr/football/superleague/2562259/bargkas-olympiakos-sti-lista-toy-o-extrem-tis-sebillis",
-          "snippet": "Νέο όνομα για τη λίστα του Ολυμπιακού για τη θέση του εξτρέμ είναι αυτό του Βάργκας της Σεβίλλης.",
+          "title": "F1, Ολλανδία: Εκτός αγώνα ο Χατζάρ λόγω τραυματισμού",
+          "url": "https://www.gazzetta.gr/gmotion/2562316/f1-ollandia-ektos-agona-o-hatzar-logo-traymatismoy",
+          "snippet": "Πλήγμα στη Red Bull Racing λίγες ημέρες πριν ξεκινήσει η δράση στο GP Ολλανδίας, με τον Ίσακ Χατζάρ να τίθεται εκτός αγώνα λόγω τραυματισμού.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ρέλβας: «Μας έλειψε το... άγγιγμα για τη νίκη, πιστεύουμε στην πρόκριση»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562257/relbas-mas-eleipse-aggigma-gia-ti-niki-pisteyoyme-stin-prokrisi",
-          "snippet": "Όσα είπε ο Φιλίπε Ρέλβας μετά το 0-0 της ΑΕΚ με τη Λέφσκι στη Σόφια.",
+          "title": "Θες να κάνεις τατουάζ; Αυτά είναι τα 5 πιο επώδυνα σημεία στο σώμα",
+          "url": "https://www.gazzetta.gr/plus/2562300/thes-na-kaneis-tatoyaz-ayta-einai-ta-5-pio-epodyna-simeia-sto-soma",
+          "snippet": "Ειδικοί αποκαλύπτουν τα πιο επώδυνα σημεία του σώματος για τατουάζ και εξηγούν πού ο πόνος είναι ηπιότερος.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νίκολιτς: «Δεν είχαμε την κατάλληλη τελική απόφαση, το ελληνικό πρωτάθλημα μας έφτασε εδώ»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562256/nikolits-den-eihame-tin-katallili-teliki-apofasi-elliniko",
-          "snippet": "Η συνέντευξη Τύπου του Μάρκο Νίκολιτς μετά την ισοπαλία της ΑΕΚ με τη Λέφσκι στη Σόφια. Αποστολή στη Βουλγαρία: Βασίλης Μπαλατσός",
+          "title": "Μουρίνιο: «Οι αμφιβολίες του Ρόδρι μου δημιούργησαν αμφιβολίες»",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562315/moyrinio-oi-amfibolies-toy-moy-dimioyrgisan-amfibolies",
+          "snippet": "Ο Ζοζέ Μουρίνιο σε πρόσφατες δηλώσεις του εξήγησε τους λόγους για τους οποίους δεν προχώρησε η μεταγραφή του Ρόδρι στη Ρεάλ Μαδρίτης.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ: Τα αστέρια περνάνε από της Φιλαδέλφειας τα μέρη...",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562255/aek-ta-asteria-pernane-apo-tis-filadelfeias-ta-meri",
-          "snippet": "Ο Γιώργος Τσακίρης γράφει για την ΑΕΚ η οποία άξιζε, βάση ευκαιριών, τη νίκη αλλά φέρνει την εξίσωση της πρόκρισης στην έδρα της με σύμμαχο το κόσμο της. Σούπερ Κάιρινεν...",
+          "title": "Μύκονος: Πραγματοποίησε την πρώτη της προπόνηση ενόψει της νέας σεζόν",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2562313/mykonos-pragmatopoiise-tin-proti-tis-proponisi-enopsei-tis-neas",
+          "snippet": "Η Μύκονος πραγματοποίησε την πρώτη της συγκέντρωση και προπόνηση ενόψει της σεζόν 2026-27.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μουκουντί: «Νιώθω ότι αξίζαμε να νικήσουμε»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562254/moykoynti-niotho-oti-axizame-na-nikisoyme",
-          "snippet": "Ο Αρόλντ Μουκουντί στις τηλεοπτικές του επισημάνσεις αναφέρθηκε στην εικόνα του αγώνα της ΑΕΚ.",
+          "title": "Διάβασμα στο Δημοτικό: 4 συνήθειες μελέτης που πρέπει να χτίσει το παιδί από την Α' Τάξη",
+          "url": "https://www.gazzetta.gr/plus/2562312/diabasma-sto-dimotiko-4-synitheies-meletis-poy-prepei-na-htisei-paidi-apo-tin-taxi",
+          "snippet": "Η μετάβαση στο Δημοτικό είναι μια τεράστια στιγμή. Για το παιδί, είναι η είσοδος στον «κόσμο των μεγάλων».",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ: Ο Ηλιόπουλος κατέβηκε στον αγωνιστικό χώρο και αγκάλιασε τους παίκτες",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562253/lefski-sofias-aek-o-iliopoylos-katebike-ston-agonistiko-horo-kai",
-          "snippet": "Ο ισχυρός άνδρας της ΑΕΚ, Μάριος Ηλιόπουλος συνεχάρη τους παίκτες της Ένωσης για την προσπάθειά τους στο ματς με τη Λέφσκι. Αποστολή στη Σόφια: Βασίλης Μπαλατσός",
+          "title": "Αγγελική Ηλιάδη για το τέλος με Χρήστο Παπαμήτρου: «Υπήρξαν συμπεριφορές που ξεπέρασαν τα όρια»",
+          "url": "https://www.gazzetta.gr/2408702/kairos-kleidose-hioni-mesa-sti-thessaloniki-prognosi-rigoy-gia-0-bathmoys-akomi-kai-stin",
+          "snippet": "Τη λήξη της συνεργασίας της με τον μάνατζερ Χρήστο Παπαμήτρου ανακοίνωσε η Αγγελική Ηλιάδη, αφήνοντας παράλληλα αιχμές για όσα προηγήθηκαν.",
           "source": "Gazzetta"
         },
         {
-          "title": "Πινέιρο - Ολυμπιακός: Στη λίστα των Πειραιωτών για τη θέση του δεξιού μπακ",
-          "url": "https://www.gazzetta.gr/football/superleague/2562252/pineiro-olympiakos-sti-lista-ton-peiraioton-gia-ti-thesi-toy-dexioy",
-          "snippet": "Ο 23χρονος δεξιός μπακ της ομάδας της Φαμαλικάο βρίσκεται στη λίστα του Ολυμπιακού για την ενίσχυσή του ως προς την θέση του δεξιού μπακ.",
+          "title": "ΑΕΚ: Από το «speak coach, speak», στο «pass the f... ball» και το «μελιτζανί» του Νίκολιτς",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-champions-league/2562310/aek-apo-speak-coach-speak-sto-pass-fball-kai",
+          "snippet": "Ο Βαγγέλης Αρναούτογλου γράφει για μια ποδοσφαιρική βραδιά με αγωνία, φωνές, παρατηρήσεις και ένα σωρό μικρές ιστορίες, που τελικά άφησαν την ΑΕΚ με το 0-0 και τον Νίκολιτς με αρκετούς λόγους να... ''μελιτζανίσει''.",
           "source": "Gazzetta"
         },
         {
-          "title": "Champions League: Ανοιχτοί λογαριασμοί για Φενέρ και Λιόν, όρθια η Βίκινγκ στο Ζάγκρεμπ!",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562251/champions-league-anoihtoi-logariasmoi-gia-fener-kai-lion-orthia-i",
-          "snippet": "Φενέρμπαχτσε και Λιόν κόλλησαν στο 1-1, με το εισιτήριο για το Champions League να κρίνεται στη ρεβάνς της Γαλλίας. Μεγάλο αποτέλεσμα για τη Βίκινγκ επί της Ντινάμο Ζάγκρεμπ!",
+          "title": "Παναιτωλικός: Επιστρέφει ο Μπάντζι, έρχεται ο Σουμά και «φουλάρει» για δεύτερο φορ",
+          "url": "https://www.gazzetta.gr/football/superleague/2562307/panaitolikos-epistrefei-o-mpantzi-erhetai-o-soyma-kai-foylarei-gia",
+          "snippet": "Ο Παναιτωλικός είναι κοντά σε συμφωνία με την Άαρχους για νέο δανεισμό του Γιουσούφ Μπάντζι, ενώ προσπαθεί να κλείσει άμεσα και δεύτερο φορ. Έρχεται απόψε (19/8) στην Ελλάδα ο Σουμά.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ 0-0: Τα highlights της αναμέτρησης",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562250/lefski-sofias-aek-0-0-ta-highlights-tis-anametrisis",
-          "snippet": "Δείτε τις καλύτερες στιγμές από το ισόπαλο 0-0 της ΑΕΚ απέναντι στη Λέφσκι Σόφιας στη Βουλγαρία.",
+          "title": "Τι περιέχει πλέον το μπουκάλι εμφιαλωμένου νερού αν μείνει στο ζεστό αυτοκίνητο όλη μέρα",
+          "url": "https://www.gazzetta.gr/plus/2562303/ti-periehei-pleon-mpoykali-emfialomenoy-neroy-meinei-sto-zesto-aytokinito-oli-mera",
+          "snippet": "Είναι ασφαλές να πίνετε νερό από το πλαστικό μπουκάλι που έμεινε σε ζεστό αυτοκίνητο;",
           "source": "Gazzetta"
         },
         {
-          "title": "Νίκολιτς: «Ήμασταν πιο κοντά στο να σκοράρουμε»",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562249/nikolits-imastan-pio-konta-sto-na-skoraroyme",
-          "snippet": "Ο Μάρκο Νίκολιτς έκανε το πρώτο του σχόλιο on camera μετά το 0-0 της ΑΕΚ με αντίπαλο τη Λέσφκι Σόφιας εκτός έδρας.",
+          "title": "Άρης: Νέα αλλαγή δεδομένων λόγω άρνησης του Κριστιάν Μακούν",
+          "url": "https://www.gazzetta.gr/football/superleague/2562305/aris-nea-allagi-dedomenon-logo-arnisis-toy-kristian-makoyn",
+          "snippet": "Ο Κριστιάν Μακούν ξεκαθάρισε στη Λέφσκι ότι δεν έχει σκοπό να φύγει από την ομάδα καθώς ο Άρης ήδη έχει στρέψει αλλού το ενδιαφέρον του για στόπερ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας - ΑΕΚ: Παίκτες και Ενωσίτες έγιναν «ένα» κι έδωσαν... ραντεβού στη Νέα Φιλαδέλφεια",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562248/lefski-sofias-aek-paiktes-kai-enosites-eginan-ena-ki-edosan",
-          "snippet": "Οι παίκτες της ΑΕΚ πήγαν στους 2.000 Ενωσίτες μετά τη «λευκή» ισοπαλία με τη Λέφσκι κι έδωσαν «ραντεβού» για τη Νέα Φιλαδέλφεια, όπου θα κριθεί η πρόκριση. Αποστολή στη Σόφια: Βασίλης Μπαλατσός",
+          "title": "F1: Η αρμονία μεταξύ Χάμιλτον και Ferrari είναι καλύτερη από ποτέ",
+          "url": "https://www.gazzetta.gr/gmotion/2562146/f1-i-armonia-metaxy-hamilton-kai-ferrari-einai-kalyteri-apo-pote",
+          "snippet": "Ο Λιούις Χάμιλτον ωθεί τη Ferrari σε νέα επίπεδα και απολαμβάνει τόσο την αλλαγή κλίματος όσο και τη συνεργασία με το Μαρανέλο στο 2026.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βαθμολογία UEFA: Σε... αναμονή για την αντεπίθεση η Ελλάδα",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562247/bathmologia-uefa-se-anamoni-gia-tin-antepithesi-i-ellada",
-          "snippet": "Η ισοπαλία της ΑΕΚ επί της Λέφσκι Σόφιας μείωσε προσωρινά την απόσταση της Ελλάδας από τη 10η θέση στη βαθμολογία της UEFA, αλλά η διαδρομή παραμένει ακόμα μεγάλη...",
+          "title": "Κάλιαρι: Ξύπνησε από το κώμα ο 20χρονος που πήγε να πνιγεί σε πισίνα",
+          "url": "https://www.gazzetta.gr/football/serie/2562306/kaliari-xypnise-apo-koma-o-20hronos-poy-pige-na-pnigei-se-pisina",
+          "snippet": "Ο Γιαέλ Τρεπί βγήκε από το τεχνητό κώμα με την πορεία της υγείας του να παρουσιάζει σημαντική εξέλιξη.",
           "source": "Gazzetta"
         },
         {
-          "title": "Λέφσκι Σόφιας – ΑΕΚ 0-0: Eτοιμη για σεντόνι στη Νέα Φιλαδέλφεια!",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562246/lefski-sofias-aek-0-0-etoimi-gia-sentoni-sti-nea-filadelfeia",
-          "snippet": "Η ΑΕΚ ξόδεψε τρεις σπουδαίες ευκαιρίες στο α' ημίχρονο, έμεινε στο 0-0 με τη Λέφσκι Σόφιας, αλλά στη Νέα Φιλαδέλφεια θα είναι φαβορί για πρόκριση στη League Phase του Champions League.",
+          "title": "Νέα Ζηλανδία: Έπαθε ανακοπή καρδιάς σε πάρκινγκ σούπερ μάρκετ και της έκοψαν κλήση για υπέρβαση ορίου",
+          "url": "https://www.gazzetta.gr/plus/2562289/nea-zilandia-epathe-anakopi-kardias-se-parkingk-soyper-market-kai-tis-ekopsan-klisi",
+          "snippet": "54χρονη που έδινε μάχη για τη ζωή της σε πάρκινγκ βρέθηκε κατηγορούμενη για υπερβαση ορίου χρόνου.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ - Λέφσκι Σόφιας: Η μέρα, η ώρα και το κανάλι της ρεβάνς",
-          "url": "https://www.gazzetta.gr/football/champions-league/2562245/aek-lefski-sofias-i-mera-i-ora-kai-kanali-tis-rebans",
-          "snippet": "Η ΑΕΚ θα φιλοξενήσει τη Λέφσκι Σόφιας στη ρεβάνς των δυο ομάδων, στη Νέα Φιλαδέλφεια, την Τετάρτη 26 Αυγούστου.",
+          "title": "Γουόκαπ: Το video από την προπόνησή του στη Νέα Υόρκη",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2562304/goyokap-video-apo-tin-proponisi-toy-sti-nea-yorki",
+          "snippet": "Ο Τόμας Γουόκαπ ανέβασε video στα social media από την προπόνησή του στη Νέα Υόρκη.",
           "source": "Gazzetta"
         }
       ]
