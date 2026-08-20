@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-20T08:27:01.498505+00:00",
+  "updated": "2026-08-20T12:29:10.935573+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Καλλιάνος για καύσωνα: «Οτι δεν έκανε το φετινό καλοκαίρι πάει να το κάνει τρίτο δεκαήμερο του Αυγούστου»",
-        "url": "https://www.efsyn.gr/ellada/1451085/kallianos-oti-den-ekane-to-fetino-kalokairi-paei-na-to-kanei-trito-dekaimero-toy-aygoystoy/",
-        "snippet": "«Η πιο ουσιαστική άνοδος της θερμοκρασίας ξεκινά από το Σάββατο».",
+        "title": "Νηνεμία μετά την καταιγίδα στην αγορά ομολόγων που θύμισε μέρες της κρίσης του 2007",
+        "url": "https://www.efsyn.gr/oikonomia/1451169/ninemia-meta-tin-kataigida-stin-agora-omologon-poy-thymise-meres-tis-krisis-toy-2007/",
+        "snippet": "Τις μέρες της οικονομικής κρίσης του 2007 θύμισε το βίαιο κύμα ρευστοποιήσεων κρατικών τίτλων ● Πάντως, χθες, οι διεθνείς αγορές ομολόγων έδειξαν σημάδια σταθεροποίησης",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Τζέικοπ Νίστρουπ: «Δεν έχω όνειρα, έχω στόχους»",
-          "url": "https://www.efsyn.gr/athlitismos/1451030/tzeikop-nistroyp-den-eho-oneira-eho-stohoys/",
-          "snippet": "Ο Νίστρουπ έδωσε σύνθημα πρόκρισης ενόψει του αποψινού πρώτου αγώνα του Παναθηναϊκού με τη Χράντετς Κράλοβε για τα πλέι οφ του Κόνφερενς Λιγκ",
+          "title": "Συστήματα πυρανίχνευσης και πυροπροστασίας εγκαθίστανται σε μνημεία – αρχαιολογικούς χώρους",
+          "url": "https://www.efsyn.gr/ellada/1451298/systimata-pyranihneysis-kai-pyroprostasias-egkathistantai-se-mnimeia-arhaiologikoys-horoys/",
+          "snippet": "Η πληροφορία που παρέχεται στους χειριστές του συστήματος συνδυάζει δεδομένα από θερμικές και οπτικές κάμερες με δυνατότητα περιστροφής 360 μοιρών, τηλεχειριζόμενες κάμερες και χαρτογραφική απεικόνιση, στην οποία αποτυπώνονται οι εντοπισμένες εστίες, ο χρόνος ενεργοποίησης του συ",
           "source": "EfSyn"
         },
         {
-          "title": "Νέο μάθημα σε Γυμνάσια και Λύκεια από τον Σεπτέμβριο – Πώς θα διδάσκεται",
-          "url": "https://www.efsyn.gr/ellada/1451106/neo-mathima-se-gymnasia-kai-lykeia-apo-ton-septemvrio-pos-tha-didasketai/",
-          "snippet": "Το μάθημα αφορά όσους μαθητές και μαθήτριες παίρνουν απαλλαγή από τα Θρησκευτικά, όπως προβλέπει η νέα υπουργική απόφαση.",
+          "title": "Ο Μπέρνι Σάντερς εξηγεί γιατί οι προοδευτικοί υποψήφιοι σαρώνουν στις ΗΠΑ: «Δεν είναι πολύπλοκο»",
+          "url": "https://www.efsyn.gr/kosmos/1451293/o-mperni-santers-exigei-giati-oi-proodeytikoi-ypopsifioi-saronoyn-stis-ipa-den-einai-polyploko/",
+          "snippet": "Παρέμβαση του Αμερικανού γερουσιαστή στον Guardian.",
           "source": "EfSyn"
         },
         {
-          "title": "Χαλκιδική: Κάηκε το σύμπαν, αλλά μετράνε τα ακίνητα που σώθηκαν",
-          "url": "https://www.efsyn.gr/ellada/1451037/halkidiki-kaike-to-sympan-alla-metrane-ta-akinita-poy-sothikan/",
-          "snippet": "Ενώ ο υφυπουργός Κωνσταντίνος Κατσαφάδος ανακοίνωνε τα επιδόματα για τους πληγέντες της Σίβηρης, ο Μαργαρίτης Σχοινάς μιλούσε για «άθλο συντονισμού» (!)",
+          "title": "Φωτιά στην Κρεμαστή Λακωνίας – Επιχειρούν τέσσερα εναέρια μέσα",
+          "url": "https://www.efsyn.gr/ellada/1451305/fotia-stin-kremasti-lakonias-epiheiroyn-tessera-enaeria-mesa/",
+          "snippet": "Κινητοποιήθηκαν επίσης 35 πυροσβέστες με δύο ομάδες πεζοπόρων τμημάτων και εννέα οχήματα",
           "source": "EfSyn"
         },
         {
-          "title": "Μύκονος: Δύο συλλήψεις για διακίνηση ναρκωτικών – Χρησιμοποιούσαν αυτοκίνητο για «καβάτζα»",
-          "url": "https://www.efsyn.gr/ellada/1451087/mykonos-dyo-syllipseis-gia-diakinisi-narkotikon-hrisimopoioysan-aytokinito-gia-kavatza/",
-          "snippet": "Οι δύο συλληφθέντες οδηγούνται στην Εισαγγελία Πρωτοδικών Σύρου, ενώ η συγκεκριμένη επιχείρηση εντάσσεται στις ειδικές δράσεις των αστυνομικών υπηρεσιών του Νοτίου Αιγαίου για την αντιμετώπιση της διακίνησης και διάδοσης ναρκωτικών.",
+          "title": "ΚΚΕ για 13ο και 14ο μισθό στο Δημόσιο: Το ΣτΕ υιοθετεί όλα τα άθλια επιχειρήματα της κυβέρνησης",
+          "url": "https://www.efsyn.gr/politiki/1451290/kke-gia-13o-kai-14o-mistho-sto-dimosio-to-ste-yiothetei-ola-ta-athlia-epiheirimata-tis-kyvernisis/",
+          "snippet": "Επίθεση προς την κυβέρνηση εξαπέλυσε το ΚΚΕ",
           "source": "EfSyn"
         },
         {
-          "title": "Ιός Δυτικού Νείλου: Τέσσερις νέοι θάνατοι σε μια εβδομάδα – Η περιοχή με τα περισσότερα κρούσματα",
-          "url": "https://www.efsyn.gr/ellada/1451088/ios-dytikoy-neiloy-tesseris-neoi-thanatoi-se-mia-evdomada-i-periohi-me-ta-perissotera-kroysmata/",
-          "snippet": "Από την αρχή του 2026 μέχρι τις 19/8 έχουν καταγραφεί 157 κρούσματα και 13 θάνατοι.",
+          "title": "Έρευνα για τη δολοφονία της Χιντ Ρατζάμπ: «Δεν εμπιστευόμαστε το ισραηλινό δικαστικό σύστημα», ξεσπά η γιαγιά της",
+          "url": "https://www.efsyn.gr/kosmos/1451281/ereyna-gia-ti-dolofonia-tis-hint-ratzamp-den-empisteyomaste-to-israilino-dikastiko-systima-xespa-i-giagia-tis/",
+          "snippet": "Η γιαγιά του 6χρονου κοριτσιού σχολιάζει την έρευνα που ξεκινά για πρώτη φορά ο IDF: «Η Χιντ έγινε στόχος ισραηλινών στρατιωτών με σκοπό τη σκόπιμη δολοφονία της, υπό τα βλέμματα ολόκληρου του κόσμου».",
           "source": "EfSyn"
         },
         {
-          "title": "Λάρισα: Νεκρός 48χρονος που καταπλακώθηκε από τρακτέρ – Ειδοποίησε μόνος του το ΕΚΑΒ",
-          "url": "https://www.efsyn.gr/ellada/1451083/larisa-nekros-48hronos-poy-kataplakothike-apo-trakter-eidopoiise-monos-toy-to-ekav/",
-          "snippet": "Ο 48χρονος αμέσως μετά τον βαρύ τραυματισμό του κατάφερε με το κινητό του τηλέφωνο να ειδοποιήσει το ΕΚΑΒ. Ωστόσο, ήταν ήδη αργά όταν οι διασώστες έφτασαν κοντά του.",
+          "title": "Θέμα «γκρίζων ζωνών» στο Αιγαίο επαναφέρει η Άγκυρα μετά το νέο χωροταξικό για τις ΑΠΕ",
+          "url": "https://www.efsyn.gr/politiki/1451268/thema-gkrizon-zonon-sto-aigaio-epanaferei-i-agkyra-meta-to-neo-horotaxiko-gia-tis-ape/",
+          "snippet": "«Το ελληνικό σχέδιο δεν έχει νομικές συνέπειες για την Τουρκία, δεν επηρεάζει τη θέση της και περιλαμβάνει σχηματισμούς των οποίων η ιδιοκτησία δεν έχει μεταβιβαστεί στην Ελλάδα μέσω διεθνών συμφωνιών».",
           "source": "EfSyn"
         },
         {
-          "title": "Πέθανε ο λυράρης Στάθης Παρχαρίδης σε ηλικία 59 ετών",
-          "url": "https://www.efsyn.gr/ellada/1451065/pethane-o-lyraris-stathis-parharidis-se-ilikia-59-eton/",
-          "snippet": "Σίγησε ένας αυθεντικός εκφραστής της ποντιακής παράδοσης, σε ηλικία 59 ετών.",
+          "title": "Ν.Δ., ιδεοληψίες και ΠΕΑΙΠ",
+          "url": "https://www.efsyn.gr/stiles/1451143/n-d-ideolipsies-kai-peaip/",
+          "snippet": "Θύμα και όμηρος της αλαζονείας της η κυβέρνηση στην υπόθεση των ιδιωτικών «πανεπιστημίων»: λησμόνησε ότι υπάρχει «οροφή» στις συνταγματικές ακροβασίες και στις θεσμικές αυθαιρεσίες",
           "source": "EfSyn"
         },
         {
-          "title": "Κολυδάς για την ομίχλη στις Κυκλάδες: «Δεν πρόκειται για sea smoke» – Η εξήγηση που έδωσε",
-          "url": "https://www.efsyn.gr/ellada/1451063/kolydas-gia-tin-omihli-stis-kyklades-den-prokeitai-gia-sea-smoke-i-exigisi-poy-edose/",
-          "snippet": "«Σπάνιο φαινόμενο στην καρδιά του Αυγούστου».",
+          "title": "Ολο και πιο βαθιά στον πόλεμο…",
+          "url": "https://www.efsyn.gr/stiles/1451127/olo-kai-pio-vathia-ston-polemo/",
+          "snippet": "Ο πόλεμος των ΗΠΑ και του Ισραήλ στο Ιράν ήταν και παραμένει ένας άδικος και αδικαιολόγητος πόλεμος που έβαλε φωτιά στη Μέση Ανατολή με αλυσιδωτές επιπτώσεις στον υπόλοιπο κόσμο",
           "source": "EfSyn"
         },
         {
-          "title": "Κρήτη: Διάσωση 50 προσφύγων και μεταναστών ανοιχτά των Καλών Λιμένων",
-          "url": "https://www.efsyn.gr/ellada/1451055/kriti-diasosi-50-prosfygon-kai-metanaston-anoihta-ton-kalon-limenon/",
-          "snippet": "Τους εντόπισε drone της Frontex - Μεταφέρονται στο λιμάνι των Καλών Λιμένων.",
+          "title": "Ξεχασμένα Βαλκάνια",
+          "url": "https://www.efsyn.gr/stiles/1451119/xehasmena-valkania/",
+          "snippet": "Μπορούσε κανείς να φανταστεί πριν από δύο χρόνια τη χωρίς προσχήματα εμπλοκή της Τουρκίας στη σύγκρουση Ινδίας - Πακιστάν στο Κασμίρ;",
           "source": "EfSyn"
         },
         {
-          "title": "Ακρίτα: «Ξέρεις πόσα πλήρωσες από την τσέπη σου για τη χλιδάτη δεξίωση του Τασούλα;»",
-          "url": "https://www.efsyn.gr/politiki/1451054/akrita-xereis-posa-pliroses-apo-tin-tsepi-soy-gia-ti-hlidati-dexiosi-toy-tasoyla/",
-          "snippet": "Με ανάρτησή της, η βουλεύτρια του ΣΥΡΙΖΑ επαναφέρει το αίτημα της Κουμουνδούρου για ένταξη της Προεδρίας της Δημοκρατίας στη «Διαύγεια» - «Δεν θα ησυχάσουμε μέχρι να μάθεις πού πάνε τα λεφτά σου».",
+          "title": "Το ΣτΕ αποκαλύπτει το μεγάλο φιάσκο",
+          "url": "https://www.efsyn.gr/stiles/1451112/to-ste-apokalyptei-to-megalo-fiasko/",
+          "snippet": "Πώς διαπιστώνεται αν ένα κολέγιο πληροί την απαίτηση της ακαδημαϊκής ελευθερίας, όταν μέχρι τώρα λειτουργούσε ως εκπαιδευτική επιχείρηση, με όρους αγοράς και όχι ακαδημαϊκής ελευθερίας;",
           "source": "EfSyn"
         },
         {
-          "title": "Τα χαμηλά περιθώρια κέρδους δεν σημαίνουν χαμηλή κερδοφορία",
-          "url": "https://www.efsyn.gr/stiles/1451016/ta-hamila-perithoria-kerdoys-den-simainoyn-hamili-kerdoforia/",
-          "snippet": "Ενα επιχείρημα που ακούμε συχνά στην Ελλάδα: ότι τα σουπερμάρκετ έχουν μικρά περιθώρια κέρδους και, επομένως, δεν είναι ιδιαίτερα κερδοφόρα. Το επιχείρημα αυτό, όμως, δεν λέει όλη την αλήθεια",
+          "title": "Επικίνδυνη στροφή",
+          "url": "https://www.efsyn.gr/stiles/1451094/epikindyni-strofi/",
+          "snippet": "Μια σύγκρουση με παγκόσμιες διαστάσεις, η οποία υπερβαίνει τις στρατιωτικές δυνατότητες που μπορεί να αντέξει πολιτικά η υπερδύναμη, αλλά υπερβαίνει και όλα τα εργαλεία και τους κανόνες του διεθνούς συστήματος",
           "source": "EfSyn"
         },
         {
-          "title": "Πληρώνουμε ακριβότερα για να αποδεικνύεται ότι «η οικονομία πάει καλά»",
-          "url": "https://www.efsyn.gr/stiles/1451023/plironoyme-akrivotera-gia-na-apodeiknyetai-oti-i-oikonomia-paei-kala/",
-          "snippet": "Υπάρχει ένας πολύ απλός τρόπος να καταλάβει κανείς τι πραγματικά συμβαίνει στην ελληνική οικονομία",
+          "title": "Οι Αμλετ της Κουμουνδούρου",
+          "url": "https://www.efsyn.gr/stiles/1451104/oi-amlet-tis-koymoyndoyroy/",
+          "snippet": "Η τρόικα του ΣΥΡΙΖΑ έχει να διαχειριστεί μια πολύ δύσκολη υπόθεση. Θα κερδίσει το στοίχημα αν καταφέρει να βάλει το κόμμα στη Βουλή",
           "source": "EfSyn"
         },
         {
-          "title": "Θαλάσσιος χωροταξικός σχεδιασμός: η νομική δύναμη της Ελλάδας στο Αιγαίο",
-          "url": "https://www.efsyn.gr/stiles/1451010/thalassios-horotaxikos-shediasmos-i-nomiki-dynami-tis-elladas-sto-aigaio/",
-          "snippet": "Η Ελλάδα έχει μια σημαντική ευκαιρία: να μην αντιμετωπίσει τον θαλάσσιο χωροταξικό σχεδιασμό ως μια τυπική ευρωπαϊκή υποχρέωση, αλλά ως ένα σύγχρονο νομικό εργαλείο που μπορεί να ενισχύσει τη θέση της χώρας και να συμβάλει στη σταθερότητα ολόκληρης της Ανατολικής Μεσογείου",
+          "title": "Μελάνωμα: Ελπίδες για πειραματικό εμβόλιο mRNA κατά του καρκίνου – Εκτόξευση των μετοχών Merck και Moderna",
+          "url": "https://www.efsyn.gr/epistimi/1451260/melanoma-elpides-gia-emvolio-mrna-kata-toy-karkinoy-ti-edeixe-meleti/",
+          "snippet": "Θετικά τα αποτελέσματα από το πειραματικό εμβόλιο mRNA κατά του μελανώματος, με συμμετοχή 1.100 ασθενών, που ανοίγουν δρόμους για νέες θεραπευτικές προσεγγίσεις.",
           "source": "EfSyn"
         },
         {
-          "title": "Το παράδοξο μιας πώλησης",
-          "url": "https://www.efsyn.gr/stiles/1450997/to-paradoxo-mias-polisis/",
-          "snippet": "Αρκετές δημοσκοπήσεις τα τελευταία χρόνια αποδεικνύουν ότι ο ΠΑΟΚ, ως σύλλογος, έχει τρομακτική διείσδυση στις μικρές ηλικίες και τα ποσοστά λιλιπούτειων οπαδών του είναι τεράστια ελέω Κωσταντέλια",
+          "title": "Τι είναι οι κυρατζήδες που έβρισκαν καταφύγιο στα Μοναστήρια της Πίνδου",
+          "url": "https://www.efsyn.gr/ellada/1451235/ti-einai-oi-kyratzides-poy-evriskan-katafygio-sta-monastiria-tis-pindoy/",
+          "snippet": "Κτηνοτρόφοι και κυρατζήδες περνούσαν για να κατέβουν προς τον κάμπο και έβρισκαν σε ορισμένα μοναστήρια καταφύγιο και φιλοξενία.",
           "source": "EfSyn"
         }
       ]
@@ -101,12 +101,42 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "China Sentences Evergrande Founder to Life in Prison",
-        "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
-        "snippet": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+        "title": "Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html",
+        "snippet": "After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.",
         "source": "NYT World"
       },
       "items": [
+        {
+          "title": "Russian Missiles Kill at Least 15 in Kyiv as Air Defenses Dwindle",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html",
+          "snippet": "Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.",
+          "source": "NYT World"
+        },
+        {
+          "title": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
+          "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
+          "snippet": "For weeks, there has been no diplomatic progress, but also no full-scale fighting, as both sides seem to believe they can hold out longer than the other.",
+          "source": "NYT World"
+        },
+        {
+          "title": "After Six Years, Harry and Meghan Are Coming Home. What Changed?",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html",
+          "snippet": "Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.",
+          "source": "NYT World"
+        },
+        {
+          "title": "The Indian City Where AI Is Creating Jobs for Humans",
+          "url": "https://www.nytimes.com/2026/08/20/world/asia/ai-jobs-data-annotation-india-karur.html",
+          "snippet": "In the fast-growing field of data annotation, workers in a small city in south India train A.I. to improve how it performs tasks traditionally done by people.",
+          "source": "NYT World"
+        },
+        {
+          "title": "China Sentences Evergrande Founder to Life in Prison",
+          "url": "https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html",
+          "snippet": "Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.",
+          "source": "NYT World"
+        },
         {
           "title": "Bad Plot, Worse Graphics: Chinese Moviegoers Flock to a Low-Budget Hit",
           "url": "https://www.nytimes.com/2026/08/20/world/asia/niu-lai-chinese-movie-box-office.html",
@@ -156,39 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near",
-          "url": "https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html",
-          "snippet": "Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained.",
-          "source": "NYT World"
-        },
-        {
-          "title": "After Youth Outcry, Vietnam Says Former Official Caused Fatal Crash at Tree 55",
-          "url": "https://www.nytimes.com/2026/08/19/world/asia/vietnam-crash-tree-55-community-party-official.html",
-          "snippet": "Young people are calling for justice after a former Communist Party official killed a teenager in a car crash. The government’s response has been surprising.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Erin Patterson, Woman Convicted in Australia’s Mushroom Murder Case, Appeals",
-          "url": "https://www.nytimes.com/2026/08/18/world/australia/erin-patterson-appeal-mushroom-murder-australia.html",
-          "snippet": "An Australian woman, Erin Patterson, was found guilty of murdering three of her husband’s relatives and trying to kill a fourth by serving them deadly mushrooms.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Chinese Comic Investigated After Singing a Riff of a Patriotic Song",
-          "url": "https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html",
-          "snippet": "Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.",
-          "source": "NYT World"
-        },
-        {
-          "title": "In Italy, a Beach Club Run by Nuns Is in Jeopardy",
-          "url": "https://www.nytimes.com/2026/08/19/world/europe/italy-nuns-beach-club.html",
-          "snippet": "The Sisters of Charity of Saint Mary have hosted beachgoers in the town of Spotorno for decades. But change is coming.",
-          "source": "NYT World"
-        },
-        {
-          "title": "Harry and Meghan’s Break With Britain and Planned Return: a Timeline",
-          "url": "https://www.nytimes.com/2026/08/19/world/europe/harry-meghan-uk-royals-timeline.html",
-          "snippet": "The couple will remain non-working royals. It is unclear where they will live.",
+          "title": "A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html",
+          "snippet": "Clément Vandenkerckhove was born to Belgium’s Prince Clement before his marriage. He is now a prince himself, though he is not expected to have royal duties.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-        "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "title": "Meta AI’s new Mac app wants you to talk to your apps",
+        "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+        "snippet": "Meta said its Muse Spark model is powering the dictation feature.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
+          "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+          "snippet": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+          "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
           "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/",
           "snippet": "The U.S. phone provider escaped a large-scale breach of its network after identifying Chinese-backed hackers early on.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Time’s running out! Save $300 on your TechCrunch Disrupt 2026 pass until August 21",
-          "url": "https://techcrunch.com/2026/08/19/times-running-out-save-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
-          "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-          "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-          "snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΟΦΗ - ΤΣΣΚΑ Σόφιας: Η ώρα και το κανάλι μετάδοσης του αγώνα",
-        "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2562534/ofi-tsska-sofias-i-ora-kai-kanali-metadosis-toy-agona",
-        "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης του αγώνα του ΟΦΗ με την ΤΣΣΚΑ Σόφιας για τα play-offs του Europa League.",
+        "title": "Μαντόνα: Viral βίντεο από την Πάτμο - Άνδρας έβγαζε selfie σε ταβέρνα και εκείνη πέρασε πίσω του",
+        "url": "https://www.gazzetta.gr/plus/2562578/mantona-viral-binteo-apo-tin-patmo-andras-ebgaze-selfie-se-taberna-kai-ekeini-perase",
+        "snippet": "Ένα απρόσμενο «τετ-α-τετ» με την «βασίλισσα της ποπ» στo ελληνικό νησί. .",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Μονακό: Οριστικά στις 25 Αυγούστου η εκδίκαση στο CNOSF",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562533/monako-oristika-stis-25-aygoystoy-i-ekdikasi-sto-cnosf",
-          "snippet": "Το μέλλον της Μονακό συνεχίζει να κρέμεται σε μια κλωστή, αφού η εκδίκαση της υπόθεσής της θα πραγματοποιηθεί οριστικά στις 25 Αυγούστου, όπως ζήτησε η ομάδα του Πριγκιπάτου.",
+          "title": "Προμηθέας σε Πλώτα: «Σε ευχαριστούμε για τις υπέροχες στιγμές, καλή τύχη στην καριέρα σου»",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2562577/promitheas-se-plota-se-eyharistoyme-gia-tis-yperohes-stigmes-kali",
+          "snippet": "Ο Προμηθέας αποχαιρέτησε τον Νίκο Πλώτα και του ευχήθηκε τα καλύτερα για τη συνέχεια της καριέρας του στον Ολυμπιακό.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ευρωπαϊκό προσκλητήριο για Παναθηναϊκό, ΠΑΟΚ και ΟΦΗ!",
-          "url": "https://www.gazzetta.gr/football/2562532/eyropaiko-prosklitirio-gia-panathinaiko-paok-kai-ofi",
-          "snippet": "Ο Παναθηναϊκός, ο ΠΑΟΚ και ο ΟΦΗ βγαίνουν στον ευρωπαϊκό στίβο με μοναδικό στόχο την πρόκρισή τους στη League Phase και τη συνέχεια της πορείας τους στην Ευρώπη.",
+          "title": "Γκονζάλες - Ολυμπιακός: Οι πρώτες του δηλώσεις στον δρόμο για την Αθήνα",
+          "url": "https://www.gazzetta.gr/football/superleague/2562576/gkonzales-olympiakos-oi-protes-toy-diloseis-ston-dromo-gia-tin-athina",
+          "snippet": "Ο Αρμάντο Γκονζάλες βρίσκεται στον... δρόμο για την Ελλάδα καθώς παραχώρησε τις πρώτες του δηλώσεις σχετικά με τη νέα του πρόκληση στον Ολυμπιακό.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Δεν το περιμέναμε»: Ανακαλύφθηκε μια «Mega-Γη» που αψηφά τους νόμους του Διαστήματος",
-          "url": "https://www.gazzetta.gr/plus/2562523/den-perimename-anakalyfthike-mia-mega-gi-poy-apsifa-toys-nomoys-toy-diastimatos",
-          "snippet": "Η ανακάλυψη αποτελεί ένα συναρπαστικό αίνιγμα για τη σύγχρονη αστροφυσική και αναγκάζει τους ειδικούς να επανεξετάσουν τους μηχανισμούς που καθορίζουν τη γέννηση τόσο μεγάλων ουράνιων σωμάτων.",
+          "title": "Ποια είναι η σωστή ώρα για μεσημεριανή σιέστα - Και το λάθος που καταστρέφει τον βραδινό σου ύπνο",
+          "url": "https://www.gazzetta.gr/plus/2562574/poia-einai-i-sosti-ora-gia-mesimeriani-siesta-kai-lathos-poy-katastrefei-ton-bradino",
+          "snippet": "Ναι, υπάρχει σωστή και λάθος ώρα να κοιμηθείς το μεσημέρι. Πώς θα ανανεώσεις την ενέργειά σου μέσα στη μέρα, χωρίς να ξαγρυπνάς το βράδυ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ - Μπραν: Η ώρα και το κανάλι μετάδοσης του αγώνα",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562531/paok-mpran-i-ora-kai-kanali-metadosis-toy",
-          "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης του αγώνα του ΠΑΟΚ με τη Μπραν για τα play-offs του Conference League.",
+          "title": "Παναθηναϊκός: Η πρώτη φωτογραφία του Μπατίστ στην επιστροφή του",
+          "url": "https://www.gazzetta.gr/basketball/euroleague/2562573/panathinaikos-i-proti-fotografia-toy-mpatist-stin-epistrofi-toy",
+          "snippet": "Η ΚΑΕ Παναθηναϊκός δημοσίευσε την πρώτη φωτογραφία του Μάικ Μπατίστ με τα «πράσινα» στο «Telekom Center Athens».",
           "source": "Gazzetta"
         },
         {
-          "title": "Κλείδωσε η λίστα για τη μείωση τιμών σε βασικά προϊόντα: Από πότε θα δούμε «ψαλίδι»",
-          "url": "https://www.gazzetta.gr/plus/2562528/kleidose-i-lista-gia-ti-meiosi-timon-se-basika-proionta-apo-pote-tha-doyme-psalidi",
-          "snippet": "Η λίστα των προϊόντων, στα οποία θα δούμε μείωση των τιμών έχει σε μεγάλο βαθμό «κλειδώσει» - Πότε τίθεται σε εφαρμογή το μέτρο.",
+          "title": "Λεβαδειακός: Πρόβλημα για τους Βοιωτούς για αντικανονική συμμετοχή παίκτη στον αγώνα με τον Αστέρα AKTOR",
+          "url": "https://www.gazzetta.gr/football/kypello-elladas/2562571/lebadeiakos-problima-gia-toys-boiotoys-gia-antikanoniki-symmetohi",
+          "snippet": "Φαίνεται να πρόκυψε για τον Λεβαδειακό στον αγώνα του Κυπέλλου Ελλάδος κόντρα στον Αστέρα AKTOR για αντικανονική συμμετοχή ενός ποδοσφαιριστή.",
           "source": "Gazzetta"
         },
         {
-          "title": "Άνδρας αυτοπυροβολήθηκε σε βενζινάδικο στο Χαϊδάρι: Σε κατάσταση σοκ η υπάλληλος",
-          "url": "https://www.gazzetta.gr/plus/2562530/andras-aytopyrobolithike-se-benzinadiko-sto-haidari-se-katastasi-sok-i-ypallilos",
-          "snippet": "Μία 43χρονη υπάλληλος εντόπισε τον ιδιοκτήτη του πρατηρίου και ενημέρωσε άμεσα τις Αρχές.",
+          "title": "16χρονος ζει μέσα σε μια λίμνη εδώ και 5 χρόνια: Νιώθει το δέρμα του να καίει και κανείς δεν βρίσκει λύση",
+          "url": "https://www.gazzetta.gr/plus/2562570/16hronos-zei-mesa-se-mia-limni-edo-kai-5-hronia-niothei-derma-toy-na-kaiei-kai-kaneis",
+          "snippet": "Για πέντε ολόκληρα χρόνια, ένας 16χρονος από την Ινδία έχει βρει έναν απίστευτο τρόπο για να αντιμετωπίζει ένα πρόβλημα που κανένας γιατρός μέχρι σήμερα δεν έχει καταφέρει να εξηγήσει.",
           "source": "Gazzetta"
         },
         {
-          "title": "F1, Φερστάπεν: Υπέγραψε νέο συμβόλαιο με τη Red Bull",
-          "url": "https://www.gazzetta.gr/gmotion/2562529/f1-ferstapen-ypegrapse-neo-symbolaio-me-ti-red-bull",
-          "snippet": "Οι εκπλήξεις του καλοκαιριού συνεχίζονται, καθώς η Red Bull Racing ανακοίνωσε την επέκταση της συνεργασίας της με τον Μαξ Φερστάπεν με νέο πολυετές συμβόλαιο.",
+          "title": "Πανιώνιος: Τόπο στα... νιάτα με Σασλόγλου",
+          "url": "https://www.gazzetta.gr/basketball/a2-mpasket-elite-league/2562569/panionios-topo-sta-niata-me-saslogloy",
+          "snippet": "Ο Πανιώνιος συνεχίζει να επενδύει στο μέλλον καθώς μετά τον Ανδρέα Μπάρλο, συμφώνησε με άλλο ένα «διαμάντι» της Εθνικής Ελλάδας U16, τον Άγγελο Σασλόγλου.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Εντυπωσιακά πλάνα από το εσωτερικό του Βοτανικού (vid)",
-          "url": "https://www.gazzetta.gr/football/superleague/2562527/panathinaikos-entyposiaka-plana-apo-esoteriko-toy-botanikoy-vid",
-          "snippet": "Εντυπωσιακά είναι τα νέα πλάνα που έδωσε στη δημοσιότητα ο Παναθηναϊκός από το εσωτερικό του γηπεδου του Βοτανικού!",
+          "title": "Εθνική: Το κάλεσμα των διεθνών στον κόσμο για το ματς με την Πολωνία",
+          "url": "https://www.gazzetta.gr/2562568/ethniki-kalesma-ton-diethnon-ston-kosmo-gia-mats-me-tin-polonia",
+          "snippet": "Κώστας Παπανικολάου, Βασίλης Τολιόπουλος και Νικ Καλάθης έκαναν κάλεσμα στον κόσμο ενόψει της φιλικής αναμέτρησης της Εθνικής με την Πολωνία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μαφέο - Ολυμπιακός: Έφτασε στην Ισπανία για τη Βαλένθια",
-          "url": "https://www.gazzetta.gr/football/superleague/2562526/mafeo-olympiakos-eftase-stin-ispania-gia-ti-balenthia",
-          "snippet": "Ο Πάμπλο Μαφέο επέστρεψε στην Ισπανία προκειμένου να βάλει στην τελική ευθεία τη μετακίνηση του από τον Ολυμπιακό στη Βαλένθια.",
+          "title": "Ταρέμι - Ολυμπιακός: Έκλεισε στην Αλ Ουάσλ ο Ιρανός φορ",
+          "url": "https://www.gazzetta.gr/football/superleague/2562567/taremi-olympiakos-ekleise-stin-al-oyasl-o-iranos",
+          "snippet": "Στην Αλ Ουάσλ στο Ντουμπάι θα συνεχίσει την καριέρα του ο Μεχντί Ταρέμι, κλείνοντας το κεφάλαιο του Ολυμπιακού.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός - Χράντετς Κράλοβε: Η ώρα και το κανάλι μετάδοσης του αγώνα",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562524/panathinaikos-hrantets-kralobe-i-ora-kai",
-          "snippet": "Δείτε την ώρα και το κανάλι μετάδοσης του αγώνα του Παναθηναϊκού με τη Χράντετς Κράλοβε για τα play-offs του Conference League.",
+          "title": "Γιατί ο Τζεφ Μπέζος «βάζει γκολ» στο Άνφιλντ",
+          "url": "https://www.gazzetta.gr/2436947/boyliazoyn-10-ipeirotikoi-proorismoi-gia-pasha",
+          "snippet": "Πρώτη απόπειρα του τρίτου πλουσιότερου ανθρώπου στον κόσμο με περιουσία 270 δισ. δολαρίων στην ιδιοκτησία αθλητικών ομάδων, αλλά χωρίς θέση στο ΔΣ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Η επαναφορά του 4-2-3-1 και οι αλλαγές σε πρόσωπα που σκέφτεται ο Νίστρουπ",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562515/panathinaikos-i-epanafora-toy-4-2-3-1-kai-oi",
-          "snippet": "Ο Τζέικομπ Νίστρουπ αναμένεται να επαναφέρει την τετράδα στην άμυνα και προσανατολίζεται σε 3-4 διαφοροποιήσεις, όσον αφορά τους παίκτες, στο αρχικό σχήμα.",
+          "title": "Σαλιφού Σουμά: Ο Παναιτωλικός ανακοίνωσε τη μεταγραφή",
+          "url": "https://www.gazzetta.gr/football/superleague/2562565/salifoy-soyma-o-panaitolikos-anakoinose-ti-metagrafi",
+          "snippet": "Όπως αναμενόταν, ο Παναιτωλικός ανακοίνωσε την απόκτηση του Σαλιφού Σουμά με τη μορφή δανεισμού από τη Μάλμε.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Η συγκινητική ανάρτηση για τον Παύλο Γιαννακόπουλο",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2562521/panathinaikos-i-sygkinitiki-anartisi-gia-ton-paylo-giannakopoylo",
-          "snippet": "Η ΚΑΕ Παναθηναϊκός προχώρησε σε μια ανάρτηση προς τιμήν του εμβληματικού Παύλου Γιαννακόπουλου, ο οποίος γεννήθηκε σαν σήμερα το 1929.",
+          "title": "Όταν η Αθήνα έμεινε χωρίς νερό για 20 μέρες",
+          "url": "https://www.gazzetta.gr/plus/2562564/otan-i-athina-emeine-horis-nero-gia-20-meres",
+          "snippet": "Το 1933, η πρωτεύουσα ήρθε αντιμέτωπη με μια σπάνια κρίση που έφερε τους κατοίκους της στα όριά τους για 20 μέρες.",
           "source": "Gazzetta"
         },
         {
-          "title": "Τι συμβαίνει στα νεφρά όσων πίνουν καφέ κάθε μέρα",
-          "url": "https://www.gazzetta.gr/plus/2562520/ti-symbainei-sta-nefra-oson-pinoyn-kafe-kathe-mera",
-          "snippet": "Ο καφές σας κάνει να ουρείτε περισσότερο, αλλά είναι στην πραγματικότητα κακός για τα νεφρά σας;",
+          "title": "Ελλάς Σύρου: Ανανέωσε τον Τσιαντούλα",
+          "url": "https://www.gazzetta.gr/football/superleague/2562563/ellas-syroy-ananeose-ton-tsiantoyla",
+          "snippet": "Η Ελλάς Σύρου προχώρησε στην ανανέωση της συνεργασίας της με τον Έλληνα μεσοεπιθετικό, Βασίλη Τσιαντούλα.",
           "source": "Gazzetta"
         },
         {
-          "title": "Βάργκας - Ολυμπιακός: Τα δεδομένα της υπόθεσης σύμφωνα με τους Ισπανούς",
-          "url": "https://www.gazzetta.gr/football/superleague/2562519/bargkas-olympiakos-ta-dedomena-tis-ypothesis-symfona-me-toys-ispanoys",
-          "snippet": "Ο Ρούμπεν Βάργκας έχει βρεθεί σε πρώτο πλάνο για τον Ολυμπιακό ωστόσο μόνο εύκολη δεν θεωρείται η υπόθεση του σύμφωνα με τους Ισπανούς.",
+          "title": "Μύκονος: Πέρασαν τα ιατρικά οι παίκτες της",
+          "url": "https://www.gazzetta.gr/basketball/basket-league/2562562/mykonos-perasan-ta-iatrika-oi-paiktes-tis",
+          "snippet": "Οι αθλητές της Μυκόνου υποβλήθηκαν με επιτυχία στις απαιτούμενες ιατρικές εξετάσεις, όπως ενημέρωσαν και επίσημα οι Νησιώτες.",
           "source": "Gazzetta"
         }
       ]
@@ -389,9 +389,9 @@
       "id": "art-science",
       "title": "Art / Science",
       "lead": {
-        "title": "For Caitlin Simmers, Surfing Is a Dance Born on the Waves",
-        "url": "https://www.nytimes.com/2026/08/19/arts/dance/caitlin-simmers-surf-dance.html",
-        "snippet": "Caitlin Simmers, a world champion surfer, sees her sport as dance. How does this translate? She’s as seamless as a ribbon.",
+        "title": "Alabama Shakes Return With New Album ‘I Must Be Dreaming’",
+        "url": "https://www.nytimes.com/2026/08/20/arts/music/alabama-shakes-i-must-be-dreaming-interview.html",
+        "snippet": "One of the biggest rock bands of its time paused after two albums. A one-off gig led to a tour and then a new LP, “I Must Be Dreaming.”",
         "source": "NYT Arts"
       },
       "items": [
@@ -402,9 +402,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life",
-          "url": "https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html",
-          "snippet": "Despite the actress’s efforts to move on from a turbulent relationship with Brian Hickerson, they were together when she went into cardiac arrest and died.",
+          "title": "How to Make Sense of 4,000 Edinburgh Shows: Just Soak It All Up",
+          "url": "https://www.nytimes.com/2026/08/20/theater/edinburgh-festival-fringe.html",
+          "snippet": "From 60-minute plays to marathon dramas, surviving the festival and the Fringe isn’t about finding a common thread — it’s about surrendering to the chaos.",
           "source": "NYT Arts"
         },
         {
@@ -414,9 +414,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "In ‘The Invite’ and ‘Camp Miasma,’ Sex Comes With a Mentor",
-          "url": "https://www.nytimes.com/2026/08/19/movies/sex-in-the-movies-camp-miasma-the-invite.html",
-          "snippet": "In films like “Teenage Sex and Death at Camp Miasma” and “The Invite,” middle-aged sexual gurus are helping younger characters — and audiences — relearn desire.",
+          "title": "J.T. Harding on Crafting the Hits of ‘Music City’",
+          "url": "https://www.nytimes.com/2026/08/20/theater/music-city-jt-harding-broadway.html",
+          "snippet": "The Nashville songsmith J.T. Harding gives the lowdown on writing with Keith Urban, Uncle Kracker, Shane McAnally and more.",
           "source": "NYT Arts"
         },
         {
@@ -426,9 +426,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Judge Is Asked to Block Inscription of Trump’s Name on Kennedy Center",
-          "url": "https://www.nytimes.com/2026/08/19/arts/music/judge-trump-name-kennedy-center.html",
-          "snippet": "The request from a Democratic lawmaker follows a decision by the Trump-allied board to add “Restored and Renovated by President Donald J. Trump” to the building.",
+          "title": "Sullivan Fortner Can’t Dodge the Spotlight Much Longer",
+          "url": "https://www.nytimes.com/2026/08/20/arts/music/sullivan-fortner-leave-it-in-there.html",
+          "snippet": "This standards-leaning pianist has made fans of jazz’s heavyweights. On “Leave That in There,” out Aug. 28, his playful originals reveal another level of virtuosity.",
           "source": "NYT Arts"
         },
         {
@@ -438,9 +438,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "The Odyssey of Priam’s Treasure, an Ancient Trove of Artifacts",
-          "url": "https://www.nytimes.com/2026/08/19/arts/design/priams-treasure-odyssey.html",
-          "snippet": "A German archaeologist’s dig of important historic pieces in the 1870s set off an ownership battle between Turkey, Germany and Russia, with no signs of abating.",
+          "title": "From India, a God of Your Choice, to Display at Home",
+          "url": "https://www.nytimes.com/2026/08/20/arts/design/from-india-a-god-of-your-choice-to-display-at-home.html",
+          "snippet": "A vivid show of 19th and 20th century Hindu devotional prints showcases the country’s genius for aesthetic abundance.",
           "source": "NYT Arts"
         },
         {
@@ -450,9 +450,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "Jessica Williams Discusses Her Emmy-Nominated Role in ‘Shrinking’",
-          "url": "https://www.nytimes.com/2026/08/19/arts/television/jessica-williams-shrinking-emmy.html",
-          "snippet": "The actress has received an Emmy nomination for each season of the Apple TV comedy. She can’t think about winning.",
+          "title": "‘Franz’ Review: A Delirious Kafka Biopic",
+          "url": "https://www.nytimes.com/2026/08/20/movies/franz-review-kafka.html",
+          "snippet": "The work by Agnieszka Holland, starring Idan Weiss, explores the writer’s themes of alienation in a fragmented way.",
           "source": "NYT Arts"
         },
         {
@@ -462,9 +462,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "‘Tiger King’ Director Takes On Reptile Trade in ‘Monsters of God’",
-          "url": "https://www.nytimes.com/2026/08/19/arts/television/monsters-of-god-eric-goode.html",
-          "snippet": "Eric Goode’s latest docuseries about the lurid business of exotic animals is also his most personal, not least for examining his own complicity.",
+          "title": "‘The Magic Faraway Tree’ Review: A Charming Escape",
+          "url": "https://www.nytimes.com/2026/08/20/movies/the-magic-faraway-tree-review.html",
+          "snippet": "The director Ben Gregor wastes no time getting us where we want to be: reveling in the fairies and their vibrant world.",
           "source": "NYT Arts"
         },
         {
@@ -474,9 +474,9 @@
           "source": "NYT Science"
         },
         {
-          "title": "The High Cost of Being Present at the Venice Biennale",
-          "url": "https://www.nytimes.com/2026/08/19/arts/design/venice-biennale-theater-florentina-holzinger-dries-verhoeven.html",
-          "snippet": "Some of the most talked-about pavilions at this year’s art event feature theatrical performances. But working with live bodies brings extra challenges.",
+          "title": "‘How to Divorce During the War’ Review: Trouble on the Home Front",
+          "url": "https://www.nytimes.com/2026/08/20/movies/how-to-divorce-during-the-war-review.html",
+          "snippet": "In this deadpan Lithuanian comedy set in 2022, a couple finds their values are tested amid the backdrop of Russia’s invasion of Ukraine.",
           "source": "NYT Arts"
         }
       ]
