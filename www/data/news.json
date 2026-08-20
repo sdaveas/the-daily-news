@@ -1,16 +1,34 @@
 {
-  "updated": "2026-08-19T20:17:17.399830+00:00",
+  "updated": "2026-08-20T00:43:07.076757+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πετρούνιας: Στον τελικό του Ευρωπαϊκού ενόργανης ο «άρχοντας των κρίκων» – Κυνηγά το 9ο χρυσό του μετάλλιο [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1450887/petroynias-ston-teliko-toy-eyropaikoy-enorganis-o-arhontas-ton-krikon-kyniga-to-9o-hryso-toy-metallio-vinteo/",
-        "snippet": "Ο Έλληνας Ολυμπιονίκης είναι μεταξύ των μεγάλων φαβορί για την κατάκτηση της πρώτης θέσης.",
+        "title": "Axios: Κι όμως, οι ΗΠΑ μεταφέρουν πετρέλαιο μέσω του Ορμούζ – 10 εκατ. βαρέλια περνούν καθημερινά από τα Στενά",
+        "url": "https://www.efsyn.gr/kosmos/1450895/axios-ki-omos-oi-ipa-metaferoyn-petrelaio-meso-toy-ormoyz-10-ekat-varelia-pernoyn-kathimerina-apo-ta-stena/",
+        "snippet": "Η επιχείρηση, που φέρεται να μη γίνεται αντιληπτή από το Ιράν, είναι υπό την προστασία του αμερικανικού στρατού.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Εκατέρωθεν απώλειες για Ρωσία και Ουκρανία – Τουλάχιστον οκτώ νεκροί στις τελευταίες επιθέσεις",
+          "url": "https://www.efsyn.gr/kosmos/1450893/ekaterothen-apoleies-gia-rosia-kai-oykrania-toylahiston-okto-nekroi-stis-teleytaies-epitheseis/",
+          "snippet": "Έξι άνθρωποι σκοτώθηκαν σήμερα στην Ουκρανία κι άλλοι δύο στη Ρωσία εξαιτίας επιθέσεων με drones. Στην Ουκρανία, ρωσικό drone έπληξε λεωφορείο στην πόλη Χερσώνα, σκοτώνοντας τέσσερις ανθρώπους και τραυματίζοντας πέντε άλλους. Φωτογραφίες που έδωσαν στη δημοσιότητα οι ουκρανικές α",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κένυα: Νεκρός ο επικεφαλής των μυστικών υπηρεσιών του Εκουαδόρ – Έπεσε το ελικόπτερο στο οποίο επέβαινε",
+          "url": "https://www.efsyn.gr/kosmos/1450890/kenya-nekros-o-epikefalis-ton-mystikon-ypiresion-toy-ekoyador-epese-to-elikoptero-sto-opoio-epevaine/",
+          "snippet": "Το ελικόπτερο συνετρίβη υπό αδιευκρίνιστες συνθήκες στους πρόποδες του όρους Ολολόκουε στην κεντρική Κένυα,",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πετρούνιας: Στον τελικό του Ευρωπαϊκού ενόργανης ο «άρχοντας των κρίκων» – Κυνηγά το 9ο χρυσό του μετάλλιο [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1450887/petroynias-ston-teliko-toy-eyropaikoy-enorganis-o-arhontas-ton-krikon-kyniga-to-9o-hryso-toy-metallio-vinteo/",
+          "snippet": "Ο Έλληνας Ολυμπιονίκης είναι μεταξύ των μεγάλων φαβορί για την κατάκτηση της πρώτης θέσης.",
+          "source": "EfSyn"
+        },
         {
           "title": "Αντίρριο: Άγριος καβγάς σε πανηγύρι – Εκτοξεύτηκαν καρέκλες και τραπέζια την ώρα που η ορχήστρα έπαιζε κλαρίνα [βίντεο]",
           "url": "https://www.efsyn.gr/ellada/1450881/antirrio-agrios-kavgas-se-panigyri-ektoxeytikan-karekles-kai-trapezia-tin-ora-poy-i-orhistra-epaize-klarina-vinteo/",
@@ -75,24 +93,6 @@
           "title": "Αντίδραση από την Άγκυρα στο νέο χωροταξικό για τις ΑΠΕ: «Δεν επηρεάζει τη νομική θέση της Τουρκίας σε ζητήματα Αιγαίου»",
           "url": "https://www.efsyn.gr/politiki/1450842/antidrasi-agkyras-sto-horotaxiko-gia-tis-ape-den-epireazei-ti-nomiki-thesi-tis-toyrkias-se-zitimata-toy-aigaioy/",
           "snippet": "Η τουρκική αντίδραση έρχεται σε μια περίοδο έντασης ανάμεσα στις δύο χώρες, καθώς οι τόνοι έχουν ανέβει τις τελευταίες ημέρες.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Γερμανία: Συνεληφθη δεύτερος Ουκρανός για συμμετοχή του στη δολιοφθορά των αγωγών Nord Stream",
-          "url": "https://www.efsyn.gr/kosmos/1450839/germania-synelifthi-deyteros-oykranos-gia-symmetohi-toy-sti-doliofthora-ton-agogon-nord-stream/",
-          "snippet": "Ο Βλαντίμιρ Ζ. συνελήφθη στην παράκτια πόλη Πούλα της Κροατίας από την τοπική αστυνομία, βάσει ευρωπαϊκού εντάλματος σύλληψης, και θα εκδοθεί στη Γερμανία.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Χαλκιδική: Ζητάνε και τα ρέστα οι πολίτες με τις «ρεζερβέ» ομπρέλες – «Δεν γίνεται να την ανεβάζω κάθε μέρα στο σπίτι» [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1450820/halkidiki-ti-lene-oi-polites-poy-ehoyn-tis-rezerve-ompreles-den-ginetai-na-tin-anevazo-kathe-mera-sto-spiti/",
-          "snippet": "Λίγες ώρες μετά την επιχείρηση απομάκρυνσης από τον Δήμο, ορισμένοι πολίτες επέστρεψαν και τοποθέτησαν ξανά τον εξοπλισμό.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κοζάνη: Επιχείρηση της Πυροσβεστικής για απεγκλωβισμό ηλικιωμένων από χαράδρα ύψους 150 μέτρων",
-          "url": "https://www.efsyn.gr/ellada/1450826/kozani-epiheirisi-tis-pyrosvestikis-gia-apegklovismo-ilikiomenon-apo-haradra-ypsoys-150-metron/",
-          "snippet": "Συναγερμός σήμανε το απόγευμα της Τετάρτης στις αρχές της Κοζάνης, μετά από τροχαίο ατύχημα που σημειώθηκε στον οδικό άξονα Αγίας Κυριακής &#8211; Βελβεντού, όταν επιβατικό όχημα στο οποίο επέβαιναν τρεις ηλικιωμένοι εξετράπη της πορείας του και έπεσε σε χαράδρα βάθους περίπου 15",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "More Than 100 Dead in Central African Republic Gold Mine Collapse",
-          "url": "https://www.nytimes.com/2026/08/19/world/africa/central-african-republic-gold-mine-collapse.html",
-          "snippet": "The country’s small-scale gold mining sector has been booming in recent years, leading to a series of deadly accidents.",
+          "title": "What to Know About Iran’s Economic Ties With Gulf Countries",
+          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
+          "snippet": "The United Arab Emirates, Iran’s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
-        "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
-        "snippet": "AI-native account startup Rillet became a unicorn, led by ICONIQ after it doubled its ARR in the past three months, it said.",
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities",
+          "url": "https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/",
+          "snippet": "The next-generation robotaxi, called the Waymo Ojai, is central to the company's push towards mass scale, and eventually, profitability.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+          "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "snippet": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+          "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "snippet": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Travis Kalanick kicks off another round of VC bashing: ‘1% are helpful’",
+          "url": "https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/",
+          "snippet": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Rillet raises $100M Series C at $1B valuation — 2 years after emerging from stealth",
+          "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+          "snippet": "AI-native account startup Rillet became a unicorn, led by Iconiq, after it doubled its ARR in the past three months, it said.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Gwyneth Paltrow allegedly set to throw dinner in honor of Sam Altman",
           "url": "https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
           "snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Rivian spinout Also raises another $150M",
-          "url": "https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/",
-          "snippet": "The round, led by Prysm Capital, will fund the company's expansion beyond pedal-assist electric bikes and commercial cargo quads to autonomous delivery vehicles.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Sachin Bansal’s fintech Navi raises first outside capital with $100M Prosus investment",
-          "url": "https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/",
-          "snippet": "The investment comes amid Navi plans to go public.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-          "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-          "snippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-          "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-          "snippet": "Amazon is significantly expanding its Prime Air drone delivery service, with plans to reach nearly 500 U.S. cities by the end of 2026.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Calendly throws its hat into meeting note-taker circus",
-          "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-          "snippet": "Calendly is also releasing a meeting scheduling assistant called Callie.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,66 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Μεσογειακοί Αγώνες 2026: Κόντρα στο Κόσοβο πρεμιέρα για την Εθνική Ανδρών",
-        "url": "https://www.gazzetta.gr/volleyball/2562471/mesogeiakoi-agones-2026-kontra-sto-kosobo-premiera-gia-tin-ethniki-andron",
-        "snippet": "Η ώρα των επίσημων αγώνων έφτασε για την Εθνική ανδρών, η οποία ρίχνεται την Πέμπτη 20 Αυγούστου στη μάχη των Μεσογειακών Αγώνων «Τάραντο 2026», έχοντας ως πρώτο αντίπαλο το Κόσοβο.",
+        "title": "Γκονζάλες - Ολυμπιακός: Την Παρασκευή στην Αθήνα ο Μεξικανός φορ",
+        "url": "https://www.gazzetta.gr/football/superleague/2562479/gkonzales-olympiakos-tin-paraskeyi-stin-athina-o-mexikanos",
+        "snippet": "Ο Αρμάντο Γκονζάλες σύμφωνα με τη νεότερη πληροφόρηση θα αφιχθεί στην Αθήνα την Παρασκευή για να κλείσει και τυπικά στην ομάδα του Ολυμπιακού.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ατλέτικο Μαδρίτης - Μάλαγα 2-0: Δύσκολη νίκη για να μπει με το δεξί στη La Liga",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562478/atletiko-madritis-malaga-2-0-dyskoli-niki-gia-na-mpei-me-dexi-sti-la-liga",
+          "snippet": "Η Ατλέτικο Μαδρίτης βρήκε τα γκολ που χρειαζόταν στο δεύτερο ημίχρονο και απέφυγε τη γκέλα στην πρεμιέρα, αφού λύγισε με 2-0 τη Μάλαγα και έκανε ιδανική πρεμιέρα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Αδριατική Λίγκα: Ο Μιγκέλ Άνχελ Πέρεθ διεκδικεί δυο θέσεις",
+          "url": "https://www.gazzetta.gr/basketball/aba-liga/2562477/adriatiki-ligka-o-migkel-anhel-pereth-diekdikei-dyo-theseis",
+          "snippet": "Ο Ισπανός πρώην διαιτητής Μιγκέλ Άνχελ Πέρεθ διεκεικεί τη θέση του προέδρου της Επιτροπής Διαιτησίας της Αδριατικής Λίγκας, αλλά και του επικεφαλής των Κριτών της διοργάνωσης.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Champions League: Μπόντο και Σέλτικ μοίρασαν τριάρες και βρίσκονται με το ένα πόδι στο Champions League",
+          "url": "https://www.gazzetta.gr/football/champions-league/2562476/champions-league-mponto-kai-seltik-moirasan-triares-kai",
+          "snippet": "Η Μπόντο έκανε άλμα πρόκρισης στην Ολλανδία, αφού λύγισε με 3-1 με τη Ναϊμέγκεν κι απέκτησε τον πρώτο λόγο για να βρεθεί στο Champions League. Άντετη τριάρα για τη Σέλτικ κόντρα στη Λίντσερ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Βάργκας - Ολυμπιακός: Πρόταση 12 εκατ. ευρώ για τον Ελβετό εξτρέμ",
+          "url": "https://www.gazzetta.gr/football/superleague/2562475/bargkas-olympiakos-protasi-12-ekat-eyro-gia-ton-elbeto-extrem",
+          "snippet": "Υπάρχει και συνέχεια για τη θέση του εξτρέμ στον Ολυμπιακό και ως προς τον Ρούμπεν Βάργκας της Σεβίλλης με τις ισπανικές πηγές να μιλούν για πρόταση των Πειραιωτών.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μύριζε κάνναβη όλη η... Μαδρίτη: Η Αστυνομία μπήκε στην αποθήκη και βρήκε 2.150 χασισόδεντρα",
+          "url": "https://www.gazzetta.gr/plus/2562469/myrize-kannabi-oli-i-madriti-i-astynomia-mpike-stin-apothiki-kai-brike-2150",
+          "snippet": "Η μυρωδιά που δεν κατάφεραν να καλύψουν τα ειδικά φίλτρα αποκάλυψε την παράνομη καλλιέργεια κάνναβης με εκτιμώμενη αξία εκατοντάδων χιλιάδων ευρώ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Σίξερς: Πρώτη κοινή προπόνηση Λεμπρόν, Μπράουν και Μάξι",
+          "url": "https://www.gazzetta.gr/basketball/nba/2562474/sixers-proti-koini-proponisi-lempron-mpraoyn-kai-maxei",
+          "snippet": "Άρχισαν να... ετοιμάζονται οι νέοι Φιλαντέλφια Σίξερς, με τον Λεμπρόν Τζέιμς να προπονείται μαζί με τους νέους του συμπαίκτες.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναθηναϊκός: Τα πέντε «πρέπει» του Νίστρουπ για την πρώτη εντός έδρας νίκη",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562473/panathinaikos-ta-pente-prepei-toy-nistroyp",
+          "snippet": "Ο Γιάννης Σερέτης γράφει για τη φόρτιση του Τζέισον Νίστρουπ και για τα σημεία στα οποία καλείται να εστιάσει ο Δανός κόουτς ενόψει της αναμέτρησης του Παναθηναϊκού με τη Χράντετς Κράλοβε.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπενφίκα: Ο Ρουί Κόστα παρουσίασε τον Σάκη Ψάρρα",
+          "url": "https://www.gazzetta.gr/volleyball/2562472/mpenfika-o-royi-kosta-paroysiase-ton-saki-psarra",
+          "snippet": "Ο Σάκης Ψάρρας θα είναι ο νέος προπονητής της ανδρικής ομάδας βόλεϊ της Μπενφίκα με τον Έλληνα τεχνικό να τον παρουσιάζει ο πρόεδρος των «αετών», Ρουί Κόστα στο επιβλητικό μουσείο του Συλλόγου.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μεσογειακοί Αγώνες 2026: Κόντρα στο Κόσοβο πρεμιέρα για την Εθνική Ανδρών",
+          "url": "https://www.gazzetta.gr/volleyball/2562471/mesogeiakoi-agones-2026-kontra-sto-kosobo-premiera-gia-tin-ethniki-andron",
+          "snippet": "Η ώρα των επίσημων αγώνων έφτασε για την Εθνική ανδρών, η οποία ρίχνεται την Πέμπτη 20 Αυγούστου στη μάχη των Μεσογειακών Αγώνων «Τάραντο 2026», έχοντας ως πρώτο αντίπαλο το Κόσοβο.",
+          "source": "Gazzetta"
+        },
         {
           "title": "«Τους δολοφόνους τους κάνατε υπουργούς»: Η περήφανη απάντηση της Αναστασίας Ισαάκ σε Τουρκοκύπριο πρώην ευρωβουλευτή",
           "url": "https://www.gazzetta.gr/plus/2562465/toys-dolofonoys-toys-kanate-ypoyrgoys-i-perifani-apantisi-tis-anastasias-isaak-se",
@@ -328,60 +382,6 @@
           "url": "https://www.gazzetta.gr/basketball/basket-league/2562466/promitheas-proponeitai-me-tin-omada-o-apostolos-nikolaidis",
           "snippet": "Ο Προμηθέας ξεκίνησε την προετοιμασία του και κανονικά ακολουθεί το πρόγραμμα ο Απόστολος Νικολαΐδης.",
           "source": "Gazzetta"
-        },
-        {
-          "title": "Ρόδρι: Η Μπαρτσελόνα τον παρουσίασε στο «Καμπ Νόου»",
-          "url": "https://www.gazzetta.gr/football/la-liga/2562464/rodri-i-mpartselona-ton-paroysiase-sto-kamp-nooy",
-          "snippet": "Ο Ρόδρι συστήθηκε στον κόσμο της Μπαρτσελόνα ως το νεότερο μεταγραφικό απόκτημα των Καταλανών, πριν από τη σέντρα του φιλικού αγώνα απέναντι στην Αλ Αχλί.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: «Έπεσε» το ηλεκτρονικό κατάστημα λόγω της... παράνοιας για τις νέες φανέλες",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562463/olympiakos-epese-ilektroniko-katastima-logo-tis-paranoias-gia-tis",
-          "snippet": "Η «ερυθρόλευκη» τρέλα των φίλων του Ολυμπιακού «έριξαν» το ηλεκτρονικό κατάστημα της ΚΑΕ όσον αφορά τις νέες φανέλες της ομάδας.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Είσαι έτοιμη να πεθάνεις;»: Άνδρας με μάσκα κούκλας τρομοκρατεί κατοίκους στη Φιλαδέλφεια (vid)",
-          "url": "https://www.gazzetta.gr/plus/2562460/eisai-etoimi-na-pethaneis-andras-me-maska-koyklas-tromokratei-katoikoys-sti",
-          "snippet": "Τουλάχιστον έξι άνθρωποι φέρεται να έγιναν στόχος του άνδρα μέσα σε περίπου 15 λεπτά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πότε θα γίνει η κλήρωση της League Phase του Κυπέλλου",
-          "url": "https://www.gazzetta.gr/football/kypello-elladas/2562458/pote-tha-ginei-i-klirosi-tis-league-phase-toy-kypelloy",
-          "snippet": "Με τις 15 από τις 16 ομάδες να είναι ήδη γνωστές, η ΕΠΟ έκανε γνωστό πως η κλήρωση της League Phase του Κυπέλλου θα γίνει την Τρίτη 25/8.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Το background της ιδιαίτερης παρουσίασης του Καρέτσα στο Olympia Grill",
-          "url": "https://www.gazzetta.gr/football/bundesliga/2562169/background-tis-idiaiteris-paroysiasis-toy-karetsa-sto-olympia-grill",
-          "snippet": "Το Gazzetta εντόπισε το ελληνικό εστιατόριο στο οποίο έγινε η παρουσίαση του Κωνσταντίνου Καρέτσα από τη Ντόρτμουντ και μίλησε με τον ιδιοκτήτη του, Αλέξανδρο Μεταξά.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Αποκαλυπτικός Όσμαν: Οι προτάσεις από Εφές και Φενέρ, η δική του θέληση, ο ΠΑΟΚ, το buy out του Παναθηναϊκού και η επιθυμία των «πρασίνων»",
-          "url": "https://www.gazzetta.gr/basketball/basket-league/2562457/apokalyptikos-osman-oi-protaseis-apo-efes-kai-fener-i-diki-toy",
-          "snippet": "Ο Τσέντι Όσμαν παραχώρησε μεγάλη συνέντευξη στην Τουρκία όπου μίλησε για τα πάντα και κυρίως για τα όσα συνέβησαν το καλοκαίρι αναφορικά με την μεταγραφή του από τον Παναθηναϊκό στον ΠΑΟΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός: Τελευταία προσπάθεια για Πουέρτα",
-          "url": "https://www.gazzetta.gr/football/superleague/2562456/olympiakos-teleytaia-prospatheia-gia-poyerta",
-          "snippet": "Ο Ολυμπιακός εξακολουθεί να παλεύει για την απόκτηση ενός ακόμα κεντρικού χαφ που θα κάνει τη διαφορά, χωρίς ακόμα έχει τελειώσει οριστικά κάποια κίνηση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Ολοκλήρωσε την προετοιμασία του για τη Χράντετς, οι παίκτες που είναι διαθέσιμοι",
-          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562455/panathinaikos-oloklirose-tin-proetoimasia",
-          "snippet": "Ο Παναθηναϊκός έκανε την τελευταία του προπόνηση πριν από το αυριανό ματς με τη Χράντετς. Διαθέσιμοι όλοι οι παίκτες της ευρωπαϊκής του λίστας, εκτός του Καλάμπρια.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ερμιόνη Γκίκα: Παγκόσμια πρωταθλήτρια στα ILCA 6 στο Άαρχους",
-          "url": "https://www.gazzetta.gr/istioploia/2562453/ermioni-gkika-pagkosmia-protathlitria-sta-ilca-6-sto-aarhoys",
-          "snippet": "Η Ερμιόνη Γκίκα προσέθεσε άλλη μια μεγάλη επιτυχία στο παλμαρέ της, με τη 18χρονη ιστιοπλόο να κατακτά το χρυσό μετάλλιο στο παγκόσμιο πρωτάθλημα ILCA 6 Youth νέων-νεανίδων στο Άαρχους.",
-          "source": "Gazzetta"
         }
       ]
     },
@@ -398,7 +398,7 @@
         {
           "title": "NASA’s Attempt to Save the Swift Telescope Has Failed",
           "url": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
-          "snippet": "NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, is expected to burn up in the atmosphere.",
+          "snippet": "NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will soon burn up in the atmosphere.",
           "source": "NYT Science"
         },
         {
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-          "url": "https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html",
-          "snippet": "Moderna and Merck say the experimental vaccine prevented the return and spread of the cancer in high-risk melanoma patients.",
+          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+          "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Humans Love Having Pets. Seems Like Some Other Primates Do, Too.",
-          "url": "https://www.nytimes.com/2026/08/18/science/primates-pets.html",
-          "snippet": "We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.",
+          "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
+          "url": "https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html",
+          "snippet": "Moderna and Merck say the experimental vaccine prevented the return and spread of the cancer in high-risk melanoma patients.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "How NASA Engineers Are Keeping the Voyagers Alive",
-          "url": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
-          "snippet": "A reworking of the spacecraft’s power systems could extend the nearly 50-year-old Voyagers’ exploration of interstellar space into the early 2030s.",
+          "title": "Humans Love Having Pets. Seems Like Some Other Primates Do, Too.",
+          "url": "https://www.nytimes.com/2026/08/18/science/primates-pets.html",
+          "snippet": "We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.",
-          "url": "https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html",
-          "snippet": "A lone male roves the Arizona mountains, and a female has been spotted just across the border in Mexico. The sightings raise hopes for the species, despite serious threats.",
+          "title": "How NASA Engineers Are Keeping the Voyagers Alive",
+          "url": "https://www.nytimes.com/2026/08/18/science/nasa-voyagers-big-bang.html",
+          "snippet": "A reworking of the spacecraft’s power systems could extend the nearly 50-year-old Voyagers’ exploration of interstellar space into the early 2030s.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
-          "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
-          "snippet": "Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.",
+          "title": "Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.",
+          "url": "https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html",
+          "snippet": "A lone male roves the Arizona mountains, and a female has been spotted just across the border in Mexico. The sightings raise hopes for the species, despite serious threats.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.",
-          "url": "https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html",
-          "snippet": "California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.",
+          "title": "How One Woman With a Very Rare Disease Secured a Clinical Trial",
+          "url": "https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html",
+          "snippet": "Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.",
           "source": "NYT Science"
         },
         {
