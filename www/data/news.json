@@ -1,16 +1,58 @@
 {
-  "updated": "2026-08-20T00:43:07.076757+00:00",
+  "updated": "2026-08-20T04:28:14.942102+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Axios: Κι όμως, οι ΗΠΑ μεταφέρουν πετρέλαιο μέσω του Ορμούζ – 10 εκατ. βαρέλια περνούν καθημερινά από τα Στενά",
-        "url": "https://www.efsyn.gr/kosmos/1450895/axios-ki-omos-oi-ipa-metaferoyn-petrelaio-meso-toy-ormoyz-10-ekat-varelia-pernoyn-kathimerina-apo-ta-stena/",
-        "snippet": "Η επιχείρηση, που φέρεται να μη γίνεται αντιληπτή από το Ιράν, είναι υπό την προστασία του αμερικανικού στρατού.",
+        "title": "Οι «Τρωάδες» άλλαξαν την Επίδαυρο",
+        "url": "https://www.efsyn.gr/nisides/1449323/oi-troades-allaxan-tin-epidayro/",
+        "snippet": "Η παράσταση έγραψε ιστορία στην Επίδαυρο: ήταν η πρώτη πλήρως προσβάσιμη και για άτομα με αισθητηριακές αναπηρίες. Εγινε, αν και η Πολιτεία προσπάθησε να μη γίνει, και πρέπει να ξαναγίνει.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ο Τραμπ απειλεί με οικονομικό «D-Day» το Ιράν – Στο στόχαστρο όσοι συναλλάσσονται με την Τεχεράνη",
+          "url": "https://www.efsyn.gr/kosmos/1450924/o-tramp-apeilei-me-oikonomiko-d-day-to-iran-sto-stohastro-osoi-synallassontai-me-tin-teherani/",
+          "snippet": "Ο Τραμπ έγραψε με κεφαλαία γράμματα ότι ξεκινά «την πιο συντριπτική οικονομική επιχείρηση που έχει πραγματοποιηθεί ποτέ εναντίον οποιασδήποτε χώρας!»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Η αυτοεξόριστη γραφή",
+          "url": "https://www.efsyn.gr/nisides/1449305/i-aytoexoristi-grafi/",
+          "snippet": "Η ροπή των ποιημάτων παρασύρει σε ένα συνονθύλευμα λέξεις, φράσεις οι οποίες παραπέμπουν τόσο στις σύγχρονες εξουσίες όσο και σε παράγοντες οι οποίοι τις εναντιώνονται.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Διεργασίες στην Αριστερά μετά το προσκλητήριο Δούρου – Ποιοι συζητούν με τον ΣΥΡΙΖΑ",
+          "url": "https://www.efsyn.gr/politiki/1450907/diergasies-stin-aristera-meta-to-prosklitirio-doyroy-poioi-syzitoyn-me-ton-syriza-ti-frenarei-tis-epistrofes/",
+          "snippet": "Διεργασίες στην Αριστερά προκαλεί η επιστολή με την οποία η Ρένα Δούρου κάλεσε βουλευτές και στελέχη που κάποτε ήταν στον ΣΥΡΙΖΑ-Π.Σ. να επιστρέψουν",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Σίφνος: Κατεπείγουσα έρευνα για τη συντήρηση του ελικοπτέρου – Στο μικροσκόπιο το ουραίο στροφείο",
+          "url": "https://www.efsyn.gr/ellada/1450903/sifnos-katepeigoysa-ereyna-gia-ti-syntrivi-toy-elikopteroy-sto-mikroskopio-to-oyraio-strofeio/",
+          "snippet": "Η συντήρηση και τα έγγραφα του μοιραίου ελικοπτέρου στο μικροσκόπιο της Εισαγγελίας",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Ερχεται ο πρώτος καύσωνας διαρκείας – Έως και 40 βαθμούς το Σαββατοκύριακο",
+          "url": "https://www.efsyn.gr/ellada/1450910/kairos-erhetai-kaysonas-diarkeias-eos-kai-40-vathmoys-to-savvatokyriako/",
+          "snippet": "Οι θερμοκρασίες δεν θα φτάσουν σε ακραίες τιμές, αλλά σε πολλές περιοχές θα ξεπερνούν τους 37-38 βαθμούς.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα 20 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1450904/eortologio-poioi-giortazoyn-simera-20-aygoystoy/",
+          "snippet": "Σε ποιους πρέπει να πείτε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Axios: Κι όμως, οι ΗΠΑ μεταφέρουν πετρέλαιο μέσω του Ορμούζ – 10 εκατ. βαρέλια περνούν καθημερινά από τα Στενά",
+          "url": "https://www.efsyn.gr/kosmos/1450895/axios-ki-omos-oi-ipa-metaferoyn-petrelaio-meso-toy-ormoyz-10-ekat-varelia-pernoyn-kathimerina-apo-ta-stena/",
+          "snippet": "Η επιχείρηση, που φέρεται να μη γίνεται αντιληπτή από το Ιράν, είναι υπό την προστασία του αμερικανικού στρατού.",
+          "source": "EfSyn"
+        },
         {
           "title": "Εκατέρωθεν απώλειες για Ρωσία και Ουκρανία – Τουλάχιστον οκτώ νεκροί στις τελευταίες επιθέσεις",
           "url": "https://www.efsyn.gr/kosmos/1450893/ekaterothen-apoleies-gia-rosia-kai-oykrania-toylahiston-okto-nekroi-stis-teleytaies-epitheseis/",
@@ -51,48 +93,6 @@
           "title": "Πιερία: Νεκρή ανασύρθηκε από τη θάλασσα 73χρονη λουόμενη",
           "url": "https://www.efsyn.gr/ellada/1450876/pieria-nekri-anasyrthike-apo-ti-thalassa-73hroni-loyomeni/",
           "snippet": "Χωρίς τις αισθήσεις της ανασύρθηκε 73χρονη από τη θαλάσσια περιοχή Κορινού Πιερίας. Στο σημείο μετέβησαν στελέχη του Λιμενικού Σώματος ενώ στην 73χρονη παρασχέθηκαν οι πρώτες βοήθειες από τον ναυαγοσώστη. Στη συνέχεια, διακομίστηκε με ασθενοφόρο του ΕΚΑΒ. στο Γενικό Νοσοκομείο Κα",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Πλήγμα για τον ΠΑΟΚ: «Καμπάνα» στον Ζίβκοβιτς – Χάνει τα ματς με τη Μπραν",
-          "url": "https://www.efsyn.gr/athlitismos/1450874/pligma-gia-ton-paok-kampana-ston-zivkovits-hanei-ta-mats-me-ti-mpran/",
-          "snippet": "Η πειθαρχική επιτροπή της UEFA ενημέρωσε το βράδυ της Δευτέρας για την τιμωρία που επέβαλλε στον Αντρίγια Ζίβκοβιτς. Ο Σέρβος μεσοεπιθετικός είχε αποβληθεί με απευθείας κόκκινη κάρτα στη ρεβάνς με την Άντερλεχτ για τον Γ’ Προκριματικό Γύρο του UEFA Europa League. Ο Ιταλός διαιτητ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τραγωδία στη Βραζιλία – Τουλάχιστον 23 νεκροί σε μετωπική σύγκρουση φορτηγού με λεωφορείο [βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1450867/tragodia-sti-vrazilia-23-nekroi-se-metopiki-sygkroysi-fortigoy-me-leoforeio-vinteo/",
-          "snippet": "Το λεωφορείο ανήκε στις υγειονομικές υπηρεσίες του δήμου Ιμπιτούβα, από όπου είχε αναχωρήσει μεταφέροντας ασθενείς σε νοσοκομεία της Κουριτίμπα, πρωτεύουσας της πολιτείας Παρανά.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Λαϊκές αγορές: Τι αλλάζει στη σήμανση των προϊόντων και στους πάγκους",
-          "url": "https://www.efsyn.gr/ellada/1450854/laikes-agores-oi-pente-allages-poy-fernei-i-nea-apofasi-theodorikakoy/",
-          "snippet": "Μεταξύ άλλων θεσπίζονται συγκεκριμένες υποχρεώσεις των παραγωγών και των πωλητών, ως προς την αναγραφή των στοιχείων τους, στους πάγκους των λαϊκών αγορών.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Σκάνδαλα και δημόσια αμφισβήτηση πλήττουν τον Ζελένσκι: Η «βόμβα» για εκλογές και μια καρατόμηση για διαφθορά",
-          "url": "https://www.efsyn.gr/kosmos/1450834/oykrania-sti-dini-skandalon-kai-politikis-krisis-o-zelenski-i-dimosia-amfisvitisi-kai-i-vomva-gia-ekloges/",
-          "snippet": "Ο δημοφιλής πρώην υπουργός Άμυνας Φεντόροφ ζήτησε προσφυγή στις κάλπες προκειμένου «να αποκατασταθεί η δημοκρατική διαδικασία».",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μύκονος: Συνελήφθη 23χρονος έπειτα από καταγγελία 18χρονης τουρίστριας βιασμό",
-          "url": "https://www.efsyn.gr/ellada/1450856/mykonos-synelifthi-23hronos-epeita-apo-kataggelia-18hronis-toyristrias-viasmo/",
-          "snippet": "Μια καταγγελία τουρίστριας για βιασμό απασχολεί τις αρχές στο νησί της Μυκόνου, με έναν 23χρονο να έχει τεθεί υπό κράτηση. Η 18χρονη φέρεται να μίλησε στην αστυνομία τα ξημερώματα της Τρίτης, καταγγέλλοντας ότι το περιστατικό συνέβη εκείνο το βράδυ σε γνωστό beach bar του νησιού.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Δίκη Meta: Oργισμένοι γονείς θυμάτων έξω από το δικαστήριο απαιτούν δικαίωση για τα παιδιά τους [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1450819/diki-meta-orgismenoi-goneis-thymaton-exo-apo-to-dikastirio-apaitoyn-dikaiosi-gia-ta-paidia-toys-eikones-vinteo/",
-          "snippet": "Ο Arturo Béjar, πρώην engineering manager στο Facebook, και πρώην σύμβουλος της Meta για θέματα ασφάλειας, κατέθεσε ότι είχε ενημερώσει περίπου 100 φορές προσωπικά τον Ζούκερμπεργκ για τους κινδύνους.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Αντίδραση από την Άγκυρα στο νέο χωροταξικό για τις ΑΠΕ: «Δεν επηρεάζει τη νομική θέση της Τουρκίας σε ζητήματα Αιγαίου»",
-          "url": "https://www.efsyn.gr/politiki/1450842/antidrasi-agkyras-sto-horotaxiko-gia-tis-ape-den-epireazei-ti-nomiki-thesi-tis-toyrkias-se-zitimata-toy-aigaioy/",
-          "snippet": "Η τουρκική αντίδραση έρχεται σε μια περίοδο έντασης ανάμεσα στις δύο χώρες, καθώς οι τόνοι έχουν ανέβει τις τελευταίες ημέρες.",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "What to Know About Iran’s Economic Ties With Gulf Countries",
-          "url": "https://www.nytimes.com/2026/08/19/world/middleeast/iran-emirates-gulf-economic-ties.html",
-          "snippet": "The United Arab Emirates, Iran’s most important regional trading partner, announced a total embargo on transactions with Tehran on Tuesday.",
+          "title": "Hating Matcha, Yet Loving Life, Made Him a TikTok Star at 89",
+          "url": "https://www.nytimes.com/2026/08/20/world/europe/elder-opa-influencer-tiktok-star-matcha.html",
+          "snippet": "Werner Kalecinski is a social media sensation among young Germans. How did he go from heartbroken widower to partying on a yacht?",
           "source": "NYT World"
         }
       ]
