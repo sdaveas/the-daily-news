@@ -1,16 +1,34 @@
 {
-  "updated": "2026-08-20T20:18:30.153217+00:00",
+  "updated": "2026-08-21T00:47:49.518968+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Με ηχηρή «τριάρα» επέστρεψε ο ΟΦΗ στην Ευρώπη",
-        "url": "https://www.efsyn.gr/athlitismos/1451607/me-ihiri-triara-epestrepse-o-ofi-stin-eyropi/",
-        "snippet": "Βρίσκεται με το... ένα πόδι στη League Phase του Europa League.",
+        "title": "Βανς: «Μεταφέραμε πετρέλαιο μέσω του Ορμούζ» – Μετά το Axios, και ο Αμερικανός αντιπρόεδρος μιλά για έλεγχο μέρους των Στενών",
+        "url": "https://www.efsyn.gr/kosmos/1451620/vans-metaferame-petrelaio-meso-toy-ormoyz-meta-to-axios-kai-o-amerikanos-antiproedros-mila-gia-elegho-meroys-ton-stenon/",
+        "snippet": "Πάντως, ο Βανς παραδέχεται πως οι ΗΠΑ πρέπει να δρομολογήσουν τη διέλευση περισσότερων ενεργειακών προμηθειών, ενώ επένδυσε και αυτός στην «οικονομική πίεση» κατά της Τεχεράνης.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Ψυχρολουσία στο τέλος για τον Παναθηναϊκό: Προηγήθηκε 2-0 όμως δέχτηκε την ισοφάριση στις καθυστερήσεις [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1451616/psyhroloysia-sto-telos-gia-ton-panathinaiko-proigithike-2-0-omos-dehtike-tin-isofarisi-stis-kathysteriseis-vinteo/",
+          "snippet": "Όλα πλέον ανοικτά ενόψει της ρεβάνς της επόμενης Πέμπτης.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Κολομβία: Ακόμα μία κατολίσθηση σε παράνομο ορυχείο – 13 άνθρωποι βρήκαν τραγικό θάνατο",
+          "url": "https://www.efsyn.gr/kosmos/1451613/kolomvia-akoma-mia-katolisthisi-se-paranomo-oryheio-13-anthropoi-vrikan-tragiko-thanato/",
+          "snippet": "Η «ακατάλληλη εξόρυξη» μεταλλεύματος υπονόμευσε τα θεμέλια του ορυχείου και προκάλεσε την κατολίσθηση.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Με ηχηρή «τριάρα» επέστρεψε ο ΟΦΗ στην Ευρώπη",
+          "url": "https://www.efsyn.gr/athlitismos/1451607/me-ihiri-triara-epestrepse-o-ofi-stin-eyropi/",
+          "snippet": "Βρίσκεται με το... ένα πόδι στη League Phase του Europa League.",
+          "source": "EfSyn"
+        },
         {
           "title": "Το μήνυμα του Ιράν στην Κύπρο: «Καμία απειλή όσο οι βρετανικές βάσεις δεν χρησιμοποιούνται εναντίον μας»",
           "url": "https://www.efsyn.gr/kosmos/1451601/to-minyma-toy-iran-stin-kypro-kamia-apeili-oso-oi-vretanikes-vaseis-den-hrisimopoioyntai-enantion-mas/",
@@ -76,24 +94,6 @@
           "url": "https://www.efsyn.gr/ellada/1451220/nea-kraygi-agonias-apo-to-thriasio-oi-pyrkagies-apokalypsan-tin-egklimatiki-ypostelehosi-toy-kentroy-egkaymaton/",
           "snippet": "Με αφορμή τη νοσηλεία εγκαυματιών από τις πρόσφατες πυρκαγιές οι εργαζόμενοι καταγγέλλουν την εγκληματική υποστελέχωση του Κέντρου Εγκαυμάτων αλλά και ολόκληρου του νοσοκομείου",
           "source": "EfSyn"
-        },
-        {
-          "title": "Σερβία: Η ξηρασία αποκάλυψε τον «Τιτανικό του ποταμού Σάβα» – Στο φως ναυάγιο από το Β΄ Παγκόσμιο Πόλεμο [εικόνες – βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1451551/servia-i-xirasia-apokalypse-ton-titaniko-toy-potamoy-sava-sto-fos-nayagio-apo-to-v%ce%84-pagkosmio-polemo-eikones-vinteo/",
-          "snippet": "Οι πρόσφατοι καύσωνες και η ξηρασία που πλήττει την Ευρώπη έχουν προκαλέσει απότομη πτώση της στάθμης των ποταμών, φέρνοντας στην επιφάνεια πράγματα που ήταν κρυμμένα για πολλές δεκαετίες. Πιο πρόσφατο παράδειγμα είναι αυτό που αποκαλύφθηκε στον Δούναβη, στη Σερβία. Πρόκειται για",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Ισπανία: Η στιγμή που βάρκα με μετανάστες φτάνει σε μια παραλία γεμάτη λουόμενους [βίντεο]",
-          "url": "https://www.efsyn.gr/kosmos/1451543/ispania-i-stigmi-poy-varka-me-metanastes-ftanei-se-mia-paralia-gemati-loyomenoys-vinteo/",
-          "snippet": "Το φουσκωτό σκάφος με δεκάδες μετανάστες πλησίασε την ακτή και οι επιβαίνοντες άρχισαν να βουτούν στη θάλασσα και να φτάνουν στην ξηρά.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Βίντεο Πιερρακάκη: Γιατί αποφασίσαμε την πρόωρη αποπληρωμή χρέους 12,8 δισ. ευρώ",
-          "url": "https://www.efsyn.gr/politiki/1451548/vinteo-pierrakaki-giati-apofasisame-tin-proti-apopliromi-hreoys-128-dis-eyro/",
-          "snippet": "Ο υπουργός Εθνικής Οικονομίας επιχειρεί να απαντήσει στην αντιπολίτευση μέσω των social media.",
-          "source": "EfSyn"
         }
       ]
     },
@@ -128,13 +128,13 @@
         {
           "title": "First U.S. Deportees to Arrive in Liberia Amid Growing Backlash",
           "url": "https://www.nytimes.com/2026/08/20/world/africa/liberia-trump-deportations.html",
-          "snippet": "Critics in the small West African nation say their government has not said why it agreed to one of the largest U.S. deportation deals, who the deportees are, or how they will be handled.",
+          "snippet": "The five men were part of the first group of deportees to be sent to the West African nation by the Trump administration. The Liberian government has not clarified their status.",
           "source": "NYT World"
         },
         {
-          "title": "Canada and U.S. Resume Talks Over Trump Tariffs as a New Deadline Looms",
+          "title": "Trump Tariff Talks Leave Key Canadian Official Hopeful",
           "url": "https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html",
-          "snippet": "While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.",
+          "snippet": "While President Trump has declared that the two countries effectively have a deal, a Canadian trade official said progress continued ahead of the Saturday deadline.",
           "source": "NYT World"
         },
         {
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
-          "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
-          "snippet": "U Min Zin, a scholar who studied Myanmar, is one of two U.S. citizens the department has designated as wrongfully detained in China.",
+          "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
+          "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
+          "snippet": "A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,54 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Someone targeted security researchers using a fake crypto conference as a lure",
-        "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
-        "snippet": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+        "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+        "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "snippet": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Learn what VCs actually want, from a founder who’s raised $1B",
+          "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
+          "snippet": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isa",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+          "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+          "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+          "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+          "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Enhanced Games — tech’s steroid extravaganza — didn’t pay off, as company posts $60 million loss",
+          "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
+          "snippet": "An effort to transform the world of sports through steroid use doesn't exactly seem to be bearing financial fruit.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OK, can we actually cool data centers with our pee?",
+          "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+          "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+          "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+          "snippet": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Mark buys a castle",
           "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
@@ -244,48 +286,6 @@
           "url": "https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
           "snippet": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt this year.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-          "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-          "snippet": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Early Cerebras investor Adit Singh joins Mayfield as infrastructure partner",
-          "url": "https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/",
-          "snippet": "At Mayfield, Singh will focus on semiconductor, cybersecurity, and physical AI investments.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Ramp launches its own AI model router, called Router",
-          "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-          "snippet": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Senators demand answers from TikTok over experiment that disabled safeguards",
-          "url": "https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/",
-          "snippet": "The safeguard was designed to prevent users from being overwhelmed by harmful content, but TikTok wanted to determine whether it made the app less engaging.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-          "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-          "snippet": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "The 2026 Startup Battlefield 200 is here — see who made the cut",
-          "url": "https://techcrunch.com/2026/08/20/the-2026-startup-battlefield-200-is-here-see-who-made-the-cut/",
-          "snippet": "We’re thrilled to unveil the 2026 Startup Battlefield 200, our annual handpicked list of the 200 most promising early-stage startups from around the world.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Patreon launches 30 new creator features, including short-form Clips and revamped discovery",
-          "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
-          "snippet": "Patreon is overhauling how creators get discovered, adding short-form Clips, topic-based communities, and a revamped recommendation system designed to give smaller creators more visibility.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "ΠΑΟΚ - Μπραν: Η μέρα και η ώρα της ρεβάνς",
-        "url": "https://www.gazzetta.gr/football/europa-conference-league/2562685/paok-mpran-i-mera-kai-i-ora-tis-rebans",
-        "snippet": "Πότε θα αντιμετωπίσει ο ΠΑΟΚ την Μπραν στη Νορβηγία για τη ρεβάνς των Play offs του Conference League.",
+        "title": "Ολυμπιακός - μεταγραφές: Τα δίνει όλα για Πουέρτα και Βάργκας",
+        "url": "https://www.gazzetta.gr/football/superleague/2562719/olympiakos-metagrafes-ta-dinei-ola-gia-poyerta-kai-bargkas",
+        "snippet": "Ο Ολυμπιακός εντείνει και άλλο τις προσπάθειές του για τον διεθνή Κολομβιανό χαφ αλλά και για τον έμπειρο Ελβετό ακραίο κυνηγό.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Παναθηναϊκός - Χράντετς Κράλοβε: Το γκολ του Τεττέη για το 2-0",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562683/panathinaikos-hrantets-kralobe-gkol-toy-tettei-gia-2-0",
-          "snippet": "Μέσα σε έξι λεπτά ο Ανδρέας Τεττέη «χτύπησε» δύο φορές βάζοντας τον Παναθηναϊκό με δύο γκολ μπροστά επί της Χράντετς Κράλοβε.",
+          "title": "Παναθηναϊκός: Εξετάσεις για Τσάπρα την Παρασκευή (21/08), φόβοι για θλάση",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562717/panathinaikos-exetaseis-gia-tsapra-tin",
+          "snippet": "Ο Τριαντάφυλλος Τσάπρας, που τραυματίστηκε στο αποψινό ματς, θα υποβληθεί σε εξετάσεις για να διαπιστωθεί το μέγεθος του προβλήματος.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Πέρασαν οι πρώτοι τις εργομετρικές εξετάσεις",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562670/olympiakos-perasan-oi-protoi-tis-ergometrikes-exetaseis",
-          "snippet": "Οι πρώτοι παίκτες του Ολυμπιακού υποβλήθηκαν σήμερα (20/08) στις απαραίτητες εργομετρικές εξετάσεις.",
+          "title": "Ο Παναθηναϊκός την υποτίμησε, την πάτησε και πηγαίνει για τελικό στη Τσεχία!",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562716/o-panathinaikos-tin-ypotimise-tin-patise-kai-pigainei-gia",
+          "snippet": "Ο Νίκος Αθανασίου γράφει για την ποδοσφαιρική «αυτοκτονία» του Παναθηναϊκού απόψε στο ΟΑΚΑ κόντρα στη Χράντετς Κράλοβε.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ – ΤΣΣΚΑ Σόφιας 3-0: Φουλ για πρόκριση οι ασταμάτητοι Κρητικοί (Vids)",
-          "url": "https://www.gazzetta.gr/football/europa-league/2562682/ofi-tsska-sofias-3-0-foyl-gia-prokrisi-oi-astamatitoi-kritikoi-vids",
-          "snippet": "Με δυο γκολ του Ταξιάρχη Φούντα κι ένα του Ντίκμαν στο 94' ο ορμητικός ΟΦΗ διέλυσε με 3-0 την ευάλωτη αμυντικά και άστοχη ΤΣΣΚΑ Σόφιας, η οποία αγωνίστηκε με δέκα παίκτες από το 80' και είναι απόλυτο φαβορί για πρόκριση στη League Phase του Europa League.",
+          "title": "Νίστρουπ: «Έχουμε να κατηγορήσουμε μόνο τον εαυτό μας, στα γκολ δεν έφταιγε η άμυνα»",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-conference-league/2562715/nistroyp-ehoyme-na-katigorisoyme-mono-ton",
+          "snippet": "Τα λόγια του Τζέικομπ Νίστρουπ στη συνέντευξη Τύπου που ακολούθησε έπειτα από το 2-2 του Παναθηναϊκού με τη Χράντετς Κράλοβε στο ΟΑΚΑ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ: Ευρωπαϊκή νίκη μετά από 26 χρόνια!",
-          "url": "https://www.gazzetta.gr/football/europa-league/2562681/ofi-eyropaiki-niki-meta-apo-26-hronia",
-          "snippet": "Ο ΟΦΗ με τον θρίαμβο του επί της ΤΣΣΚΑ Σόφιας πανηγύρισε την πρώτη του νίκη στην Ευρώπη ύστερα από 26 χρόνια.",
+          "title": "Αθανασίου: «Όπου παίζουμε θέλουμε να είμαστε νικητές, ο κόσμος είναι απίστευτος»",
+          "url": "https://www.gazzetta.gr/football/europa-league/2562714/athanasioy-opoy-paizoyme-theloyme-na-eimaste-nikites-o-kosmos-einai",
+          "snippet": "Οι δηλώσεις του Νίκου Αθανασίου στην κάμερα της Cosmote TV μετά τη σπουδαία νίκη του ΟΦΗ επί της ΤΣΣΚΑ Σόφιας.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΤΣΣΚΑ Σόφιας - ΟΦΗ: H μέρα και η ώρα της ρεβάνς",
-          "url": "https://www.gazzetta.gr/football/europa-league/2562680/tsska-sofias-ofi-h-mera-kai-i-ora-tis-rebans",
-          "snippet": "Στις 27 Αυγούστου ο ΟΦΗ καλείται να τελειώσει στη Σόφια αυτό που ξεκίνησε στο Ηράκλειο και να αποκλείσει την ΤΣΣΚΑ.",
+          "title": "Μπουχαλάκης: «Ο κόσμος είναι διψασμένος, τέτοιες στιγμές αξίζουν στην ομάδα και το νησί»",
+          "url": "https://www.gazzetta.gr/football/europa-league/2562713/mpoyhalakis-o-kosmos-einai-dipsasmenos-tetoies-stigmes-axizoyn-stin",
+          "snippet": "Οι δηλώσεις του Ανδρέα Μπουχαλάκη στην κάμερα της Cosmote TV μετά τη σπουδαία νίκη του ΟΦΗ επί της ΤΣΣΚΑ Σόφιας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός – Χράντετς Κράλοβε: Εξαιρετική ενέργεια Τεττέη για το 1-0",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562679/panathinaikos-hrantets-kralobe-exairetiki-energeia-tettei",
-          "snippet": "Ο Ανδρέας Τεττέη κατάφερε στο 55' να ξεκλειδώσει την άμυνα της Χράντες Κράλοβε και με ωραία προσωπική ενέργεια να κάνει το 1-0 για τον Παναθηναϊκό.",
+          "title": "Μεσογειακοί Αγώνες 2026: Ξεκίνημα με νίκη με 3-0 επί του Κοσόβου η Εθνική Γυναικών",
+          "url": "https://www.gazzetta.gr/volleyball/2562712/mesogeiakoi-agones-2026-xekinima-me-niki-me-3-0-epi-toy-kosoboy-i-ethniki",
+          "snippet": "Μετά την Εθνική Ανδρών και αυτή των Γυναικών ξεκίνησε με νίκη στους Μεσογειακούς επικρατώντας επίσης του Κοσόβου με 3-0.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ - Μπραν 1-1: Τα highlights από το ματς της Τούμπας",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562678/paok-mpran-1-1-ta-highlights-apo-mats-tis-toympas",
-          "snippet": "Δείτε τα γκολ και τις καλύτερες στιγμές της αναμέτρησης με τον ΠΑΟΚ να έρχεται ισόπαλος (1-1) με την Μπραν.",
+          "title": "Ράγιο Βαγιεκάνο - Αλαβές 1-1: Ισοπαλία στη Μαδρίτη",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562711/ragio-bagiekano-alabes-1-1-isopalia-sti-madriti",
+          "snippet": "Ράγιο Βαγιεκάνο και Αλαβές έμειναν στο 1-1 στο πρώτο ματς της 2ης αγωνιστικής της La Liga.",
           "source": "Gazzetta"
         },
         {
-          "title": "Απέρριψε 700.000€ και προτίμησε να συνεχίσει να... καλλιεργεί: «Ο τρόπος ζωής είναι πιο σημαντικός από τα χρήματα»",
-          "url": "https://www.gazzetta.gr/plus/2562663/aperripse-700000eu-kai-protimise-na-synehisei-na-kalliergei-o-tropos-zois-einai-pio",
-          "snippet": "Από μια εγκαταλελειμμένη έκταση γεμάτη βάτα και αγριογούρουνα σε μια βιολογική φάρμα που προμηθεύει κορυφαίους σεφ. Ο Christian González εξηγεί γιατί προτίμησε να κρατήσει τη γη του αντί να την πουλήσει για 700.000 ευρώ.",
+          "title": "Τεττέη: «Είναι μάθημα για εμάς, ένα παιχνίδι δεν τελειώνει πριν σφυρίξει ο διαιτητής»",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562710/tettei-einai-mathima-gia-emas-ena-paihnidi-den-teleionei",
+          "snippet": "Οι δηλώσεις του Ανδρέα Τεττέη στην κάμερα του ΣΚΑΪ μετά την ισοπαλία του Παναθηναϊκού με την Χράντετς στο ΟΑΚΑ.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ντουπλάντις: «Έπρεπε να κάνω το βήμα παραπάνω για να νικήσω τον Καραλή»",
-          "url": "https://www.gazzetta.gr/stibos/2562677/ntoyplantis-eprepe-na-kano-bima-parapano-gia-na-nikiso-ton-karali",
-          "snippet": "Τι δήλωσαν οι Αρμάντ Ντουπλάντις και Εμμανουήλ Καραλής μετά την απίθανη μονομαχία τους στο Diamond League της Λωζάνης",
+          "title": "Conference League: Όρθια η Πάφος, λευκές ισοπαλίες για Μπράιτον και Αταλάντα",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562708/conference-league-orthia-i-pafos-leykes-isopalies-gia",
+          "snippet": "Η Πάφος έμεινε όρθιοι στα Τίρανα απέναντι στη Ντινάμο Σίτι και θα ψάξει την πρόκριση στην Κύπρο για το Conference League. Λευκές ισοπαλίες για Μπράιτον και Αταλάντα, τεσσάρα ο Άγιαξ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ – Μπραν 1-1: Ο Μπάμπα τον έστειλε στην παράταση της Νορβηγίας",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562676/paok-mpran-1-1-o-mpampa-ton-esteile-stin-paratasi-tis",
-          "snippet": "Ο ΠΑΟΚ είχε τις ευκαιρίες να πάρει τη νίκη επί της Μπραν, αλλά πλήρωσε την αστοχία του και κατάφερε τουλάχιστον να ισοφαρίσει με κεφαλιά του Μπάμπα στο 81' για να κριθεί η πρόκριση στη ρεβάνς της Νορβηγίας.",
+          "title": "Νίστρουπ: «Το φταίξιμο είναι όλο δικό μας»",
+          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562707/nistroyp-ftaiximo-einai-olo-diko-mas",
+          "snippet": "Όσα δήλωσε ο Τζέικομπ Νίστρουπ μετά το 2-2 του Παναθηναϊκού με τη Χράντετς Κράλοβε στο ΟΑΚΑ.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΟΦΗ - ΤΣΣΚΑ Σόφιας: Πέναλτι μέσω VAR και 2-0 ο Φούντας",
-          "url": "https://www.gazzetta.gr/football/europa-league/2562674/ofi-tsska-sofias-penalti-meso-var-kai-2-0-o-foyntas",
-          "snippet": "Ο ΟΦΗ κέρδισε πέναλτι και ο Ταξιάρχης Φούντας έκανε το 2-0 επί της ΤΣΣΚΑ Σόφιας στο Ηράκλειο.",
+          "title": "Φούντας: «Θέλουμε τον κόσμο στα εύκολα και στα δύσκολα, συνεχίζουμε προσγειωμένοι»",
+          "url": "https://www.gazzetta.gr/football/europa-league/2562706/foyntas-theloyme-ton-kosmo-sta-eykola-kai-sta-dyskola-synehizoyme",
+          "snippet": "Οι δηλώσεις του Ταξιάρχη Φούντα στην κάμερα της Cosmote TV μετά τη σπουδαία νίκη του ΟΦΗ επί της ΤΣΣΚΑ Σόφιας.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΠΑΟΚ - Μπραν: Το γκολ του Μπάμπα για το 1-1",
-          "url": "https://www.gazzetta.gr/football/europa-conference-league/2562672/paok-mpran-gkol-toy-mpampa-gia-1-1",
-          "snippet": "Στο 80' ο ΠΑΟΚ βρήκε το γκολ της ισοφάρισης απέναντι στην Μπραν από στατική φάση με κεφαλιά του Μπάμπα.",
+          "title": "Άλβαρες: Η Ατλέτικο θέλει να τον δώσει στην Άρσεναλ, ο παίκτης αρνείται",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562705/albares-i-atletiko-thelei-na-ton-dosei-stin-arsenal-o-paiktis-arneitai",
+          "snippet": "Ισπανικά ΜΜΕ αναφέρουν πως η Ατλέτικο Μαδρίτης είναι θετική στο να παραχωρήσει τον Χουλιάν Άλβαρες στην Άρσεναλ, σε αντίθεση με τον ίδιο...",
           "source": "Gazzetta"
         },
         {
-          "title": "Άρης: Στη Θεσσαλονίκη ο Ομάρ Ρίτσαρντς",
-          "url": "https://www.gazzetta.gr/football/superleague/2562671/aris-sti-thessaloniki-o-omar-ritsarnts",
-          "snippet": "Ο Ομάρ Ρίτσαρντς έφτασε στη Θεσσαλονίκη για την επικύρωση της αγοράς του από τη Νότιγχαμ Φόρεστ και να μπει στις προπονήσεις του Άρη.",
+          "title": "Εθνική Ανδρών: Μπουτίκ και Fan Zone δίνουν ραντεβού με τους φιλάθλους",
+          "url": "https://www.gazzetta.gr/basketball/2562701/ethniki-andron-mpoytik-kai-fan-zone-dinoyn-ranteboy-me-toys-filathloys",
+          "snippet": "Πολλές εκπλήξεις περιμένουν τον κόσμο που θα βρεθεί στο Telekom Center Athens για τον φιλικό αγώνα της Εθνικής ομάδας με την Πολωνία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ρόσον Φαν Έιμα: Η Κηφισιά πάει για τον συμπαίκτη του Αντόνισε στο Κουρασάο",
-          "url": "https://www.gazzetta.gr/football/superleague/2562669/roson-fan-eima-i-kifisia-paei-gia-ton-diethni-me-ton-koyrasao-stoper",
-          "snippet": "Ο διεθνής με το Κουρασάο στόπερ, Ρόσον Φαν Έιμα, είναι ο εκλεκτός της Κηφισιάς για την ενίσχυση της στο κέντρο της άμυνας.",
+          "title": "Europa League: Καθάρισε η Μπενφίκα, διψήφιο αριθμό γκολ ο Παυλίδης",
+          "url": "https://www.gazzetta.gr/football/prokrimatika-europa-league/2562703/europa-league-katharise-i-mpenfika-dipsifio-arithmo",
+          "snippet": "Η Μπενφίκα επικράτησε 3-1 της Αάρχους με τον Βαγγέλη Παυλίδη να σκοράρει ξανά. Νίκες και για Φερεντσβάρος, Ερυθρό Αστέρα, ήττα για την Ομόνοια.",
           "source": "Gazzetta"
         }
       ]
