@@ -1,16 +1,46 @@
 {
-  "updated": "2026-08-21T00:47:49.518968+00:00",
+  "updated": "2026-08-21T04:29:23.587017+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Βανς: «Μεταφέραμε πετρέλαιο μέσω του Ορμούζ» – Μετά το Axios, και ο Αμερικανός αντιπρόεδρος μιλά για έλεγχο μέρους των Στενών",
-        "url": "https://www.efsyn.gr/kosmos/1451620/vans-metaferame-petrelaio-meso-toy-ormoyz-meta-to-axios-kai-o-amerikanos-antiproedros-mila-gia-elegho-meroys-ton-stenon/",
-        "snippet": "Πάντως, ο Βανς παραδέχεται πως οι ΗΠΑ πρέπει να δρομολογήσουν τη διέλευση περισσότερων ενεργειακών προμηθειών, ενώ επένδυσε και αυτός στην «οικονομική πίεση» κατά της Τεχεράνης.",
+        "title": "Κάλεσμα Τσίπρα στους νέους με την «ελπίδα της ανατροπής»",
+        "url": "https://www.efsyn.gr/politiki/1451633/kalesma-tsipra-stoys-neoys-me-tin-elpida-tis-anatropis/",
+        "snippet": "Κάλεσμα στη νεολαία απευθύνει η ΕΛΑΣ.",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Reuters: Αυτοί είναι οι εννέα εμπορικοί εταίροι του Ιράν που κινδυνεύουν από την «D-Day» του Τραμπ",
+          "url": "https://www.efsyn.gr/kosmos/1451629/reuters-aytoi-einai-oi-ennea-emporikoi-etairoi-toy-iran-poy-kindyneyoyn-apo-tin-d-day-toy-tramp/",
+          "snippet": "Η Ουάσιγκτον προειδοποίησε ότι «τεράστιες οικονομικές συνέπειες» μπορεί να αντιμετωπίσει κάθε χώρα που παρέχει οποιαδήποτε οικονομική «σανίδα σωτηρίας» στο Ιράν.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Μετωπική ΠΑΣΟΚ με Πιερρακάκη για το δημόσιο χρέος – Αιχμές και σε ΝΔ για τα «Ζάππεια»",
+          "url": "https://www.efsyn.gr/politiki/1451630/pyra-pasok-se-nd-apythmeno-politiko-thrasos-toy-k-pierrakaki-ta-zappeia-kai-i-drahmi/",
+          "snippet": "Πυρά κατά της Ν.Δ. για τη στάση της στην κρίση εκτοξεύει η Χαριλάου Τρικούπη, αντιπαρα­βάλλοντας τις δικές της επιλογές με τα «Ζάππεια»",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Καιρός: Κύμα ζέστης θα σαρώσει τη χώρα τα επόμενα 24ωρα – Πού θα σημειωθούν οι υψηλότερες θερμοκρασίες",
+          "url": "https://www.efsyn.gr/ellada/1451626/kairos-kyma-zestis-tha-sarosei-ti-hora-ta-epomena-24ora-poy-tha-simeiothoyn-oi-ypsiloteres-thermokrasies/",
+          "snippet": "Ο Γιάννης Καλλιάνος δεν αποκλείει το ενδεχόμενο «ο υδράργυρος να φτάσει τους 40-41 και τοπικά ακόμη και τους 42 βαθμούς Κελσίου».",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Εορτολόγιο: Ποιοι γιορτάζουν σήμερα, 21 Αυγούστου",
+          "url": "https://www.efsyn.gr/ellada/1451624/eortologio-poioi-giortazoyn-simera-21-aygoystoy/",
+          "snippet": "Σε ποιους πρέπει να πείτε χρόνια πολλά.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Βανς: «Μεταφέραμε πετρέλαιο μέσω του Ορμούζ» – Μετά το Axios, και ο Αμερικανός αντιπρόεδρος μιλά για έλεγχο μέρους των Στενών",
+          "url": "https://www.efsyn.gr/kosmos/1451620/vans-metaferame-petrelaio-meso-toy-ormoyz-meta-to-axios-kai-o-amerikanos-antiproedros-mila-gia-elegho-meroys-ton-stenon/",
+          "snippet": "Πάντως, ο Βανς παραδέχεται πως οι ΗΠΑ πρέπει να δρομολογήσουν τη διέλευση περισσότερων ενεργειακών προμηθειών, ενώ επένδυσε και αυτός στην «οικονομική πίεση» κατά της Τεχεράνης.",
+          "source": "EfSyn"
+        },
         {
           "title": "Ψυχρολουσία στο τέλος για τον Παναθηναϊκό: Προηγήθηκε 2-0 όμως δέχτηκε την ισοφάριση στις καθυστερήσεις [βίντεο]",
           "url": "https://www.efsyn.gr/athlitismos/1451616/psyhroloysia-sto-telos-gia-ton-panathinaiko-proigithike-2-0-omos-dehtike-tin-isofarisi-stis-kathysteriseis-vinteo/",
@@ -42,7 +72,7 @@
           "source": "EfSyn"
         },
         {
-          "title": "Τροχαίο στη Βούλα: Συγκινεί η αδελφή του 39χρονου – «Ο αδελφός μου φεύγει στα ήρωας, σώζοντας άλλους ανθρώπους»",
+          "title": "Τροχαίο στη Βούλα: Συγκινεί η αδελφή του 39χρονου – «Ο αδελφός μου φεύγει σαν ήρωας, σώζοντας άλλους ανθρώπους»",
           "url": "https://www.efsyn.gr/ellada/1451597/voyla-i-oikogeneia-toy-39hronoy-prohora-se-dorea-organon-mporei-na-dosei-zoi-mehri-kai-se-8-anthropoys-leei-i-adelfi-toy/",
           "snippet": "«Μπορεί να δώσει ζωή μέχρι και σε 8 ανθρώπους».",
           "source": "EfSyn"
@@ -63,36 +93,6 @@
           "title": "Συναγερμός και στο Περού: Σεισμός 7,2 βαθμών στο νότιο τμήμα της χώρας [βίντεο]",
           "url": "https://www.efsyn.gr/kosmos/1451585/tromos-kai-sto-peroy-seismos-72-vathmon-sto-notio-tmima-tis-horas/",
           "snippet": "Ισχυρή σεισμική δόνηση μεγέθους 7,2 βαθμών σημειώθηκε σήμερα στο νότιο Περού, όπως ανακοίνωσε το περουβιανό ινστιτούτο γεωφυσικής (Instituto Geofísico del Perú / IGP). Το επίκεντρο εντοπίζεται 35 χιλιόμετρα βόρεια της πόλης Κορακόρα στην επαρχία Παρινακότσας και το εστιακό βάθος ",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Τρόμος στη Λευκάδα: Τουριστικό πούλμαν προσπερνά και μπαίνει για ώρα στο αντίθετο ρεύμα [βίντεο]",
-          "url": "https://www.efsyn.gr/ellada/1451573/tromos-sti-leykada-toyristiko-poylman-kineito-sto-antitheto-reyma-epi-ora-vinteo/",
-          "snippet": "Μέχρι στιγμής δεν έχει γίνει γνωστό εάν στο τουριστικό πούλμαν επέβαιναν επιβάτες την ώρα της παράβασης.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "ΔΥΠΑ: Αναρτήθηκαν οι προσωρινοί πίνακες για τις επιταγές βιβλίων",
-          "url": "https://www.efsyn.gr/ellada/1451577/dypa-anartithikan-oi-prosorinoi-pinakes-gia-tis-epitages-vivlion/",
-          "snippet": "Το πρόγραμμα αφορά 150.000 επιταγές αξίας 25 ευρώ η καθεμία, συμπεριλαμβανομένου του ΦΠΑ, με συνολικό προϋπολογισμό 3.750.000 ευρώ.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Μάχη στους αιθέρες για Ντουπλάντις και Καραλή: Ο Μανόλο κοίταξε στα μάτια τον Μόντο και άγγιξε το πανελλήνιο ρεκόρ [βίντεο]",
-          "url": "https://www.efsyn.gr/athlitismos/1451565/mahi-stoys-aitheres-gia-ntoyplantis-kai-karali-o-manolo-koitaxe-sta-matia-ton-monto-kai-aggixe-to-panellinio-rekor-vinteo/",
-          "snippet": "Ιστορική επίδοση για τον Έλληνα πρωταθλητή του επί κοντώ που έδειξε έτοιμος για να... πετάξει ακόμα ψηλότερα.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Κρήτη: Νεκρός 21χρονος σε σφοδρή σύγκρουση της μηχανής του με ταξί – Το συγκινητικό «αντίο» της ομάδας χορού που ανήκε",
-          "url": "https://www.efsyn.gr/ellada/1451557/tragodia-stin-kriti-nekros-21hronos-se-sfodri-sygkroysi-tis-motosikletas-toy-me-taxi/",
-          "snippet": "Ο ίδιος φέρεται να φορούσε κράνος, ωστόσο η σφοδρότητα της σύγκρουσης ήταν τόσο μεγάλη που τελικά του στοίχισε τη ζωή.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Νέα κραυγή αγωνίας από το Θριάσιο: Οι πυρκαγιές αποκάλυψαν την εγκληματική υποστελέχωση του Κέντρου Εγκαυμάτων",
-          "url": "https://www.efsyn.gr/ellada/1451220/nea-kraygi-agonias-apo-to-thriasio-oi-pyrkagies-apokalypsan-tin-egklimatiki-ypostelehosi-toy-kentroy-egkaymaton/",
-          "snippet": "Με αφορμή τη νοσηλεία εγκαυματιών από τις πρόσφατες πυρκαγιές οι εργαζόμενοι καταγγέλλουν την εγκληματική υποστελέχωση του Κέντρου Εγκαυμάτων αλλά και ολόκληρου του νοσοκομείου",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Nancy Kissinger, Wife of Former Secretary of State, Dies at 92",
-          "url": "https://www.nytimes.com/2026/08/20/us/nancy-kissinger-dead.html",
-          "snippet": "A foreign policy specialist, she was politically savvy and well versed in global issues, and traveled widely with her husband, Henry A. Kissinger, on his diplomatic missions.",
+          "title": "Orban’s Office, Thrown Open, Is Not the Den Hungarians Expected",
+          "url": "https://www.nytimes.com/2026/08/21/world/europe/orbans-office-thrown-open-is-not-the-den-hungarians-expected.html",
+          "snippet": "The new government of Peter Magyar hoped to use the suite overlooking the Danube as evidence of an autocrat’s indulgence. The trappings fell short.",
           "source": "NYT World"
         }
       ]
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-          "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+          "title": "Trump Announces a New Policy for a ‘Golden Age of Space Transportation’",
+          "url": "https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html",
+          "snippet": "The policy aims to greatly increase the number of spacecraft launches and re-entries.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-          "url": "https://www.nytimes.com/2026/08/19/science/moderna-merck-mrna-vaccine-melanoma.html",
-          "snippet": "Moderna and Merck say the experimental vaccine prevented the return and spread of the cancer in high-risk melanoma patients.",
+          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+          "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
           "source": "NYT Science"
         },
         {
