@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T00:43:27.468431+00:00",
+  "updated": "2026-08-22T04:23:22.771243+00:00",
   "sections": [
     {
       "id": "greek",
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
-          "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
-          "snippet": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back.",
+          "title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
+          "url": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
+          "snippet": "Osaka? Fukuoka? Sapporo? The race is on to be second to Tokyo — and to claim the prestige and money that could come with it.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Anthropic’s Opus 4.6 is a smut-machine",
-        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-        "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+        "title": "Michael Polansky is training an AI model on skin that’s still alive",
+        "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+        "snippet": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive for weeks outside the body to discover new skincare compounds, and is only now ",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Japanese space tech startup Letara expands beyond satellite thrusters with $16M",
+          "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
+          "snippet": "Japanese space startup Letara is betting its hybrid rocket technology can move beyond small satellite thrusters into a broader market for space, defense and security, after raising ¥2.6 billion ($16 million).",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Nvidia partners with data center developer Cloverleaf",
           "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/",
           "snippet": "The lawsuit alleges that Oura rings are unable to measure any of the physiological signals needed to assess sleep quality or determine sleep stages.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Walmart to finally start accepting Apple Pay and Google Pay",
-          "url": "https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/",
-          "snippet": "Are pigs flying? Walmart has finally caved on its refusal to support Apple Pay and Google Pay.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-          "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-          "snippet": "There's about to be a big fight to secure access to space.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,18 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Ίντερ: Ανακοίνωσε Τζόουνς από τη Λίβερπουλ",
-        "url": "https://www.gazzetta.gr/football/serie/2562971/inter-anakoinose-tzooyns-apo-ti-liberpoyl",
-        "snippet": "Η Ίντερ ολοκλήρωσε την απόκτηση του Κέρτις Τζόουνς από τη Λίβερπουλ έναντι 30 εκατομμυρίων ευρώ.",
+        "title": "Ποιές είναι οι αξίες των ομάδων της Stoiximan Superleague σύμφωνα με το Transfermarkt",
+        "url": "https://www.gazzetta.gr/football/superleague/2562572/poies-einai-oi-axies-ton-omadon-tis-stoiximan-superleague-symfona-me",
+        "snippet": "Δείτε τις χρηματιστηριακές αξίες των ομάδων της Stoiximan Super League σύμφωνα με το Transfermarkt, λίγο πριν την επίσημη έναρξη του πρωταθλήματος.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Ίντερ: Ανακοίνωσε Τζόουνς από τη Λίβερπουλ",
+          "url": "https://www.gazzetta.gr/football/serie/2562971/inter-anakoinose-tzooyns-apo-ti-liberpoyl",
+          "snippet": "Η Ίντερ ολοκλήρωσε την απόκτηση του Κέρτις Τζόουνς από τη Λίβερπουλ έναντι 30 εκατομμυρίων ευρώ.",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μεσογειακοί Αγώνες: Οι Σίσκος και Πρεβολαράκη άνοιξαν την παρέλαση στην τελετή έναρξης",
           "url": "https://www.gazzetta.gr/kolymbisi/2562970/mesogeiakoi-agones-oi-siskos-kai-prebolaraki-anoixan-tin-parelasi-stin-teleti",
@@ -375,12 +381,6 @@
           "title": "Μάντσεστερ Γιουνάιτεντ - Μπαλέμπα: Τα βρήκε με Μπράιτον για τον Καμερουνέζο",
           "url": "https://www.gazzetta.gr/football/premier-league/2562958/mantsester-gioynaitent-mpalempa-ta-brike-me-mpraiton-gia-ton",
           "snippet": "Η Μάντσεστερ Γιουνάιτεντ είναι έτοιμη να κάνει δικό της τον Κάρλος Μπαλέμπα, αφού ήρθε σε συμφωνία με την Μπράιτον.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Καλαμάτα: Η αποστολή που ανακοίνωσε ο Χριστοφιλέας",
-          "url": "https://www.gazzetta.gr/football/superleague/2562957/kalamata-ti-apostoli-anakoinose-o-hristofileas",
-          "snippet": "Ο προπονητή της Καλαμάτας, Παναγιώτης Χριστοφιλέας, ανακοίνωσε την αποστολή του συλλόγου για τον αγώνα με τον Άρη.",
           "source": "Gazzetta"
         }
       ]
