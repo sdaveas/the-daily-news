@@ -1,98 +1,98 @@
 {
-  "updated": "2026-08-22T16:13:33.969890+00:00",
+  "updated": "2026-08-22T20:13:20.985347+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Ακραία ζέστη: Το Σαββατοκύριακο είναι μόνο η αρχή – Τι προβλέπουν οι μεωτεωρολόγοι για αύριο και μεθαύριο",
-        "url": "https://www.efsyn.gr/ellada/1452503/kaysonas-to-savvatokyriako-einai-mono-i-arhi-ti-provlepoyn-oi-meoteorologoi-gia-ayrio-kai-methayrio/",
-        "snippet": "Οι επόμενες ημέρες απαιτούν αυξημένη προσοχή, ιδιαίτερα για ηλικιωμένους, παιδιά, άτομα που εργάζονται σε εξωτερικούς χώρους και όσους αντιμετωπίζουν προβλήματα υγείας.",
+        "title": "Καμπανάκι από τους βενζινοπώλες: Αν δεν ληφθούν μέτρα, τη 1 Σεπτεμβρίου θα έχουμε 2,20 μέση τιμή αμόλυβδης",
+        "url": "https://www.efsyn.gr/ellada/1452566/kampanaki-apo-toys-venzinopoles-an-den-lifthoyn-metra-ti-1-septemvrioy-tha-ehoyme-220-mesi-timi-amolyvdis/",
+        "snippet": "Μεγάλες είναι και οι επιπτώσεις που θα μπορούσε να έχει μια νέα άνοδος του πετρελαίου κίνησης στην πραγματική οικονομία, καθώς το κόστος μεταφοράς επηρεάζει συνολικά την αλυσίδα παραγωγής και διακίνησης προϊόντων.",
         "source": "EfSyn"
       },
       "items": [
         {
-          "title": "Καύσωνας στην Αθήνα: Ανοιχτές για τους πολίτες οι κλιματιζόμενες Λέσχες Φιλίας του δήμου – Πού ακριβώς βρίσκονται",
-          "url": "https://www.efsyn.gr/ellada/1452493/kaysonas-anoihtes-kai-klimatizomenes-tha-paramenoyn-oi-leshes-filias-toy-dimoy-athinaion-deite-se-poies-periohes/",
-          "snippet": "Βάσει του σχεδίου Πολιτικής Προστασίας του Δήμου, οι χώροι θα λειτουργούν από αύριο Κυριακή 23 Αυγούστου και για όσο χρειαστεί, και με ωράριο συνεχόμενο από τις 09.00 μέχρι και τις 21.00.",
+          "title": "Συνελήφθη αντιδήμαρχος της Λήμνου για τη φωτιά στο Θάνος – Αναφορές για ανεξέλεγκτη συγκέντρωση σκουπιδιών",
+          "url": "https://www.efsyn.gr/ellada/1452563/synelifthi-antidimarhos-tis-limnoy-gia-ti-fotia-sto-thanos-anafores-gia-anexelegkti-sygkentrosi-skoypidion/",
+          "snippet": "Πρόκειται για έκταση στην οποία υπήρχε ανεξέλεγκτη συγκέντρωση απορριμμάτων. Στο σημείο βρίσκονταν, μεταξύ άλλων, μπάζα, σκουπίδια, οικοδομικά υλικά, έπιπλα, κλαδιά και άλλα απορρίμματα.",
           "source": "EfSyn"
         },
         {
-          "title": "Ευημερία αντιπαραθέσεων, δυστυχία της κοινωνίας",
-          "url": "https://www.efsyn.gr/stiles/1452311/eyimeria-antiparatheseon-dystyhia-tis-koinonias/",
-          "snippet": "Παρότι η Ελλάδα έχει θετική αύξηση του ΑΕΠ τα τελευταία χρόνια, η εικόνα αλλάζει όταν εξετάζουμε δείκτες που μετρούν το βιοτικό επίπεδο, την παραγωγικότητα και την κοινωνική ευημερία",
+          "title": "Το τεστ πέτυχε: Η Εθνική επικράτησε 89-81 στο πρώτο φιλικό κατά της Πολωνίας",
+          "url": "https://www.efsyn.gr/athlitismos/1452554/to-test-petyhe-i-ethniki-epikratise-89-81-sto-proto-filiko-kata-tis-polonias/",
+          "snippet": "Η εθνική επικράτησε στο Telekom Center Athens βρίσκοντας όμως σθεναρή αντίσταση από την ομάδα των Τζόρνταν Λόιντ και Ματέους Πονίτκα.",
           "source": "EfSyn"
         },
         {
-          "title": "Με μια Αγκυρα στα πόδια",
-          "url": "https://www.efsyn.gr/stiles/1452316/me-mia-agkyra-sta-podia/",
-          "snippet": "Ο Λουκάς Νοταράς υπήρξε από τις πλέον ισχυρές προσωπικότητες της ισχνής πια Βυζαντινής Αυτοκρατορίας κατά το μοιραίο μισό του 15ου αιώνα",
+          "title": "Επιβλητική πρεμιέρα για την πρωταθλήτρια ΑΕΚ με 4-0 κατά του Ηρακλή",
+          "url": "https://www.efsyn.gr/athlitismos/1452551/epivlitiki-premiera-gia-tin-protathlitria-aek-me-4-0-kata-toy-irakli/",
+          "snippet": "Οι κιτρινόμαυροι ξεκίνησαν νικηφόρα την φετινή υπεράσπιση, του τίτλου που κατέκτησαν τον περασμένο Μάιο.",
           "source": "EfSyn"
         },
         {
-          "title": "Γιατί ο Χριστοδουλίδης δεν πείθει τον ΟΗΕ;",
-          "url": "https://www.efsyn.gr/stiles/1452305/giati-o-hristodoylidis-den-peithei-ton-oie/",
-          "snippet": "Ο Χριστοδουλίδης απευθύνεται συνεχώς στο συντηρητικό ακροατήριό του των Ελληνοκυπρίων, αλλά αυτό δεν σημαίνει ότι κερδίζει διπλωματικούς πόντους στον ΟΗΕ και στην Ε.Ε.",
+          "title": "Συρία: Τραυματίες σε επίθεση με εκρηκτικά εναντίον λεωφορείου των δυνάμεων ασφαλείας κοντά στη Δαμασκό",
+          "url": "https://www.efsyn.gr/kosmos/1452548/syria-traymaties-se-epithesi-me-ekriktika-enantion-leoforeioy-ton-dynameon-asfaleias-konta-sti-damasko/",
+          "snippet": "Οι αρχές αντιμετωπίζουν σημαντικές προκλήσεις στον τομέα της ασφάλειας μετά την πτώση του Μπασάρ αλ-Άσαντ στα τέλη του 2024, καθώς η Δαμασκος και η περιφέρειά της έχουν γίνει θέατρο επιθέσεων.",
           "source": "EfSyn"
         },
         {
-          "title": "Εζησε ένδοξα, έφυγε άδοξα…",
-          "url": "https://www.efsyn.gr/stiles/1452332/ezise-endoxa-efyge-adoxa/",
-          "snippet": "Ο Κόμπε Μπράιαντ γεννήθηκε στις 23 Αυγούστου 1978 για να γίνει, πριν και μετά το τραγικό τέλος του (26/1/2020), λαϊκός ήρωας…",
+          "title": "Απειλές Πούτιν: Η Ουκρανία άνοιξε «το κουτί της Πανδώρας» με τα πλήγματά της σε οικονομικούς στόχους",
+          "url": "https://www.efsyn.gr/kosmos/1452545/apeiles-poytin-i-oykrania-anoixe-to-koyti-tis-pandoras-me-ta-pligmata-tis-se-oikonomikoys-stohoys/",
+          "snippet": "Ο ρώσος ηγέτης επανέλαβε επίσης τη θέση του ότι η Μόσχα είναι ανοικτή σε ειρηνευτικές συνομιλίες, αλλά στη βάση «της πραγματικότητας στο πεδίο» μάλλον, παρά αυτών που αποκάλεσε «εξωτικές» προτάσεις, οι οποίες είπε πως έγιναν από την Ουκρανία μέσω μεσολαβητών.",
           "source": "EfSyn"
         },
         {
-          "title": "Σκληρή απάντηση Ακρίτα σε Γεωργιάδη: «Κακομοίρη φτιάξε τον μαστογραφο στη Νίκαια που σε κυνηγάω τρία χρόνια»",
-          "url": "https://www.efsyn.gr/politiki/1452495/skliri-apantisi-akrita-se-georgiadi-kakomoiri-ftiaxe-ton-mastografo-sti-nikaia-poy-se-kynigao-tria-hronia/",
-          "snippet": "«Όσο είσαι υπουργός, όσο παίζεις με τον πόνο των άρρωστων ανθρώπων, δε θα σε αφήσω σε χλωρό κλαρί. Ετσι είμαστε εμείς οι ζαΜπλουτες, \"ανάποδοι αθρώποι\", στριμμένα άντερα. Μάθε να ζεις μ’ αυτό, ορφανό του Παττακού».",
+          "title": "Χαλκιδική: 56χρονος ανασύρθηκε νεκρός από τη θάλασσα",
+          "url": "https://www.efsyn.gr/ellada/1452543/halkidiki-56hronos-anasyrthike-nekros-apo-ti-thalassa/",
+          "snippet": "Διακομίστηκε με ασθενοφόρο όχημα του ΕΚΑΒ στο Κέντρο Υγείας Αγίου Νικολάου, όπου διαπιστώθηκε ο θάνατός του.",
           "source": "EfSyn"
         },
         {
-          "title": "Μπεν Γκβιρ: Ακροδεξιός, επικίνδυνος, αμετανόητος",
-          "url": "https://www.efsyn.gr/stiles/1452288/mpen-gkvir-akrodexios-epikindynos-ametanoitos/",
-          "snippet": "Οι πρόσφατες προτροπές του υπουργού Ασφάλειας του Ισραήλ για εκκαθαρίσεις στη Γάζα δεν μπορεί να κάνουν κάποιους να πέφτουν από τα σύννεφα, αφού τέτοιες τοποθετήσεις αποτελούν για τον ίδιο κανονικότητα",
+          "title": "Δάφνη: Ποιο ιστορικό σινεμά της περιοχής πρωτολειτούργησε το 1950 και σήμερα κατεδαφίζεται [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1452537/dafni-poio-istoriko-sinema-tis-periohis-protoleitoyrgise-to-1950-kai-simera-katedafizetai-vinteo/",
+          "snippet": "Αποτελούσε για χρόνια έναν αγαπημένο προορισμό διασκέδασης και κινηματογραφικών εξόδων για τους κατοίκους.",
           "source": "EfSyn"
         },
         {
-          "title": "Φωτιά στη Δράμα σε δύσβατη περιοχή – Προκλήθηκε από κεραυνό",
-          "url": "https://www.efsyn.gr/ellada/1452491/fotia-sti-drama-se-dysvati-periohi-proklithike-apo-kerayno/",
-          "snippet": "Στο σημείο επιχειρεί για την κατάσβεση, ένα ελικόπτερο.",
+          "title": "«Βούλιαξαν» οι παραλίες της Αττικής για μια ανάσα από τη ζέστη [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1452535/voyliaxan-oi-paralies-tis-attikis-gia-mia-anasa-apo-ti-zesti-vinteo/",
+          "snippet": "Οι Αθηναίοι προσπαθούν με κάθε τρόπο να σωθούν από τις υψηλές θερμοκρασίες που καταγράφονται στην πόλη.",
           "source": "EfSyn"
         },
         {
-          "title": "Κάτω Αχαΐα: Δίωξη για ανθρωποκτονία από αμέλεια στον δεύτερο οδηγό – Θρήνος για την 46χρονη",
-          "url": "https://www.efsyn.gr/ellada/1452487/kato-ahaia-poiniki-dioxi-gia-anthropoktonia-apo-ameleia-ston-deytero-odigo-nosileyetai-froyroymenos/",
-          "snippet": "Σύμφωνα με τις έως τώρα πληροφορίες το όχημα του 53χρονου ήταν εκείνο το οποίο κινήθηκε στο αντίθετο ρεύμα από εκείνο στο οποίο του επιτρεπόταν.",
+          "title": "Επανέρχεται ο Άδωνις κατά Ακρίτα: «Δοτή βουλευτής κυνηγά εμένα που εκλέγομαι 20 χρόνια με δεκάδες χιλιάδες ψήφους»",
+          "url": "https://www.efsyn.gr/politiki/1452529/epanerhetai-o-adonis-kata-akrita-doti-voyleytis-kyniga-emena-poy-eklegomai-20-hronia-me-dekades-hiliades-psifoys/",
+          "snippet": "«Για να xτυπήσει πολιτικά εμένα, ανακάτεψε την σύζυγο μου η οποία δεν της έφταιξε πουθενά - Τόσο πολεμούν την πατριαρχία και τα σεξιστικά στερεότυπα».",
           "source": "EfSyn"
         },
         {
-          "title": "ΕΛΑΣ: Τουλάχιστον τέσσερις θεραπείες καρκίνου αποσύρθηκαν από το ΕΣΥ – «Η υγεία δεν είναι κόστος να συμπιεστεί»",
-          "url": "https://www.efsyn.gr/politiki/1452481/elas-toylahiston-tesseris-therapeies-karkinoy-aposyrthikan-apo-to-esy-i-ygeia-den-einai-kostos-na-sympiestei/",
-          "snippet": "«Ενα σύστημα που πιέζει το κόστος του φαρμάκου σε ακραίο βαθμό, χωρίς να αυξάνει τη δημόσια χρηματοδότηση, καταλήγει να στερεί από τους ασθενείς αυτό που έχουν κάθε δικαίωμα να έχουν: πρόσβαση στην καλύτερη διαθέσιμη θεραπεία, όπως κάθε Ευρωπαίος ασθενής».",
+          "title": "Εξελίξεις στα Στενά του Ορμούζ: Το Ιράν επέτρεψε τη διέλευση ιρακινών πλοίων",
+          "url": "https://www.efsyn.gr/kosmos/1452502/exelixeis-sta-stena-toy-ormoyz-to-iran-epetrepse-ti-dieleysi-irakinon-ploion/",
+          "snippet": "«Η εμπειρία των τελευταίων έξι μηνών έδειξε πως το Ιράκ δεν είχε άλλη εναλλακτική από τα Στενά του Ορμούζ για την εξαγωγή του μεγαλύτερου μέρους του αργού πετρελαίου του», σημειώνει το δημόσιο πρακτορείο ειδήσεων του Ιράν.",
           "source": "EfSyn"
         },
         {
-          "title": "Οι έξι αλυσίδες καφέ: Από τις γειτονιές της Ελλάδας στις αγορές του κόσμου",
-          "url": "https://www.efsyn.gr/oikonomia/1452367/oi-exi-alysides-kafe-apo-tis-geitonies-tis-elladas-stis-agores-toy-kosmoy/",
-          "snippet": "Οι ελληνικές αλυσίδες που κάνουν «καριέρα» στο εξωτερικό.",
+          "title": "Σπέτσες: Ελικόπτερο προσγειώθηκε παράνομα σε πολυσύχναστη παραλία – Συνελήφθη ο ένας επιβάτης [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1452516/spetses-elikoptero-prosgeiothike-paranoma-se-polysyhnasti-paralia-toys-tromos-stoys-loyomenoys-vinteo/",
+          "snippet": "Οι ισχυροί έλικες του αεροσκάφους σήκωσαν πυκνά σύννεφα σκόνης και άμμου, προκαλώντας αναστάτωση αλλά και φόβο στον κόσμο, που απολάμβανε αμέριμνος -μέχρι εκείνη την ώρα- το μπάνιο του.",
           "source": "EfSyn"
         },
         {
-          "title": "Τραγωδία στον Όλυμπο – Νεκρός ο ορειβάτης που έπεσε σε βαθιά χαράδρα",
-          "url": "https://www.efsyn.gr/ellada/1452474/tragodia-ston-olympo-nekros-o-oreivatis-poy-epese-se-vathia-haradra/",
-          "snippet": "Οι προσπάθειες των Αρχών βρίσκονται σε εξέλιξη για την ανάσυρση της σορού του ορειβάτη από τη χαράδρα.",
+          "title": "Μύκονος: Η στιγμή που οι αστυνομικοί κάνουν έφοδο στην πολυτελή βίλα εμπόρων ναρκωτικών [βίντεο]",
+          "url": "https://www.efsyn.gr/ellada/1452511/mykonos-neo-kykloma-diakinisis-narkotikon-exarthrose-i-astynomia-kerdi-pano-apo-170-hil-eyro/",
+          "snippet": "Συνελήφθησαν χθες Παρασκευή πρωινές ώρες με τη συνδρομή αστυνομικών των Ειδικών Επιχειρησιακών Ομάδων 9 μέλη εγκληματικής οργάνωσης, ενώ συνελήφθη και ένα ακόμα άτομο, ηλικίας 22 ετών για κατοχή ναρκωτικών ουσιών. Τα κέρδη ξεπερνούν τις 170.000 ευρώ",
           "source": "EfSyn"
         },
         {
-          "title": "Νίκος Παππάς για το πρωτοσέλιδο της «Εφ.Συν.»: «Καταρρέει ο μύθος της μείωσης φόρων από τη ΝΔ»",
-          "url": "https://www.efsyn.gr/politiki/1452472/nikos-pappas-me-aformi-to-dimosieyma-tis-ef-syn-katarreei-o-mythos-tis-meiosis-foron-apo-ti-nd/",
-          "snippet": "«Η σημερινή Εφημερίδα των Συντακτών αποκαλύπτει το πραγματικό φορολογικό αποτύπωμα της επταετίας της Ν.Δ.»",
+          "title": "ΗΠΑ: Μια εβδομάδα με νίκες – θαύμα για τους προοδευτικούς",
+          "url": "https://www.efsyn.gr/kosmos/1452321/ipa-mia-evdomada-me-nikes-thayma-gia-toys-proodeytikoys/",
+          "snippet": "Η Αντζι Νίξον στη Φλόριντα, η Αϊσα Ουάχαμπ στην Καλιφόρνια και ο Αμπντούλ Ελ Σάγεντ στο Μίσιγκαν νίκησαν σε εσωκομματικές εκλογές των Δημοκρατικών",
           "source": "EfSyn"
         },
         {
-          "title": "Όλυμπος: Πτώση ορειβάτη σε δύσβατη χαράδρα – Σε εξέλιξη επιχείρηση της ΕΜΑΚ",
-          "url": "https://www.efsyn.gr/ellada/1452470/olympos-ptosi-oreivati-se-dysvati-haradra-se-exelixi-epiheirisi-tis-emak/",
-          "snippet": "Μέχρι στιγμής παραμένουν άγνωστες τόσο οι ακριβείς συνθήκες κάτω από τις οποίες σημειώθηκε η πτώση όσο και η κατάσταση της υγείας του ορειβάτη.",
+          "title": "Γεραπετρίτης για εξελίξεις με Τουρκία: Θέλουμε ήρεμα νερά αλλά είμαστε έτοιμοι για όλα",
+          "url": "https://www.efsyn.gr/politiki/1452508/gerapetritis-gia-exelixeis-me-toyrkia-theloyme-irema-nera-alla-eimaste-etoimoi-gia-ola/",
+          "snippet": "«Ναι, θέλουμε την ειρήνη, αλλά την θέλουμε από θέση ισχύος».",
           "source": "EfSyn"
         }
       ]
@@ -101,9 +101,9 @@
       "id": "world",
       "title": "World",
       "lead": {
-        "title": "Mark Carney Speaks to Canadians After Trade Talks With U.S. Collapse",
+        "title": "Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation",
         "url": "https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html",
-        "snippet": "Prime Minister Mark Carney addressed Canadians on Saturday morning, hours after he ordered negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
+        "snippet": "Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.",
         "source": "NYT World"
       },
       "items": [
@@ -197,12 +197,24 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-        "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "source": "TechCrunch"
+        },
         {
           "title": "US battery startups have found a lifeline in defense",
           "url": "https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/",
@@ -274,18 +286,6 @@
           "url": "https://techcrunch.com/2026/08/21/last-chance-save-up-to-300-on-your-techcrunch-disrupt-2026-ticket-today/",
           "snippet": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Tesla’s solar roof is dead — here’s what went wrong",
-          "url": "https://techcrunch.com/2026/08/21/teslas-solar-roof-is-dead-heres-what-went-wrong/",
-          "snippet": "Tesla's solar roof was an experiment that never really caught on for the company. But does that mean the concept of roof-integrated solar is dead?",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Waymo hands over documents in NHTSA’s child collision probe",
-          "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
-          "snippet": "The responses to NHTSA's questions so far are redacted entirely, citing \"confidential business information.\"",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,94 +293,94 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τζολάκης για το ντεμπούτο του: «Τί καταπληκτικός τρόπος για να ξεκινήσει αυτό το ταξίδι»",
-        "url": "https://www.gazzetta.gr/football/premier-league/2563114/tzolakis-gia-ntempoyto-toy-ti-katapliktikos-tropos-gia-na-xekinisei",
-        "snippet": "Ο Κωνσταντής Τζολάκης έστειλε το πρώτο του μήνυμα μετά το ντεμπούτο του με τη Χαλ και στάθηκε στη μεγάλη νίκη της ομάδας του επί της Μάντσεστερ Γιουνάιτεντ.",
+        "title": "Λόιντ: «Είμαι έτοιμος να κάνω ό,τι χρειάζεται για την Εθνική Πολωνίας»",
+        "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2563173/loint-eimai-etoimos-na-kano-oti-hreiazetai-gia-tin",
+        "snippet": "Ο νατουραλιζέ γκαρντ της Πολωνίας και της Αναντολού Εφές, Τζόρνταν Λόιντ, παραχώρησε τις δικές του δηλώσεις μετά τη φιλική ήττα από την Ελλάδα με 89-81.",
         "source": "Gazzetta"
       },
       "items": [
         {
-          "title": "Αγγλία: Έχουμε 22 Αυγούστου και ήδη βρήκαμε το γκολ της σεζόν",
-          "url": "https://www.gazzetta.gr/football/2563113/agglia-ehoyme-22-aygoystoy-kai-idi-brikame-gkol-tis-sezon",
-          "snippet": "Ο Ντόμινικ Μπάλαρντ πέτυχε ένα σπάνιας ομορφιάς τέρμα για λογαριασμό της Μπρίστολ Σίτι.",
+          "title": "Τολιόπουλος: «Κάναμε καλή δουλειά με την Πολωνία, θέλουμε να είμαστε στο Παγκόσμιο»",
+          "url": "https://www.gazzetta.gr/basketball/2563172/toliopoylos-kaname-kali-doyleia-me-tin-polonia-theloyme-na-eimaste-sto-pagkosmio",
+          "snippet": "Ο Βασίλης Τολιόπουλος ήταν ο πρώτος σκόρερ της Ελλάδας στη φιλική νίκη (89-81) επί της Πολωνίας στο Telekom Center Athens και εξήγησε πως οι διεθνείς θα κάνουν το παν για να βρεθούν στο Παγκόσμιο Κύπελλο.",
           "source": "Gazzetta"
         },
         {
-          "title": "ΑΕΚ – Ηρακλής: Η ενδεκάδα της Ένωσης",
-          "url": "https://www.gazzetta.gr/football/superleague/2563111/aek-iraklis-i-endekada-tis-enosis",
-          "snippet": "Η ΑΕΚ κάνει πρεμιέρα στο πρωτάθλημα κόντρα στον Ηρακλή με τον Μιλάν Βιτάλις να πραγματοποιεί το επίσημο ντεμπούτο του με τη φανέλα της Ένωσης. Στο αρχικό σχήμα και ο Μιγιάτ Γκατσίνοβιτς, εκτός αποστολής ο Αμπουμπακαρί Κοϊτά.",
+          "title": "Ματσάρι: «Η ΑΕΚ είναι η καλύτερη ομάδα στην Ελλάδα, οι διαιτητές να έχουν το ίδιο μέτρο»",
+          "url": "https://www.gazzetta.gr/football/superleague/2563171/matsari-i-aek-einai-i-kalyteri-omada-stin-ellada-oi-diaitites-na-ehoyn",
+          "snippet": "Ο τεχνικός του Ηρακλή, Βάλτερ Ματσάρι παραδέχθηκε την ανωτερότητα της ΑΕΚ μετά το 4-0, ωστόσο εξέφρασε και τα παράπονά του για τη διαιτησία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Νότιγχαμ Φόρεστ - Λιντς 0-1: Ντεμπούτο με ήττα για Γκλάσνερ",
-          "url": "https://www.gazzetta.gr/football/premier-league/2563109/notigham-forest-lints-0-1-ntempoyto-me-itta-gia-gklasner",
-          "snippet": "Στο ντεμπούτο του Όλιβερ Γκλάσνερ, η Νότιγχαμ Φόρεστ έχασε 1-0 από τη Λιντς. Πρεμιέρα με νίκη για Έβερτον (2-0 την Κρίσταλ Πάλας) και Ίπσουιτς (2-1 τη Σάντερλαντ).",
+          "title": "Ολυμπιακός – Ατρόμητος: Συνεχόμενες ευκαιρίες για τους Πειραιώτες στο ξεκίνημα του δευτέρου ημιχρόνου",
+          "url": "https://www.gazzetta.gr/football/superleague/2563169/olympiakos-atromitos-synehomenes-eykairies-gia-toys-peiraiotes-sto",
+          "snippet": "Ο Ολυμπιακός μπήκε πολύ δυνατά στο δεύτερο ημίχρονο του αγώνα με τον Ατρόμητο και βρέθηκε πολύ κοντά στο γκολ τρεις φορές.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Τέλος εποχής» για το ιστορικό σινεμά «Ατλαντίς» στη Βουλιαγμένης - Κατεδαφίστηκε το κτίριο",
-          "url": "https://www.gazzetta.gr/plus/2563106/telos-epohis-gia-istoriko-sinema-atlantis-sti-boyliagmenis-katedafistike-ktirio",
-          "snippet": "Το κτίριο που στεγαζόταν ο ιστορικός κινηματογράφος «Ατλαντίς» στη λεωφόρο Βουλιαγμένης στη Δάφνη, κατεδαφίζεται.",
+          "title": "Μπαλτσερόφκσι: «Ήταν μια καλή προπόνηση, τα λάθη δεν μας επέτρεψαν να είμαστε κοντά»",
+          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2563168/mpaltserofksi-itan-mia-kali-proponisi-ta-lathi-den-mas",
+          "snippet": "Ο Όλεκ Μπαλτσερόφκσι έκανε τις δικές του δηλώσεις μετά το τέλος της φιλικής αναμέτρησης της Ελλάδας με την Πολωνία.",
           "source": "Gazzetta"
         },
         {
-          "title": "Ολυμπιακός: Ανακοίνωσαν Γκονζάλες οι Πειραιώτες",
-          "url": "https://www.gazzetta.gr/football/superleague/2563107/olympiakos-anakoinosan-gkonzales-oi-peiraiotes",
-          "snippet": "Ενίσχυση στην επίθεση για τον Ολυμπιακό με τους Πειραιώτες να ανακοινώνουν την απόκτηση του 23χρονου Μεξικανού επιθετικού, Αρμάντο Γκονζάλες.",
+          "title": "Νίκολιτς: «Βοηθάει πολύ ο ρυθμός που πήραμε, θεωρώ ότι ο Κοϊτά θα είναι διαθέσιμος με Λέφσκι»",
+          "url": "https://www.gazzetta.gr/football/superleague/2563167/nikolits-boithaei-poly-o-rythmos-poy-pirame-theoro-oti-o-koita-tha",
+          "snippet": "Όσα είπε ο Μάρκο Νίκολιτς στη συνέντευξη Τύπου μετά το 4-0 της ΑΕΚ επί του Ηρακλή, με τον Σέρβο τεχνικό να αναφέρεται στον ρυθμό που πήραν οι κιτρινόμαυροι ενόψει Λέφσκι, στην κατάσταση του Κοϊτά, αλλά και στις προσθήκες των Αριάγκα και Λυκογιάννη.",
           "source": "Gazzetta"
         },
         {
-          "title": "«Η αόρατη παρενόχληση»: Γιατί τα έξυπνα γυαλιά της Meta αποκαλούνται «γυαλιά για ηδονοβλεψίες»",
-          "url": "https://www.gazzetta.gr/2543496/reader-article-2",
-          "snippet": "Η παρουσιάστρια του ΣΚΑΪ απηύδισε με τη στάση της Σοφίας Βούλτεψη σε ερώτηση συναδέλφου της για το δημοσιονομικό.",
+          "title": "Μίλιτσιτς: «Είμαι ευχαριστημένος που παλέψαμε, είναι ωραία που βρέθηκα εδώ»",
+          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2563166/militsits-eimai-eyharistimenos-poy-palepsame-einai",
+          "snippet": "Ο προπονητής της Πολωνίας, Ιγκόρ Μίλιτσιτς, προχώρησε σε δηλώσεις μετά την ήττα της ομάδας του από την Εθνική Ελλάδας με 89-81.",
           "source": "Gazzetta"
         },
         {
-          "title": "Εθνική Ομάδα: Οι «13» του Σπανούλη για το φιλικό με την Πολωνία",
-          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2563105/ethniki-omada-oi-13-toy-spanoyli-gia-filiko-me-tin",
-          "snippet": "Χωρίς τους Παπανικολάου, Καραγιαννίδη και Φλιώνη θα αντιμετωπίσει η Εθνική Ελλάδας την Πολωνία στο φιλικό παιχνίδι του «T-Center».",
+          "title": "Καλαμάτα – Άρης 2-3: Τα highlights της αναμέτρησης",
+          "url": "https://www.gazzetta.gr/football/superleague/2563165/kalamata-aris-2-3-ta-highlights-tis-anametrisis",
+          "snippet": "Παρότι βρισκόταν πίσω στο σκορ μέχρι 88' ο Άρης κατάφερε να επικρατήσει της Καλαμάτας με 3-2. Στο βίντεο που ακολουθεί δείτε τα πέντε γκολ και τις καλύτερες φάσεις του ματς.",
           "source": "Gazzetta"
         },
         {
-          "title": "Πάτρικ Μπόλντγουιν Τζούνιορ: «Είμαι πολύ ενθουσιασμένος, οι φίλαθλοι του Ερυθρού Αστέρα είναι εκπληκτικοί»",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2563096/patrik-mpolntgoyin-tzoynior-eimai-poly-enthoysiasmenos-oi-filathloi",
-          "snippet": "Ο νεοαποκτηθείς Πάτρικ Μπόλντγουιν Τζούνιορ δήλωσε πως αδημονεί για τη στιγμή που θα αγωνιστεί μπροστά στο κοινό του Ερυθρού Αστέρα.",
+          "title": "Φαμπιάνο: «Είμαι χαρούμενος γιατί ξέρω τη σημασία αυτής της νίκης»",
+          "url": "https://www.gazzetta.gr/football/superleague/2563164/fampiano-eimai-haroymenos-giati-xero-ti-simasia-aytis-tis-nikis",
+          "snippet": "Ανακουφισμένος, χαρούμενος και αισιόδοξος για τη χρονιά που άρχισε, ο Φαμπιάνο Λέισμαν στάθηκε περισσότερο στη σημασία και στο timing της νίκης.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μπατίστ: «Είμαστε εδώ για να προσθέσουμε περισσότερους τίτλους στα λάβαρα»",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2563104/mpatist-eimaste-edo-gia-na-prosthesoyme-perissoteroys-titloys-sta",
-          "snippet": "Ο Μάικ Μπατίστ μίλησε για την επιστροφή του στον Παναθηναϊκό και τη νέα σελίδα που ανοίγεται στην προπονητική του καριέρα ως άμεσος συνεργάτης του Ζέλικο Ομπράντοβιτς.",
+          "title": "Κυρίαρχη με τεσσάρα η πρωταθλήτρια στην πρεμιέρα!",
+          "url": "https://www.gazzetta.gr/football/superleague/2563162/kyriarhi-me-tessara-i-protathlitria-stin-premiera",
+          "snippet": "Ο Γιώργος Τσακίρης γράφει για το σούπερ ξεκίνημα της ΑΕΚ στο πρωτάθλημα με αντίπαλο τον Ηρακλή και αναλύει ματς και πρωταγωνιστές...",
           "source": "Gazzetta"
         },
         {
-          "title": "Εξάρθρωση οργάνωσης διακίνησης ναρκωτικών στην Μύκονο: Κατασχέθηκαν ροζ κοκαΐνη, ecstasy και χιλιάδες ευρώ",
-          "url": "https://www.gazzetta.gr/plus/2563100/exarthrosi-organosis-diakinisis-narkotikon-stin-mykono-katashethikan-roz-kokaini",
-          "snippet": "Στην εξάρθρωση εγκληματικής οργάνωσης που φέρεται να διακινούσε ναρκωτικά στη Μύκονο προχώρησε η ΕΛ.ΑΣ., με 10 συλλήψεις και σημαντικές ποσότητες κοκαΐνης, «ροζ κοκαΐνης», MDMA και κάνναβης να κατασχέθηκαν.",
+          "title": "Ξυπνάς κάθε μέρα την ίδια ώρα χωρίς ξυπνητήρι; Οι ψυχολόγοι λένε τι αποκαλύπτει για εσένα",
+          "url": "https://www.gazzetta.gr/plus/2563144/xypnas-kathe-mera-tin-idia-ora-horis-xypnitiri-oi-psyhologoi-lene-ti-apokalyptei-gia",
+          "snippet": "Υπάρχουν άνθρωποι που ανοίγουν τα μάτια τους κάθε μέρα σχεδόν την ίδια ώρα χωρίς να χρειάζονται ξυπνητήρι. Σύμφωνα με ψυχολόγους, αυτή η συνήθεια μπορεί να συνδέεται με συγκεκριμένα χαρακτηριστικά της προσωπικότητάς τους.",
           "source": "Gazzetta"
         },
         {
-          "title": "Παναθηναϊκός: Σενάριο για τον Βίτορ Καρβάλιο της Μπράγκα",
-          "url": "https://www.gazzetta.gr/football/superleague/2563102/panathinaikos-senaria-gia-ton-bitor-karbalio-tis-mpragka",
-          "snippet": "Ο Παναθηναϊκός φαίνεται να προσέγγισε τη Μπράγκα για την περίπτωση του Βίτορ Καρβάλιο, ο οποίος την ίδια ώρα έχει πρόταση από την Κρουζέιρο.",
+          "title": "Ελλάδα-Πολωνία 89-81: Τα highlights με απολαυστικό Τολιόπουλο και δημιουργό Καλάθη",
+          "url": "https://www.gazzetta.gr/basketball/2563163/ellada-polonia-89-81-ta-highlights-me-apolaystiko-toliopoylo-kai-dimioyrgo",
+          "snippet": "Η Εθνική ομάδα με πρώτο σκόρερ τον Βασίλη Τολιόπουλο και υποδειγματικό δημιουργό τον Νικ Καλάθη επιβλήθηκε (89-81) της Πολωνίας στο Telekom Center Athens.",
           "source": "Gazzetta"
         },
         {
-          "title": "F1, Ολλανδία: Τρομερός Νόρις, πήρε την pole με γύρο-αστραπή",
-          "url": "https://www.gazzetta.gr/gmotion/2563101/f1-ollandia-tromeros-noris-pire-tin-pole-me-gyro-astrapi",
-          "snippet": "O Λάντο Νόρις της McLaren F1 ήταν ο ταχύτερος οδηγός στις κατατακτήριες δοκιμές της Formula 1 στην Ολλανδία, παίρνοντας μια σπουδαία pole position.",
+          "title": "Γρηγορίου: «Ρισκάραμε και δικαιωθήκαμε»",
+          "url": "https://www.gazzetta.gr/football/superleague/2563161/grigorioy-riskarame-kai-dikaiothikame",
+          "snippet": "Ο Μιχάλης Γρηγορίου αναφέρθηκε στο σύνολο των αποφάσεων που πήρε σε πρόσωπα και τακτική στη νίκη του Άρη επί της Καλαμάτας.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μονακό: Οδεύει σε διάλυση, η 25η Αυγούστου τελευταία ελπίδα",
-          "url": "https://www.gazzetta.gr/basketball/mpasket-gallia/2563099/monako-odeyei-se-dialysi-i-25i-aygoystoy-teleytaia-elpida",
-          "snippet": "Αντιμέτωπη με το φάσμα της διάλυσης είναι η Μονακό, καθώς δεν υπάρχει φως στο τούνελ και η 25η Αυγούστου είναι καταλυτική, καθώς η Εθνική Ολυμπιακή και Αθλητική Επιτροπή της Γαλλίας θα αποφανθεί για την τύχη των μονεγάσκων.",
+          "title": "Χριστοφιλέας: «Συγχαρητήρια στα παιδιά για την προσπάθεια, η Καλαμάτα ήρθε για να μείνει»",
+          "url": "https://www.gazzetta.gr/football/superleague/2563160/hristofileas-sygharitiria-sta-paidia-gia-tin-prospatheia-i-kalamata",
+          "snippet": "Ο τεχνικός της Καλαμάτας, Παναγιώτης Χριστοφιλέας έδωσε συγχαρητήρια στους παίκτες του για την προσπάθεια παρά την ήττα από τον Άρη και τόνισε πως η «Μαύρη Θύελλα» επέστρεψε για να μείνει.",
           "source": "Gazzetta"
         },
         {
-          "title": "Μάτος για Κωνσταντέλια: «Ο ΠΑΟΚ στέλνει το μήνυμα ότι δημιουργεί ποδοσφαιριστές κορυφαίου επιπέδου»",
-          "url": "https://www.gazzetta.gr/football/superleague/2563098/matos-gia-konstantelia-o-paok-stelnei-minyma-oti-dimioyrgei",
-          "snippet": "Ο Λέο Μάτος εξηγεί τη φιλοσοφία πίσω από την πώληση του Γιάννη Κωνσταντέλια στην Ντόρτμουντ και παρέχει απόλυτη στήριξη στον Αλέσιο Λίσι, παρά τα πρώτα αποτελέσματα της σεζόν.",
+          "title": "ΑΕΚ - Ηρακλής 4-0: Τα highlights της αναμέτρησης",
+          "url": "https://www.gazzetta.gr/football/superleague/2563159/aek-iraklis-4-0-ta-highlights-tis-anametrisis",
+          "snippet": "Δείτε τα γκολ και τις καλύτερες στιγμές της αναμέτρησης από την άνετη νίκη της ΑΕΚ με 4-0 του Ηρακλή στη Νέα Φιλαδέλφεια.",
           "source": "Gazzetta"
         }
       ]
@@ -408,9 +408,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Trump Announces a New Policy for a ‘Golden Age of Space Transportation’",
-          "url": "https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html",
-          "snippet": "The policy aims to greatly increase the number of spacecraft launches and re-entries.",
+          "title": "Quiz question: It’s a Greek letter and a guy’s name. What does it mean?",
+          "url": "https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html",
+          "snippet": "Test your science knowledge.",
           "source": "NYT Science"
         },
         {
@@ -420,9 +420,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "England’s Ancient Trees Are Dying in the Heat",
-          "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
-          "snippet": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
+          "title": "Trump Announces a New Policy for a ‘Golden Age of Space Transportation’",
+          "url": "https://www.nytimes.com/2026/08/20/science/trump-space-transportation-policy.html",
+          "snippet": "The policy aims to greatly increase the number of spacecraft launches and re-entries.",
           "source": "NYT Science"
         },
         {
@@ -432,9 +432,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "This Skeleton is the First Confirmed Death by Trebuchet",
-          "url": "https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html",
-          "snippet": "Researchers believe a young man buried inside a Scottish castle was a victim of the long-feared siege weapon, more powerful than a typical catapult.",
+          "title": "England’s Ancient Trees Are Dying in the Heat",
+          "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
+          "snippet": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
           "source": "NYT Science"
         },
         {
@@ -444,9 +444,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "NASA’s Attempt to Save the Swift Telescope Has Failed",
-          "url": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
-          "snippet": "NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will soon burn up in the atmosphere.",
+          "title": "This Skeleton is the First Confirmed Death by Trebuchet",
+          "url": "https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html",
+          "snippet": "Researchers believe a young man buried inside a Scottish castle was a victim of the long-feared siege weapon, more powerful than a typical catapult.",
           "source": "NYT Science"
         },
         {
@@ -456,9 +456,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-          "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+          "title": "NASA’s Attempt to Save the Swift Telescope Has Failed",
+          "url": "https://www.nytimes.com/2026/08/19/science/nasa-swift-telescope-failed-rescue.html",
+          "snippet": "NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will soon burn up in the atmosphere.",
           "source": "NYT Science"
         },
         {
@@ -468,9 +468,9 @@
           "source": "NYT Arts"
         },
         {
-          "title": "Humans Love Having Pets. Seems Like Some Other Primates Do, Too.",
-          "url": "https://www.nytimes.com/2026/08/18/science/primates-pets.html",
-          "snippet": "We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.",
+          "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+          "url": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+          "snippet": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
           "source": "NYT Science"
         },
         {
