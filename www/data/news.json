@@ -1,16 +1,28 @@
 {
-  "updated": "2026-08-21T20:15:53.954895+00:00",
+  "updated": "2026-08-22T00:43:27.468431+00:00",
   "sections": [
     {
       "id": "greek",
       "title": "Greek News",
       "lead": {
-        "title": "Πρωτιά για τον «ιπτάμενο» Τεντόγλου και στη Λοζάνη [βίντεο]",
-        "url": "https://www.efsyn.gr/athlitismos/1452251/protia-gia-ton-iptameno-tentogloy-kai-sti-lozani-vinteo/",
-        "snippet": "Ο χρυσός Ολυμπιονίκης και πρωταθλητής Ευρώπης στο μήκος είχε καλύτερο άλμα στα 8,24 μέτρα.",
+        "title": "Πρεμιέρα με το δεξί για Άρσεναλ και Τζόλη στην Premier League",
+        "url": "https://www.efsyn.gr/athlitismos/1452256/premiera-me-to-dexi-gia-arsenal-kai-tzoli-stin-premier-league/",
+        "snippet": "Ο 24χρονος Έλληνας ήταν και πάλι κομβικός στη νίκη 3-0 επί της Κόβεντρι",
         "source": "EfSyn"
       },
       "items": [
+        {
+          "title": "Λευκός Οίκος: Το Ανώτατο Δικαστήριο επιτρέπει προσωρινά στον Τραμπ να συνεχίσει τις εργασίες για την αίθουσα χορού",
+          "url": "https://www.efsyn.gr/kosmos/1452254/leykos-oikos-to-anotato-dikastirio-epitrepei-prosorina-ston-tramp-na-synehisei-tis-ergasies-gia-tin-aithoysa-horoy/",
+          "snippet": "Η περιβόητη αίθουσα σχεδιάζεται σε χώρο 8.360 τετραγωνικών μέτρων, αν και η κυβέρνηση Τραμπ δεν έχει ζητήσει ειδική έγκριση από το Κογκρέσο.",
+          "source": "EfSyn"
+        },
+        {
+          "title": "Πρωτιά για τον «ιπτάμενο» Τεντόγλου και στη Λοζάνη [βίντεο]",
+          "url": "https://www.efsyn.gr/athlitismos/1452251/protia-gia-ton-iptameno-tentogloy-kai-sti-lozani-vinteo/",
+          "snippet": "Ο χρυσός Ολυμπιονίκης και πρωταθλητής Ευρώπης στο μήκος είχε καλύτερο άλμα στα 8,24 μέτρα.",
+          "source": "EfSyn"
+        },
         {
           "title": "Τραγωδία στην Αχαΐα: Πώς έγινε το σοκαριστικό τροχαίο με θύμα τη 46χρονη που βρέθηκε απανθρακωμένη [εικόνες – βίντεο]",
           "url": "https://www.efsyn.gr/ellada/1452241/tragodia-stin-ahaia-pos-egine-to-sokaristiko-trohaio-me-thyma-ti-46hroni-poy-vrethike-apanthrakomeni-eikones-vinteo/",
@@ -81,18 +93,6 @@
           "title": "Καμπανάκι για τον ιό του Δυτικού Νείλου: Δεύτερη στην Ευρώπη η Ελλάδα μετά την Ιταλία – Οι συστάσεις του ΕΟΔΥ",
           "url": "https://www.efsyn.gr/ellada/1452180/kampanaki-eody-poly-entoni-kykloforia-toy-ioy-toy-dytikoy-neiloy-poly-perissotera-ta-kroysmata-fetos/",
           "snippet": "Τις ερχόμενες εβδομάδες αναμένεται ακόμη μεγαλύτερη αύξηση κρουσμάτων.",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Άγιος Δημήτριος: Τι υποστηρίζει ο 23χρονος για το μαχαίρωμα στον 18χρονο – «Δεν θυμάμαι τίποτα»",
-          "url": "https://www.efsyn.gr/ellada/1452182/agios-dimitrios-ti-ypostirizei-o-23hronos-gia-to-mahairoma-ston-18hrono-den-thymamai-tipota/",
-          "snippet": "Στο ψυχιατρείο των φυλακών Κορυδαλλού οδηγήθηκε μετά την απολογία του ο 23χρονος που κατηγορείται ότι επιτέθηκε και μαχαίρωσε 18χρονο στον Άγιο Δημήτριο, σε μια υπόθεση που έχει προκαλέσει το ενδιαφέρον της κοινής γνώμης. Την ώρα που έχουν έρθει στο φως ανατριχιαστικές λεπτομέρει",
-          "source": "EfSyn"
-        },
-        {
-          "title": "Άνδρος: Βρήκαν πάνω από 2 κιλά κοκαΐνης σε παραλίες",
-          "url": "https://www.efsyn.gr/ellada/1452156/andros-vrikan-pano-apo-2-kila-kokainis-se-paralies/",
-          "snippet": "«Λαβράκι» έβγαλαν οι έρευνες της Λιμενικής Αρχής Άνδρου, καθώς εντοπίστηκαν νάιλον συσκευασίες που περιέχουν ναρκωτικά, πιθανότατα κοκαΐνη. Σύμφωνα με τις επίσημες ανακοινώσεις, τις πρωινές ώρες στις 19 Αυγούστου, στελέχη της Λιμενικής Αρχής Άνδρου, στο πλαίσιο αξιοποίησης πληροφ",
           "source": "EfSyn"
         }
       ]
@@ -186,9 +186,9 @@
           "source": "NYT World"
         },
         {
-          "title": "5 Deportees Are Flown by US to Equatorial Guinea After they Resist Deplaning in Liberia",
-          "url": "https://www.nytimes.com/2026/08/21/world/africa/us-deportees-liberia-equatorial-guinea.html",
-          "snippet": "Five of the people flown to Liberia under the Trump administration’s third-country deportation program resisted leaving the plane. They were then flown to Equatorial Guinea.",
+          "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
+          "url": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+          "snippet": "After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back.",
           "source": "NYT World"
         }
       ]
@@ -197,12 +197,42 @@
       "id": "tech",
       "title": "Tech & AI",
       "lead": {
-        "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
-        "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
-        "snippet": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
+        "title": "Anthropic’s Opus 4.6 is a smut-machine",
+        "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
         "source": "TechCrunch"
       },
       "items": [
+        {
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+          "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+          "snippet": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Apple is reportedly cutting hundreds of jobs from Siri, Vision Pro teams",
+          "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+          "snippet": "Apple has admitted that some roles are being impacted as it shifts its focus away from certain initiatives.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TikTok reaches $400M settlement over children’s privacy lawsuit",
+          "url": "https://techcrunch.com/2026/08/21/tiktok-reaches-400m-settlement-over-childrens-privacy-lawsuit/",
+          "snippet": "Two years after the U.S. Department of Justice alleged that TikTok violated the Children’s Online Privacy Protection Act, it has reached a $400 million settlement.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The $225 Pebble Time 2 is a refreshingly fun smartwatch",
+          "url": "https://techcrunch.com/2026/08/21/the-225-pebble-time-2-is-a-refreshingly-fun-smartwatch/",
+          "snippet": "The $225 Pebble Time 2 pairs quirky watch faces and apps with physical buttons, an e-paper display, weeks of battery life, and a playful hacker spirit.",
+          "source": "TechCrunch"
+        },
         {
           "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
           "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -256,36 +286,6 @@
           "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
           "snippet": "There's about to be a big fight to secure access to space.",
           "source": "TechCrunch"
-        },
-        {
-          "title": "Tesla recalls 3 million cars as part of China-wide push to stop hidden door handles",
-          "url": "https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/",
-          "snippet": "Tesla and eight other automakers will install warning labels that help occupants identify the often hard-to-find manual door releases.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
-          "url": "https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/",
-          "snippet": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Senator asks US government watchdog to review how feds use hacking tools",
-          "url": "https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/",
-          "snippet": "Senator Ron Wyden sent a letter to the U.S. federal watchdog requesting a comprehensive review of how the FBI, DEA, ICE's HSI, and the Secret Service use hacking tools and spyware against Americans.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-          "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
-          "snippet": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-          "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-          "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-          "source": "TechCrunch"
         }
       ]
     },
@@ -293,12 +293,84 @@
       "id": "sports",
       "title": "Sports",
       "lead": {
-        "title": "Τσεχία - Ελλάδα 3-1: Έχασε αλλά πάλεψε και με το παραπάνω η Εθνική",
-        "url": "https://www.gazzetta.gr/volleyball/eyropaiko-protathlima-bolei/2562959/tsehia-ellada-3-1-ehase-alla-palepse-kai-me-parapano",
-        "snippet": "Παίζοντας απέναντι σε μια σπουδαία ομάδα όπως είναι η Τσεχία και μάλιστα στην έδρα της και χάνοντας μετά την Τοντάι και την Μπακοδήμου στο ζέσταμα, η Εθνική μας ομάδα μπορεί να ηττήθηκε με 3-1 στην πρεμιέρα της στο Eurovolley, αλλά πάλεψε και με το παραπάνω,",
+        "title": "Ίντερ: Ανακοίνωσε Τζόουνς από τη Λίβερπουλ",
+        "url": "https://www.gazzetta.gr/football/serie/2562971/inter-anakoinose-tzooyns-apo-ti-liberpoyl",
+        "snippet": "Η Ίντερ ολοκλήρωσε την απόκτηση του Κέρτις Τζόουνς από τη Λίβερπουλ έναντι 30 εκατομμυρίων ευρώ.",
         "source": "Gazzetta"
       },
       "items": [
+        {
+          "title": "Μεσογειακοί Αγώνες: Οι Σίσκος και Πρεβολαράκη άνοιξαν την παρέλαση στην τελετή έναρξης",
+          "url": "https://www.gazzetta.gr/kolymbisi/2562970/mesogeiakoi-agones-oi-siskos-kai-prebolaraki-anoixan-tin-parelasi-stin-teleti",
+          "snippet": "Η Ελλάδα με σημαιοφόρους τον Απόστολο Σίσκο και τη Μαρία Πρεβολαράκη, άνοιξε την παρέλαση των αθλητών στην τελετή έναρξης των Μεσογειακών Αγώνων στον Τάραντα της Ιταλίας.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μπέτις - Σοσιεδάδ 1-0: Έκανε σεφτέ με Ρικέλμε",
+          "url": "https://www.gazzetta.gr/football/la-liga/2562969/mpetis-sosiedad-1-0-ekane-sefte-me-rikelme",
+          "snippet": "Με πανέμορφο γκολ του Ρικέλμε, η Μπέτις επικράτησε 1-0 της Σοσιεδάδ και μπήκε με το δεξί στη νέα σεζόν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "ΝτεΡόζαν: Στους Ντένβερ Νάγκετς ο έμπειρος φόργουορντ",
+          "url": "https://www.gazzetta.gr/basketball/nba/2562968/nterozan-stoys-ntenber-nagkets-o-empeiros-forgoyornt",
+          "snippet": "Στους Ντένβερ Νάγκετς θα αγωνίζεται τελικά ο ΝτεΜαρ ΝτεΡόζαν, ο οποίος θα γίνει συμπαίκτης του Νίκολα Γιόκιτς.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Άρσεναλ - Κόβεντρι 3-0: Από τριάρα σε τριάρα με εξαιρετικό Τζόλη",
+          "url": "https://www.gazzetta.gr/football/premier-league/2562966/arsenal-kobentri-3-0-apo-triara-se-triara-me-exairetiko-tzoli",
+          "snippet": "Με τον Χρήστο Τζόλη να είναι εκ νέου πολύ καλός, η Άρσεναλ επιβλήθηκε 3-0 -και- της Κόβεντρι στην πρεμιέρα της Premier League.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Καταδικάστηκε σε ένα χρόνο φυλάκισης: Τουρίστας ανέβασε βίντεο ενώ το Μπαλί ήταν σε «θρησκευτική σιωπή»",
+          "url": "https://www.gazzetta.gr/plus/2562961/katadikastike-se-ena-hrono-fylakisis-toyristas-anebase-binteo-eno-mpali-itan-se",
+          "snippet": "Ένα βίντεο από μια άδεια παραλία στο Μπαλί ήταν αρκετό για να καταδικάσει έναν 26χρονο σε ένα χρόνο φυλάκισης",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Παναιτωλικός: Δείπνο ενότητας παρουσία Κωστούλα",
+          "url": "https://www.gazzetta.gr/football/superleague/2562965/panaitolikos-deipno-enotitas-paroysia-kostoyla",
+          "snippet": "Η διοίκηση του Παναιτωλικού παρέθεσε δείπνο στο αγωνιστικό τμήμα ενόψει της σέντρας του πρωταθλήματος, παρουσία του Φώτη Κωστούλα.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πετρούνιας: «Το χρυσό χάθηκε στις λεπτομέρειες, ακολουθεί το παγκόσμιο»",
+          "url": "https://www.gazzetta.gr/gymnastiki/2562964/petroynias-hryso-hathike-stis-leptomereies-akoloythei-pagkosmio",
+          "snippet": "Το έγραψε ο Λευτέρης Πετρούνιας σε ανάρτησή του μετά την κατάκτηση του χάλκινου μεταλλίου στο ευρωπαϊκό πρωτάθλημα του Ζάγκρεμπ.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Μαρσέιγ - Στρασβούργο 4-0: Πρεμιέρα με το δεξί και Γκουιρί",
+          "url": "https://www.gazzetta.gr/football/ligue-1/2562963/marseig-strasboyrgo-4-0-premiera-me-dexi-kai-gkoyiri",
+          "snippet": "Με δύο γκολ του Γκουιρί, η Μαρσέιγ επικράτησε 4-0 εντός έδρας του Στρασβούργου και μπήκε με νίκη στη νέα σεζόν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Πετράκης: «Ξεκάθαρος στόχος η επιστροφή του Ηρακλείου στις εθνικές κατηγορίες»",
+          "url": "https://www.gazzetta.gr/basketball/2562967/petrakis-xekatharos-stohos-i-epistrofi-toy-irakleioy-stis-ethnikes-katigories",
+          "snippet": "Ο προπονητής του Ηρακλείου (Α' ΕΚΑΣΚ) Αλέξανδρος Πετράκης αναφέρεται στους στόχους της ομάδας τη νέα σεζόν.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Transfer report - Ολυμπιακός: Οι παίκτες που πήρε και όσοι έρχονται",
+          "url": "https://www.gazzetta.gr/football/superleague/2562920/transfer-report-olympiakos-oi-paiktes-poy-pire-kai-osoi-erhontai",
+          "snippet": "Ο Ολυμπιακός συνεχίζει να μπουστάρεται για τα καλά μεταγραφικά και το Gazzetta κάνει μία νέα μίνι... ανασκόπηση των πεπραγμένων του αλλά και αναφορά στο τι έπεται.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Γερμανία - Τσεχία 115-82: Σαρωτική με πλουραλισμό, τι έκανε ο Μπόνγκα",
+          "url": "https://www.gazzetta.gr/basketball/prokrimatika-mundobasket/2562960/germania-tsehia-115-82-sarotiki-me-ployralismo-ti-ekane",
+          "snippet": "Με ξέσπασμα στο 2ο ημίχρονο η Γερμανία επικράτησε εύκολα της Τσεχίας με 115-82 για το «Supercup» που διεξάγεται στο Αμβούργο.",
+          "source": "Gazzetta"
+        },
+        {
+          "title": "Τσεχία - Ελλάδα 3-1: Έχασε αλλά πάλεψε και με το παραπάνω η Εθνική",
+          "url": "https://www.gazzetta.gr/volleyball/eyropaiko-protathlima-bolei/2562959/tsehia-ellada-3-1-ehase-alla-palepse-kai-me-parapano",
+          "snippet": "Παίζοντας απέναντι σε μια σπουδαία ομάδα όπως είναι η Τσεχία και μάλιστα στην έδρα της και χάνοντας μετά την Τοντάι και την Μπακοδήμου στο ζέσταμα, η Εθνική μας ομάδα μπορεί να ηττήθηκε με 3-1 στην πρεμιέρα της στο Eurovolley, αλλά πάλεψε και με το παραπάνω,",
+          "source": "Gazzetta"
+        },
         {
           "title": "Μάντσεστερ Γιουνάιτεντ - Μπαλέμπα: Τα βρήκε με Μπράιτον για τον Καμερουνέζο",
           "url": "https://www.gazzetta.gr/football/premier-league/2562958/mantsester-gioynaitent-mpalempa-ta-brike-me-mpraiton-gia-ton",
@@ -306,81 +378,9 @@
           "source": "Gazzetta"
         },
         {
-          "title": "Καλαμάτα: Τι αποστολή ανακοίνωσε ο Χριστοφιλέας",
+          "title": "Καλαμάτα: Η αποστολή που ανακοίνωσε ο Χριστοφιλέας",
           "url": "https://www.gazzetta.gr/football/superleague/2562957/kalamata-ti-apostoli-anakoinose-o-hristofileas",
           "snippet": "Ο προπονητή της Καλαμάτας, Παναγιώτης Χριστοφιλέας, ανακοίνωσε την αποστολή του συλλόγου για τον αγώνα με τον Άρη.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ατρόμητος: Χωρίς προβλήματα στο Φάληρο",
-          "url": "https://www.gazzetta.gr/football/superleague/2562956/atromitos-horis-problimata-sto-faliro",
-          "snippet": "Η αποστολή του Ατρόμητου για τον αγώνα με τον Ολυμπιακό στο Φάληρο, για την πρεμιέρα των δύο ομάδων στο πρωτάθλημα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "«Εδώ δεν είναι παραλία»: Αμερικανός τουρίστας παραλίγο να πάρει πρόστιμο επειδή έτρεχε χωρίς μπλούζα",
-          "url": "https://www.gazzetta.gr/plus/2562946/edo-den-einai-paralia-amerikanos-toyristas-paraligo-na-parei-prostimo-epeidi-etrehe",
-          "snippet": "Αυτό που θεωρούσαν απολύτως φυσιολογικό στη Νέα Υόρκη μετατράπηκε σε πρόβλημα στη Βενετία. Ένας Αμερικανός τουρίστας έτρεχε χωρίς μπλούζα και το ζευγάρι αναγκάστηκε να ψάξει επειγόντως μια μπλούζα για να αποφύγει το πρόστιμο",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τεντόγλου: Πρώτη θέση και στη Λωζάνη με 8,24μ.",
-          "url": "https://www.gazzetta.gr/stibos/2562954/tentogloy-proti-thesi-kai-sti-lozani-me-824m",
-          "snippet": "Ο Μίλτος Τεντόγλου συνέχισε το νικηφόρο σερί του, στον πρώτο του αγώνα μετά το ευρωπαϊκό πρωτάθλημα του Μπέρμιγχαμ, επικράτησε και στο Diamond League της Λωζάνης με 8,24μ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ολυμπιακός - Φρέντρουπ: Στην Ιταλία μιλούν για πρόταση των Πειραιωτών",
-          "url": "https://www.gazzetta.gr/football/superleague/2562953/olympiakos-frentroyp-stin-italia-miloyn-gia-protasi-ton-peiraioton",
-          "snippet": "Non stop τα μεταγραφικά θέματα σε ότι έχει να κάνει με τον Ολυμπιακό και αυτή την φορά πρόκειται για τον Δανό διεθνή χαφ Μόρτεν Φρέντρουπ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Τάις: Πως σχολίασε την κατάσταση με τη Βιλερμπάν, τι είπε για Φρανσίσκο και Μακάμπι",
-          "url": "https://www.gazzetta.gr/basketball/euroleague/2562952/tais-pos-sholiase-tin-katastasi-me-ti-bilermpan-ti-eipe-gia-fransisko",
-          "snippet": "Ο Ντάνιελ Τάις μίλησε στην Γερμανική Braunschweiger Zeitung για τη Βιλερμπάν «αδειάζοντας» τον Τόνι Πάρκερ, αναφέρθηκε στον Σιλβέν Φρανσίσκο και τη Μακάμπι.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Ρόσον Βαν Άιμα: Η Κηφισιά συμφώνησε με τον εκλεκτό στόπερ",
-          "url": "https://www.gazzetta.gr/football/superleague/2562951/roson-ban-aima-i-kifisia-symfonise-me-ton-eklekto-stoper",
-          "snippet": "Ο Ρόσον Βαν Άιμα πρέπει να θεωρείται ο νέος κεντρικός αμυντικός της Κηφισιάς, καθώς η ομάδα των Βορείων Προαστίων απέσπασε το «ναι» από τον εκλεκτό της.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "ΠΑΟΚ: Επέστρεψε στις προπονήσεις ο Τάχα Άλι",
-          "url": "https://www.gazzetta.gr/football/superleague/2562948/paok-epestrepse-stis-proponiseis-o-taha-ali",
-          "snippet": "Για πρώτη φορά μετά τον τραυματισμό του ο Τάχα Άλι ακολούθησε το κανονικό πρόγραμμα προπόνησης του ΠΑΟΚ.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κλέι Τόμπσον: Γίνεται συμπαίκτης του Αντετοκούνμπο στους Μαϊάμι Χιτ!",
-          "url": "https://www.gazzetta.gr/basketball/nba/2562949/klei-tompson-ginetai-sypaiktis-toy-antetokoynmpo-stoys-maiami-hit",
-          "snippet": "Ο Κλέι Τόμπσον αποτέλεσε παρελθόν από τους Ντάλας Μάβερικς προκειμένου να μετακομίσει στο Μαϊάμι και βρεθεί στο πλευρό του Γιάννη Αντετοκούνμπο!",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κουβεντίδης: «Οργανωμένη προσπάθεια αποσταθεροποίησης του ΠΑΟΚ»",
-          "url": "https://www.gazzetta.gr/football/superleague/2562945/koybentidis-organomeni-prospatheia-apostatheropoiisis-toy-paok",
-          "snippet": "Ο διευθυντής Επικοινωνίας της ΠΑΕ ΠΑΟΚ, Γιώργος Κουβεντίδης, πήρε θέση για όσα έχουν γραφτεί και αναπαραχθεί τις τελευταίες ημέρες στα social media, κάνοντας λόγο για οργανωμένη προσπάθεια δημιουργίας εσωστρέφειας και αποσταθεροποίησης γύρω από την ομάδα.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Πάνω από 9 εκατ. δολάρια καλούνται να πληρώσουν οι New York Times: Η πρώτη μεγάλη δικαστική ήττα εδώ και δεκαετίες",
-          "url": "https://www.gazzetta.gr/plus/2562943/pano-apo-9-ekat-dolaria-kaloyntai-na-plirosoyn-oi-new-york-times-i-proti-megali",
-          "snippet": "Πάνω από 9 εκατ. δολάρια καλούνται να καταβάλουν οι New York Times στον πρώην παίκτη της Αλαμπάμα, Κάι Σπίαρς, μετά τη δικαστική του νίκη σε υπόθεση δυσφήμησης για λανθασμένο δημοσίευμα σχετικά με φονική επίθεση.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Κλέι Τόμπσον: Τέλος από τους Μάβερικς!",
-          "url": "https://www.gazzetta.gr/basketball/nba/2562947/klei-tompson-telos-apo-toys-maberiks",
-          "snippet": "Ο Κλέι Τόμπσον αποτέλεσε παρελθόν από τους Ντάλας Μάβερικς και θα αναζητήσει αλλού τον επόμενο σταθμό της καριέρας του.",
-          "source": "Gazzetta"
-        },
-        {
-          "title": "Παναθηναϊκός: Ο Σισέ χαρακτήρισε ως διάδοχό του τον Τεττέη!",
-          "url": "https://www.gazzetta.gr/football/superleague/2562942/panathinaikos-o-sise-haraktirise-os-diadoho-toy-ton-tettei",
-          "snippet": "Ο εμβληματικός επιθετικός του Παναθηναϊκού, Τζιμπρίλ Σισέ, με story του στο Instagram χαρακτήρισε τον Ανδρέα Τεττέη ως διάδοχο του.",
           "source": "Gazzetta"
         }
       ]
