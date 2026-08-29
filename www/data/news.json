@@ -1,0 +1,35 @@
+{
+  "updated": "2026-08-21T10:54:22.919127+00:00",
+  "sections": [
+    {
+      "id": "greek",
+      "title": "Greek News",
+      "lead": null,
+      "items": []
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "lead": null,
+      "items": []
+    },
+    {
+      "id": "tech",
+      "title": "Tech & AI",
+      "lead": null,
+      "items": []
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "lead": null,
+      "items": []
+    },
+    {
+      "id": "art-science",
+      "title": "Art / Science",
+      "lead": null,
+      "items": []
+    }
+  ]
+}

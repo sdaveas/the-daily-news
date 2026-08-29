@@ -1,0 +1,72 @@
+{
+  "sections": [
+    {
+      "id": "greek",
+      "title": "Greek News",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://www.efsyn.gr/feed/",
+          "source": "EfSyn"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "World",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+          "source": "NYT World"
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Tech & AI",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://techcrunch.com/feed/",
+          "source": "TechCrunch"
+        }
+      ]
+    },
+    {
+      "id": "sports",
+      "title": "Sports",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://gazzetta.gr/rss",
+          "source": "Gazzetta"
+        },
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+          "source": "NYT Sports"
+        }
+      ]
+    },
+    {
+      "id": "art-science",
+      "title": "Art / Science",
+      "enabled": true,
+      "lead": true,
+      "feeds": [
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Arts.xml",
+          "source": "NYT Arts"
+        },
+        {
+          "url": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+          "source": "NYT Science"
+        }
+      ]
+    }
+  ]
+}
